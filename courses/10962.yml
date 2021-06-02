@@ -8,8 +8,6 @@ courseNumber: '10962-C'
 hoursToComplete: 72
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Create advanced functions.
-- skill: Use Microsoft .NET Framework and REST API in Windows PowerShell.
 - skill: Write controller scripts.
 - skill: Handle script errors.
 - skill: Use XML, JSON, and custom formatted data.

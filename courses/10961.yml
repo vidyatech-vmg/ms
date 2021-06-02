@@ -38,9 +38,6 @@ summary: |-
   This course is intended for IT Professionals who are already experienced in general Windows Server and Windows Client administration, and who want to learn more about using Windows PowerShell for administration. No prior experience with any version of Windows PowerShell, or any scripting language, is assumed. This course is also suitable for IT Professionals already experienced in server administration, including Exchange Server, SharePoint Server, SQL Server, System Center, and others.
 prerequisitesSection: |-
   - Experience with Windows networking technologies and implementation.
-  - Experience with Windows Server administration, maintenance, and troubleshooting.
-  - Experience with Windows Client administration, maintenance, and troubleshooting
-  - Students who attend this training can meet the prerequisites by obtaining equivalent knowledge and skills through practical experience as a Windows system administrator. No prerequisite courses are required.
 outlineSection: |-
   ### Module 1&#58; Getting started with Windows PowerShell
   This module will introduce you to Windows PowerShell and provide an overview of the product's functionality. The module shows you how to open and configure the shell for use and how to run commands within the shell. The module also introduces the built-in Help system in Windows PowerShell.
