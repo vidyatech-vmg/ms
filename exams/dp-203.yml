@@ -1,16 +1,14 @@
 ### YamlMime:Examination
-title: Data Engineering on Microsoft Azure (beta)
+title: Data Engineering on Microsoft Azure
 metadata:
-  title: 'Exam DP-203: Data Engineering on Microsoft Azure (beta)'
-  description: 'Exam DP-203: Data Engineering on Microsoft Azure (beta)'
+  title: 'Exam DP-203: Data Engineering on Microsoft Azure'
+  description: 'Exam DP-203: Data Engineering on Microsoft Azure'
 uid: exam.dp-203
 displayName: DP-203
 summary: |-
   Azure Data Engineers integrate, transform, and consolidate data from various structured and unstructured data systems into structures that are suitable for building analytics solutions.
   
   Candidates for Exam DP-203: Data Engineering on Microsoft Azure must have solid knowledge of data processing languages, such as SQL, Python, or Scala, and they need to understand parallel processing and data architecture patterns.
-  
-  <div><br/><font color='red'><strong>Beta exams are not scored immediately because we are gathering data on the quality of the questions and the exam. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">Learn more about the value and importance of beta exams.</a></strong></font></div>
 subTitle: 'This exam measures your ability to accomplish the following technical tasks: design and implement data storage; design and develop data processing; design and implement data security; and monitor and optimize data storage and data processing.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MbYT
@@ -33,6 +31,8 @@ products:
 - azure-event-hubs
 - azure-data-lake
 - azure-databricks
+courses:
+- uid: course.dp-203t00
 paths:
 - uid: learn.data-ai.azure-for-the-data-engineer
 - uid: learn.store-data-in-azure
@@ -53,10 +53,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWxODZ
 - title: Training and certification guide
   description: Explore all certifications in a concise training and certifications guide.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certification poster
   description: Check out an overview of fundamentals, role-based and specialty certifications.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: See two great offers to help boost your odds of success.
   href: ../deals.md

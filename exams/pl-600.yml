@@ -12,7 +12,7 @@ summary: |-
   
   Solution architects have experience across functional and technical disciplines of the Power Platform. Solution architects should be able to facilitate design decisions across development, configuration, integration, infrastructure, security, availability, storage, and change management. This role balances a project's business needs while meeting functional and non-functional requirements.
   
-  <div><br/><font color='red'><strong>Beta exams are not scored immediately because we are gathering data on the quality of the questions and the exam. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">Learn more about the value and importance of beta exams.</a></strong></font></div>
+  <div><br/><font color='red'><strong>Beta exams are not scored immediately because we are gathering data on the quality of the questions and the exam. <a href="/learn/certifications/beta-exams">Learn more about the value and importance of beta exams.</a></strong></font></div>
 subTitle: 'This exam measures your ability to accomplish the following technical tasks: perform solution envisioning and requirement analyses; architect a solution; and implement the solution.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4M56D
@@ -45,13 +45,16 @@ products:
 - azure-api-apps
 - azure-app-configuration
 - azure-app-service
+paths:
+- uid: learn-dynamics.become-solution-architect
+- uid: learn-bizapps.solution-architect-design
 relatedCertifications:
 - related:
     uid: certification.power-platform-solution-architect-expert
 resources:
 - title: Training and certification guide
   description: Explore all certifications in a concise training and certifications guide.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certification poster
   description: Check out an overview including fundamentals, role-based and specialty certifications for Dynamics 365 and Power Platform.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
