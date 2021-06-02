@@ -1,16 +1,14 @@
 ### YamlMime:Examination
-title: 'Microsoft Security Operations Analyst (beta)'
+title: 'Microsoft Security Operations Analyst'
 metadata:
-  title: 'Exam SC-200: Microsoft Security Operations Analyst (beta)'
-  description: 'Exam SC-200: Microsoft Security Operations Analyst (beta)'
+  title: 'Exam SC-200: Microsoft Security Operations Analyst'
+  description: 'Exam SC-200: Microsoft Security Operations Analyst'
 uid: exam.sc-200
 displayName: SC-200
 summary: |-
   The Microsoft Security Operations Analyst collaborates with organizational stakeholders to secure information technology systems for the organization. Their goal is to reduce organizational risk by rapidly remediating active attacks in the environment, advising on improvements to threat protection practices, and referring violations of organizational policies to appropriate stakeholders.
   
   Responsibilities include threat management, monitoring, and response by using a variety of security solutions across their environment. The role primarily investigates, responds to, and hunts for threats using Microsoft Azure Sentinel, Azure Defender, Microsoft 365 Defender, and third-party security products. Since the Security Operations Analyst consumes the operational output of these tools, they are also a critical stakeholder in the configuration and deployment of these technologies.
-  
-  <div><br/><font color='red'><strong>Beta exams are not scored immediately because we are gathering data on the quality of the questions and the exam. Learn more <a href="/learn/certifications/certification-exams#participating-in-beta-exams">about the value and importance of beta exams</a>.</strong></font><br/><br/></div>
 subTitle: 'This exam measures your ability to accomplish the following technical tasks: mitigate threats using Microsoft 365 Defender; mitigate threats using Azure Defender; and mitigate threats using Azure Sentinel.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp3
@@ -47,10 +45,10 @@ relatedCertifications:
 resources:
 - title: Training and certification guide
   description: Explore all certifications in a concise training and certifications guide.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certification poster
   description: Check out an overview including fundamentals, role-based and specialty certifications for Dynamics 365 and Power Platform.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: See two great offers to help boost your odds of success.
   href: ../deals.md

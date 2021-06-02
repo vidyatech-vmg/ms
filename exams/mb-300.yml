@@ -7,7 +7,7 @@ uid: exam.mb-300
 displayName: MB-300
 summary: |-
   <div>
-  <div><strong>The content of this exam was updated on October 16, 2020. Please download the skills measured document below to see what changed.</strong><br/><br/></div>
+  <div><font color='red'><strong>The content of this exam was updated on October 16, 2020. Please download the skills measured document below to see what changed.</strong></font><br/><br/></div>
   </div>
   
   Candidates for this exam analyze business requirements and translate those requirements into fully realized business processes and solutions that implement industry best practices. Candidates serve as a key resource in implementing and configuring applications to meet business requirements.
@@ -42,6 +42,7 @@ exams:
 - uid: exam.mb-310
 - uid: exam.mb-320
 - uid: exam.mb-330
+- uid: exam.mb-340
 courses:
 - uid: course.mb-300t00
 paths:
@@ -52,16 +53,16 @@ paths:
 - uid: learn-dynamics.configure-analytics-reporting-finance-operations
 relatedCertifications:
 - related:
-    uid: certification.d365-functional-consultant-financials
-- related:
     uid: certification.d365-functional-consultant-manufacturing
+- related:
+    uid: certification.d365-functional-consultant-commerce
 resources:
 - title: Training and certification guide
   description: Explore all certifications in a concise training and certifications guide.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certification poster
   description: Check out an overview of fundamentals, role-based and specialty certifications.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: See two great offers to help boost your odds of success.
   href: ../deals.md

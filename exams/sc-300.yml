@@ -1,16 +1,14 @@
 ### YamlMime:Examination
-title: 'Microsoft Identity and Access Administrator (Security exam beta)'
+title: 'Microsoft Identity and Access Administrator'
 metadata:
-  title: 'Exam SC-300: Microsoft Identity and Access Administrator (Security exam beta)'
-  description: 'Exam SC-300: Microsoft Identity and Access Administrator (Security exam beta)'
+  title: 'Exam SC-300: Microsoft Identity and Access Administrator'
+  description: 'Exam SC-300: Microsoft Identity and Access Administrator'
 uid: exam.sc-300
 displayName: SC-300
 summary: |-
   The Microsoft Identity and Access Administrator designs, implements, and operates an organization’s identity and access management systems by using Azure Active Directory (Azure AD). They manage tasks such as providing secure authentication and authorization access to enterprise applications. The administrator provides seamless experiences and self-service management capabilities for all users. Adaptive access and governance are core elements to the role. This role is also responsible for troubleshooting, monitoring, and reporting for the identity and access environment.
   
   The Identity and Access Administrator may be a single individual or a member of a larger team. This role collaborates with many other roles in the organization to drive strategic identity projects to modernize identity solutions, to implement hybrid identity solutions, and to implement identity governance.
-  
-  <div><br/><font color='red'><strong>Beta exams are not scored immediately because we are gathering data on the quality of the questions and the exam. Learn more <a href="/learn/certifications/certification-exams#participating-in-beta-exams">about the value and importance of beta exams</a>.</strong></font><br/><br/></div>
 subTitle: 'This exam measures your ability to accomplish the following technical tasks: implement an identity management solution; implement an authentication and access management solution; implement access management for apps; and plan and implement an identity governance strategy.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp5
@@ -46,10 +44,10 @@ relatedCertifications:
 resources:
 - title: Training and certification guide
   description: Explore all certifications in a concise training and certifications guide.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certification poster
   description: Check out an overview including fundamentals, role-based and specialty certifications for Dynamics 365 and Power Platform.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: See two great offers to help boost your odds of success.
   href: ../deals.md

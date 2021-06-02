@@ -1,16 +1,14 @@
 ### YamlMime:Examination
-title: Microsoft Dynamics 365 Fundamentals Customer Engagement Apps (CRM) (beta)
+title: Microsoft Dynamics 365 Fundamentals (CRM)
 metadata:
-  title: 'Exam MB-910: Microsoft Dynamics 365 Fundamentals Customer Engagement Apps (CRM) (beta)'
-  description: 'Exam MB-910: Microsoft Dynamics 365 Fundamentals Customer Engagement Apps (CRM) (beta)'
+  title: 'Exam MB-910: Microsoft Dynamics 365 Fundamentals (CRM)'
+  description: 'Exam MB-910: Microsoft Dynamics 365 Fundamentals (CRM)'
 uid: exam.mb-910
 displayName: MB-910
 summary: |-
-  This exam covers the features and capabilities of Microsoft Dynamics 365 customer engagement apps.
+  This exam covers the features and capabilities of Microsoft Dynamics 365.
   
   Candidates for this exam should have general knowledge of or relevant working experience in an Information Technology (IT) environment. They should also have a fundamental understanding of customer engagement principles and business operations.
-  
-  <div><br/><font color='red'><strong>Beta exams are not scored immediately because we are gathering data on the quality of the questions and the exam. <a href="/learn/certifications/beta-exams">Learn more about the value and importance of beta exams</a>.</strong></font></div>
 subTitle: 'This exam measures your ability to describe the following: Dynamics 365 Marketing; Dynamics 365 Sales; Dynamics 365 Customer Service; Dynamics 365 Field Service; Project Operations; and shared features.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4JIev
@@ -51,7 +49,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAs3I
 - title: Training and certification guide
   description: Explore all certifications in a concise training and certifications guide.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certification poster
   description: Check out an overview of fundamentals, role-based and specialty certifications.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL

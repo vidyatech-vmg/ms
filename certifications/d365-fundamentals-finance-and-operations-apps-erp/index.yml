@@ -1,7 +1,7 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Dynamics 365 Fundamentals Finance and Operations Apps (ERP)'
+title: 'Microsoft Certified: Dynamics 365 Fundamentals (ERP)'
 metadata:
-  title: 'Microsoft Certified: Dynamics 365 Fundamentals Finance and Operations Apps (ERP)'
+  title: 'Microsoft Certified: Dynamics 365 Fundamentals (ERP)'
   description: 'If you have a broad exposure to the enterprise resource planning (ERP) capabilities of Dynamics 365 and understand the fundamentals of how finance and operations apps fit in within the overall Microsoft ecosystem—this certification is for you.'
 uid: certification.d365-fundamentals-finance-and-operations-apps-erp
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
@@ -15,7 +15,7 @@ summary: |-
   - Technical professionals and business decision makers who are exploring how Dynamics 365 functionality can integrate with apps they’re using
   - Business stakeholders and others who use Dynamics 365 and want to demonstrate that they understand the fundamentals of the platform
   - Developers who want to show a deeper understanding of business operations, finance, and ERP
-  - Students, recent graduates, and people changing careers who want to leverage Dynamics 365 finance and operations apps to move to the next level
+  - Students, recent graduates, and people changing careers who want to make the most of Dynamics 365 finance and operations apps to move to the next level
 subTitle: 'If you have a broad exposure to the enterprise resource planning (ERP) capabilities of Dynamics 365 and understand the fundamentals of how finance and operations apps fit in within the overall Microsoft ecosystem—this certification is for you.'
 levels:
 - beginner
@@ -35,6 +35,8 @@ type: fundamentals
 products: 
 - dynamics-365
 - dynamics-finance-operations
+courses:
+- uid: course.mb-920t00
 paths:
 - uid: learn.wwl.explore-microsoft-dynamics-365-supply-chain-management
 - uid: learn.wwl.explore-microsoft-dynamics-365-finance
@@ -53,7 +55,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAWQX
 - title: Training and certification guide
   description: Explore all certifications in a concise training and certifications guide.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certification learning path
   description: Recommended training resources to help you prepare for required exams and earn your certification.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAFfQ
@@ -66,3 +68,6 @@ resources:
 - title: Support for certifications
   description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
   href: ../help.md
+- title: Share your certification badges
+  description: Celebrate your accomplishment with your network. Claim your Microsoft Certification badge, and add it to LinkedIn, your résumé, and more.
+  href: ../badges.md

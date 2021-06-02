@@ -12,7 +12,7 @@ summary: |-
   
   Candidates for this exam must have expert Azure administration skills.
   
-  <div><br/><font color='red'><strong>Beta exams are not scored immediately because we are gathering data on the quality of the questions and the exam. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">Learn more about the value and importance of beta exams.</a></strong></font></div>
+  <div><br/><font color='red'><strong>Beta exams are not scored immediately because we are gathering data on the quality of the questions and the exam. <a href="/learn/certifications/beta-exams">Learn more about the value and importance of beta exams.</a></strong></font></div>
 subTitle: 'This exam measures your ability to accomplish the following technical tasks: plan a Windows Virtual Desktop architecture; implement a Windows Virtual Desktop infrastructure; manage access and security; manage user environments and apps; and monitor and maintain a Windows Virtual Desktop infrastructure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MFST
@@ -58,10 +58,10 @@ relatedCertifications:
 resources:
 - title: Training and certification guide
   description: Explore all certifications in a concise training and certifications guide.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certification poster
   description: Check out an overview of fundamentals, role-based and specialty certifications.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: See two great offers to help boost your odds of success.
   href: ../deals.md
