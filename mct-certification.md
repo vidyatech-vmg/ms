@@ -1,6 +1,6 @@
 ---
-title: 'Microsoft Certified Trainer | Microsoft Docs'
-description: 'Microsoft Certified Trainer' 
+title: 'Microsoft Certified Trainerstre | Microsoft Docs'
+description: 'Microsoft Certified Trainerstre' 
 documentationcenter: NA 
 author: micsullivan
 ms.topic: article
