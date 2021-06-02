@@ -10,7 +10,413 @@ summary: |-
   
   Candidates for this exam should have experience in Azure technologies, including virtualization, networking, identity, storage, backups, resilience, and disaster recovery. They should understand on-premises virtual desktop infrastructure technologies as they relate to migrating to Windows Virtual Desktop. These professionals use the Azure portal and Azure Resource Manager (ARM) templates to accomplish many of their tasks. They might use PowerShell and Azure Command-Line Interface (CLI) for more efficient automation.
   
-  Candidates for this exam must have expert Azure administration skills.
+  ### Module 1&#58; SharePoint Framework Overview
+  This module explains the development options we have in SharePoint. It gives an overview of the toolchain of SharePoint Framework and how it fits into the SharePoint development story.
+  #### Lessons
+  - What is SharePoint Framework
+  - Why SharePoint Framework?
+  - Modern toolchain
+  - The Future
+
+  After completing this module, students will be able to&#58;
+  - Understand the development models in SharePoint
+  - Understand why SharePoint Framework was introduced
+  - Know what the toolchain consist of and what the role of every tool is
+
+
+  ### Module 2&#58; Preparing your machine for the SharePoint Framework
+  This module explains how to prepare your machine for SharePoint Framework development. Configuring your SharePoint environment for development and deployment is also discussed.
+  #### Lessons
+  - Setup Office 365
+  - Software Installation
+
+
+  #### Lab &#58; Preparing your machine for the SharePoint Framework
+  - Set up an Office 365 developer tenant
+  - Set up your development machine
+
+  After completing this module, students will be able to&#58;
+  - Set up a machine for developing with the SharePoint Framework
+
+
+  ### Module 3&#58; Node.js Modules
+  This module explains how a node.js project is structured, explains the role of the different components contained within and how to scaffold a project from scratch. It illustrates the different kind of modules you have and how to work with them; i.e. installing, versioning, locking down, caching…
+  #### Lessons
+  - Modules
+  - Creating a Project
+  - Using Modules
+  - CommonJS
+  - Important Modules
+
+  After completing this module, students will be able to&#58;
+  - Setup a node.js project using npm
+  - Install the right modules for their node.js project
+  - Loading and caching modules in a node.js project
+
+
+  ### Module 4&#58; SharePoint Framework Client Web Parts
+  This module explains how to use the Yeoman generator to create a SharePoint Framework project. It will illustrate the structure of a SharePoint Framework project. This module introduces client-side web parts and how  to make basic changes to it. It also introduces the local and online Workbench, where your web parts can be tested.
+  #### Lessons
+  - Framework Client Web Parts
+  - What is a Client Web Part?
+  - Creating a project
+  - Exploring Project Contents
+  - Running Your Project
+  - Gulp tasks
+  - Web Part Configuration
+
+
+  #### Lab &#58; Create a SharePoint Framework Web Part
+  - Create a SharePoint client-side solution
+  - Take a look at the generated project
+  - Modify the properties and the property pane
+  - Modify the web part
+  - Test on SharePoint
+
+  After completing this module, students will be able to&#58;
+  - Use Yeoman to scaffold a SharePoint Framework project
+  - Understand the different components inside a SharePoint Framework project and what their role is
+  - Create client-side web parts and make changes to it
+  - Run their client-side web parts on the local and online workbench
+  - Understand and use the Gulp tasks
+
+
+  ### Module 5&#58; JavaScript Introduction
+  This module explains about the origins of JavaScript and introduces the student to what JavaScript is.
+  #### Lessons
+  - What is JavaScript
+  - What is ECMAScript
+  - Using libraries to extend JavaScript functionality
+  - Debugging JavaScript with the browser debugger
+
+  After completing this module, students will be able to&#58;
+  - Understand where JavaScript is loaded and run
+  - Use the browser debugger to debug JavaScript code
+
+
+  ### Module 6&#58; JavaScript Language
+  This module explains how to write basic JavaScript. It describes how to create and use variables and the types that are available in JavaScript. Also, it explains about objects in Javascript, including some out-of-the-box objects like Date, Array, Math, etc. The module shows how to write functions and explains about the scopes they create. Prototypes are also introduced. Error handling is the last part of this module.
+  #### Lessons
+  - Variables, Objects, Arrays and Functions
+  - JavaScript Scopes and Closures
+  - Function Parameters
+  - Function Constructors
+  - Prototypes
+  - Error handling
+
+
+  #### Lab &#58; JavaScript Basics
+  - Read a number input from a user and compare it with a random value
+  - Write a function to test the elements of an array
+  - Write a function that transforms the casing of a string
+  - Write a rock-paper-scissors game using JavaScript objects
+  - Solve a JavaScript scope problem
+
+  After completing this module, students will be able to&#58;
+  - Write basic JavaScript
+  - Create variables and objects in JavaScript
+  - Write JavaScript functions
+  - Understand JavaScript scopes
+  - Understand and extend JavaScript prototypes
+  - Handle JavaScript errors
+
+
+  ### Module 7&#58; JavaScript Patterns
+  This module explains how to use some of the most popular patterns in JavaScript.
+  #### Lessons
+  - Callback Pattern
+  - Options hashing
+  - Self-invoking functions
+  - Class Pattern
+  - Module Pattern
+  - The self reference
+
+  After completing this module, students will be able to&#58;
+  - Use callbacks
+  - User option hashing
+  - Write a self-invoking function
+  - Use the Class and Module patterns
+  - Understand the self reference
+
+
+  ### Module 8&#58; TypeScript
+  This module explains how Typescript solves many of the problems discussed in the previous modules. TypeScript adds type annotations and code compilation to your development process so that you write better code. TypeScript is used by default in all SharePoint Framework generated projects. This module will discuss the TypeScript language and how it can help you in building your enterprise scale applications.
+  #### Lessons
+  - What is TypeScript
+  - Using TypeScript in your project
+  - Variables
+  - Functions
+  - Interfaces and Classes
+  - Modules and Namespaces
+
+
+  #### Lab &#58; Creating a toy store with TypeScript
+  - Creating the model classes
+  - Providing dummy data
+  - Creating the shopping cart
+  - Using an external library
+
+  After completing this module, students will be able to&#58;
+  - Use TypeScript as a typed superset of JavaScript
+  - Configure the TypeScript compiler tsc to convert the TypeScript to JavaScript
+  - Work with interfaces, classes, generics, lambda’s, … in TypeScript
+  - Debug the TypeScript code
+  - Create TypeScript modules that can be shared and reused
+
+
+  ### Module 9&#58; Client Web Part Properties
+  This module explains how to modify the property pane of your web part. It explains how to configure and use your own properties. It discusses how to dynamically load property pane options, create custom property controls, validate property values.
+  #### Lessons
+  - Client Web Part Properties
+  - Webpart Properties
+  - Adding Properties
+  - Using Properties
+  - Preconfigured Entries
+  - Dynamic Data
+  - Custom Properties
+  - Advanced Configuration
+
+  After completing this module, students will be able to&#58;
+  - Customize the web part property pane with additional properties, groups and pages
+  - Synchronously and asynchronously load property options into the property pane
+  - Build custom controls to be used inside the property pane
+  - Provide property validation
+
+
+  ### Module 10&#58; Loading Frameworks and Libraries
+  This module explains how to load additional libraries inside your SharePoint Framework project from different sources.
+  #### Lessons
+  - Loading Libraries and/or Frameworks
+  - Considerations
+  - NPM Package
+  - Loading from a URL
+  - Loading A Local Copy
+  - Loading jQuery and plugins
+  - Component loader
+
+  After completing this module, students will be able to&#58;
+  - Load additional libraries in their SharePoint Framework project using either npm, a url, local copy or the component loader.
+
+
+  ### Module 11&#58; SASS
+  This module explains how to apply styling to your web components by writing maintainable and simpler CSS by means of Sass.
+  #### Lessons
+  - What is SASS?
+  - The Language
+  - Variables
+  - Types
+  - Comments
+  - Nested Rules and Properties
+  - Partials
+  - Extend
+  - Mixins
+  - Functions
+
+
+  #### Lab &#58; Sass in a SharePoint Framework project
+  - Optimizing the SCSS file
+  - Nesting and extending
+  - Working with mixins
+  - Observing the generated CSS
+
+  After completing this module, students will be able to&#58;
+  - Write Sass code to style their html components with
+  - Compile the scss files to css
+
+
+  ### Module 12&#58; Loading SharePoint Data in a client web part
+  This module explains how to load data in your SharePoint Framework components using the utility classes. The module discusses the SharePoint REST API and how to consume it. Consume your own API and handling cross-origin issues.
+  #### Lessons
+  - Loading SharePoint data
+  - Page Context
+  - Web Services Overview
+  - REST and ODATA Fundamentals
+  - SharePoint REST API's
+  - AJAX
+  - Framework HttpClient
+  - Solving cross domain issues with CORS
+
+
+  #### Lab &#58; Loading SharePoint data in a client-side web part
+  - Configuring the web part properties
+  - Loading SharePoint lists with a DataService and MockService
+  - Testing in the local/online workbench
+  - Loading items for the selected list
+
+  After completing this module, students will be able to&#58;
+  - Load/manipulate data from SharePoint by using the SPHttpClient and the SharePoint REST APIs
+  - Consuming your own webservice by using the HttpClient
+
+
+  ### Module 13&#58; Build and deploy your SharePoint Framework project
+  This module explains how to build your SharePoint Framework project for deployment. It discusses the different deployment options you have.
+  #### Lessons
+  - Build and Deploy a Framework solution
+  - Overview
+  - Building
+  - Deployment
+
+
+  #### Lab &#58; Deploying a SharePoint Framework client web part
+  - Create a deployment location
+  - Generate the web part asset files
+  - Generate the package
+  - Using the web part
+
+  After completing this module, students will be able to&#58;
+  - Configure and use the build and deployment options with Gulp
+  - Use the App catalog site to deploy the package
+  - Distinguish between global and local deployment
+  - Select the right deployment option for the source files
+
+
+  ### Module 14&#58; React
+  This module will cover the basics of the JavaScript framework React. It discusses how the React component system works, and how to use it inside your SharePoint Framework projects.
+  #### Lessons
+  - What is React JS
+  - Model View ViewModel (MVVM)
+  - React Components
+  - What is JSX
+  - Html Tags vs React Components
+  - Creating Components
+  - JavaScript Expressions
+  - JSX Gotchas
+  - Relationship with State Machines
+  - Handling Component State
+  - Adding Interactivity by means of events
+  - Using Multiple Components
+  - Transferring props between components
+  - The Lifecycle of a Component
+  - Alternative Syntax
+  - SharePoint Framework and React
+
+
+  #### Lab &#58; Building React components to view the members and permissions in your site
+  - Modifying the site permissions web part
+  - Creating the main component
+  - Create the data service layer
+  - Visualizing the data inside your component
+  - Creating the component to view the Group Members
+
+  After completing this module, students will be able to&#58;
+  - Create SharePoint Framework solutions using React
+  - Work with properties and state inside React components
+  - Provide interactivity between components by means of events
+  - Generate HTML tags programmatically or with JSX
+
+
+  ### Module 15&#58; Framework and Office-UI-Fabric
+  This module explains how to use and apply the styles, components, … of the Office UI Fabric inside your SharePoint Framework projects.
+  #### Lessons
+  - What Is Office UI Fabric?
+  - Office UI Fabric Versions
+  - Fabric Core Styles
+  - Example Uses
+  - Fabric Components
+  - Fabric JS
+  - ngOfficeUIFabric
+  - Fabric React
+
+
+  #### Lab &#58; Using Office UI Fabric React Components
+  - Create a SharePoint Framework web part for facility management
+  - Improve the appearance with Office UI Fabric
+
+  After completing this module, students will be able to&#58;
+  - Style their html or React components with Office UI Fabric
+
+
+  ### Module 16&#58; Deploying SharePoint Artifacts
+  This module explains how you can use your SharePoint Framework solutions to provision SharePoint artifacts, like fields, content types, lists, … to your SharePoint site.
+  #### Lessons
+  - Deploying SharePoint Artifacts
+  - Deployment Options
+  - Asset Types
+  - Features
+
+  After completing this module, students will be able to&#58;
+  - Deploy artifacts to a SharePoint site using a SharePoint Framework solution
+
+
+  ### Module 17&#58; Microsoft Graph
+  This module explains how to consume the Microsoft Graph from within your SharePoint Framework solutions.
+  #### Lessons
+  - Introduction to Microsoft Graph
+  - Authentication Providers
+  - Microsoft Graph API
+  - Development
+
+  After completing this module, students will be able to&#58;
+  - Decide between Azure AD or Azure AD v2.0
+  - Register their applications for authentication and authorization
+  - Set up implicit oAuth flow, which is needed for JavaScript
+  - Choose the appropriate authentication library
+  - Authenticate using ADAL.js
+  - Authenticate using MSAL
+  - Understand and consume the Graph API
+  - Use the GraphClient helper inside their SharePoint Framework projects
+
+
+  ### Module 18&#58; SharePoint Framework Extensions
+  This module explains how to build UI extension for your SharePoint site by means of extensions. It will discuss altering the header/footer of a site with application customizers, creating field customizers to change the rendering of a field and how to use command sets to provide your own command bar buttons.
+  #### Lessons
+  - SharePoint Framework Extensions
+  - Extensions Overview
+  - Creating Extensions
+  - Application Customizers
+  - Field Customizers
+  - Command Sets
+
+
+  #### Lab &#58; Using the new Microsoft Graph client from within an application extension
+  - Create the extension project
+  - Retrieving data from the Microsoft Graph using the GraphHttpClient
+  - Render the data inside your component
+
+  After completing this module, students will be able to&#58;
+  - Use Yeoman to scaffold a SharePoint Framework project for extensions
+  - Create application extensions, field customizers, command sets
+  - Run their extensions online, but debug them locally
+
+
+  ### Module 19&#58; Webpack
+  This module explains how to use and configure Webpack to bundle all the generated code with.
+  #### Lessons
+  - What is Webpack
+  - Entries and Outputs
+  - Using Loaders
+  - The need for Plugins
+
+  After completing this module, students will be able to&#58;
+  - Configure Webpack to bundle their SharePoint Framework solution
+  - Understand the benefits and drawbacks of Webpack
+  - Create loaders for other file types besides JavaScript
+  - Use the appropriate plugins when needed
+
+
+  ### Module 20&#58; Gulp
+  This module explains the role and the use of the task runner Gulp inside your SharePoint Framework projects. It will discuss the existing tasks that have been added by default to your project as well as how you can quickly add new tasks.
+  #### Lessons
+  - Installing Gulp as a node module
+  - Gulp primitives
+  - Gulp by example
+
+  After completing this module, students will be able to&#58;
+  - Understand the existing Gulp tasks in your SharePoint Framework project
+  - Create basic custom Gulp tasks for compiling, minifying, serving, … your code
+
+
+  ### Module 21&#58; Unit testing web parts
+  This module explains how to use the included testing frameworks in your SharePoint Framework project to unit test your web parts and components.
+  #### Lessons
+  - Included test frameworks
+  - Running tests
+  - Component testing
+
+  After completing this module, students will be able to&#58;
+  - Use the included testing frameworks for testing their SharePoint Framework projects
+  - Use Gulp to run the created tests
+  - Use enzyme to test React components
   
   <div><br/><font color='red'><strong>Beta exams are not scored immediately because we are gathering data on the quality of the questions and the exam. <a href="/learn/certifications/beta-exams">Learn more about the value and importance of beta exams.</a></strong></font></div>
 subTitle: 'This exam measures your ability to accomplish the following technical tasks: plan a Windows Virtual Desktop architecture; implement a Windows Virtual Desktop infrastructure; manage access and security; manage user environments and apps; and monitor and maintain a Windows Virtual Desktop infrastructure.'
