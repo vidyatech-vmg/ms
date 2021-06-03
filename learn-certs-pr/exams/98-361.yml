@@ -1,0 +1,63 @@
+### YamlMime:Examination
+title: Software Development Fundamentals
+metadata:
+  title: 'Exam 98-361: Software Development Fundamentals'
+  description: 'Exam 98-361: Software Development Fundamentals'
+uid: exam.98-361
+displayName: 98-361
+summary: |-
+  Candidates for this exam are seeking to prove core software development skills. It is recommended that candidates be familiar with the concepts of and have hands-on experience with the technologies described here either by taking relevant training courses or by working with tutorials and samples available on MSDN and in Microsoft Visual Studio. Candidates are expected to have some experience with C# or Microsoft Visual Basic .NET.
+subTitle: Candidates for this exam are seeking to prove core software development skills. It is recommended that candidates be familiar with the concepts of and have hands-on experience with the technologies described here either by taking relevant training courses or by working with tutorials and samples available on MSDN and in Microsoft Visual Studio. Candidates are expected to have some experience with C# or Microsoft Visual Basic .NET.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tfIO
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?action=1&locale=en-us&examcode=98-361&examname=Software%20Development%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-361
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
+locales:
+- en
+- zh-cn
+- zh-tw
+- fr
+- de
+- it
+- ja
+- ko
+- pt-br
+- ru
+- es
+- es-mx
+levels: 
+- beginner
+skills:
+- Understanding core programming (15-20%)
+- Understanding object-oriented programming (20-25%)
+- Understanding general software development (15-20%)
+- Understanding web applications (15-20%)
+- Understanding desktop applications (15-20%)
+- Understanding databases (15-20%)
+roles:
+- developer
+products:
+- dotnet
+courses:
+- uid: course.40361
+- uid: course.40035
+- uid: course.40034
+relatedCertifications:
+- related:
+    uid: certification.mta-software-development-fundamentals
+resources:
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: ../certification-exam-policies.md

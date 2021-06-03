@@ -1,0 +1,51 @@
+### YamlMime:Examination
+title: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub
+metadata:
+  title: 'Exam 70-537: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub'
+  description: 'Exam 70-537: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub'
+uid: exam.70-537
+displayName: 70-537
+summary: |-
+  <div><strong>This exam retired on January 31, 2021. A replacement exam, <a href='/learn/certifications/exams/AZ-600'>AZ-600</a>, is available.<br/><br/></strong></div>
+  
+  Candidates for this exam are Azure administrators and Azure Stack Hub operators who use Azure Stack Hub to provide cloud services to their end users or customers from within their own data center.
+
+  Candidates for this exam should have significant experience managing and operating Azure Stack Hub environments. Candidates should have a strong understanding of Azure as well as some knowledge of virtualization, networking, and identity management. Candidates should also understand how Azure Stack Hub enables DevOps processes and the hybrid development model.
+
+  Candidates for this exam are expected to demonstrate the ability to plan, deploy, package, update, and maintain the Azure Stack Hub infrastructure. Candidates must also demonstrate the ability to offer hybrid cloud resources and requested services, and to manage infrastructure as a service (IaaS) and platform as a service (PaaS).
+  
+  <div><strong><br/>On January 14, 2020, this exam was updated. To learn more about these changes and how they affect the skills measured, please download and review the exam 70-537 change document.</strong></div>
+subTitle: Candidates for this exam are Azure administrators and Azure Stack Hub operators who use Azure Stack Hub to provide cloud services to their end users or customers from within their own data center.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tfKQ
+locales:
+- en
+levels:
+- advanced
+skills:
+- Deploying and Integrating an Azure Stack Hub Environment (20-25%)
+- Configuring PaaS and IaaS for an Azure Stack Hub Environment (25-30%)
+- Providing Services to and Enabling DevOps for Azure Stack Hub Users (25-30%)
+- Maintaining and Monitoring an Azure Stack Hub Environment (20-25%)
+roles:
+- administrator
+products:
+- azure
+courses:
+- uid: course.20537
+relatedCertifications:
+- related:
+    uid: certification.mcse-core-infrastructure
+resources:
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: ../certification-exam-policies.md

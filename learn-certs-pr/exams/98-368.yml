@@ -1,0 +1,64 @@
+### YamlMime:Examination
+title: Mobility and Devices Fundamentals
+metadata:
+  title: 'Exam 98-368: Mobility and Devices Fundamentals'
+  description: 'Exam 98-368: Mobility and Devices Fundamentals'
+uid: exam.98-368
+displayName: 98-368
+summary: |-
+  Candidates for this exam have fundamental knowledge of Windows devices and mobility. Candidates should have some hands-on experience with Windows devices, Windows-based networking, Active Directory, antimalware products, firewalls, network topologies and devices, and network ports.
+  
+  <div><strong><br/>There are exam updates effective as of January 31, 2018. To learn more about these changes and how they affect the skills measured, please download and review the Exam 98-368 change document.</strong></div>
+subTitle: Candidates for this exam have fundamental knowledge of Windows devices and mobility. Candidates should have some hands-on experience with Windows devices, Windows-based networking, Active Directory, antimalware products, firewalls, network topologies and devices, and network ports.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiy9
+practiceTestUrl: https://www.mindhub.com/MTA-98-368-Mobility-and-Devices-Fundamentals-p/mu-98-368_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?action=1&locale=en-us&examcode=98-368&examname=Mobility%20and%20Devices%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-368
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
+locales:
+- en
+- zh-cn
+- zh-tw
+- fr
+- de
+- it
+- ja
+- ko
+- pt-br
+- ru
+- es
+- es-mx
+- tr
+levels: 
+- beginner
+skills:
+- Understand device configurations (20-25%)
+- Understand data access and management (20-25%)
+- Understand device security (20-25%)
+- Understand cloud services (20-25%)
+- Understand enterprise mobility (20-25%)
+roles:
+- administrator
+products:
+- windows
+courses:
+- uid: course.40368
+relatedCertifications:
+- related:
+    uid: certification.mta-mobility-and-device-fundamentals
+resources:
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: ../certification-exam-policies.md

@@ -1,0 +1,73 @@
+### YamlMime:Examination
+title: Microsoft Azure Administrator Certification Transition
+metadata:
+  title: 'Exam AZ-102: Microsoft Azure Administrator Certification Transition'
+  description: 'Exam AZ-102: Microsoft Azure Administrator Certification Transition'
+uid: exam.az-102
+displayName: AZ-102
+summary: |-
+  <div>
+  <div><strong>THIS EXAM WAS RETIRED JUNE 30, 2019. Note&#58; Exams retire at 11:59 PM Central Standard Time</strong><br/><br/></div>
+  </div>
+  
+  This exam is intended only for those candidates who have taken [Exam 70-533](https://www.microsoft.com/learning/exam-70-533.aspx)&#58; Implementing Microsoft Azure Infrastructure Solutions. If you have not taken Exam 533, you will not earn a certification by taking this exam.
+
+  The transition exam is intended for people who have already demonstrated skills in the content domain by passing the existing exam(s) that the new role-based certification exams will be replacing. They cover the delta between the current certification and what we expect people who earn the new certification to be able to do. We don’t want to retest people on the same content where they have already demonstrated competence by passing the existing exam.
+
+  Transition exams cover net new content, content that wasn’t covered in enough depth, and content on aspects of the technology that have likely changed since someone took the exam. As a result, the transition exam is not shorter than a typical exam but more focused on the key tasks and skills that were not assessed in the existing exam or certification that is being replaced.
+
+  Candidates for this exam are Azure Administrators who manage cloud services that span storage, security, networking, and compute cloud capabilities. Candidates have a deep understanding of each service across the full IT lifecycle, and take requests for infrastructure services, applications, and environments. They make recommendations on services to use for optimal performance and scale, as well as provision, size, monitor, and adjust resources as appropriate.
+
+  Candidates for this exam should have proficiency in using PowerShell and the Command Line Interface. Candidates should have a basic familiarity or knowledge of Azure Portal, ARM templates, operating systems, virtualization, cloud infrastructure, storage structures, and networking.
+subTitle: 'This exam is intended only for candidates who have taken Exam 70-533: Implementing Microsoft Azure Infrastructure Solutions. If you have not taken Exam 533, you will not earn a certification by taking this exam.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VzwA
+practiceTestUrl: https://www.mindhub.com/product-p/mu-az-102_p.htm?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/
+locales:
+- en
+- ja
+levels:
+- intermediate
+skills:
+- 'Manage Azure subscriptions and resources (5-10%)'
+- 'Implement and manage storage (5-10%)'
+- 'Configure and manage virtual networks (15-20%)'
+- 'Manage identities (15-20%)'
+- 'Evaluate and perform server migration to Azure (15-20%)'
+- 'Implement and manage application services (5-10%)'
+- 'Implement advanced virtual networking (5-10%)'
+- 'Secure identities (5-10%)'
+retirementDate: 06/30/2019
+roles:
+- administrator
+products:
+- azure
+exams:
+- uid: exam.az-100
+- uid: exam.az-101
+relatedCertifications:
+- related:
+    uid: certification.azure-administrator
+resources:
+- title: Certification Learning Path
+  description: 'Discover training resources to become a Microsoft Certified: Azure Administrator Associate.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtY7Z
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Certification poster
+  description: Check out an overview of fundamentals, role-based and specialty certifications.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Support for certification exams
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: ../help.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review the exam policies and frequently asked questions.
+  href: ../certification-exam-policies.md

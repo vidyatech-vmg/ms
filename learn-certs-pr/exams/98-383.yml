@@ -1,0 +1,58 @@
+### YamlMime:Examination
+title: Introduction to Programming Using HTML and CSS
+metadata:
+  title: 'Exam 98-383: Introduction to Programming Using HTML and CSS'
+  description: 'Exam 98-383: Introduction to Programming Using HTML and CSS'
+uid: exam.98-383
+displayName: 98-383
+summary: |-
+  Candidates for this exam should be able to recognize and write syntactically correct HTML and CSS, structure data using HTML elements, and create and apply styles using CSS.
+
+  Candidates are expected to have at least 100 hours of instruction or hands-on experience with HTML and CSS, be familiar with their features and capabilities, and understand how to write, debug, and maintain well-formed HTML and CSS code.
+subTitle: Candidates for this exam should be able to recognize and write syntactically correct HTML and CSS, structure data using HTML elements, and create and apply styles using CSS.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tkyQ
+practiceTestUrl: https://www.mindhub.com/mta-98-383-introduction-to-programming-using-html-and-css-microsoft-official-practice-test/p/MU-98-383?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?action=1&locale=en-us&examcode=98-383&examname=Introduction%20to%20Programming%20Using%20HTML%20and%20CSS&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-383
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
+locales:
+- en
+- ja
+- zh-tw
+- zh-cn
+- es
+- pt-br
+- fr
+- de
+- ko
+levels: 
+- beginner
+skills:
+- Understand HTML Fundamentals (10-15%)
+- Understand CSS Fundamentals (15-20%)
+- Structure Documents Using HTML (30-35%)
+- Present Multimedia Using HTML (10-15%)
+- Style Web Pages Using CSS (20-25%)
+roles:
+- developer
+products:
+- vs
+relatedCertifications:
+- related:
+    uid: certification.mta-introduction-to-programming-using-html-and-css
+resources:
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: ../certification-exam-policies.md

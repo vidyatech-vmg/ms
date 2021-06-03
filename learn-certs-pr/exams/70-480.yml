@@ -1,0 +1,64 @@
+### YamlMime:Examination
+title: Programming in HTML5 with JavaScript and CSS3
+metadata:
+  title: 'Exam 70-480: Programming in HTML5 with JavaScript and CSS3'
+  description: 'Exam 70-480: Programming in HTML5 with JavaScript and CSS3'
+uid: exam.70-480
+displayName: 70-480
+summary: |
+  <div><strong>This exam retired on January 31, 2021. For currently available options, please refer to the <a href='/learn/certifications/browse/?resource_type=examination'>Browse Certifications and Exams page</a>.<br/><br/></strong></div>
+  
+  Candidates for this exam are developers with at least one year of experience developing with HTML in an object-based, event-driven programming model, and programming essential business logic for a variety of application types, hardware, and software platforms using JavaScript.
+
+  Candidates should also have a thorough understanding of the following&#58;
+  - Managing program flow and events
+  - Asynchronous programming
+  - Data validation and working with data collections including JQuery
+  - Handling errors and exceptions
+  - Arrays and collections
+  - Working with variables, operators, and expressions
+  - Working with prototypes and methods
+  - Decision and iteration statements
+  
+  <div><strong><br/>Note&#58; There are exam updates effective as of December 14, 2017. To learn more about these changes and how they affect the skills measured, please download and review the Exam 480 change document.</strong></div>
+subTitle: Candidates for this exam are developers with at least one year of experience developing with HTML in an object-based, event-driven programming model, and programming essential business logic for a variety of application types, hardware, and software platforms using JavaScript.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnKv
+practiceTestUrl: https://www.mindhub.com/Programming-in-HTML5-with-JavaScript-and-CSS3-p/mu-70-480_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+locales:
+- en
+- zh-cn
+- zh-tw
+- fr
+- de
+- ja
+- pt-br
+levels:
+- intermediate
+skills:
+- Implement and Manipulate Document Structures and Objects (20-25%)
+- Implement Program Flow (25-30%)
+- Access and Secure Data (25-30%)
+- Use CSS3 in Applications (25-30%)
+roles:
+- developer
+products:
+- azure
+courses:
+- uid: course.20480
+relatedCertifications:
+- related:
+    uid: certification.mcsa-web-applications-certification
+resources:
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: ../certification-exam-policies.md

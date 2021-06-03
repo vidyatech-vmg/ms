@@ -1,0 +1,56 @@
+### YamlMime:Examination
+title: Microsoft Word 2013 Expert Part Two
+metadata:
+  title: 'Exam 77-426: Microsoft Word 2013 Expert Part Two'
+  description: 'Exam 77-426: Microsoft Word 2013 Expert Part Two'
+uid: exam.77-426
+displayName: 77-426
+summary: |-
+  This exam is designed for expert-level candidates who have an advanced understanding of the Word environment and have the ability to guide others in the proper use of features in Word 2013. They should know and demonstrate the use of advanced and specialized features within the application. Candidates should be able to create, manage, and distribute professional documents for a variety of specialized purposes and situations and should be able to customize their Word environments to meet needs and enhance productivity. Document examples include business plans, legal documents, advertising brochures, and mass mailings. Candidate roles might include editors, project managers, instructors, graduate students, technical writers, and others.
+subTitle: This exam is designed for expert-level candidates who have an advanced understanding of the Microsoft Word environment and have the ability to guide others in the proper use of features in Word 2013.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tfIV
+scheduleExamUrl: https://www.certiport.com/locator
+locales:
+- en
+- zh-cn
+- zh-tw
+- de
+- es
+- fr
+- it
+- ja
+- ko
+- nl
+- pt-br
+- ru
+- ar-sa
+levels: 
+- beginner
+skills:
+- Manage and share documents (25-30%)
+- Design advanced documents (25-30%)
+- Create advanced references (25-30%)
+- Create custom Word elements (20-25%)
+roles:
+- business-user
+products:
+- office-word
+relatedCertifications:
+- related:
+    uid: certification.mos-word-2013-expert
+- related:
+    uid: certification.microsoft-office-specialist-master-certification-2013
+resources:
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: ../certification-exam-policies.md

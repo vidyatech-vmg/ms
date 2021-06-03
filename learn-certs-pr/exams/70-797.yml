@@ -1,0 +1,55 @@
+### YamlMime:Examination
+title: Configuring Windows Devices (pilot)
+metadata:
+  title: 'Exam 70-797: Configuring Windows Devices (pilot)'
+  description: 'Exam 70-797: Configuring Windows Devices (pilot)'
+uid: exam.70-797
+displayName: 70-797
+summary: |-
+  This exam validates a candidate’s fundamental knowledge and skills for building solid identities, protection of content (data loss protection), mobile device management policy, virtualization with Hyper-V, application management using the Company Portal and the Windows Store. Candidates will be evaluated on Windows 10 security and integrated Azure features.
+
+  In addition to their professional experience, candidates who take this exam should already have the following technical knowledge&#58;
+
+  - Experience with Windows desktop administration, maintenance, and troubleshooting
+  - Basic experience and understanding of Windows networking technologies
+  - Introductory-level knowledge of Active Directory and Microsoft Intune
+
+  Candidates can take this exam and meet the prerequisites by obtaining equivalent knowledge and skills through practical experience as a Windows device support technician or a Windows device system administrator.
+subTitle: This exam validates a candidate’s fundamental knowledge and skills for building solid identities, protection of content (data loss protection), mobile device management policy, virtualization with Hyper-V, application management using the Company Portal and the Windows Store. Candidates will be evaluated on Windows 10 security and integrated Azure features.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjT
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=en-us&examcode=797&examname=Configuring%20Windows%20Devices&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-797
+locales:
+- en
+levels: 
+- beginner
+skills:
+- Manage identity (13%)
+- Plan desktop and device deployment (13%)
+- Plan and implement a Microsoft Intune device management solution (11%)
+- Configure networking (11%)
+- Configure storage (10%)
+- Manage data access and protection (11%)
+- Manage remote access (10%)
+- Manage apps (11%)
+- Manage updates and recovery (10%)
+roles:
+- administrator
+products:
+- windows
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: ../certification-exam-policies.md
