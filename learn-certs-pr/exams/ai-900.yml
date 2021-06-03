@@ -6,14 +6,14 @@ metadata:
 uid: exam.ai-900
 displayName: AI-900
 summary: |-
-  <div><strong>The content of this exam was updated on January 27, 2021. Please download the skills measured document below to see what changed.</strong><br/><br/></div>
+  <div><font color='red'><strong>The content of this exam was updated on April 23, 2021. Please download the skills measured document below to see what changed.</strong></font><br/><br/></div>
   
   Candidates for this exam should have foundational knowledge of machine learning (ML) and artificial intelligence (AI) concepts and related Microsoft Azure services.
   
-  This exam is an opportunity to demonstrate knowledge of common ML and AI workloads and how to implement them on Azure.  
+  This exam is an opportunity to demonstrate knowledge of common ML and AI workloads and how to implement them on Azure.
   
-  This exam is intended for candidates with both technical and non-technical backgrounds. Data science and software engineering experience are not required; however, some general programming knowledge or experience would be beneficial.  
-
+  This exam is intended for candidates with both technical and non-technical backgrounds. Data science and software engineering experience are not required; however, some general programming knowledge or experience would be beneficial.
+  
   Azure AI Fundamentals can be used to prepare for other Azure role-based certifications like Azure Data Scientist Associate or Azure AI Engineer Associate, but it’s not a prerequisite for any of them.
 subTitle: 'Prove that you can describe the following: AI workloads and considerations; fundamental principles of machine learning on Azure; features of computer vision workloads on Azure; features of Natural Language Processing (NLP) workloads on Azure; and features of conversational AI workloads on Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -37,7 +37,7 @@ locales:
 levels:
 - beginner
 skills:
-- The content of this exam was updated on January 27, 2021. Please download the exam skills outline below to see what changed.
+- The content of this exam was updated on April 23, 2021. Please download the exam skills outline below to see what changed.
 - Describe AI workloads and considerations (15-20%)
 - Describe fundamental principles of machine learning on Azure (30-35%)
 - Describe features of computer vision workloads on Azure (15-20%)
@@ -81,10 +81,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ARlg
 - title: Training and certification guide
   description: Explore all certifications in a concise training and certifications guide.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certification poster
   description: Check out an overview of fundamentals, role-based and specialty certifications.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: See two great offers to help boost your odds of success.
   href: ../deals.md

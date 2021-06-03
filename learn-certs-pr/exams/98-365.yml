@@ -6,6 +6,8 @@ metadata:
 uid: exam.98-365
 displayName: 98-365
 summary: |-
+  <div><font color='red'><strong>This MTA exam must be purchased by June 30, 2021. If you are currently studying for this exam, it must be taken within one year, by June 30, 2022, at which point it will be retired. Refer to <a href="/learn/certifications/mta-retirement-faqs">the FAQ</a> for more details.</strong></font></br></br></div>
+  
   Candidates for this exam are familiar with the concepts and the technologies of Windows Server administration. Candidates should have some hands-on experience with Windows Server, Windows-based networking, Active Directory, account management, and system recovery tools and concepts.
   
   <div><strong><br/>There are exam updates effective as of January 31, 2018. To learn more about these changes and how they affect the skills measured, please download and review the Exam 98-365 change document.</strong></div>
@@ -39,6 +41,7 @@ skills:
 - Understanding storage (10–15%)
 - Understanding server performance management (10–15%)
 - Understanding server maintenance (15–20%)
+retirementDate: 06/30/2022
 roles:
 - administrator
 products:

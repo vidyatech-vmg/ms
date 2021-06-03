@@ -51,18 +51,18 @@ To help you prepare and ensure you’re able to register and take your Microsoft
 	2. [Run a system check](https://syscheck.bridge.psiexams.com/) on the same computer and in the same location you will test from.
 2. Make sure you have a Microsoft account
 	1. If you already have a Microsoft Certification or have taken a Microsoft Certification exam, use the same Microsoft account.  
-	2. If you need a Microsoft account, [create one](https://account.microsoft.com/account/manage-my-account).
+	2. If you need a Microsoft account, [create one.](https://account.microsoft.com/account/manage-my-account)
 3. If you do not have a Microsoft Certification profile, you will be prompted to create one when you schedule your exam. <br/>**Important:** When creating your certification profile, make sure your name matches exactly with the government-issued identification you will be using when you take your exam. The proctor will compare the name on your ID with the name in your certification profile as one part of the identify verification process. Learn more about [identify verification requirements](/learn/certifications/online-exams-psi#identity-verification-requirements).
 
-If you need help, please visit the [Microsoft Certification Support Forum](https://aka.ms/mcpforum). To reach a customer support agent, click *Ask a question* at the top of the page and fill out the form. A support agent should respond within 1 business day.
+If you need help, please visit the [Microsoft Certification Support Forum.](https://aka.ms/mcpforum) To reach a customer support agent, click *Ask a question* at the top of the page and fill out the form. A support agent should respond within 1 business day.
 
 ## FAQ
 
-For common questions and answers about online exams with PSI, see [FAQ on the About online exams with PSI page](/learn/certifications/online-exams-psi#frequently-asked-questions). For general questions and answers about the skills initiative, see [Skills Initiative FAQ](https://aka.ms/JobSeekerFAQ).
+For common questions and answers about online exams with PSI, see [FAQ on the About online exams with PSI page](/learn/certifications/online-exams-psi#frequently-asked-questions). For general questions and answers about the skills initiative, see [Skills Initiative FAQ.](https://aka.ms/JobSeekerFAQ)
 
 ## <a name="terms-conditions"></a> Terms and conditions
 
-- This exam offer is available to job seekers who can attest that they have been unemployed or furloughed due to COVID-19.
+- This exam offer is available to job seekers who can attest that they have been unemployed or furloughed due to COVID-19 and students actively enrolled in a high school, college, university or other professional technical training program.
 - You must be 18 or older to access and use this exam offer.
 - This exam offer is available for a limited number of eligible individuals and exam appointments.
 - This exam offer entitles you to register for and appear for one (1) valid Microsoft Certification exam at a special limited time discounted price of USD15. Offer expires December 31, 2021.
@@ -78,4 +78,4 @@ For common questions and answers about online exams with PSI, see [FAQ on the Ab
 
 *&#42;Exams must be scheduled 24 hours ahead. Therefore if you would like to take an exam on the last day of the offer, December 31, 2021, you must schedule by December 30, 2021.*
 
-For additional information, please see the full [Microsoft Terms of Use](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx).
+For additional information, please see the full [Microsoft Terms of Use.](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx)

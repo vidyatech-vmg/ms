@@ -30,7 +30,7 @@ With the Credly platform you can:
 - Learn which employers are looking for individuals with your skills.
 - Discover the salary you can expect in jobs that require your Microsoft skills.
 - Search for new job opportunities associated with your certification and apply in just a few clicks.
-- Explore labor market insights and job opportunities. Watch the video: [Credly: Labor market insights](https://vimeo.com/379867308) to see how easy it is to quickly discover opportunities in your market.
+- Explore labor market insights and job opportunities. Watch the video: [Labor Market Insights](https://support.credly.com/hc/en-us/articles/360041974091-Video-What-labor-market-insights-are-available-with-my-badge) to see how easy it is to quickly discover opportunities in your market.
 
 To learn more, see our blog post [Unlock Active Job Postings with Your Microsoft Certification](/learn/certifications/posts/unlock-active-job-postings-with-your-microsoft-certification).
 
@@ -49,7 +49,7 @@ _*Please note this link will take you to Credly, a third party whose privacy pra
 
 ## How to automatically accept badges from Credly
 
-In Credly’s Acclaim platform, adjust your account settings to automatically accept badges issued to you. Watch this step-by-step process in the Acclaim video “[How to manage your badge.](https://www.youtube.com/watch?v=rMeSQM0h1_Y)” Note that while the video shows badge email notifications coming from Acclaim, your email notifications will come from Microsoft.
+From the Credly platform, adjust your account settings to automatically accept badges issued to you. Watch this step-by-step process in the Credly video “[How do I manage and share my digital badge?](https://support.credly.com/hc/en-us/articles/360021222231-How-do-I-manage-and-share-my-digital-badge-)” Note that while the video shows badge email notifications coming from Credly, your email notifications will come from Microsoft.
 
 ## How to share your badge
 
@@ -67,7 +67,7 @@ After you claim your Microsoft Certification badge, to share it and your certifi
 We issue badges for all active exams and certifications in the Microsoft Certification program with the following exceptions:
 
 - In cases where passing one exam results in a certification, a badge is issued for the certification rather than the exam.
-- Badges are not available for some of our legacy exams and certifications. If you do not see a badge for a legacy exam or certification in your Acclaim profile, we did not issue one for that exam or certification.
+- Badges are not available for some of our legacy exams and certifications. If you do not see a badge for a legacy exam or certification in your Credly profile, we did not issue one for that exam or certification.
 
 If you earned a badge for an exam or certification that has been retired, you can still claim your badge via Credly’s platform.
 
@@ -79,7 +79,7 @@ No. This is a free service that Microsoft provides.
 
 **How is my credential displayed as a Microsoft badge?**
 
-Credly’s platform uses the Open Badges standards defined by Mozilla to translate your credential into a digital image associated with metadata uniquely connected to you. This standard allows you to easily share your digital badge online in a way that can be verified by employers and others who are interested in your skills.
+Credly’s platform uses the Open Badges standards defined by IMS Global to translate your credential into a digital image associated with metadata uniquely connected to you. This standard allows you to easily share your digital badge online in a way that can be verified by employers and others who are interested in your skills.
 
 **My newer badge looks different from the ones I’ve earned previously. What changed?**
 
@@ -93,7 +93,7 @@ You are in control of how and when your badge is made public. You can adjust the
 
 Visit: [Certification support](/learn/certifications/help).
 
-If you have any questions about the Credly platform or about how to claim your badge, contact [Credly’s support.](https://support.youracclaim.com/)
+If you have any questions about the Credly platform or about how to claim your badge, reference resources in the [Credly Help Center](https://support.credly.com/hc/en-us) or [submit a help request.](https://support.credly.com/hc/en-us/requests/new)
 
 **What if I earned a Microsoft badge through Certiport but have not yet received my badge?**
 

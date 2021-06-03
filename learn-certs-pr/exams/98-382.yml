@@ -6,6 +6,8 @@ metadata:
 uid: exam.98-382
 displayName: 98-382
 summary: |-
+  <div><font color='red'><strong>This MTA exam must be purchased by June 30, 2021. If you are currently studying for this exam, it must be taken within one year, by June 30, 2022, at which point it will be retired. Refer to <a href="/learn/certifications/mta-retirement-faqs">the FAQ</a> for more details.</strong></font></br></br></div>
+  
   Candidates for this exam should be able to recognize and write syntactically correct JavaScript code, use data types supported by JavaScript, and be able to recognize and write JavaScript code that will logically solve a given problem.
 
   Candidates are expected to have at least 100 hours of instruction or hands-on experience with the JavaScript programming language. Candidates should also be familiar with JavaScript features and capabilities, and understand how to write, debug, and maintain well-formed, well documented JavaScript code.
@@ -36,6 +38,7 @@ skills:
 - Implement and Analyze Decisions and Loops (20-25%)
 - Interact with the Document Object Model (15-20%)
 - Interact with HTML Forms (5-10%)
+retirementDate: 06/30/2022
 roles:
 - developer
 products:

@@ -6,6 +6,8 @@ metadata:
 uid: exam.98-381
 displayName: 98-381
 summary: |-
+  <div><font color='red'><strong>This MTA exam must be purchased by June 30, 2021. If you are currently studying for this exam, it must be taken within one year, by June 30, 2022, at which point it will be retired. Refer to <a href="/learn/certifications/mta-retirement-faqs">the FAQ</a> for more details.</strong></font></br></br></div>
+  
   Candidates for this exam should be able to recognize and write syntactically correct Python code, recognize data types supported by Python, and be able to recognize and write Python code that will logically solve a given problem.
 
   Candidates are expected to have had, at a minimum, instruction and/or hands-on experience of approximately 100 hours with the Python programming language, be familiar with its features and capabilities, and understand how to write, debug, and maintain well-formed, well documented Python code.
@@ -37,12 +39,11 @@ skills:
 - Document and Structure Code (15-20%)
 - Perform Troubleshooting and Error Handling (5-10%)
 - Perform Operations Using Modules and Tools (1-5%)
+retirementDate: 06/30/2022
 roles:
 - developer
 products:
 - vs
-courses:
-- uid: course.55264
 relatedCertifications:
 - related:
     uid: certification.mta-introduction-to-programming-using-python

@@ -59,7 +59,7 @@ The first set of renewal assessments that will be made available are listed here
 
 ## How to renew your certification
 
-- To identify which certifications are available for you to renew, visit your [Certification Dashboard](https://aka.ms/CertDashboard).
+- To identify which certifications are available for you to renew, visit your [Certification Dashboard.](https://aka.ms/CertDashboard)
 - Ensure your certification profile is connected to your Docs profile on Microsoft Learn.
 - As soon as you’re eligible to renew, you will receive an email notification directing you to the assessment that will be available on Microsoft Learn.
 - When you pass the online assessment, your certification will be extended by one additional year from the current expiration date.
@@ -67,7 +67,7 @@ The first set of renewal assessments that will be made available are listed here
 
 ## Changes to certification expiration policy
 
-On December 15, 2020 we [announced a change in certification expiration policy](https://aka.ms/CertRenewalBlog). Starting in June 2021, any [role-based](/learn/certifications/browse/?type=role-based) or [specialty certification](/learn/certifications/browse/?type=specialty) earned will be valid for one year from the date you earned it. Any role-based and specialty certifications earned before June 2021 will remain valid for two years from the date you earned it.
+On December 15, 2020 we [announced a change in certification expiration policy.](https://aka.ms/CertRenewalBlog) Starting Wednesday, June, 30 2021 @12am GMT (June, 29 2021 @5pm PT), any [role-based](/learn/certifications/browse/?type=role-based) or [specialty certification](/learn/certifications/browse/?type=specialty) earned will be valid for one year from the date you earned it. Any role-based and specialty certifications earned before June 2021 will remain valid for two years from the date you earned it.
 
 ## Frequently Asked Questions
 
@@ -81,7 +81,7 @@ For more information, check out frequently asked questions about renewing Micros
 
     Yes, connecting your certification profile enables you to take the renewal assessment on Microsoft Learn when you’re within the eligibility window. You’ll also have a more personalized experience.
 
-    For optimal experience, we recommend using the same account credentials for both your certification profile and Docs profile on Microsoft Learn. Please note that only one certification profile can be connected to one Docs profile, and it cannot be changed later. So, if you have multiple certification profiles, please [contact our certification support team](https://aka.ms/mcpforum) to merge your Microsoft Certification profiles before connecting to your Docs profile.
+    As part of the renewal process, you will be required to use the same personal Microsoft account credentials for both your certification profile and Doc profile on Microsoft Learn. Please note that only one certification profile can be connected to one Docs profile. If you have multiple certification profiles, please [contact our certification support team](https://aka.ms/mcpforum) to merge your Microsoft Certification profiles before connecting to your Docs profile.
 
 3. **What’s the difference between my Microsoft Certification profile and Docs profile on Microsoft Learn?**
 
@@ -89,38 +89,42 @@ For more information, check out frequently asked questions about renewing Micros
 
     Your Docs profile on Microsoft Learn includes activity history across Microsoft Learn, Docs, Q&A, and code samples. You access it using either a personal Microsoft account or a work or school account.
 
-4. **My certification expired. What happens now?**
+4. **I have a Microsoft Certification profile and a Docs profile on Learn, each associated with different personal accounts. How do I connect these two profiles?**
+
+    Before you can connect a Microsoft Certification profile and Docs on Learn profile that each use different personal accounts, you will need to choose a single personal account to use for both. To review your options for connecting these accounts, please see the document “[Aligning accounts between Certification Profile and Learn Profile](/learn/certifications/aligning-accounts-between-certification-profile-and-learn-profile)”.
+
+5. **My certification expired. What happens now?**
 
     If your certification expires, you must earn the certification again by passing the required exam(s).
 
-5. **Can I renew my certification by passing a beta exam or by retaking an exam before my certification expires?**
+6. **Can I renew my certification by passing a beta exam or by retaking an exam before my certification expires?**
 
     No. To renew your certification, you need to pass the renewal assessment before your certification expires.
 
-6. **Do all Microsoft Certifications have the option to renew?**
+7. **Do all Microsoft Certifications have the option to renew?**
 
     Microsoft role-based and specialty certifications that have been available for more than six months will have the renewal option.
 
-7. **Do I need to renew my Microsoft fundamentals certification?**
+8. **Do I need to renew my Microsoft fundamentals certification?**
 
     No. The certification renewal process does not apply to fundamentals certifications since they do not expire.
 
-8. **Are the renewal assessments aligned to the regular exam update cadence?**
+9. **Are the renewal assessments aligned to the regular exam update cadence?**
 
     Yes, updates to the assessments are aligned with certification exam updates.
 
-9. **Which languages are assessments available in?**
+10. **Which languages are assessments available in?**
 
     Renewal assessments on Microsoft Learn will be available in the same language(s) as their corresponding certification exams.
 
-10. **How many times can I retake the assessment?**
+11. **How many times can I retake the assessment?**
 
     You may retake the assessment as many times as you need to take it to pass, and you must pass before your certification expires. If you do not pass the first time, you may immediately attempt the assessment again. However, after the second try, you must wait at least 24 hours before any additional attempts.
 
-11. **If I renew my expert level role-based certification and it includes an associate-level pre-requisite certification, does my associate-level certification also automatically renew?**
+12. **If I renew my expert level role-based certification and it includes an associate-level pre-requisite certification, does my associate-level certification also automatically renew?**
 
     No. Each certification must be renewed separately by passing the associated assessment.
 
-12. **My expert-level certification requires achieving an associate-level certification as a pre-requisite. If the associate-level certification expires, will my expert level automatically expire too?**
+13. **My expert-level certification requires achieving an associate-level certification as a pre-requisite. If the associate-level certification expires, will my expert level automatically expire too?**
 
     No, your expert-level certification will not automatically expire if your associate-level pre-requisite certification expires. Each certification must be renewed separately by passing the associated assessment.

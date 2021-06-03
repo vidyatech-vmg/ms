@@ -6,20 +6,17 @@ metadata:
 uid: exam.az-204
 displayName: AZ-204
 summary: |-
-  <div><div><strong>The content of this exam was updated on May 18, 2020. Please download the skills measured document below to see what changed.</strong><br/><br/></div>
+  <div><div><strong>The content of this exam was updated on March 26, 2021. Please download the skills measured document below to see what changed.</strong><br/><br/></div>
   </div>
   
   Candidates for this exam should have subject matter expertise designing, building, testing, and maintaining cloud applications and services on Microsoft Azure.
   
-  Responsibilities for an Azure Developer include participating in all phases of cloud development from requirements definition and design, to development, deployment, and maintenance. performance tuning, and monitoring.
-  <br/>
-  
-  Azure Developers partner with cloud solution architects, cloud DBAs, cloud administrators, and clients to implement solutions.
-  
-  A candidate for this exam should have 1-2 years professional development experience and experience with Microsoft Azure. In addition, the role should have ability programming in a language supported by Azure and proficiency in Azure SDKs, Azure PowerShell, Azure CLI, data storage options, data connections, APIs, app authentication and authorization, compute and container deployment, debugging, performance tuning, and monitoring.
+  A candidate for this certification should have 1-2 years professional development experience and experience with Microsoft Azure. In addition, the candidate for this role should have the ability to program in a language supported by Azure and proficiency in Azure SDKs, Azure PowerShell, Azure CLI, data storage options, data connections, APIs, app authentication and authorization, compute and container deployment, debugging, performance tuning, and monitoring.
   
   You may be eligible for ACE college credit if you pass this certification exam. See [ACE college credit for certification exams](/learn/certifications/ace-credit-for-certification-exams) for details.
-subTitle: 'This exam measures your ability to accomplish the following technical tasks: develop Azure compute solutions; develop for Azure storage; implement Azure security; monitor, troubleshoot, and optimize Azure solutions; and connect to and consume Azure services and third-party services.'
+subTitle: 'This exam measures your ability to accomplish the following technical tasks: develop Azure compute solutions; develop for Azure storage; implement Azure security; monitor, troubleshoot, and optimize Azure solutions; and connect to and consume Azure services and third-party services.
+
+  Test takers will be able to select the code language (C# or Python) that is included in the questions when they launch the exam if the exam is taken through Person VUE. However, this option is not available on exams taken through PSI. Those questions will contain C# code.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oZ7B
 locales:
@@ -35,12 +32,12 @@ providers:
 levels:
 - intermediate
 skills:
-- The content of this exam was updated on May 18, 2020. Please download the exam skills outline below to see what changed.
+- The content of this exam was updated on March 26, 2021. Please download the exam skills outline below to see what changed.
 - Develop Azure compute solutions (25-30%)
-- Develop for Azure storage (10-15%)
-- Implement Azure security (15-20%)
-- Monitor, troubleshoot, and optimize Azure solutions (10-15%)
-- Connect to and consume Azure services and third-party services (25-30%)
+- Develop for Azure storage (15-20%)
+- Implement Azure security (20-25%)
+- Monitor, troubleshoot, and optimize Azure solutions (15-20%)
+- Connect to and consume Azure services and third-party services (15-20%)
 roles:
 - developer
 products:
@@ -91,10 +88,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4woK5
 - title: Training and certification guide
   description: Explore all certifications in a concise training and certifications guide.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certification poster
   description: Check out an overview of fundamentals, role-based and specialty certifications.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: See two great offers to help boost your odds of success.
   href: ../deals.md

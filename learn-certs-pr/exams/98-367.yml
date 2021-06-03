@@ -6,6 +6,8 @@ metadata:
 uid: exam.98-367
 displayName: 98-367
 summary: |-
+  <div><font color='red'><strong>This MTA exam must be purchased by June 30, 2021. If you are currently studying for this exam, it must be taken within one year, by June 30, 2022, at which point it will be retired. Refer to <a href="/learn/certifications/mta-retirement-faqs">the FAQ</a> for more details.</strong></font></br></br></div>
+  
   This exam validates that a candidate has fundamental security knowledge and skills. It can serve as a stepping stone to the Microsoft Certified Solutions Associate (MCSA) exams. It is recommended that candidates become familiar with the concepts and the technologies described here by taking relevant training courses. Candidates are expected to have some hands-on experience with Windows Server, Windows-based networking, Active Directory, anti-malware products, firewalls, network topologies and devices, and network ports.
   
   <div><strong><br/>As of June 23, 2016, this exam includes updates for Windows 10, in addition to updates to security and threat terms. To learn more about these changes and how they affect the skills measured, please download and review the Exam 98-367 change document.</strong></div>
@@ -38,13 +40,11 @@ skills:
 - Understand operating system security (35-40%)
 - Understand network security (20-25%)
 - Understand security software (15-20%)
+retirementDate: 06/30/2022
 roles:
 - administrator
 products:
 - windows-server
-courses:
-- uid: course.40032
-- uid: course.40367
 relatedCertifications:
 - related:
     uid: certification.mta-security-fundamentals

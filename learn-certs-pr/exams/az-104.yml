@@ -5,8 +5,8 @@ metadata:
   description: 'Exam AZ-104: Microsoft Azure Administrator'
 uid: exam.az-104
 displayName: AZ-104
-summary: |-  
-  <div><strong>The content of this exam was updated on January 27, 2021. Please download the skills measured document below to see what changed.</strong><br/><br/></div>
+summary: |-
+  <div><font color='red'><strong>The content of this exam was updated on May 25, 2021. Please download the skills measured document below to see what changed.</strong></font><br/><br/></div>
   
   Candidates for this exam should have subject matter expertise implementing, managing, and monitoring an organization’s Microsoft Azure environment.
   
@@ -30,11 +30,11 @@ locales:
 levels:
 - intermediate
 skills:
-- The content of this exam was updated on January 27, 2021. Please download the exam skills outline below to see what changed.
+- The content of this exam was updated on May 25, 2021. Please download the exam skills outline below to see what changed.
 - Manage Azure identities and governance (15-20%)
-- Implement and manage storage (10-15%)
-- Deploy and manage Azure compute resources (25-30%)
-- Configure and manage virtual networking (30-35%)
+- Implement and manage storage (15-20%)
+- Deploy and manage Azure compute resources (20-25%)
+- Configure and manage virtual networking (25-30%)
 - Monitor and back up Azure resources (10-15%)
 roles:
 - administrator
@@ -59,10 +59,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AElC
 - title: Training and certification guide
   description: Explore all certifications in a concise training and certifications guide.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certification poster
   description: Check out an overview of fundamentals, role-based and specialty certifications.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: See two great offers to help boost your odds of success.
   href: ../deals.md

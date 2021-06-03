@@ -27,12 +27,11 @@ skills:
 - Configuring PaaS and IaaS for an Azure Stack Hub Environment (25-30%)
 - Providing Services to and Enabling DevOps for Azure Stack Hub Users (25-30%)
 - Maintaining and Monitoring an Azure Stack Hub Environment (20-25%)
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:
 - azure
-courses:
-- uid: course.20537
 relatedCertifications:
 - related:
     uid: certification.mcse-core-infrastructure

@@ -1,6 +1,6 @@
 ---
-title: Microsoft Retired Exam | Microsoft Docs
-description: Microsoft Retired Exam
+title: Exam retirement | Microsoft Docs
+description: Exam retirement
 documentationcenter: NA
 author: micsullivan
 ms.topic: article
@@ -10,9 +10,15 @@ ms.date: 07/30/2019
 ms.author: msulliv
 ms.prod: non-product-specific
 ---
-# Exams scheduled to retire
+# Exam retirement
 
-Find exams scheduled to be retired in the next 12 months, listed by technology. (The information that follows is subject to change.)
+## Why exams get retired
+
+Technology and associated job roles change faster every year. To keep our certification program relevant, we continually review our exams and certifications to ensure they reflect the latest skills and Microsoft technologies and retire those that are no longer relevant. Our goal is to empower candidates to be on the leading edge of tech, in high demand cloud-based job roles, and we do this by providing certifications for critical job roles that help organizations with their digital transformations. For more details on this, visit: [Updating Microsoft Certifications: How we keep them relevant – Microsoft Tech Community.](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/updating-microsoft-certifications-how-we-keep-them-relevant/ba-p/1469425)
+
+## Exams scheduled to retire
+
+Exams scheduled to be retired in the next 12 months are listed here by date. (This information is subject to change.)
 
 | Retiring on June 30, 2021 |
 | --- |
@@ -40,13 +46,13 @@ Find exams scheduled to be retired in the next 12 months, listed by technology. 
 
 ## Recently retired exams
 
-For reference purposes, exams that have retired within the last year will contain a link to their exam detail page for a period of 12 months.
+These exams have been retired within the last year. For reference purposes, we will continue to provide a link to these exam detail pages for 12 months. These exams can no longer be taken, but if a retired exam is one of the requirements for a certification that has not been retired, it can be used to fulfill the certification requirements for up to one year after it retires. 
 
 | Role-based| | |
 | --- | --- | --- |
-| [AZ-100](https://www.microsoft.com/learning/exam-AZ-100.aspx) | Microsoft Azure Infrastructure and Deployment | May 1, 2019
-| [AZ-101](https://www.microsoft.com/learning/exam-AZ-101.aspx) | Microsoft Azure Integration and Security | May 1, 2019
-| [AZ-102](https://www.microsoft.com/learning/exam-AZ-102.aspx) | Microsoft Azure Administrator Certification Transition | June 30, 2019
+| [AZ-100](/learn/certifications/exams/AZ-100) | Microsoft Azure Infrastructure and Deployment | May 1, 2019
+| [AZ-101](/learn/certifications/exams/AZ-101) | Microsoft Azure Integration and Security | May 1, 2019
+| [AZ-102](/learn/certifications/exams/AZ-102) | Microsoft Azure Administrator Certification Transition | June 30, 2019
 | [AZ-103](/learn/certifications/exams/AZ-103) | Microsoft Azure Administrator | August 31, 2020
 | AZ-200 | Microsoft Azure Developer Core Solutions (released September 24, 2018) | January 3, 2019
 | AZ-201 | Microsoft Azure Developer Advanced Solutions (released September 24, 2018) | January 3, 2019
@@ -54,13 +60,13 @@ For reference purposes, exams that have retired within the last year will contai
 | [AZ-203](/learn/certifications/exams/AZ-203) | Developing Solutions for Microsoft Azure | August 31, 2020
 | [AZ-300](/learn/certifications/exams/AZ-300) | Microsoft Azure Architect Technologies | September 30, 2020
 | [AZ-301](/learn/certifications/exams/AZ-301) | Microsoft Azure Architect Design | September 30, 2020
-| [AZ-302](https://www.microsoft.com/learning/exam-AZ-302.aspx) | Microsoft Azure Solutions Architect Certification Transition | June 30, 2019
+| [AZ-302](/learn/certifications/exams/AZ-302) | Microsoft Azure Solutions Architect Certification Transition | June 30, 2019
 | [MS-200](/learn/certifications/exams/ms-200) | Planning and Configuring a Messaging Platform | August 31, 2020
 | [MS-201](/learn/certifications/exams/ms-201) | Implementing a Hybrid and Secure Messaging Platform | August 31, 2020
-| [MS-202](https://www.microsoft.com/learning/exam-MS-202.aspx) | Microsoft 365 Messaging Administrator Certification Transition | September 30, 2019
+| [MS-202](/learn/certifications/exams/MS-202) | Microsoft 365 Messaging Administrator Certification Transition | September 30, 2019
 | [MS-300](/learn/certifications/exams/ms-300) | Deploying Microsoft 365 Teamwork | August 31, 2020
 | [MS-301](/learn/certifications/exams/ms-301) | Deploying SharePoint Server Hybrid | August 31, 2020
-| [MS-302](https://www.microsoft.com/learning/exam-MS-302.aspx) | Microsoft 365 Teamwork Administrator Certification Transition | September 30, 2019
+| [MS-302](/learn/certifications/exams/MS-302) | Microsoft 365 Teamwork Administrator Certification Transition | September 30, 2019
 
 <br/>
 
@@ -76,9 +82,9 @@ For reference purposes, exams that have retired within the last year will contai
 | 70-341 | Core Solutions of Microsoft Exchange Server 2013 | March 31, 2019
 | 70-342 | Advanced Solutions of Microsoft Exchange Server 2013 | March 31, 2019
 | [70-345](/learn/certifications/exams/70-345) | Designing and Deploying Microsoft Exchange Server 2016 | January 31, 2021
-| [70-346](https://www.microsoft.com/learning/exam-70-346.aspx) | Managing Office 365 Identities and Requirements | April 30, 2019
-| [70-347](https://www.microsoft.com/learning/exam-70-347.aspx) | Enabling Office 365 Services | April 30, 2019
-| [70-348](https://www.microsoft.com/learning/exam-70-348.aspx) | Managing Projects and Portfolios with Microsoft PPM | December 31, 2019
+| 70-346 | Managing Office 365 Identities and Requirements | April 30, 2019
+| 70-347 | Enabling Office 365 Services | April 30, 2019
+| 70-348 | Managing Projects and Portfolios with Microsoft PPM | December 31, 2019
 | [70-357](/learn/certifications/exams/70-357) | Developing Mobile Apps | January 31, 2021
 | 70-398 | Planning for and Managing Devices in the Enterprise | July 31, 2018
 | [70-410](/learn/certifications/exams/70-410) | Installing and Configuring Windows Server 2012 | January 31, 2021
@@ -94,8 +100,8 @@ For reference purposes, exams that have retired within the last year will contai
 | [70-465](/learn/certifications/exams/70-465) | Designing Database Solutions for Microsoft SQL Server | January 31, 2021
 | [70-466](/learn/certifications/exams/70-466) | Implementing Data Models and Reports with Microsoft SQL Server | January 31, 2021
 | [70-467](/learn/certifications/exams/70-467) | Designing Business Intelligence Solutions with Microsoft SQL Server | January 31, 2021
-| [70-473](https://www.microsoft.com/learning/exam-70-473.aspx) | Designing and Implementing Cloud Data Platform Solutions | June 30, 2019
-| [70-475](https://www.microsoft.com/learning/exam-70-475.aspx) | Designing and Implementing Big Data Analytics Solutions | June 30, 2019
+| 70-473 | Designing and Implementing Cloud Data Platform Solutions | June 30, 2019
+| 70-475 | Designing and Implementing Big Data Analytics Solutions | June 30, 2019
 | [70-480](/learn/certifications/exams/70-480) | Programming in HTML5 with JavaScript and CSS3 | January 31, 2021
 | [70-483](/learn/certifications/exams/70-483) | Programming in C# | January 31, 2021
 | [70-486](/learn/certifications/exams/70-486) | Developing ASP.NET MVC Web Applications | January 31, 2021
@@ -115,12 +121,12 @@ For reference purposes, exams that have retired within the last year will contai
 | 70-686 | Windows 7, Enterprise Desktop Administrator | July 31, 2018
 | 70-695 | Deploying Windows Desktops and Enterprise Applications | March 31, 2019
 | 70-696 | Administering System Center Configuration Manager and Intune | March 31, 2018
-| [70-697](https://www.microsoft.com/learning/exam-70-697.aspx) | Configuring Windows Devices | April 30, 2019
+| 70-697 | Configuring Windows Devices | April 30, 2019
 | 70-698 | Installing and Configuring Windows 10 | March 31, 2019
-| [70-703](https://www.microsoft.com/learning/exam-70-703.aspx) | Administering Microsoft System Center Configuration Manager and Cloud Services Integration | December 31, 2019
+| 70-703 | Administering Microsoft System Center Configuration Manager and Cloud Services Integration | December 31, 2019
 | [70-705](/learn/certifications/exams/70-705) | Designing and Providing Microsoft Licensing Solutions to Large Organizations | January 31, 2021
-| [70-713](https://www.microsoft.com/learning/exam-70-713.aspx) | Software Asset Management (SAM) - Core | December 31, 2019
-| [70-735](https://www.microsoft.com/learning/exam-70-735.aspx) | OEM Manufacturing and Deployment for Windows 10 | December 31, 2019
+| 70-713 | Software Asset Management (SAM) - Core | December 31, 2019
+| 70-735 | OEM Manufacturing and Deployment for Windows 10 | December 31, 2019
 | [70-740](/learn/certifications/exams/70-740) | Installation, Storage, and Compute with Windows Server 2016 | January 31, 2021
 | [70-741](/learn/certifications/exams/70-741) | Networking with Windows Server 2016 | January 31, 2021
 | [70-742](/learn/certifications/exams/70-742) | Identity with Windows Server 2016 | January 31, 2021
@@ -133,19 +139,19 @@ For reference purposes, exams that have retired within the last year will contai
 | [70-765](/learn/certifications/exams/70-765) | Provisioning SQL Databases | January 31, 2021
 | [70-767](/learn/certifications/exams/70-767) | Implementing a Data Warehouse using SQL | January 31, 2021
 | [70-768](/learn/certifications/exams/70-768) | Developing SQL Data Models | January 31, 2021
-| [70-773](https://www.microsoft.com/learning/exam-70-773.aspx) | Analyzing Big Data with Microsoft R | June 30, 2019
-| [70-774](https://www.microsoft.com/learning/exam-70-774.aspx) | Perform Cloud Data Science with Azure Machine Learning | June 30, 2019
-| [70-775](https://www.microsoft.com/learning/exam-70-775.aspx) | Perform Data Engineering on Microsoft Azure HDInsight | June 30, 2019
-| [70-776](https://www.microsoft.com/learning/exam-70-776.aspx) | Perform Big Data Engineering on Microsoft Cloud Services | June 30, 2019
+| 70-773 | Analyzing Big Data with Microsoft R | June 30, 2019
+| 70-774 | Perform Cloud Data Science with Azure Machine Learning | June 30, 2019
+| 70-775 | Perform Data Engineering on Microsoft Azure HDInsight | June 30, 2019
+| 70-776 | Perform Big Data Engineering on Microsoft Cloud Services | June 30, 2019
 | [70-777](/learn/certifications/exams/70-777) | Implementing Microsoft Azure Cosmos DB Solutions | January 31, 2021
 | [70-778](/learn/certifications/exams/70-778) | Analyzing and Visualizing Data with Power BI | January 31, 2021
 | [70-779](/learn/certifications/exams/70-779) | Analyzing and Visualizing Data with Microsoft Excel | January 31, 2021
-| [74-343](https://www.microsoft.com/learning/exam-74-343.aspx) | Managing Projects with Microsoft Project 2013 | July 31, 2019
+| 74-343 | Managing Projects with Microsoft Project 2013 | July 31, 2019
 | 74-344 | Managing Programs and Projects with Project Server 2013 | December 31, 2017
 | 74-409 | Server Virtualization with Windows Server Hyper-V and System Center | July 31, 2018
-| [77-419](https://www.microsoft.com/learning/exam-77-419.aspx) | Microsoft SharePoint 2013 | June 30, 2020
-| [98-369](https://www.microsoft.com/learning/exam-98-369.aspx) | Cloud Fundamentals | September 30, 2019
-| [98-380](https://www.microsoft.com/learning/exam-98-380.aspx) | Introduction to Programming Using Block-Based Languages (Touch Develop) | August 7, 2019
+| [77-419](/learn/certifications/exams/77-419) | Microsoft SharePoint 2013 | June 30, 2020
+| 98-369 | Cloud Fundamentals | September 30, 2019
+| 98-380 | Introduction to Programming Using Block-Based Languages (Touch Develop) | August 7, 2019
 
 <br/>
 
@@ -153,33 +159,33 @@ For reference purposes, exams that have retired within the last year will contai
 | --- | --- | --- |
 | [MB-200](/learn/certifications/exams/mb-200) | Microsoft Power Platform + Dynamics 365 Core | December 31, 2020
 | [MB-400](/learn/certifications/exams/mb-400) | Microsoft Power Apps + Dynamics 365 Developer | December 31, 2020
-| [MB-900](https://www.microsoft.com/learning/exam-MB-900.aspx) | Microsoft Dynamics 365 Fundamentals | December 31, 2019
-| [MB2-706](https://www.microsoft.com/learning/exam-MB2-706.aspx) | Microsoft Dynamics CRM Online Deployment | December 31, 2019
-| [MB2-707](https://www.microsoft.com/learning/exam-MB2-707.aspx) | Microsoft Dynamics CRM Customization and Configuration | December 31, 2019
-| [MB2-708](https://www.microsoft.com/learning/exam-MB2-708.aspx) | Microsoft Dynamics CRM Installation | December 31, 2019
+| [MB-900](/learn/certifications/exams/MB-900) | Microsoft Dynamics 365 Fundamentals | December 31, 2019
+| MB2-706 | Microsoft Dynamics CRM Online Deployment | December 31, 2019
+| MB2-707 | Microsoft Dynamics CRM Customization and Configuration | December 31, 2019
+| MB2-708 | Microsoft Dynamics CRM Installation | December 31, 2019
 | MB2-709 | Microsoft Dynamics Marketing | December 31, 2017
-| [MB2-710](https://www.microsoft.com/learning/exam-MB2-710.aspx) | Microsoft Dynamics CRM 2016 Online Deployment | December 31, 2019
-| [MB2-711](https://www.microsoft.com/learning/exam-MB2-711.aspx) | Microsoft Dynamics CRM 2016 Installation | December 31, 2019
-| [MB2-712](https://www.microsoft.com/learning/exam-MB2-712.aspx) | Microsoft Dynamics CRM 2016 Customization and Configuration | December 31, 2019
-| [MB2-713](https://www.microsoft.com/learning/exam-MB2-713.aspx) | Microsoft Dynamics CRM 2016 Sales | December 31, 2019
-| [MB2-714](https://www.microsoft.com/learning/exam-MB2-714.aspx) | Microsoft Dynamics CRM 2016 Customer Service | December 31, 2019
-| [MB2-715](https://www.microsoft.com/learning/exam-MB2-715.aspx) | Microsoft Dynamics 365 customer engagement Online Deployment | June 30, 2019
+| MB2-710 | Microsoft Dynamics CRM 2016 Online Deployment | December 31, 2019
+| MB2-711 | Microsoft Dynamics CRM 2016 Installation | December 31, 2019
+| MB2-712 | Microsoft Dynamics CRM 2016 Customization and Configuration | December 31, 2019
+| MB2-713 | Microsoft Dynamics CRM 2016 Sales | December 31, 2019
+| MB2-714 | Microsoft Dynamics CRM 2016 Customer Service | December 31, 2019
+| MB2-715 | Microsoft Dynamics 365 customer engagement Online Deployment | June 30, 2019
 | [MB2-716](/learn/certifications/exams/mb2-716) | Microsoft Dynamics 365 Customization and Configuration | January 31, 2021
-| [MB2-717](https://www.microsoft.com/learning/exam-MB2-717.aspx) | Microsoft Dynamics 365 for Sales | June 30, 2019
-| [MB2-718](https://www.microsoft.com/learning/exam-MB2-718.aspx) | Microsoft Dynamics 365 for Customer Service | August 31, 2019
-| [MB2-719](https://www.microsoft.com/learning/exam-MB2-719.aspx) | Microsoft Dynamics 365 for Marketing | August 31, 2019
-| [MB2-877](https://www.microsoft.com/learning/exam-MB2-877.aspx) | Microsoft Dynamics 365 for Field Service | June 30, 2019
+| MB2-717 | Microsoft Dynamics 365 for Sales | June 30, 2019
+| MB2-718 | Microsoft Dynamics 365 for Customer Service | August 31, 2019
+| MB2-719 | Microsoft Dynamics 365 for Marketing | August 31, 2019
+| MB2-877 | Microsoft Dynamics 365 for Field Service | June 30, 2019
 | MB6-705 | Microsoft Dynamics AX 2012 R3 CU8 Installation and Configuration | December 31, 2017
 | MB6-890 | Microsoft Dynamics AX Development Introduction | December 31, 2017
 | MB6-892 | Microsoft Dynamics AX Distribution and Trade | December 31, 2017
 | MB6-893 | Microsoft Dynamics AX Financials | December 31, 2017
 | [MB6-894](/learn/certifications/exams/mb6-894) | Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance | January 31, 2021
-| [MB6-895](https://www.microsoft.com/learning/exam-MB6-895.aspx) | Financial Management in Microsoft Dynamics 365 for Finance and Operations | August 31, 2019
-| [MB6-896](https://www.microsoft.com/learning/exam-MB6-896.aspx) | Distribution and Trade in Microsoft Dynamics 365 for Finance and Operations | August 31, 2019
+| MB6-895 | Financial Management in Microsoft Dynamics 365 for Finance and Operations | August 31, 2019
+| MB6-896 | Distribution and Trade in Microsoft Dynamics 365 for Finance and Operations | August 31, 2019
 | [MB6-897](/learn/certifications/exams/mb6-897) | Microsoft Dynamics 365 for Retail | January 31, 2021
 | [MB6-898](/learn/certifications/exams/mb6-898) | Microsoft Dynamics 365 for Talent | January 31, 2021
 
-## Other retired exams
+## Exams retired more than 12 months ago
 
 | ITPro/Developer | | |
 | --- | --- | --- |
