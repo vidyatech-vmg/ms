@@ -1,0 +1,127 @@
+### YamlMime:CertificationHome
+
+title: Microsoft Certifications
+summary: Earn certifications that show you are keeping pace with today’s technical roles and requirements. Select a job role to discover certification paths.
+
+roles:
+  - name: developer
+    summary: Developers design, build, test, and maintain cloud solutions.
+    url: /learn/certifications/roles/developer
+  - name: administrator
+    summary: Administrators implement, monitor, and maintain Microsoft solutions.
+    url: /learn/certifications/roles/administrator
+  - name: solution-architect
+    summary: Solutions Architects have expertise in compute, network, storage, security.
+    url: /learn/certifications/roles/solutions-architect
+  - name: data-engineer
+    summary: Data Engineers design and implement the management, monitoring, security, and privacy of data using the full stack of data services.
+    url: /learn/certifications/roles/data-engineer
+  - name: data-scientist
+    summary: Data Scientists apply machine learning techniques to train, evaluate, and deploy models that solve business problems.
+    url: /learn/certifications/roles/data-scientist
+  - name: ai-engineer
+    summary: AI Engineers use Cognitive Services, Machine Learning, and Knowledge Mining to architect and implement Microsoft AI solutions.
+    url: /learn/certifications/roles/ai-engineer
+  - name: devops-engineer
+    summary: DevOps Engineers combine people, process, and technologies to continuously deliver valuable products and services that meet end user needs and business objectives.
+    url: /learn/certifications/roles/devops-engineer
+  - name: security-engineer
+    summary: Security Engineers implement security controls and threat protection, manage identity and access, and protect data, applications, and networks.
+    url: /learn/certifications/roles/security-engineer
+  - name: functional-consultant
+    summary: Functional Consultants leverage Microsoft Dynamics 365 and Microsoft Power Platform to anticipate and plan for customer needs.
+    url: /learn/certifications/roles/functional-consultant
+
+
+certificationsSection:
+  title: Become Microsoft Certified
+  summary: "Microsoft has certification paths for many technical job roles. Each of these certifications consists of passing a series of exams to earn certification."
+  tiers:
+    - title: Fundamentals certifications
+      summary: Recommended start. Ideal for individuals just starting in technology or thinking about a career change.
+      certifications:
+        - uid: certification.azure-fundamentals
+        - uid: certification.microsoft-365-fundamentals
+        - uid: certification.power-platform-fundamentals
+      browseLink:
+        text: Browse fundamental certifications
+        url: /learn/certifications/browse/?type=fundamentals 
+    - title: Role-based certifications
+      summary: Choose a role-based certification to begin learning valuable job role skills.
+      certifications:
+        - uid: certification.azure-developer
+        - uid: certification.power-apps-and-d365-developer-associate
+        - uid: certification.d365-functional-consultant-sales
+      browseLink:
+        text: Browse role-based certifications
+        url: /learn/certifications/browse?resource_type=certification
+    - title: Additional certifications
+      summary: Explore specialty, Microsoft Certified Educator, and Microsoft Office technical certifications.
+      certifications:
+        - uid: certification.azure-for-sap-workloads-specialty
+        - uid: certification.microsoft-certified-educator
+        - uid: certification.mos-word-expert-2019
+      browseLink:
+        text: Browse additional certifications
+        url: /learn/certifications/browse?resource_type=certification
+
+upworkSection:
+    title: Do you want to earn additional income?
+    summary: We're partnering with Upwork to connect Azure certified freelancers with customers.
+    signupLink:
+        text: Sign up with Upwork
+        url: https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRw3HkB8qWX5Iq22_B4ihseZUN1haSVVPNUpINTRFRVRaQ1BRSzNCRllQNS4u
+
+trainingSection:
+  title: How to prepare for certification
+  summary: Microsoft understands everyone has different learning preferences so we provide certifications and training options throughout your certification journey.
+  items:
+  - image:
+      alt: Woman looking at a Microsoft Surface
+      src: /learn/certifications/images/image-working-lady-laptop.jpg
+    title: Free learning paths to prepare
+    summary: With Microsoft Learn, anyone can master core concepts at their speed and on their schedule. Whether it’s a single module to learn about a core task or exploring a topic fully through a collection of related modules.
+    browseLinks:
+    - text: Browse all learning paths
+      url: https://docs.microsoft.com/learn/browse/?resource_type=learning%20path
+  - image:
+      alt: Man presenting to four people seated around a table
+      src: /learn/certifications/images/image-working-group.jpg
+    title: Prepare with instructor-led training
+    summary: Microsoft Learning Partners offer a breadth of solutions to suit your learning needs, empowering you to achieve your training goals. Microsoft Certified Trainers have completed rigorous training and have met stringent technical certification requirements.
+    browseLinks:
+    - text: Browse all instructor-led training
+      url: /learn/certifications/courses/browse/
+
+resourcesSection:
+  title: Learning resources
+  items:
+    - title: Find a Microsoft Learning Partner
+      summary: Our worldwide partner network delivers flexible, solutions-based, customized training in Microsoft technologies.
+      url: https://www.microsoft.com/learning/partners.aspx
+    - title: Support for certifications and exams
+      summary: Get help through support forums. A forum moderator will respond in one business day, Monday-Friday.
+      url: /learn/certifications/help
+    - title: Browse all certifications and exams
+      summary: Explore all certifications to take your career to the next level.
+      url: /learn/certifications/browse
+
+statisticsSection:
+  title: Microsoft Certifications
+  summary: Microsoft Certifications give a professional advantage by providing globally recognized and industry-endorsed evidence of mastering skills in a digital and cloud businesses.
+  video:
+    pdfDownloadUrl: https://home.pearsonvue.com/voc
+    iframeTitle: Microsoft Certifications
+    iframeSrc: https://www.microsoft.com/videoplayer/embed/RE4GBVK?pid=RE4GBVK-ax-0-id-oneplayer&jsapi=true&postJsllMsg=true&autoplay=false&mute=false&loop=false&market=en-us&playFullScreen=false
+    title: Benefits of certifications
+    summary: Upon earning a certification, 67% of tech professionals say they had greater self-confidence in abilities to perform in their jobs, 41% reported increased job satisfaction, and 35% saw a salary or wage increase.- 2018 Pearson VUE Value of IT Certification.
+  items:
+    - title: 91%
+      summary: of certified IT professionals say certification gives them more professional credibility.
+      note: 2018 Pearson VUE Value of Certification
+    - title: 52%
+      summary: of certified IT professionals say their expertise is more sought after within their organization.
+      note: Global Knowledge 2019 IT skills and salary report
+    - title: 93%
+      summary: of decision makers agree certified employees provide added value.
+      note: Global Knowledge 2019 IT Decision Makers Insights
