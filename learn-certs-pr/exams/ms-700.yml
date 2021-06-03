@@ -1,0 +1,72 @@
+### YamlMime:Examination
+title: 'Managing Microsoft Teams'
+metadata:
+  title: 'Exam MS-700: Managing Microsoft Teams'
+  description: 'Exam MS-700: Managing Microsoft Teams'
+uid: exam.ms-700
+displayName: MS-700
+summary: |-
+  <div><div><strong>The content of this exam was updated on January 27, 2021. Please download the skills measured document below to see what changed.</strong><br/><br/></div>
+  </div>
+  
+  The Microsoft Teams Administrator configures, deploys, and manages Office 365 workloads for Microsoft Teams that focus on efficient and effective collaboration and communication in an enterprise environment.
+  
+  The Teams Administrator must be able to plan, deploy, and manage Teams chat, apps, channels, meetings, audio conferencing, live events, and calling. The Teams Administrator is also responsible for upgrading from Skype for Business to Teams. Candidates for this exam should be proficient at managing Teams settings by using PowerShell. The Teams Administrator has a fundamental understanding of integration points with apps and services, including but not limited to SharePoint, OneDrive, Exchange, Azure AD, and Office 365 Groups. The Teams Administrator understands how to integrate external apps and services.
+  
+  The Teams Administrator collaborates with Telephony engineers to integrate advanced voice features into Microsoft Teams. This role is not responsible for configuring direct routing, configuring call routing, or integrating telephony. The Teams Administrator may work with other workload administrator roles, including security and compliance, messaging, networking, identity, and devices.
+subTitle: 'This exam measures your ability to accomplish the following technical tasks: plan and configure a Microsoft Teams environment; manage chat, calling, and meetings; and manage Teams and app policies.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43VcF
+practiceTestUrl: https://www.mindhub.com/p/MU-MS-700?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MS-700&examname=Exam%20MS-700:%20Managing%20Microsoft%20Teams&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-700
+  - providerType: gsi
+    examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MS-700&provider=psi&examname=Exam%20MS-700:%20Managing%20Microsoft%20Teams&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-700
+locales:
+- en
+levels:
+- intermediate
+skills:
+- The content of this exam was updated on January 27, 2021. Please download the exam skills outline below to see what changed.
+- Plan and configure a Microsoft Teams environment (45-50%)
+- Manage chat, calling, and meetings (30-35%)
+- Manage Teams and app policies (20-25%)
+roles:
+- administrator
+products:
+- m365
+- office-teams
+courses:
+- uid: course.ms-700t00
+paths:
+- uid: learn-m365.m365-manage-team-collaboration
+- uid: learn-m365.m365-teams-upgrade
+relatedCertifications:
+- related:
+    uid: certification.m365-teams-administrator-associate
+resources:
+- title: Certification Learning Path
+  description: 'Discover training resources to become a Microsoft Certified: Teams Administrator Associate.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45gtR
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Certification poster
+  description: Check out an overview of fundamentals, role-based and specialty certifications.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Support for certification exams
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: ../help.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review the exam policies and frequently asked questions.
+  href: ../certification-exam-policies.md

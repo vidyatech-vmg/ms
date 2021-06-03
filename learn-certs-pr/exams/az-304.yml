@@ -1,0 +1,82 @@
+### YamlMime:Examination
+title: Microsoft Azure Architect Design
+metadata:
+  title: 'Exam AZ-304: Microsoft Azure Architect Design'
+  description: 'Exam AZ-304: Microsoft Azure Architect Design'
+uid: exam.az-304
+displayName: AZ-304
+summary: |-
+  <div><strong>The content of this exam was updated on January 27, 2021. Please download the skills measured document below to see what changed.</strong><br/><br/></div>
+  
+  Candidates for this exam should have subject matter expertise in designing and implementing solutions that run on Microsoft Azure, including aspects like compute, network, storage, and security. Candidates should have intermediate-level skills for administering Azure. Candidates should understand Azure development and DevOps processes.
+  
+  Responsibilities for an Azure Solution Architect include advising stakeholders and translating business requirements into secure, scalable, and reliable cloud solutions.
+  
+  An Azure Solution Architect partners with cloud administrators, cloud DBAs, and clients to implement solutions.
+  
+  A candidate for this exam should have advanced experience and knowledge of IT operations, including networking, virtualization, identity, security, business continuity, disaster recovery, data platform, budgeting, and governance–this role should manage how decisions in each area affect an overall solution. In addition, this role should have expert-level skills in Azure administration and have experience with Azure development and DevOps processes.
+subTitle: 'This exam measures your ability to accomplish the following technical tasks: design monitoring; design identity and security; design data storage; design business continuity; and design infrastructure.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pCWz
+practiceTestUrl: https://www.mindhub.com/p/MU-AZ-304?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-304&examname=Exam%20AZ-304:%20Microsoft%20Azure%20Architect%20Design&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-304
+locales:
+- en
+- ja
+- zh-cn
+- ko
+levels:
+- advanced
+skills:
+- The content of this exam was updated on January 27, 2021. Please download the exam skills outline below to see what changed.
+- Design monitoring (10-15%)
+- Design identity and security (25-30%)
+- Design data storage (15-20%)
+- Design business continuity (10-15%)
+- Design infrastructure (25-30%)
+roles:
+- solution-architect
+products:
+- azure
+paths:
+- uid: learn.architect-network-infrastructure
+- uid: learn.architect-storage-infrastructure
+- uid: learn.architect-compute-infrastructure
+- uid: learn.architect-infrastructure-operations
+- uid: learn.architect-data-platform
+- uid: learn.architect-messaging-serverless
+- uid: learn.architect-modern-apps
+- uid: learn.architect-api-integration
+- uid: learn.architect-migration-bcdr
+exams:
+- uid: exam.az-303
+courses:
+- uid: course.az-304t00
+relatedCertifications:
+- related:
+    uid: certification.azure-solutions-architect
+resources:
+- title: Journey to certification
+  description: Explore steps to get certified as an Azure Solutions Architect Expert and the resources available to help you prepare.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyF
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Certification poster
+  description: Check out an overview of fundamentals, role-based and specialty certifications.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Support for certification exams
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: ../help.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review the exam policies and frequently asked questions.
+  href: ../certification-exam-policies.md

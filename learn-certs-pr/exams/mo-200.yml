@@ -1,0 +1,63 @@
+### YamlMime:Examination
+title: Microsoft Excel (Excel and Excel 2019)
+metadata:
+  title: 'MO-200: Microsoft Excel (Excel and Excel 2019)'
+  description: 'MO-200: Microsoft Excel (Excel and Excel 2019)'
+uid: exam.mo-200
+displayName: MO-200
+summary: |-
+  This exam covers the ability to create and edit a workbook with multiple sheets and use a graphic element to represent data visually. Workbook examples include professional-looking budgets, financial statements, team performance charts, sales invoices, and data-entry logs. Candidates are expected to demonstrate the correct application of the principal features of Excel and complete tasks independently.
+subTitle: This exam measures competency in the fundamentals of creating and managing worksheets and workbooks, creating cells and ranges, creating tables, applying formulas and functions, and creating charts and objects. The exam covers the ability to create and edit a workbook with multiple sheets and use a graphic element to represent data visually. Workbook examples include professional-looking budgets, financial statements, team performance charts, sales invoices, and data entry logs.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WXlg
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
+locales:
+- en
+- en-my
+- nl
+- fr
+- de
+- id-id
+- ko
+- pt-br
+- es
+- it
+- ru
+- ja
+- pl
+- el-gr
+- zh-cn
+- zh-tw
+- ar-sa
+levels:
+- intermediate
+skills:
+- Manage worksheets and workbooks (10-15%)
+- Manage data cells and ranges (20-25%)
+- Manage tables and table data (15-20%)
+- Perform operations by using formulas and functions (20-25%)
+- Manage charts (20-25%)
+roles:
+- business-user
+products: 
+- office
+- office-excel
+relatedCertifications:
+- related:
+    uid: certification.mos-excel-2019
+resources:
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review the exam policies and frequently asked questions.
+  href: ../certification-exam-policies.md
+

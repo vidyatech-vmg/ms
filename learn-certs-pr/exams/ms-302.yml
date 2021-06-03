@@ -1,0 +1,64 @@
+### YamlMime:Examination
+title: Microsoft 365 Teamwork Administrator Certification Transition
+metadata:
+  title: 'Exam MS-302: Microsoft 365 Teamwork Administrator Certification Transition'
+  description: 'Exam MS-302: Microsoft 365 Teamwork Administrator Certification Transition'
+uid: exam.ms-302
+displayName: MS-302
+summary: |-
+  <div>
+  <div><strong>THIS EXAM WAS RETIRED SEPTEMBER 30, 2019. Note&#58; Exams retire at 11:59 PM Central Standard Time</strong><br/><br/></div>
+  </div>
+      
+  This exam was intended only for candidates who have taken [Exam 70-339](https://www.microsoft.com/learning/exam-70-339.aspx)&#58; Managing Microsoft SharePoint Server 2016. If you have not taken Exam 339, you will not earn a certification by taking this exam.
+
+  Candidates for this exam are Teamwork Administrators who are responsible for configuring, deploying, and managing Office 365 and Azure workloads that focus on efficient and effective collaboration and adoption. Teamwork Administrators manage apps, services, and supporting infrastructure to meet business requirements. The Teamwork Administrator must be able to deploy, manage, migrate, and secure SharePoint (online, on-premises, and hybrid), OneDrive, and Teams.
+
+  The Teamwork Administrator is involved with decisions regarding governance and works with other Administrators to implement many of the decisions made by governance bodies. The Teamwork Administrator collaborates with the Messaging Administrator to configure options and security related to email tasks, the Voice Administrator to integrate voice capabilities in organizations, and the Security Administrator to ensure end-to-end security.
+
+  Candidates for this exam have a fundamental understanding of integration points with the following apps and services&#58; Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planner, and Project. The administrator understands how to integrate third-party apps and services including line-of-business applications. Candidates also have an understanding of SQL Server management concepts, Azure Active Directory, PowerShell, networking, Windows server administration, Domain Name System (DNS), Active Directory mobile device management, and alternative operating systems.
+subTitle: 'This exam is intended only for candidates who have taken Exam 70-339: Managing Microsoft SharePoint Server 2016. If you have not taken Exam 339, you will not earn a certification by taking this exam.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC7x
+scheduleExamUrl: https://examregistration.microsoft.com/
+locales:
+- en
+levels:
+- intermediate
+skills:
+- 'Configure and manage SharePoint Online (20-25%)'
+- 'Configure and manage OneDrive for Business (20-25%)'
+- 'Configure and manage Teams (20-25%)'
+- 'Configure and manage workload integrations (15-20%)'
+- 'Configure and manage hybrid scenarios (5-10%)'
+- 'Migrate to SharePoint Online (5-10%)'
+retirementDate: 09/30/2019
+roles:
+- administrator
+products:
+- m365
+exams:
+- uid: exam.ms-300
+- uid: exam.ms-301
+relatedCertifications:
+- related:
+    uid: certification.m365-teamwork-administrator
+resources:
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Certification poster
+  description: Check out an overview of fundamentals, role-based and specialty certifications.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Support for certification exams
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: ../help.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review the exam policies and frequently asked questions.
+  href: ../certification-exam-policies.md

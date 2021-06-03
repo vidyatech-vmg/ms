@@ -1,0 +1,51 @@
+### YamlMime:Examination
+title: Microsoft Outlook (Outlook and Outlook 2019)
+metadata:
+  title: 'MO-400: Microsoft Outlook (Outlook and Outlook 2019)'
+  description: 'MO-400: Microsoft Outlook (Outlook and Outlook 2019)'
+uid: exam.mo-400
+displayName: MO-400
+summary: |-
+  The exam covers the ability to enhance professional correspondence, create calendars, and schedule appointments. Application examples include coordinating building resources, sending messages for marketing campaigns, planning staff meetings, and assigning meeting action items. Candidates are expected to demonstrate the correct application of the principal features of Outlook and complete tasks independently.
+subTitle: This exam measures competency to customize the Outlook user interface format message content, create or insert graphic elements, and send and respond to emails and meeting requests. The exam covers the ability to enhance professional correspondence, create calendars, and schedule appointments. Application examples include coordinating building resources, sending messages for marketing campaigns, planning staff meetings, and assigning meeting action items.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4mURd
+scheduleExamUrl: http://www.certiport.com/locator
+locales:
+- en
+- nl
+- es
+- de
+- zh-cn
+- fr
+- ko
+- ar-sa
+levels: 
+- intermediate
+skills:
+- Manage Outlook settings and processes (15-20%)
+- Manage messages (30-35%)
+- Manage schedules (30-35%)
+- Manage contacts and tasks (15-20%)
+roles:
+- business-user
+products: 
+- office
+- office-outlook
+relatedCertifications:
+- related:
+    uid: certification.mos-outlook-2019
+resources:
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review the exam policies and frequently asked questions.
+  href: ../certification-exam-policies.md
+

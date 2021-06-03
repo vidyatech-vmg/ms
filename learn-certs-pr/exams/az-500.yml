@@ -1,0 +1,85 @@
+### YamlMime:Examination
+title: Microsoft Azure Security Technologies
+metadata:
+  title: 'Exam AZ-500: Microsoft Azure Security Technologies'
+  description: 'Exam AZ-500: Microsoft Azure Security Technologies'
+uid: exam.az-500
+displayName: AZ-500
+summary: |-
+  <div><strong>The content of this exam was updated on January 27, 2021. Please download the skills measured document below to see what changed.</strong><br/><br/></div>
+  
+  Candidates for this exam should have subject matter expertise implementing security controls and threat protection, managing identity and access, and protecting data, applications, and networks in cloud and hybrid environments as part of an end-to-end infrastructure.
+  
+  Responsibilities for an Azure Security Engineer include maintaining the security posture, identifying and remediating vulnerabilities by using a variety of security tools, implementing threat protection, and responding to security incident escalations.
+  
+  Azure Security Engineers often serve as part of a larger team dedicated to cloud-based management and security or hybrid environments as part of an end-to-end infrastructure.
+  
+  A candidate for this exam should be familiar with scripting and automation, should have a deep understanding of networking and virtualization. A candidate should also have a strong familiarity with cloud capabilities, Azure products and services, and other Microsoft products and services.
+subTitle: 'This exam measures your ability to accomplish the following technical tasks: manage identity and access; implement platform protection; manage security operations; and secure data and applications.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC70
+practiceTestUrl: https://www.mindhub.com/p/MU-AZ-500?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-500&examname=Exam%20AZ-500:%20Microsoft%20Azure%20Security%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-500
+  - providerType: gsi
+    examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-500&provider=psi&examname=Exam%20AZ-500:%20Microsoft%20Azure%20Security%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-500
+locales:
+- en
+- ja
+- zh-cn
+- ko
+levels:
+- intermediate
+skills:
+- The content of this exam was updated on January 27, 2021. Please download the exam skills outline below to see what changed.
+- Manage identity and access (30-35%)
+- Implement platform protection (15-20%)
+- Manage security operations (25-30%)
+- Secure data and applications (20-25%)
+roles:
+- security-engineer
+products:
+- azure
+- azure-active-directory
+- azure-policy
+- azure-virtual-network
+- azure-monitor
+- azure-key-vault
+courses:
+- uid: course.az-500t00
+paths:
+- uid: learn.security.secure-your-cloud-apps
+- uid: learn.security.implement-resource-mgmt-security
+- uid: learn.security.implement-network-security
+- uid: learn.security.implement-host-security
+- uid: learn.security.manage-identity-and-access
+- uid: learn.security.manage-security-operations
+relatedCertifications:
+- related:
+    uid: certification.azure-security-engineer
+resources:
+- title: Journey to certification
+  description: Explore steps to get certified as an Azure Security Engineer Associate and the resources available to help you prepare.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyG
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Certification poster
+  description: Check out an overview of fundamentals, role-based and specialty certifications.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Support for certification exams
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: ../help.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review the exam policies and frequently asked questions.
+  href: ../certification-exam-policies.md

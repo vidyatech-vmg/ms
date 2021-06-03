@@ -1,0 +1,57 @@
+### YamlMime:Examination
+title: Microsoft Dynamics 365 Fundamentals Customer Engagement Apps (CRM) (beta)
+metadata:
+  title: 'Exam MB-910: Microsoft Dynamics 365 Fundamentals Customer Engagement Apps (CRM) (beta)'
+  description: 'Exam MB-910: Microsoft Dynamics 365 Fundamentals Customer Engagement Apps (CRM) (beta)'
+uid: exam.mb-910
+displayName: MB-910
+summary: |-
+  This exam covers the features and capabilities of Microsoft Dynamics 365 customer engagement apps.
+  
+  Candidates for this exam should have general knowledge of or relevant working experience in an Information Technology (IT) environment. They should also have a fundamental understanding of customer engagement principles and business operations.
+  
+  <div><br/><strong>Note&#58; This exam will be available on February 5, 2021.</strong></div>
+subTitle: 'This exam will be available on February 5, 2021. This exam measures your ability to describe the following: Dynamics 365 Marketing; Dynamics 365 Sales; Dynamics 365 Customer Service; Dynamics 365 Field Service; Project Operations; and shared features.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4JIev
+locales:
+- en
+levels:
+- beginner
+skills:
+- Describe Dynamics 365 Marketing (10-15%)
+- Describe Dynamics 365 Sales (15-20%)
+- Describe Dynamics 365 Customer Service (15-20%)
+- Describe Dynamics 365 Field Service (15-20%)
+- Describe Project Operations (15-20%)
+- Describe shared features (15-20%)
+roles:
+- business-owner
+- business-user
+- functional-consultant
+- student
+products: 
+- dynamics-365
+- dynamics-customer-engagement
+relatedCertifications:
+- related:
+    uid: certification.d365-fundamentals-customer-engagement-apps-crm
+resources:
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Certification poster
+  description: Check out an overview of fundamentals, role-based and specialty certifications.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Support for certification exams
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: ../help.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review the exam policies and frequently asked questions.
+  href: ../certification-exam-policies.md

@@ -1,0 +1,76 @@
+### YamlMime:Examination
+title: Microsoft 365 Security Administration
+metadata:
+  title: 'Exam MS-500: Microsoft 365 Security Administration'
+  description: 'Exam MS-500: Microsoft 365 Security Administration'
+uid: exam.ms-500
+displayName: MS-500
+summary: |-
+  <div><strong>The content of this exam was updated on January 27, 2021. Please download the skills measured document below to see what changed.</strong><br/><br/></div>
+  
+  Candidates for this exam implement, manage, and monitor security and compliance solutions for Microsoft 365 and hybrid environments. The Microsoft 365 Security Administrator proactively secures Microsoft 365 enterprise environments, responds to threats, performs investigations, and enforces data governance. The Microsoft 365 Security Administrator collaborates with the Microsoft 365 Enterprise Administrator, business stakeholders, and other workload administrators to plan and implement security strategies and ensures that the solutions comply with the policies and regulations of the organization.
+  <br/>
+
+  Candidates for this exam are familiar with Microsoft 365 workloads and have strong skills and experience with identity protection, information protection, threat protection, security management, and data governance. This role focuses on the Microsoft 365 environment and includes hybrid environments.
+subTitle: 'This exam measures your ability to accomplish the following technical tasks: implement and manage identity and access; implement and manage threat protection; implement and manage information protection; and manage governance and compliance features in Microsoft 365.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEI3
+practiceTestUrl: https://www.mindhub.com/p/MU-MS-500?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MS-500&examname=Exam%20MS-500:%20Microsoft%20365%20Security%20Administration&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-500
+  - providerType: gsi
+    examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MS-500&provider=psi&examname=Exam%20MS-500:%20Microsoft%20365%20Security%20Administration&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-500
+locales:
+- en
+- ja
+levels:
+- intermediate
+skills:
+- The content of this exam was updated on January 27, 2021. Please download the exam skills outline below to see what changed.
+- Implement and manage identity and access (30-35%) 
+- Implement and manage threat protection (20-25%) 
+- Implement and manage information protection (15-20%) 
+- Manage governance and compliance features in Microsoft 365 (20-25%)
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+courses:
+- uid: course.ms-500t00
+paths:
+- uid: learn-m365.identity-and-access
+- uid: learn-m365.m365-security-threat-protection
+- uid: learn-m365.m365-information-protection
+- uid: learn-m365.m365-security-management
+- uid: learn-m365.m365-compliance-insider
+relatedCertifications:
+- related:
+    uid: certification.m365-security-administrator
+resources:
+- title: Certification Learning Path
+  description: 'Discover training resources to become a Microsoft Certified: Security Administrator Associate.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE458DG
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Certification poster
+  description: Check out an overview of fundamentals, role-based and specialty certifications.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Support for certification exams
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: ../help.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review the exam policies and frequently asked questions.
+  href: ../certification-exam-policies.md

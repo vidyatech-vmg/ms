@@ -1,0 +1,76 @@
+### YamlMime:Examination
+title: 'Microsoft Dynamics 365 Business Central Functional Consultant'
+metadata:
+  title: 'Exam MB-800: Microsoft Dynamics 365 Business Central Functional Consultant'
+  description: 'Exam MB-800: Microsoft Dynamics 365 Business Central Functional Consultant'
+uid: exam.mb-800
+displayName: MB-800
+summary: |-
+  Candidates for this exam are Functional Consultants who implement core application setup processes for small and medium businesses. They implement and configure the Dynamics 365 Business Central app, including setting up core app functionality and modules and migrating data to Business Central.
+  
+  Candidates run the user interface in collaboration with the implementation team to provide the business with manageability and ease of navigation. They configure role centers, including adapting insights, cues, action tiles, reports, charts, and extending Business Central by using Microsoft Power Platform components.
+  
+  Candidates have applied knowledge of meeting user needs through the Business Central app, including basic understanding of financial management, sales, purchasing, and inventory.
+  
+  Candidates for this exam typically specialize in one or more feature sets of Business Central. They understand the role of Business Central in relationship to the Dynamics 365 suite of applications.
+subTitle: 'This exam measures your ability to complete the following tasks: set up Business Central; configure financials; configure sales and purchasing; and perform Business Central operations.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CxSE
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MB-800&examname=Exam%20MB-800:%20Microsoft%20Dynamics%20365%20Business%20Central%20Functional%20Consultant&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-800
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Set up Business Central (20-25%)
+- Configure financials (25-30%)
+- Configure sales and purchasing (10-15%)
+- Perform Business Central operations (30-35%)
+roles:
+- functional-consultant
+products:
+- dynamics-business-central
+- power-platform
+courses:
+- uid: course.mb-800t00
+paths:
+- uid: learn-dynamics.get-started-dynamics-365-business-central
+- uid: learn-dynamics.deploy-configure-dynamics-365-business-central
+- uid: learn-dynamics.work-with-user-interface-dynamics-365-business-central
+- uid: learn-dynamics.setup-reporting-dynamics-365-business-central
+- uid: learn-dynamics.set-up-financial-management-dynamics-365-business-central
+- uid: learn-dynamics.use-journals-dynamics-365-business-central
+- uid: learn-dynamics.trade-get-started-dynamics-365-business-central
+- uid: learn-dynamics.purchase-items-services-dynamics-365-business-central
+- uid: learn-dynamics.sell-items-services-dynamics-365-business-central
+- uid: learn-dynamics.return-items-dynamics-365-business-central
+- uid: learn-dynamics.process-customer-vendor-payments-dynamics-365-business-central
+- uid: learn-dynamics.reconcile-bank-accounts-dynamics-365-business-central
+relatedCertifications:
+- related:
+    uid: certification.d365-business-central-functional-consultant-associate
+resources:
+- title: Certification learning path
+  description: 'Recommended training resources to help you prepare for required exams and earn your certification.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4GHuX
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Certification poster
+  description: Check out an overview of fundamentals, role-based and specialty certifications.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Support for certification exams
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: ../help.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review the exam policies and frequently asked questions.
+  href: ../certification-exam-policies.md

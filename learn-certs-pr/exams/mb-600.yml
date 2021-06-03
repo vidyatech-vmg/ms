@@ -1,0 +1,69 @@
+### YamlMime:Examination
+title: 'Microsoft Dynamics 365 + Power Platform Solution Architect'
+metadata:
+  title: 'Exam MB-600: Microsoft Dynamics 365 + Power Platform Solution Architect'
+  description: 'Exam MB-600: Microsoft Dynamics 365 + Power Platform Solution Architect'
+uid: exam.mb-600
+displayName: MB-600
+summary: |-
+  <div>
+  <div><font color='red'><strong>A NEW VERSION OF THIS EXAM, <a href="/learn/certifications/exams/pl-600">PL-600</a>, WILL BE AVAILABLE IN MARCH 2021. You will be able to take this exam until it retires on June 30, 2021.</strong></font><br/><br/></div>
+  <div><strong>The content of this exam was updated on July 30, 2020. Please download the skills measured document below to see what changed.</strong><br/><br/></div>
+  </div>
+  
+  Solution Architects for Microsoft Dynamics 365 + Power Platform lead successful implementations and focus on how solutions address the broader business and technical needs of organizations.
+
+  A Solution Architect has functional and technical knowledge of the Power Platform model-driven apps in Dynamics 365, such as Dynamics 365 Customer Service, Dynamics 365 Field Service, Dynamics 365 Marketing, and Dynamics 365 Sales, related Microsoft cloud solutions, and other third-party technologies. A Solution Architect applies knowledge and experience throughout an engagement. The Solution Architect performs proactive and preventative work to increase the value of the customer’s investment and promote organizational health. This role requires the ability to identify opportunities to solve business problems.
+
+  Solution Architects have experience across functional and technical disciplines of the Power Platform and model-driven apps in Dynamics 365. Solution Architects should be able to facilitate design decisions across development, configuration, integration, infrastructure, security, availability, storage, and change management. This role balances a project's business needs while meeting functional and non-functional requirements.
+subTitle: 'This exam measures your ability to accomplish the following technical tasks: perform solution envisioning and requirement analysis; architect a solution; and implement the solution.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE440oW
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MB-600&examname=Exam%20MB-600:%20Microsoft%20Power%20Apps%20+%20Dynamics%20365%20Solution%20Architect&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-600
+locales:
+- en
+levels:
+- advanced
+skills:
+- The content of this exam was updated on July 30, 2020. Please download the exam skills outline below to see what changed.
+- Perform solution envisioning and requirement analysis (30-35%)
+- Architect a solution (45-50%)
+- Implement the solution (20-25%)
+retirementDate: 06/30/2021
+roles:
+- solution-architect
+products:
+- dynamics-365
+- power-apps
+courses:
+- uid: course.mb-600t00
+paths:
+- uid: learn-dynamics.become-solution-architect
+relatedCertifications:
+- related:
+    uid: certification.power-apps-and-d365-solution-architect-expert
+resources:
+- title: Certification learning path
+  description: 'Recommended training resources to help you prepare for required exams and earn your certification.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ca9W
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Certification poster
+  description: Check out an overview including fundamentals, role-based and specialty certifications for Dynamics 365 and Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Support for certification exams
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: ../help.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review the exam policies and frequently asked questions.
+  href: ../certification-exam-policies.md

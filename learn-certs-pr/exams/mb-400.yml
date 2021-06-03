@@ -1,0 +1,73 @@
+### YamlMime:Examination
+title: 'Microsoft Power Apps + Dynamics 365 Developer'
+metadata:
+  title: 'Exam MB-400: Microsoft Power Apps + Dynamics 365 Developer'
+  description: 'Exam MB-400: Microsoft Power Apps + Dynamics 365 Developer'
+uid: exam.mb-400
+displayName: MB-400
+summary: |-
+  <div>
+  <div><strong>This exam retired on December 31, 2020. A replacement exam, PL-400, is available. For more information, visit the <a href="/learn/certifications/exams/pl-400">PL-400 exam details page</a>.</strong><br/><br/></div>
+  </div>
+  
+  Candidates for this exam are Developers who work with Microsoft Power Apps model-driven apps in Dynamics 365 to design, develop, secure, and extend a Dynamics 365 implementation. Candidates implement components of a solution that include application enhancements, custom user experience, system integrations, data conversions, custom process automation, and custom visualizations.
+
+  Candidates must have strong applied knowledge of Power Apps model-driven apps in Dynamics 365, including in-depth understanding of customization, configuration, integration, and extensibility, as well as boundaries and constraints. Candidates should have a basic understanding of DevOps practices for Power Apps model-driven apps in Dynamics 365. Candidates must expose, store, and report on data.
+
+  Candidates should have development experience that includes JavaScript, TypeScript, C#, HTML, .NET, Microsoft Azure, Office 365, RESTful Web Services, ASP.NET, and Power BI.
+subTitle: 'This exam measures your ability to accomplish the following technical tasks: create a technical design; configure Common Data Service (CDS); create and configure Power Apps; configure business process automation; extend the user experience; extend the platform; and develop integrations.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE42uM0
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Create a technical design (10-15%) 
+- Configure Common Data Service (15-20%) 
+- Create and configure Power Apps (10-15%) 
+- Configure business process automation (10-15%) 
+- Extend the user experience (15-20%) 
+- Extend the platform (15-20%)
+- Develop integrations (10-15%)
+retirementDate: 12/31/2020
+roles:
+- developer
+products:
+- dynamics-365
+- dynamics-customer-engagement
+exams:
+- uid: exam.mb-200
+paths:
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.introduction-development
+- uid: learn-dynamics.extend-power-platform-model-driven-apps
+- uid: learn-dynamics.extend-power-platform-common-data-service
+relatedCertifications:
+- related:
+    uid: certification.power-apps-and-d365-developer-associate
+resources:
+- title: Certification learning path
+  description: Recommended training resources to help you prepare for required exams and earn your certification.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C5rO
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Certification poster
+  description: Check out an overview including fundamentals, role-based and specialty certifications for Dynamics 365 and Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Support for certification exams
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: ../help.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review the exam policies and frequently asked questions.
+  href: ../certification-exam-policies.md

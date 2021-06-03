@@ -1,0 +1,68 @@
+### YamlMime:Examination
+title: Windows 10
+metadata:
+  title: 'Exam MD-100: Windows 10'
+  description: 'Exam MD-100: Windows 10'
+uid: exam.md-100
+displayName: MD-100
+summary: |-
+  If you passed [Exam 70-698](https://www.microsoft.com/learning/exam-70-698.aspx) before it expired on March 31, 2019, you only need to take MD-101 to earn the Modern Desktop certification. Candidates for this exam are Administrators who deploy, configure, secure, manage, and monitor devices and client applications in an enterprise environment. Candidates manage identity, access, policies, updates, and apps.
+
+  As an Administrator, candidates typically collaborate with the Microsoft 365 Enterprise Administrator to design and implement a device strategy that meets the business needs of a modern organization.
+
+  Candidates must be familiar with Microsoft 365 workloads and must be proficient and experienced in deploying, configuring, and maintaining Windows 10 and non-Windows devices and technologies.
+  
+  You may be eligible for ACE college credit if you pass this certification exam. See [ACE college credit for certification exams](/learn/certifications/ace-credit-for-certification-exams) for details.
+subTitle: 'This exam measures your ability to accomplish the following technical tasks: deploy Windows; manage devices and data; configure connectivity; and maintain Windows. If you passed Exam 70-698 before it expired on March 31, 2019, you only need to take MD-101 to earn the Modern Desktop certification.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVC
+practiceTestUrl: https://www.mindhub.com/md-100-windows-10-microsoft-official-practice-test/p/MU-MD-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MD-100&examname=Exam%20MD-100:%20Windows%2010&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmd-100
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Deploy Windows (15-20%)
+- Manage devices and data (35-40%)
+- Configure connectivity (15-20%)
+- Maintain Windows (25-30%)
+roles:
+- administrator
+products:
+- m365
+- windows
+exams:
+- uid: exam.md-101
+courses:
+- uid: course.md-100t00
+paths:
+- uid: learn-m365.microsoft-365-get-modern
+relatedCertifications:
+- related:
+    uid: certification.modern-desktop
+resources:
+- title: Certification Learning Path
+  description: 'Discover training resources to become a Microsoft Certified: Modern Desktop Administrator Associate.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45lE2
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Certification poster
+  description: Check out an overview of fundamentals, role-based and specialty certifications.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Support for certification exams
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: ../help.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review the exam policies and frequently asked questions.
+  href: ../certification-exam-policies.md

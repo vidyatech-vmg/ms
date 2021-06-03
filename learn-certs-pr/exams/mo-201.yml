@@ -1,0 +1,50 @@
+### YamlMime:Examination
+title: Microsoft Excel Expert (Excel and Excel 2019)
+metadata:
+  title: 'MO-201: Microsoft Excel Expert (Excel and Excel 2019)'
+  description: 'MO-201: Microsoft Excel Expert (Excel and Excel 2019)'
+uid: exam.mo-201
+displayName: MO-201
+summary: |-
+  The exam covers the ability to customize Excel environments to meet project needs and to enhance productivity. Expert workbook examples include custom business templates, multiple-axis financial charts, amortization tables, and inventory schedules. Candidates are expected to demonstrate the correct application of the principal features of Excel at an expert-level and complete tasks independently.
+subTitle: This exam measures competency in creating, managing, and distributing professional spreadsheets for a variety of specialized purposes and situations. The exam covers the ability to customize Excel environments to meet project needs and to enhance productivity. Expert workbook examples include custom business templates, multiple-axis financial charts, amortization tables, and inventory schedules. 
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE47RTC
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
+locales:
+- en
+- es
+- fr
+- de
+- ja
+- ko
+levels:
+- advanced
+skills:
+- Manage workbook options and settings (15-20%)
+- Manage and format data (20-25%)
+- Create advanced formulas and macros (30-35%)
+- Manage advanced charts and tables (25-30%)
+roles:
+- business-user
+products: 
+- office
+- office-excel
+relatedCertifications:
+- related:
+    uid: certification.mos-excel-expert-2019
+resources:
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review the exam policies and frequently asked questions.
+  href: ../certification-exam-policies.md

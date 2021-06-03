@@ -1,0 +1,88 @@
+### YamlMime:Examination
+title: Administering Relational Databases on Microsoft Azure
+metadata:
+  title: 'DP-300: Administering Relational Databases on Microsoft Azure'
+  description: 'DP-300: Administering Relational Databases on Microsoft Azure'
+uid: exam.dp-300
+displayName: DP-300
+summary: |-
+  <div><strong>The content of this exam was updated on January 27, 2021. Please download the skills measured document below to see what changed.</strong><br/><br/></div>
+  
+  Candidates for this exam are database administrators and data management specialists that manage on-premises and cloud relational databases built with Microsoft SQL Server and Microsoft Azure Data Services.
+  
+  The Azure Database Administrator implements and manages the operational aspects of cloud-native and hybrid data platform solutions built on Azure Data Services and SQL Server. The Azure Database Administrator uses a variety of methods and tools to perform day-to-day operations, including applying knowledge of using T-SQL for administrative management purposes.
+  
+  This role is responsible for management, availability, security and performance monitoring and optimization of modern relational database solutions. This role works with the Azure Data Engineer role to manage operational aspects of data platform solutions.
+  
+  <div></br>
+  Candidates for this role should understand all concepts covered in <a href='/learn/certifications/exams/dp-900'>Exam DP-900: Microsoft Azure Data Fundamentals</a>.
+  </div>
+subTitle: 'This exam measures your ability to accomplish the following technical tasks: plan and implement data platform resources; implement a secure environment; monitor and optimize operational resources; optimize query performance; perform automation of tasks; plan and implement a High Availability and Disaster Recovery (HADR) environment; and perform administration by using T-SQL.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4q3yZ
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=DP-300&examname=Exam%20DP-300:%20Administering%20Relational%20Databases%20on%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-300
+locales:
+- en
+- zh-cn
+- ja
+- ko
+levels:
+- intermediate
+skills:
+- The content of this exam was updated on January 27, 2021. Please download the exam skills outline below to see what changed.
+- Plan and implement data platform resources (15-20%)
+- Implement a secure environment (15-20%)
+- Monitor and optimize operational resources (15-20%)
+- Optimize query performance (5-10%)
+- Perform automation of tasks (10-15%)
+- Plan and implement a High Availability and Disaster Recovery (HADR) environment (15-20%)
+- Perform administration by using T-SQL (10-15%)
+roles:
+- database-administrator
+products:
+- azure
+- azure-automation
+- azure-database-mysql
+- azure-database-postgresql
+- azure-sql-database
+- azure-storage
+- azure-virtual-machines
+- sql-server
+courses:
+- uid: course.dp-300t00
+paths:
+- uid: learn.azure-sql-fundamentals
+- uid: learn.wwl.plan-implement-data-platform-resources
+- uid: learn.wwl.implement-secure-environment-database-service
+- uid: learn.wwl.monitor-optimize-operational-resources-sql-server
+- uid: learn.wwl.optimize-query-performance-sql-server
+- uid: learn.wwl.automate-tasks-sql-server
+- uid: learn.wwl.plan-implement-ha-dr-environment
+relatedCertifications:
+- related:
+    uid: certification.azure-database-administrator-associate
+resources:
+- title: Journey to certification
+  description: Explore steps to get certified as an Azure Database Administrator Associate and the resources available to help you prepare.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AGXA
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Certification poster
+  description: Check out an overview of fundamentals, role-based and specialty certifications.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Support for certification exams
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: ../help.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review the exam policies and frequently asked questions.
+  href: ../certification-exam-policies.md

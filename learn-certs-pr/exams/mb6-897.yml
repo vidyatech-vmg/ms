@@ -1,0 +1,46 @@
+### YamlMime:Examination
+title: Microsoft Dynamics 365 for Retail
+metadata:
+  title: 'Exam MB6-897: Microsoft Dynamics 365 for Retail'
+  description: 'Exam MB6-897: Microsoft Dynamics 365 for Retail'
+uid: exam.mb-6-897
+displayName: MB6-897
+summary: |-
+  <div><strong>This exam retired on January 31, 2021. For currently available options, please refer to the <a href='/learn/certifications/browse/?resource_type=examination'>Browse Certifications and Exams page</a>.<br/><br/></strong></div>
+  
+  Candidates for this exam are Microsoft Dynamics 365 partners who set up and use the application functionality in Microsoft Dynamics 365 for Retail and provide support for the application.
+
+  Candidates typically have a strong understanding of retail operations and POS, and experience deploying, maintaining, and using Microsoft Dynamics 365 for Retail.
+subTitle: Candidates for this exam are Microsoft Dynamics 365 partners who set up and use the application functionality in Microsoft Dynamics 365 for Retail and provide support for the application.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7kc
+locales:
+- en
+levels: 
+- beginner
+skills:
+- Set up and configure organizational parameters (20-25%)
+- Set up and Configure Point of Sale (10-15%)
+- Set up and Configure Products (15-20%)
+- Manage Retail Operations (15-20%)
+- Conduct Retail Activities (25-30%)
+roles:
+- business-analyst
+products:
+- dynamics-365
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: ../certification-exam-policies.md

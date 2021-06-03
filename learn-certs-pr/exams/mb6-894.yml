@@ -1,0 +1,50 @@
+### YamlMime:Examination
+title: Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance
+metadata:
+  title: 'Exam MB6-894: Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance'
+  description: 'Exam MB6-894: Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance'
+uid: exam.mb-6-894
+displayName: MB6-894
+summary: |-
+  <div><strong>This exam retired on January 31, 2021. For currently available options, please refer to the <a href='/learn/certifications/browse/?resource_type=examination'>Browse Certifications and Exams page</a>.<br/><br/></strong></div>
+  
+  Candidates for this exam are technical consultants, programmers, or IT personnel who implement the basic technical and development tasks required to customize Microsoft Dynamics 365 Finance and Microsoft Dynamics 365 Commerce.
+
+  Candidates should have a basic knowledge of Microsoft Dynamics 365 Finance and Microsoft Dynamics 365 Commerce. Additionally, experience with Visual Studio, and object-oriented programming is required.
+
+  Candidates for this development exam should have a moderate understanding of programming concepts and processes, as well as an understanding of Finance and Commerce modifications, enhancements, and new development projects that apply to the different business process scenarios.
+  
+  <div><strong><br/>On February 4, 2020, the content of this exam was updated. To learn more about these changes and how they affect the skills measured, please download and review the exam MB6-894 change document.</strong></div>
+subTitle: Candidates for this exam are technical consultants, programmers, or IT personnel who implement the basic technical and development tasks required to customize Microsoft Dynamics 365 Finance and Microsoft Dynamics 365 Commerce.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oaj7
+locales:
+- en
+levels: 
+- intermediate
+skills:
+- Understand the architecture and development environment (20-25%)
+- Develop new elements by using Application Explorer (20-25%)
+- Read and Write Basic X++ (20-25%)
+- Manage the User Interface and Security for Developers (20-25%)
+- Develop and extend retail components (15-20%)
+roles:
+- business-analyst
+products:
+- dynamics-finance
+relatedCertifications:
+- related:
+    uid: certification.mcsa-microsoft-dynamics-365-for-operations
+resources:
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: ../certification-exam-policies.md

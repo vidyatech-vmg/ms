@@ -1,0 +1,58 @@
+### YamlMime:Examination
+title: Microsoft Dynamics 365 Fundamentals Finance and Operations Apps (ERP) (beta)
+metadata:
+  title: 'Exam MB-920: Microsoft Dynamics 365 Fundamentals Finance and Operations Apps (ERP) (beta)'
+  description: 'Exam MB-920: Microsoft Dynamics 365 Fundamentals Finance and Operations Apps (ERP) (beta)'
+uid: exam.mb-920
+displayName: MB-920
+summary: |-
+  This exam covers the features and capabilities of Microsoft Dynamics 365 finance and operations apps.
+  
+  Candidates for this exam should have general knowledge of or relevant working experience in an Information Technology (IT) environment. They should also have a fundamental understanding of financial principles and business operations.
+  
+  <div><br/><strong>Note&#58; This exam will be available on February 26, 2021.</strong></div>
+subTitle: 'This exam will be available on February 26, 2021. This exam measures your ability to describe the following: Dynamics 365 Supply Chain Management; Dynamics Finance; Dynamics 365 Commerce; Dynamics 365 Human Resources; Project Operations; Dynamics 365 Business Central; and shared features.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4JFBT
+locales:
+- en
+levels:
+- beginner
+skills:
+- Describe Dynamics 365 Supply Chain Management (25-30%)
+- Describe Dynamics Finance (25-30%)
+- Describe Dynamics 365 Commerce (10-15%)
+- Describe Dynamics 365 Human Resources (5-10%)
+- Describe Project Operations (10-15%)
+- Describe Dynamics 365 Business Central (5-10%)
+- Describe shared features (10-15%)
+roles:
+- business-owner
+- business-user
+- functional-consultant
+- student
+products: 
+- dynamics-365
+- dynamics-finance-operations
+relatedCertifications:
+- related:
+    uid: certification.d365-fundamentals-finance-and-operations-apps-erp
+resources:
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Certification poster
+  description: Check out an overview of fundamentals, role-based and specialty certifications.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Support for certification exams
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: ../help.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review the exam policies and frequently asked questions.
+  href: ../certification-exam-policies.md

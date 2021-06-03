@@ -1,0 +1,83 @@
+### YamlMime:Examination
+title: Microsoft Dynamics 365 Fundamentals
+metadata:
+  title: 'Exam MB-901: Microsoft Dynamics 365 Fundamentals'
+  description: 'Exam MB-901: Microsoft Dynamics 365 Fundamentals'
+uid: exam.mb-901
+displayName: MB-901
+summary: |-
+  <div>
+  <div><strong>THIS EXAM WILL RETIRE ON JUNE 30, 2021. Two replacement exams, MB-910 and MB-920, are available. For more information, visit the <a href="/learn/certifications/exams/mb-910">MB-910</a> and <a href="/learn/certifications/exams/mb-920">MB-920</a> exam details pages. Note&#58; Exams retire at 11:59 PM Central Standard Time.</strong><br/><br/></div>
+  <div><strong>The content of this exam was updated on July 10, 2020. Please download the skills measured document below to see what changed.</strong><br/><br/></div>  
+  </div>
+  
+  This exam covers the positioning and benefits of adopting Dynamics 365.
+  
+  Candidates should have a functional understanding of Dynamics 365 capabilities and Microsoft cloud computing.
+  
+  Candidates of this exam should have general knowledge or relevant working experience in an Information Technology (IT) environment. Candidates should also have a basic understanding of business scenarios and experience in addressing business, legal, and security requirements for IT projects.
+  
+  You may be eligible for ACE college credit if you pass this certification exam. See [ACE college credit for certification exams](/learn/certifications/ace-credit-for-certification-exams) for details.
+  
+  <div><br/><strong>Because this exam is retiring on June 30, 2021, Microsoft will not be updating references of “Common Data Service” to “Microsoft Dataverse.”</strong></div>
+subTitle: This exam measures your ability to understand Microsoft Dynamics 365; artificial intelligence; mixed reality; the Power Platform; cloud concepts; cloud security; role-based security in Dynamics 365; Common Data Service; data management framework; Dynamics 365 reporting; Dynamics 365 integrations; and cloud deployment.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4n1DO
+locales:
+- en
+- es
+- de
+- zh-cn
+- fr
+- ko
+- ja
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MB-901&examname=Exam%20MB-901:%20Microsoft%20Dynamics%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-901
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
+levels:
+- beginner
+skills:
+- The content of this exam was updated on July 10, 2020. Please download the exam skills outline below to see what changed.
+- Identify Microsoft platform components for Dynamics 365 (30-35%) 
+- Describe artificial intelligence and mixed reality in Dynamics 365 (10-15%) 
+- Describe model-driven apps (25-30%) 
+- Describe Finance and Operations apps (25-30%)
+retirementDate: 06/30/2021
+roles:
+- business-owner
+- business-user
+- functional-consultant
+- student
+products: 
+- dynamics-365
+courses:
+- uid: course.mb-901t00
+paths:
+- uid: learn-dynamics.wwl.dynamics-365-fundamentals
+relatedCertifications:
+- related:
+    uid: certification.d365-fundamentals
+resources:
+- title: Certification learning path
+  description: 'Discover training resources to become a Microsoft Certified: Dynamics 365 Fundamentals.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pHPx
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Certification poster
+  description: Check out an overview of fundamentals, role-based and specialty certifications.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Support for certification exams
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: ../help.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review the exam policies and frequently asked questions.
+  href: ../certification-exam-policies.md

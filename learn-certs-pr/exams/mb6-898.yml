@@ -1,0 +1,45 @@
+### YamlMime:Examination
+title: Microsoft Dynamics 365 for Talent
+metadata:
+  title: 'Exam MB6-898: Microsoft Dynamics 365 for Talent'
+  description: 'Exam MB6-898: Microsoft Dynamics 365 for Talent'
+uid: exam.mb-6-898
+displayName: MB6-898
+summary: |-
+  <div><strong>This exam retired on January 31, 2021. For currently available options, please refer to the <a href='/learn/certifications/browse/?resource_type=examination'>Browse Certifications and Exams page</a>.<br/><br/></strong></div>
+  
+  Candidates for this exam are Microsoft Dynamics 365 partners who set up and use the application functionality in Microsoft Dynamics 365 for Talent and provide support for the application. This exam is also appropriate for sales personnel who have a background in business solutions and would like to demonstrate functional understanding of the Microsoft Dynamics 365 for Talent application.
+
+  Candidates typically should have a strong understanding of human capital management, operational HR processes, and experience deploying, maintaining, and using Microsoft Dynamics 365 for Talent.
+  
+  <div><strong><br/>Exam MB6-898 applies to the April 2018 release of Dynamics 365 for Talent. For the most up-to-date information about the product, see&#58; <a href="https://aka.ms/talentdocs">https://aka.ms/talentdocs</a>.</strong></div>
+subTitle: Candidates for this exam are Microsoft Dynamics 365 partners who set up and use the application functionality in Microsoft Dynamics 365 for Talent and provide support for the application. This exam is also appropriate for sales personnel who have a background in business solutions and would like to demonstrate functional understanding of the Microsoft Dynamics 365 for Talent application.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7kd
+locales:
+- en
+levels:
+- beginner
+skills:
+- Understand the Dynamics 365 for Talent Environment (45-50%)
+- Set Up and Use the Talent Application (50-55%)
+roles:
+- business-analyst
+products:
+- dynamics-365
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: ../certification-exam-policies.md

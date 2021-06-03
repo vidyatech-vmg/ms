@@ -1,0 +1,78 @@
+### YamlMime:Examination
+title: Analyzing Data with Microsoft Power BI
+metadata:
+  title: 'Exam DA-100: Analyzing Data with Microsoft Power BI'
+  description: 'Exam DA-100: Analyzing Data with Microsoft Power BI'
+uid: exam.da-100
+displayName: DA-100
+summary: |-
+  <div><strong>The content of this exam was updated on January 27, 2021. Please download the skills measured document below to see what changed.</strong><br/><br/></div>
+  
+  Data Analysts enable businesses to maximize the value of their data assets by using Microsoft Power BI. As a subject matter expert, Data Analysts are responsible for designing and building scalable data models, cleaning and transforming data, and enabling advanced analytic capabilities that provide meaningful business value through easy-to-comprehend data visualizations. Data Analysts also collaborate with key stakeholders across verticals to deliver relevant insights based on identified business requirements.
+  <br/>
+
+  The Data Analyst should have a fundamental understanding of data repositories and data processing both on-premises and in the cloud.
+subTitle: 'This exam measures your ability to accomplish the following technical tasks: prepare the data; model the data; visualize the data; analyze the data; and deploy and maintain deliverables.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qlRu
+practiceTestUrl: https://in.mindhub.com/da-100-analyzing-data-with-microsoft-power-bi-microsoft-official-practice-test/p/MU-DA-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=DA-100&examname=Exam%20DA-100:%20Analyzing%20Data%20with%20Microsoft%20Power%20BI&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fda-100
+  - providerType: gsi
+    examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=DA-100&provider=psi&examname=Exam%20DA-100:%20Analyzing%20Data%20with%20Microsoft%20Power%20BI&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fda-100
+locales:
+- en
+- zh-cn
+- ko
+- ja
+levels:
+- intermediate
+skills:
+- The content of this exam was updated on January 27, 2021. Please download the exam skills outline below to see what changed.
+- Prepare the data (20-25%)
+- Model the data (25-30%)
+- Visualize the data (20-25%)
+- Analyze the data (10-15%)
+- Deploy and maintain deliverables (10-15%)
+roles:
+- data-analyst
+products:
+- power-bi
+courses:
+- uid: course.da-100t00
+paths:
+- uid: learn-bizapps.get-started-data-analytics
+- uid: learn-bizapps.data-preparation-in-power-bi
+- uid: learn-bizapps.model-power-bi
+- uid: learn-bizapps.visual-data-power-bi
+- uid: learn-bizapps.data-analysis-power-bi
+- uid: learn-bizapps.manage-workspaces-datasets-power-bi
+relatedCertifications:
+- related:
+    uid: certification.data-analyst-associate
+resources:
+- title: Journey to certification
+  description: Explore steps to get certified as a Data Analyst Associate and the resources available to help you prepare.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AzbJ
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Certification poster
+  description: Check out an overview of fundamentals, role-based and specialty certifications.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Support for certification exams
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: ../help.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review the exam policies and frequently asked questions.
+  href: ../certification-exam-policies.md

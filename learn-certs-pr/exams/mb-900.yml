@@ -1,0 +1,62 @@
+### YamlMime:Examination
+title: Microsoft Dynamics 365 Fundamentals
+metadata:
+  title: 'Exam MB-900: Microsoft Dynamics 365 Fundamentals'
+  description: 'Exam MB-900: Microsoft Dynamics 365 Fundamentals'
+uid: exam.mb-900
+displayName: MB-900
+summary: |-
+  <div>
+  <div><strong>THIS EXAM RETIRED ON December 31, 2019. A replacement exam, MB-901, is available. For more information, visit the <a href="/learn/certifications/exams/mb-901">MB-901 exam details page</a>.</strong></div>
+  <br/>
+  </div>
+  This exam is designed for candidates looking to demonstrate foundational knowledge of Microsoft Dynamics 365, Power Platform applications, and the cloud computing model. This exam will cover the considerations and benefits of adopting Dynamics 365, the Power Platform, and cloud services in general. This exam can be taken as a precursor to Dynamics 365 certifications and training.
+
+  Candidates for this exam should have general knowledge or relevant working experience in an Information Technology (IT) environment. Candidates should also have a basic understanding of business scenarios and experience in addressing business, legal, and security requirements for IT projects.
+subTitle: This exam measures your ability to understand Microsoft Dynamics 365; the Power Platform; cloud concepts; licensing options; and deployment and release options.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVu
+scheduleExamUrl: https://examregistration.microsoft.com/
+locales:
+- en
+- ja
+levels:
+- beginner
+skills:
+- Understand Dynamics 365 (40-45%)
+- Understand cloud concepts (25-30%)
+- Understand deployments and releases (20-25%)
+retirementDate: 12/31/2019
+roles:
+- developer
+products: 
+- dynamics-365
+courses:
+- uid: course.mb-900t01
+paths:
+- uid: learn-dynamics.wwl.dynamics-365-fundamentals
+relatedCertifications:
+- related:
+    uid: certification.d365-fundamentals
+resources:
+- title: Certification Learning Path
+  description: 'Discover training resources to become a Microsoft Certified: Dynamics 365 Fundamentals.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35v9m
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Certification poster
+  description: Check out an overview of fundamentals, role-based and specialty certifications.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Support for certification exams
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: ../help.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review the exam policies and frequently asked questions.
+  href: ../certification-exam-policies.md
