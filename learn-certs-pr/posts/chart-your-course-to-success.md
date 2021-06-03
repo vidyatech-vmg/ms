@@ -25,7 +25,8 @@ Learning a new set of tech skills and demonstrating them to employers can be cha
 
 Not ready to commit to becoming certified? Just want to gain some new skills in a particular area? No problem. Jump in! Choose some training and start learning. You can build on your achievements later, if you decide to go further. The path to certification is always open.
 
-## Step 2. Choose the learning paths, labs, and other resources that lead to your certification goal, and  get started at [Microsoft Learn](https://docs.microsoft.com/learn/browse/?WT.mc_id=mslearning82819__browse1-blog-wwl).
+## Step 2. This title was updated for updation purposes.
+(https://docs.microsoft.com/learn/browse/?WT.mc_id=mslearning82819__browse1-blog-wwl).
 
 It’s simple to find the path you need from the wealth of available resources. You can follow a Microsoft Learn guide that helps you plan for your selected role, such as a [Dynamics 365 for Marketing Functional Consultant](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35I7b). The guides suggest how to combine self-paced modular learning paths with hands-on labs and classroom experiences. Or you can navigate [Microsoft Learn](https://docs.microsoft.com/learn/browse/?WT.mc_id=mslearning82819__browse2-blog-wwl) on your own, filtering on your role and level of expertise to identify appropriate modular learning paths, like [Getting Started with Dynamics 365 for Marketing](https://docs.microsoft.com/learn/paths/get-started-with-marketing/?WT.mc_id=mslearning82819__dynamicsformarketing_path-blog-wwl), and hands-on trainings that help you develop practical skills, like [Work with portals in Dynamics 365](https://docs.microsoft.com/learn/paths/work-with-portals-in-dynamics-365/?WT.mc_id=mslearning82819__portalsindynamics_path-blog-wwl) or [Create a canvas app in PowerApps](https://docs.microsoft.com/learn/paths/create-powerapps/?WT.mc_id=mslearning82819__powerappscanvas_path-blog-wwl).
 
