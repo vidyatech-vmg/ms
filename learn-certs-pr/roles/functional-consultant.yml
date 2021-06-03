@@ -1,0 +1,171 @@
+### YamlMime:Role 
+title: Functional Consultant 
+metadata: 
+  title: Functional Consultant 
+  description: Functional Consultants leverage Microsoft Dynamics 365 and Microsoft Power Platform to anticipate and plan for customer needs. 
+uid: role.functional-consultant 
+summary: | 
+  Functional Consultants leverage Microsoft Dynamics 365 and Microsoft Power Platform to anticipate and plan for customer needs.
+subTitle: Functional Consultants leverage Microsoft Dynamics 365 and Microsoft Power Platform to anticipate and plan for customer needs.
+certificationPaths: 
+- title: Dynamics 365 Customer Service Functional Consultant
+  linkedInKeywords: Dynamics 365 Customer Service Functional Consultant
+  uid: certification-path.d365-functional-consultant-customer-service 
+  prerequisites: 
+  - uid: certification.d365-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.d365-functional-consultant-customer-service
+    levels:
+    - intermediate
+    
+- title: Dynamics 365 Field Service Functional Consultant
+  linkedInKeywords: Dynamics 365 Field Service Functional Consultant
+  uid: certification-path.d365-functional-consultant-field-service 
+  prerequisites: 
+  - uid: certification.d365-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.d365-functional-consultant-field-service
+    levels:
+    - intermediate
+
+- title: Dynamics 365 Finance Functional Consultant
+  linkedInKeywords: Dynamics 365 Finance Functional Consultant
+  uid: certification-path.d365-functional-consultant-financials 
+  prerequisites: 
+  - uid: certification.d365-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.d365-functional-consultant-financials
+    levels:
+    - intermediate
+
+
+- title: Dynamics 365 Manufacturing Functional Consultant
+  linkedInKeywords: Dynamics 365 Manufacturing Functional Consultant
+  uid: certification-path.d365-functional-consultant-manufacturing
+  prerequisites: 
+  - uid: certification.d365-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.d365-functional-consultant-manufacturing
+    levels:
+    - intermediate
+
+- title: Dynamics 365 Marketing Functional Consultant
+  linkedInKeywords: Dynamics 365 Marketing Functional Consultant
+  uid: certification-path.d365-functional-consultant-marketing 
+  prerequisites: 
+  - uid: certification.d365-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.d365-functional-consultant-marketing
+    levels:
+    - intermediate
+
+- title: Dynamics 365 Sales Functional Consultant
+  linkedInKeywords: Dynamics 365 Sales Functional Consultant
+  uid: certification-path.d365-functional-consultant-sales 
+  prerequisites: 
+  - uid: certification.d365-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.d365-functional-consultant-sales
+    levels:
+    - intermediate
+
+- title: Dynamics 365 Supply Chain Management Functional Consultant
+  linkedInKeywords: Dynamics 365 Supply Chain Management Functional Consultant
+  uid: certification-path.d365-functional-consultant-supply-chain-management
+  prerequisites: 
+  - uid: certification.d365-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.d365-functional-consultant-supply-chain-management
+    levels:
+    - intermediate
+
+- title: Power Platform Functional Consultant
+  linkedInKeywords: Power Platform Functional Consultant
+  uid: certification-path.power-platform-functional-consultant-associate
+  prerequisites: 
+  - uid: certification.power-platform-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.power-platform-functional-consultant-associate
+    levels:
+    - intermediate
+
+- title: Dynamics 365 Business Central Functional Consultant
+  linkedInKeywords: Dynamics 365 Business Central Functional Consultant
+  uid: certification-path.d365-business-central-functional-consultant-associate
+  prerequisites: 
+  - uid: certification.d365-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.d365-business-central-functional-consultant-associate
+    levels:
+    - intermediate
+
+certifications:
+- uid: certification.d365-functional-consultant-customer-service
+  requiredExams:
+  - uid: exam.pl-200
+  - uid: exam.mb-230  
+
+- uid: certification.d365-functional-consultant-field-service
+  requiredExams:
+  - uid: exam.pl-200
+  - uid: exam.mb-240
+
+- uid: certification.d365-functional-consultant-financials
+  requiredExams:
+  - uid: exam.mb-300
+  - uid: exam.mb-310  
+
+
+- uid: certification.d365-functional-consultant-manufacturing
+  requiredExams:
+  - uid: exam.mb-300
+  - uid: exam.mb-320  
+
+- uid: certification.d365-functional-consultant-marketing
+  requiredExams:
+  - uid: exam.pl-200
+  - uid: exam.mb-220  
+
+- uid: certification.d365-functional-consultant-sales
+  requiredExams:
+  - uid: exam.pl-200
+  - uid: exam.mb-210  
+
+- uid: certification.d365-functional-consultant-supply-chain-management
+  requiredExams:
+  - uid: exam.mb-300
+  - uid: exam.mb-330  
+- uid: certification.power-platform-functional-consultant-associate
+  requiredExams:
+  - uid: exam.pl-200  
+- uid: certification.d365-business-central-functional-consultant-associate
+  requiredExams:
+  - uid: exam.mb-800
+resources:
+- title: Microsoft Training and Certifications Guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://aka.ms/TrainingCertDeck
+- title: Training and Certifications Poster
+  description: Choose your path to success with this training and certifications poster.
+  href: https://aka.ms/traincertposter
+- title: Support for certifications
+  href: ../help.md
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.

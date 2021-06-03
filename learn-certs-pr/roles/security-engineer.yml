@@ -1,0 +1,77 @@
+### YamlMime:Role 
+title: Security Engineer 
+metadata: 
+  title: Security Engineer 
+  description: Security Engineers implement security controls and threat protection, manage identity and access, and protect data, applications, and networks. 
+uid: role.security-engineer 
+summary: | 
+  Security Engineers implement security controls and threat protection, manage identity and access, and protect data, applications, and networks.
+subTitle: Security Engineers implement security controls and threat protection, manage identity and access, and protect data, applications, and networks.
+certificationPaths: 
+- title: Azure Security Engineer
+  linkedInKeywords: Azure Security Engineer
+  uid: certification-path.azure-security-engineer 
+  prerequisites: 
+  - uid: certification.azure-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.azure-security-engineer
+    levels:
+    - intermediate
+- title: Identity and Access Administrator
+  linkedInKeywords: Identity and Access Administrator
+  uid: certification-path.identity-and-access-administrator
+  prerequisites: 
+  - uid: certification.security-compliance-and-identity-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.identity-and-access-administrator
+    levels:
+    - intermediate
+- title: Information Protection Administrator
+  linkedInKeywords: Information Protection Administrator
+  uid: certification-path.information-protection-administrator
+  prerequisites: 
+  - uid: certification.security-compliance-and-identity-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.information-protection-administrator
+    levels:
+    - intermediate
+- title: Security Operations Analyst
+  linkedInKeywords: Security Operations Analyst
+  uid: certification-path.security-operations-analyst
+  prerequisites: 
+  - uid: certification.security-compliance-and-identity-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.security-operations-analyst
+    levels:
+    - intermediate
+certifications:
+- uid: certification.azure-security-engineer
+  requiredExams:
+  - uid: exam.az-500
+- uid: certification.security-operations-analyst
+  requiredExams:
+  - uid: exam.sc-200
+- uid: certification.identity-and-access-administrator
+  requiredExams:
+  - uid: exam.sc-300
+- uid: certification.information-protection-administrator
+  requiredExams:
+  - uid: exam.sc-400
+resources:
+- title: Microsoft Training and Certifications Guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://aka.ms/TrainingCertDeck
+- title: Training and Certifications Poster
+  description: Choose your path to success with this training and certifications poster.
+  href: https://aka.ms/traincertposter
+- title: Support for certifications
+  href: ../help.md
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.

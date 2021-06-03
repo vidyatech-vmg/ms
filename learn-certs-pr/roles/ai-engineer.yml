@@ -1,0 +1,35 @@
+### YamlMime:Role 
+title: AI Engineer 
+metadata: 
+  title: AI Engineer 
+  description: AI Engineers use Cognitive Services, Machine Learning, and Knowledge Mining to architect and implement Microsoft AI solutions. 
+uid: role.ai-engineer 
+summary: | 
+  AI Engineers use Cognitive Services, Machine Learning, and Knowledge Mining to architect and implement Microsoft AI solutions.
+subTitle: AI Engineers use Cognitive Services, Machine Learning, and Knowledge Mining to architect and implement Microsoft AI solutions.
+certificationPaths: 
+- title: Azure AI Engineer
+  linkedInKeywords: Azure AI Engineer
+  uid: certification-path.azure-ai-engineer 
+  prerequisites: 
+  - uid: certification.azure-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.azure-ai-engineer
+    levels:
+    - intermediate  
+certifications:
+- uid: certification.azure-ai-engineer
+  requiredExams:
+  - uid: exam.ai-102
+resources:
+- title: Microsoft Training and Certifications Guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://aka.ms/TrainingCertDeck
+- title: Training and Certifications Poster
+  description: Choose your path to success with this training and certifications poster.
+  href: https://aka.ms/traincertposter
+- title: Support for certifications
+  href: ../help.md
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.

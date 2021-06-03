@@ -1,0 +1,42 @@
+### YamlMime:Certification
+title: 'MTA: Networking Fundamentals'
+metadata:
+  title: 'MTA: Networking Fundamentals'
+  description: 'MTA: Networking Fundamentals'
+uid: certification.mta-networking-fundamentals
+iconUrl: /media/learn/certification/badges/mta-badge.svg
+summary: |-
+  <div><font color='red'><strong>This MTA certification will retire on June 30, 2022. The associated exam must be purchased by June 30, 2021, and must be taken within one year, by June 30, 2022. Refer to <a href="/learn/certifications/mta-retirement-faqs">the FAQ</a> for more details.</strong></font></br></br></div>
+  
+  MTA certifications are a great place to start if you would like to get into the technology field. MTA certifications address a wide spectrum of fundamental technical concepts, assess and validate core technical knowledge, and enhance technical credibility. Note&#58; MTA exams do not qualify for MCP certification, nor are they a prerequisite for MCSA or MCSD certification.
+subTitle: 'MTA certifications are a great place to start if you would like to get into the technology field. MTA certifications address a wide spectrum of fundamental technical concepts, assess and validate core technical knowledge, and enhance technical credibility. Note: MTA exams do not qualify for MCP certification, nor are they a prerequisite for MCSA or MCSD certification.'
+levels:
+- beginner
+skills:
+- none
+roles:
+- administrator
+type: mta
+products:
+- windows-server
+exams:
+- uid: exam.98-366
+resources:
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://aka.ms/TrainingCertDeck
+- title: Certification poster
+  description: Check out an overview of fundamentals, role-based and specialty certifications.
+  href: https://aka.ms/traincertposter
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Support for certifications
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: ../help.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Share your certification badges
+  description: Celebrate your accomplishment with your network. Claim your Microsoft Certification badge, and add it to LinkedIn, your résumé, and more.
+  href: ../badges.md

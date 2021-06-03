@@ -1,0 +1,181 @@
+### YamlMime:Role 
+title: Administrator 
+metadata: 
+  title: Administrator 
+  description: Administrators implement, monitor, and maintain Microsoft solutions, including major services related to compute, storage, network, and security.
+uid: role.administrator 
+summary: | 
+  Administrators implement, monitor, and maintain Microsoft solutions, including major services related to compute, storage, network, and security.
+subTitle: Administrators implement, monitor, and maintain Microsoft solutions.
+certificationPaths: 
+- title: Azure Administrator
+  linkedInKeywords: Azure Administrator
+  uid: certification-path.azure-administrator 
+  prerequisites: 
+  - uid: certification.azure-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.azure-administrator
+    levels:
+    - intermediate
+- title: Microsoft 365 Messaging Administrator Associate
+  linkedInKeywords: Microsoft 365 Messaging Administrator Associate
+  uid: certification-path.m365-messaging-administrator
+  prerequisites: 
+  - uid: certification.microsoft-365-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.m365-messaging-administrator
+    levels:
+    - intermediate
+- title: Microsoft 365 Modern Desktop Administrator Associate
+  linkedInKeywords: Microsoft 365 Modern Desktop Administrator Associate
+  uid: certification-path.modern-desktop
+  prerequisites: 
+  - uid: certification.microsoft-365-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.modern-desktop
+    levels:
+    - intermediate
+- title: Microsoft 365 Security Administrator Associate
+  linkedInKeywords: Microsoft 365 Security Administrator Associate
+  uid: certification-path.m365-security-administrator
+  prerequisites: 
+  - uid: certification.microsoft-365-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.m365-security-administrator
+    levels:
+    - intermediate
+- title: Microsoft 365 Teamwork Administrator Associate
+  linkedInKeywords: Microsoft 365 Teamwork Administrator Associate
+  uid: certification-path.m365-teamwork-administrator
+  prerequisites: 
+  - uid: certification.microsoft-365-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.m365-teamwork-administrator
+    levels:
+    - intermediate
+- title: Microsoft Teams Administrator
+  linkedInKeywords: Microsoft Teams Administrator
+  uid: certification-path.m365-teams-administrator-associate
+  prerequisites: 
+  - uid: certification.microsoft-365-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.m365-teams-administrator-associate
+    levels:
+    - intermediate
+- title: Identity and Access Administrator
+  linkedInKeywords: Identity and Access Administrator
+  uid: certification-path.identity-and-access-administrator
+  prerequisites: 
+  - uid: certification.security-compliance-and-identity-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.identity-and-access-administrator
+    levels:
+    - intermediate
+- title: Information Protection Administrator
+  linkedInKeywords: Information Protection Administrator
+  uid: certification-path.information-protection-administrator
+  prerequisites: 
+  - uid: certification.security-compliance-and-identity-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.information-protection-administrator
+    levels:
+    - intermediate
+- title: Enterprise Administrator Expert
+  linkedInKeywords: Enterprise Administrator Expert
+  uid: certification-path.m365-enterprise-administrator
+  prerequisites: 
+  - uid: certification.power-platform-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.modern-desktop
+    levels:
+    - intermediate
+  - uid: certification.m365-security-administrator
+    levels:
+    - intermediate
+  - uid: certification.m365-messaging-administrator
+    levels:
+    - intermediate
+  - uid: certification.m365-teams-administrator-associate
+    levels:
+    - intermediate
+  - uid: certification.identity-and-access-administrator
+    levels:
+    - intermediate
+  - uid: certification.m365-enterprise-administrator
+    levels:
+    - advanced
+- title: Azure Stack Hub Administrator
+  linkedInKeywords: Azure Stack Hub Administrator
+  uid: certification-path.azure-stack-hub-operator
+  prerequisites: 
+  - uid: certification.power-platform-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.azure-stack-hub-operator
+    levels:
+    - intermediate
+certifications:
+- uid: certification.azure-administrator
+  requiredExams:
+  - uid: exam.az-104
+- uid: certification.azure-for-sap-workloads-specialty
+  requiredExams:
+  - uid: exam.az-120
+- uid: certification.windows-virtual-desktop-specialty
+  requiredExams:
+  - uid: exam.az-140
+- uid: certification.azure-stack-hub-operator
+  requiredExams:
+  - uid: exam.az-600
+- uid: certification.m365-messaging-administrator
+  requiredExams:
+  - uid: exam.ms-203
+- uid: certification.modern-desktop
+  requiredExams:
+  - uid: exam.md-100
+  - uid: exam.md-101
+- uid: certification.m365-security-administrator
+  requiredExams:
+  - uid: exam.ms-500
+- uid: certification.m365-enterprise-administrator
+  requiredExams:
+  - uid: exam.ms-100
+  - uid: exam.ms-101
+- uid: certification.m365-teams-administrator-associate
+  requiredExams:
+  - uid: exam.ms-700
+- uid: certification.identity-and-access-administrator
+  requiredExams:
+  - uid: exam.sc-300
+- uid: certification.information-protection-administrator
+  requiredExams:
+  - uid: exam.sc-400
+resources:
+- title: Microsoft Training and Certifications Guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://aka.ms/TrainingCertDeck
+- title: Training and Certifications Poster
+  description: Choose your path to success with this training and certifications poster.
+  href: https://aka.ms/traincertposter
+- title: Support for certifications
+  href: ../help.md
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.

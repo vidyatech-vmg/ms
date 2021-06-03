@@ -1,0 +1,59 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Security Operations Analyst Associate'
+metadata:
+  title: 'Microsoft Certified: Security Operations Analyst Associate'
+  description: The Microsoft Security Operations Analyst collaborates with organizational stakeholders to secure information technology systems for the organization. Their goal is to reduce organizational risk by rapidly remediating active attacks in the environment, advising on improvements to threat protection practices, and referring violations of organizational policies to appropriate stakeholders.
+uid: certification.security-operations-analyst
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  The Microsoft Security Operations Analyst collaborates with organizational stakeholders to secure information technology systems for the organization. Their goal is to reduce organizational risk by rapidly remediating active attacks in the environment, advising on improvements to threat protection practices, and referring violations of organizational policies to appropriate stakeholders.
+  
+  Responsibilities include threat management, monitoring, and response by using a variety of security solutions across their environment. The role primarily investigates, responds to, and hunts for threats using Microsoft Azure Sentinel, Azure Defender, Microsoft 365 Defender, and third-party security products. Since the security operations analyst consumes the operational output of these tools, they are also a critical stakeholder in the configuration and deployment of these technologies.
+subTitle: The Microsoft Security Operations Analyst collaborates with organizational stakeholders to secure information technology systems for the organization. Their goal is to reduce organizational risk by rapidly remediating active attacks in the environment, advising on improvements to threat protection practices, and referring violations of organizational policies to appropriate stakeholders.
+levels:
+- intermediate
+skills:
+- Mitigate threats using Microsoft 365 Defender
+- Mitigate threats using Azure Defender
+- Mitigate threats using Azure Sentinel
+roles:
+- security-engineer
+- security-operations-analyst
+type: role-based
+products:
+- azure
+- azure-sentinel
+- m365-threat-protection
+courses:
+- uid: course.sc-200t00
+paths:
+- uid: learn.wwl.sc-200-mitigate-threats-using-microsoft-defender-for-endpoint
+- uid: learn.wwl.sc-200-mitigate-threats-using-microsoft-365-defender
+- uid: learn.wwl.sc-200-mitigate-threats-using-azure-defender
+- uid: learn.wwl.sc-200-utilize-kql-for-azure-sentinel
+- uid: learn.wwl.sc-200-configure-your-azure-sentinel-environment
+- uid: learn.wwl.sc-200-connect-logs-to-azure-sentinel
+- uid: learn.wwl.sc-200-create-detections-perform-investigations-azure-sentinel
+- uid: learn.wwl.sc-200-perform-threat-hunting-azure-sentinel
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp4
+exams:
+- uid: exam.sc-200
+resources:
+- title: Certification poster
+  description: Check out an overview including fundamentals, role-based and specialty certifications for Dynamics 365 and Power Platform.
+  href: https://aka.ms/traincertposter
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://aka.ms/TrainingCertDeck
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Support for certifications
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: ../help.md
+- title: Share your certification badges
+  description: Celebrate your accomplishment with your network. Claim your Microsoft Certification badge, and add it to LinkedIn, your résumé, and more.
+  href: ../badges.md
