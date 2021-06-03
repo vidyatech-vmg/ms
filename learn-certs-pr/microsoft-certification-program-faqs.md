@@ -49,7 +49,7 @@ ms.prod: non-product-specific
 
 **A:** To access your Microsoft Certification profile, please follow the steps below:  
 
-1. Visit [Microsoft Learning](https://www.microsoft.com/learning/)
+1. Visit [Microsoft Learning](/learn/certifications/)
 2. Select Your [Dashboard](https://aka.ms/certdashboard) found in the top navigation bar
 3. Sign in with the Microsoft account (Windows Live ID) and password that you used to create your Microsoft Certification profile.
 
@@ -80,7 +80,7 @@ To keep your account active, please access your Microsoft Certification profile 
 
 **A:** To sign on to your Microsoft Certification profile, follow the steps below:
  
-1. Visit [Microsoft Learning](https://www.microsoft.com/learning/)
+1. Visit [Microsoft Learning](/learn/certifications/)
 2. Select Your [Dashboard](https://aka.ms/certdashboard) found in the top navigation bar
 3. Sign in with the Microsoft account (Windows Live ID) and password that you used to create your Microsoft Certification profile.
 

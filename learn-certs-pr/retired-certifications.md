@@ -1,6 +1,6 @@
 ---
-title: Microsoft Retired Certifications | Microsoft Docs
-description: Microsoft Retired Certifications
+title: Certification retirement | Microsoft Docs
+description: Certification retirement
 documentationcenter: NA
 author: micsullivan
 ms.topic: article
@@ -10,13 +10,15 @@ ms.date: 07/30/2019
 ms.author: msulliv
 ms.prod: non-product-specific
 ---
-# Certification Retirement Information
+# Certification retirement
 
-In order to keep the Microsoft Certified Professional program current, Microsoft Learning continually reviews our current and planned certifications to ensure that our certifications reflect the latest Microsoft technologies as well as those technologies that Microsoft Certified Professionals use every day.
+## Why certifications get retired
+
+Technology and associated job roles change faster every year. To keep our certification program relevant, we continually review our exams and certifications to ensure they reflect the latest skills and Microsoft technologies and retire those that are no longer relevant. Our goal is to empower candidates to be on the leading edge of tech, in high demand cloud-based job roles, and we do this by providing certifications for critical job roles that help organizations with their digital transformations. For more details on this, visit: [Updating Microsoft Certifications: How we keep them relevant – Microsoft Tech Community.](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/updating-microsoft-certifications-how-we-keep-them-relevant/ba-p/1469425)
 
 ## Certifications scheduled to retire
 
-Find certifications scheduled to be retired in the next 12 months. (The information that follows is subject to change.)  
+Certifications scheduled to be retired in the next 12 months are listed here. (This information is subject to change.)  
 
 |                                             |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
@@ -35,11 +37,11 @@ Find certifications scheduled to be retired in the next 12 months. (The informat
 | [MTA: Introduction to Programming Using JavaScript](/learn/certifications/mta-introduction-to-programming-using-javascript) | Retiring on June 30, 2022 |
 | [MTA: Mobility and Device Fundamentals](/learn/certifications/mta-mobility-and-device-fundamentals) | Retiring on June 30, 2022 |
 
-## Retired certifications
+## Recently retired certifications 
 
-Find certifications that have been retired within the last year. When a certification has been retired for more than one year, it will be removed from this page. Once a certification has been retired, it will no longer be able to be attained, but, if it has already earned, it will remain on transcripts in the Active section.
+These certifications have been retired within the last year. When a certification has been retired for more than one year, it will be removed from this page. Once a certification has been retired, it will no longer be available in the Microsoft Learn course or certification offerings. If you earned a certification before it was retired, it will remain on your transcript.
 
-NOTE: After a certification retires, Microsoft continues to review the corresponding technologies to determine whether they are still relevant. If the corresponding technology is determined to no longer be relevant, the associated certifications are moved to the Certification History section of the transcript.
+Certifications will remain in the Active section of your transcript for two years after they retire. After two years, they will be moved to the Certification History section of your transcript.
 
 | Role-based                                                                         |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |

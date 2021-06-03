@@ -1,6 +1,6 @@
 ---
-title: Microsoft Retired Courses | Microsoft Docs
-description: Microsoft Retired Courses
+title: Course retirement | Microsoft Docs
+description: Course retirement
 documentationcenter: NA
 author: micsullivan
 ms.topic: article
@@ -10,82 +10,42 @@ ms.date: 07/30/2019
 ms.author: msulliv
 ms.prod: non-product-specific
 ---
-# Retired courseware
+# Course retirement
 
-The following tables list courseware which is either retired or will retire soon. After their retirement dates, courses are no longer sold.
+## About course retirement
 
-If you are looking for MOC On-Demand retired courses, please follow this link: [https://docs.microsoft.com/learn/certifications/retired-on-demand-online-courses](/learn/certifications/retired-on-demand-online-courses)
+Microsoft continuously monitors industry trends and revises certification requirements to keep pace with changes in technology. To help you be on the leading edge of technology and offer you the most relevant training opportunities, we regularly introduce new courses and revise or discontinue older courses.
 
-## Retired courseware: Instructor-led training
+Once a course is retired, it’s no longer available. The course cannot be purchased anymore and people who previously purchased it will no longer have access to the courseware.
+
+## Retired courses: Instructor-led training
+
+* Courseware retirements on June 30th, 2021
+
+    | Course number | Version | Title | Language | Retirement date |
+    | --- | --- | --- | --- | --- |
+    | AI-100T01 | A | Designing and Implementing an Azure AI Solution | English | 6/30/2021 |
+    | DP-200T01 | A | Implementing an Azure Data Solution | English | 6/30/2021 |
+    | DP-201T01 | A | Designing an Azure Data Solution | English | 6/30/2021 |
+    | MB-600T00 | A | Microsoft Dynamics 365 + Power Platform Solution Architect | English | 6/30/2021 |
+    | MB-901T00 | A | Microsoft Dynamics 365 Fundamentals | English | 6/30/2021 |
+    | AI-100T01JA | A | Designing and Implementing an Azure AI Solution | Japanese | 6/30/2021 |
+    | AI-100T01KO | A | Designing and Implementing an Azure AI Solution | Korean | 6/30/2021 |
+    | AI-100T01ZH | A | Designing and Implementing an Azure AI Solution | Simplified Chinese | 6/30/2021 |
+
+* Courseware retirements on May 31st, 2021
+
+    | Course number | Version | Title | Language | Retirement date |
+    | --- | --- | --- | --- | --- |
+    | 40519 | A | Microsoft Cloud Workshop: SAP NetWeaver on Azure | English | 5/31/2021 |
+    | 40527 | A | Microsoft Cloud Workshop: Security baseline on Azure | English | 5/31/2021 |
+    | 40529 | A | Microsoft Cloud Workshop: High Performance Computing | English | 5/31/2021 |
 
 * Courseware retirements on April 30th, 2021
 
     | Course number | Version | Title | Language | Retirement date |
-    | --- | --- | --- | --- | --- |
-    | 10266 | A | Programming in C# with Microsoft Visual Studio 2010 | English | 04/30/2021 |
-    | 10710 | A | Configuring, Managing and Troubleshooting Microsoft Exchange Server 2010 | Spanish | 04/30/2021 |
-    | 10964 | C | Cloud & Datacenter Monitoring with System Center Operations Manager | English | 04/30/2021 |
-    | 10965 | D | IT Service Management with System Center Service Manager | English | 04/30/2021 |
-    | 10972 | B | Administering the Web Server (IIS) Role of Windows Server | English | 04/30/2021 |
-    | 10986 | B | Updating Your Skills to SQL Server 2016 | English | 04/30/2021 |
-    | 10998 | A | Updating your skills to SQL Server 2017 | English | 04/30/2021 |
-    | 20334 | C | Core Solutions of Skype for Business 2015/2019 | English | 04/30/2021 |
-    | 20410 | D | Installing and Configuring Windows Server 2012 | English | 04/30/2021 |
-    | 20411 | D | Administering Windows Server 2012 | English | 04/30/2021 |
-    | 20412 | D | Configuring Advanced Windows Server 2012 Services | English | 04/30/2021 |
-    | 20413 | C | Designing and Implementing a Server Infrastructure | English | 04/30/2021 |
-    | 20414 | C | Implementing an Advanced Server Infrastructure | English | 04/30/2021 |
-    | 20417 | D | Upgrading Your Skills to MCSA Windows Server 2012 | English | 04/30/2021 |
-    | 20461 | D | Querying Microsoft SQL Server 2014 | English | 04/30/2021 |
-    | 20462 | D | Administering Microsoft SQL Server Databases | English | 04/30/2021 |
-    | 20463 | D | Implementing a Data Warehouse with Microsoft SQL Server | English | 04/30/2021 |
-    | 20464 | D | Developing Microsoft SQL Server Databases | English | 04/30/2021 |
-    | 20465 | D | Designing a Data Solution with SQL Server | English | 04/30/2021 |
-    | 20466 | D | Implementing Data Models and Reports with SQL Server | English | 04/30/2021 |
-    | 20467 | D | Designing Self-Service Business Intelligence and Big Data Solutions | English | 04/30/2021 |
-    | 20486 | C | Developing ASP.NET MVC 5 Web Applications | English | 04/30/2021 |
-    | 20487 | D | Developing Microsoft Azure and Web Services | English | 04/30/2021 |
+    | --- | --- | --- | --- | --- | 
     | 20537 | B | Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack | English | 04/30/2021 |
-    | 20694 | B | Virtualizing Enterprise Desktops and Apps | English | 04/30/2021 |
-    | 20743 | C | Upgrading Your Skills to MCSA: Windows Server 2016 | English | 04/30/2021 |
-    | 21410 | D | Installieren und Konfigurieren von Windows Server 2012 | German | 04/30/2021 |
-    | 21411 | D | Verwalten von Windows Server 2012 | German | 04/30/2021 |
-    | 21412 | D | Konfigurieren von Advanced Windows Server 2012 | German | 04/30/2021 |
-    | 21413 | B | Entwerfen und Implementieren einer Windows Server-Infrastruktur | German | 04/30/2021 |
-    | 21414 | B | Implementieren einer Advanced Windows Server-Infrastruktur | German | 04/30/2021 |
-    | 21417 | B | Erweitern der Kenntnisse auf MCSA für Windows Server 2012 | German | 04/30/2021 |
-    | 21461 | A | Abfragen in Microsoft SQL Server 2012 | German | 04/30/2021 |
-    | 21462 | A | Verwalten von Microsoft SQL Server 2012-Datenbanken | German | 04/30/2021 |
-    | 21463 | A | Implementieren eines Data Warehouse mit Microsoft SQL Server 2012 | German | 04/30/2021 |
-    | 21743 | B | Upgrading Your Skills to MCSA: Windows Server 2016 | German | 04/30/2021 |
-    | 22410 | B | Installation et configuration de Windows Server 2012 | French | 04/30/2021 |
-    | 22411 | B | Administration de Windows Server 2012 | French | 04/30/2021 |
-    | 22412 | B | Configuration des services avancés de Windows Server 2012 | French | 04/30/2021 |
-    | 22414 | B | Implementing an Advanced Server Infrastructure | French | 04/30/2021 |
-    | 22417 | B | Mise à niveau des connaissances vers le MCSA Windows Server 2012 | French | 04/30/2021 |
-    | 22461 | A | Exécution d'une requête sur Microsoft SQL Server 2012 | French | 04/30/2021 |
-    | 22462 | A | Administration de bases de données Microsoft SQL Server 2012 | French | 04/30/2021 |
-    | 22463 | A | Implémentation d'un entrepôt de données avec Microsoft SQL Server 2012 | French | 04/30/2021 |
-    | 22743 | C | Upgrading Your Skills to MCSA: Windows Server 2016 (French) | French | 04/30/2021 |
-    | 23410 | B | Installing and Configuring Windows Server® 2012 | Japanese | 04/30/2021 |
-    | 23411 | B | Administering Windows Server 2012 | Japanese | 04/30/2021 |
-    | 23412 | B | Configuring Advanced Windows Server® 2012 Services | Japanese | 04/30/2021 |
-    | 23413 | B | Designing and Implementing a Server Infrastructure | Japanese | 04/30/2021 |
-    | 23414 | B | Implementing an Advanced Server Infrastructure | Japanese | 04/30/2021 |
-    | 24410 | B | Instalação e Configuração do Windows Server 2012 | Brazilian | 04/30/2021 |
-    | 24411 | B | Administração do Windows Server 2012 | Brazilian | 04/30/2021 |
-    | 24412 | B | Configuração Avançada do Windows Server 2012 | Brazilian | 04/30/2021 |
-    | 28480 | B | Programming in HTML5 with JavaScript and CSS3 | Chinese Simplified | 04/30/2021 |
-    | 28761 | A | Querying Data with Transact-SQL | Chinese Simplified | 04/30/2021 |
-    | 28764 | A | Administering a SQL Database Infrastructure | Chinese Simplified | 04/30/2021 |
-    | 28765 | B | Provisioning SQL Databases | Chinese Simplified | 04/30/2021 |
-    | 29480 | B | Programming in HTML5 with JavaScript and CSS3 | Chinese Traditional | 04/30/2021 |
-    | 20339-1 | A | Planning and Administering SharePoint 2016 | English | 04/30/2021 |
-    | 20339-2 | A | Advanced Technologies of SharePoint 2016 | English | 04/30/2021 |
-    | 20345-1 | B | Administering Microsoft Exchange Server 2019 | English | 04/30/2021 |
-    | 20345-2 | B | Designing and Deploying Microsoft Exchange Server 2019 | English | 04/30/2021 |
-    | 21345-1 | A | Administering Microsoft Exchange Server 2016 | German | 04/30/2021 |
-    | 21697-1 | B | Installing and Configuring Windows 10 | German | 04/30/2021 |
 
 * Courseware retirements on March 31st, 2021
 
@@ -110,7 +70,7 @@ If you are looking for MOC On-Demand retired courses, please follow this link: [
 	| 40372 | A | Microsoft .NET Fundamentals: Training for MTA Exam 98-372 | English | 3/31/2021 |
     | 40373 | A | Mobile Development Fundamentals: Training for MTA Exam 98-373 | English | 3/31/2021 |
     | 40374 | A | Gaming Development Fundamentals: MTA Exam 98-374 | English | 3/31/2021 |
-    | 40375 | A | HTML5 Application Development Fundamentals: Training for MTA Exam 98-375 | English | 3/31/2021 |
+    | 40375 | A | HTML5 Application Development Fundamentals: Training for MTA Exam 98-375 | English | 3/31/2021 |    
 	
 * Courseware retirements on December 31st, 2020
 
@@ -1077,7 +1037,7 @@ If you are looking for MOC On-Demand retired courses, please follow this link: [
 
 * Courseware retirements on June 24, 2016
 
-  [Download the complete list of retiring e-learning courses](https://download.microsoft.com/download/5/3/3/533459F5-D96C-4E1E-96B1-C24C4156E09D/Courseware_Retirements_24-June-2016.xlsx)
+  [Download the complete list of retiring e-learning courses.](https://download.microsoft.com/download/5/3/3/533459F5-D96C-4E1E-96B1-C24C4156E09D/Courseware_Retirements_24-June-2016.xlsx)
 
 * Courseware retirements on June 15, 2016
 
@@ -1113,7 +1073,7 @@ If you are looking for MOC On-Demand retired courses, please follow this link: [
 
 * Courseware retirements on December 31, 2015
 
-  [Download the complete list of retiring instructor-led courses](https://download.microsoft.com/download/1/0/4/104B6188-258F-43A4-9E61-CD59B9189850/2015-12-31ILT-MSDynamicsRetirement-FINAL.xlsx)
+  [Download the complete list of retiring instructor-led courses.](https://download.microsoft.com/download/1/0/4/104B6188-258F-43A4-9E61-CD59B9189850/2015-12-31ILT-MSDynamicsRetirement-FINAL.xlsx)
 
 * Courseware retirements on August 31, 2015
 
@@ -1134,7 +1094,7 @@ If you are looking for MOC On-Demand retired courses, please follow this link: [
 
 * Courseware retirements on June 30, 2015
 
-  [Download the complete list of retiring instructor-led learning courses](https://download.microsoft.com/download/1/3/5/135A26DA-2550-49CA-B1AB-1BD7A7DDEE88/DynamicsCoursewareRetirement_30June2015.xlsx)
+  [Download the complete list of retiring instructor-led learning courses.](https://download.microsoft.com/download/1/3/5/135A26DA-2550-49CA-B1AB-1BD7A7DDEE88/DynamicsCoursewareRetirement_30June2015.xlsx)
 
 * Courseware retirements on January 31, 2015
 
@@ -1227,8 +1187,8 @@ If you are looking for MOC On-Demand retired courses, please follow this link: [
 
 * Courseware retirements on December 29, 2017
 
-  * [Download the complete list of retiring SA e-learning courses](https://download.microsoft.com/download/5/1/2/51253E23-7457-488A-B938-2587113B37C5/SA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
-  * [Download the complete list of retiring MSIA e-learning courses](https://download.microsoft.com/download/1/3/1/13135A65-5895-4CBA-864A-69E87DD0A2F2/MSIA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
+  * [Download the complete list of retiring SA e-learning courses.](https://download.microsoft.com/download/5/1/2/51253E23-7457-488A-B938-2587113B37C5/SA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
+  * [Download the complete list of retiring MSIA e-learning courses.](https://download.microsoft.com/download/1/3/1/13135A65-5895-4CBA-864A-69E87DD0A2F2/MSIA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
 
 * Courseware retirements on August 15, 2017
 
@@ -1238,62 +1198,57 @@ If you are looking for MOC On-Demand retired courses, please follow this link: [
 
 * Courseware retirements on June 30, 2017
 
-  * [Download the complete list of retiring SA e-learning courses](https://download.microsoft.com/download/5/1/2/512E5543-1DB2-4971-9DE6-95F9665746EA/SA_E-Learning-Retirement-List-30June2017.xlsx)
-  * [Download the complete list of retiring MSIA e-learning courses](https://download.microsoft.com/download/F/A/2/FA29ECE7-82E7-4335-93B4-D7575D59935A/MSIALearning-Retirement-List-30June2017.xlsx)
+  * [Download the complete list of retiring SA e-learning courses.](https://download.microsoft.com/download/5/1/2/512E5543-1DB2-4971-9DE6-95F9665746EA/SA_E-Learning-Retirement-List-30June2017.xlsx)
+  * [Download the complete list of retiring MSIA e-learning courses.](https://download.microsoft.com/download/F/A/2/FA29ECE7-82E7-4335-93B4-D7575D59935A/MSIALearning-Retirement-List-30June2017.xlsx)
 
 * Courseware retirements on June 30, 2015
 
-  * [Download the complete list of retiring e-learning courses](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/E-Learning-Retirement-List-30June15.xlsx)
+  * [Download the complete list of retiring e-learning courses.](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/E-Learning-Retirement-List-30June15.xlsx)
 
 * Courseware retirements on March 12, 2014
 
-  * [Download the complete list of retiring e-learning courses](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/Retired_CourseList_12March2014.pdf)
+  * [Download the complete list of retiring e-learning courses.](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/Retired_CourseList_12March2014.pdf)
 
-## Courseware and MOC On-Demand Retirement Frequently Asked Questions (FAQ)
- 
-**Q: Why are courses retired?**
-  
-Microsoft continuously monitors industry trends and revises certification requirements to keep pace with changes in technology. To ensure that we offer you the most relevant training opportunities, we regularly introduce new courses and revise or discontinue older courses. 
+## Retired courses: MOC On-Demand
 
-**Q: What criteria are used to determine that a course should be retired?**
+All Microsoft Official Course (MOC) On-Demand courses have been retired as of June 30, 2020. For a complete list of the retired courses, visit: [MOC On-Demand Courses are Retired](/learn/certifications/retired-on-demand-online-courses).
+
+## Frequently asked questions about course and MOC On-Demand retirement
  
+**What criteria are used to determine that a course should be retired?**
+
 Typically, a course will be retired in one of the following scenarios:
-
 - The course has been replaced. A new course is released which replaces one or more previous courses and which covers the material in a substantially new manner.
-- If the technology covered in a course is no longer supported by Microsoft, the courseware will typically be retired.
+- If the technology covered in a course is no longer supported by Microsoft, the course will typically be retired.
 - Business decisions related to the success of a course or the costs of keeping a course up to date may lead to retirement.
-- The certification is retired. If the course was designed for a certification that is no longer offered, the courseware may be retired.
+- The certification is retired. If the course was designed for a certification that is no longer offered, the course may be retired.
 - Courses that are offered by non-Microsoft authors through the community-authoring program may be retired for any reason, at the author’s request.
 - Quality concerns may result in course retirement. If quality concerns are identified with a course, it may be retired until the quality can be improved.
-  
-**Q: How will I know if a course is retired?**
-  
+
+**How will I know if a course is retired?**
+
 Microsoft publishes a quarterly list of courses that are retired and those that are scheduled for retirement within the next three to six months. Retirement announcements are shared through communications with training partners, trainers, vendors, and other interested audiences. The course descriptions on the Microsoft Training Catalog and the Courseware Library Catalog are updated with an announcement of the retirement date.
 
-**Q: How can I purchase a course after its retirement date?**
+**How can I purchase a course after its retirement date?**
 
 After their retirement date, courses are no longer sold. The retirement date is published through the catalog webpage for each course and through regular communication channels for each audience. On the effective retirement date, the courseware is marked as no longer for sale. To avoid confusion, the course remains listed as not for sale for a period of time after the effective retirement, until it is archived and removed from the catalog entirely.
 
-**Q: Can I purchase the digital version of a course before retirement and download or use it after the retirement date?**
+**Can I purchase the digital version of a course before retirement and download or use it after the retirement date?**
 
 After the course is retired, you no longer have access to download it. If you downloaded or received the courseware prior to the retirement date, you may use it according to the licensing terms.
 
-**Q: What happens to retired courses that were assigned to me, prior to their retirement, in my Learning Plan and/or added under the “My Courses” section?**
+**What happens to retired courses that were assigned to me, prior to their retirement, in my Learning Plan and/or added under the “My Courses” section?**
 
-You will continue to see these courses in the “My Courses” section after their retirement, but attempting to launch a retired course will result in an error message.
+You will continue to see these courses in the “My Courses” section after their retirement but attempting to launch a retired course will result in an error message.
 
-**Q: If I didn’t complete a course before its retirement, will I be allowed to complete it after it has been retired?**
+**If I did not complete a course before its retirement, will I be allowed to complete it after it has been retired?**
 
 No. After a course is retired, you can no longer access it.
-  
-**Q: How will course activity reports reflect in-progress courses at the time of their retirement?**
+
+**How will course activity reports reflect in-progress courses at the time of their retirement?**
 
 The course activity reports reflect your progress on a course at the time of its retirement. For example, if a course is at 60% completion by a user when the course is retired, the course activity reports will show 60% completion progress. The completion percentage of a course cannot be changed after a course is retired.
 
-**Q: Will I still be able to find a retired course on the online learning site?**
+**Will I still be able to find a retired course on the online learning site?**
 
 No. Retired courses no longer appear in search results or in the course catalog.
-
-**Q: When a course retires, will the associated MOC On-Demand (MOD) retire also?**
-
-Yes. Because the MOD aligns with courseware, when a course retires, the MOD will retire on the same date.
