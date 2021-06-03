@@ -1,0 +1,123 @@
+### YamlMime:Course
+title: Maintaining Windows 10
+metadata:
+  title: 'Course MD-100T04-A: Maintaining Windows 10'
+  description: 'Course MD-100T04-A: Maintaining Windows 10'
+uid: course.md-100t04
+courseNumber: 'MD-100T04-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Use Windows troubleshooting and monitoring tools.
+- skill: Troubleshoot Windows installations.
+- skill: Troubleshoot application installation issues.
+- skill: Troubleshoot web browser settings.
+- skill: Troubleshoot Windows authentication.
+- skill: Troubleshoot hardware issues related to Windows machines.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- windows
+exams:
+- uid: exam.md-100
+summary: |-
+  In this course, students will learn how to manage and troubleshoot Windows 10. This course will deep-dive into the architecture and tools used for managing, monitoring, and troubleshooting the OS, Apps, and hardware. Students will learn about proactive and troubleshooting methodology, and how to identify and mitigate common issues.
+
+  #### Audience profile
+  Candidates for this exam are IT Professionals who perform installation, configuration, general local management, and maintenance of Windows 10 core services. Candidates may also be familiar with enterprise scenarios and cloud-integrated services.
+prerequisitesSection: |-
+  Learners should start this course already having the following skills&#58;
+  - Basic understanding of computer networks and hardware concepts.
+  - Basic understanding of OS and Application concepts.
+  - Experience with using the Windows OS.
+outlineSection: |-
+  ### Module  1&#58; Supporting the Windows 10 Environment
+  This module will cover the Windows 10 architecture and common environments. Students will be introduced to the various tools used in maintaining Windows. This module will also discuss methodologies for effectively troubleshooting issues and how to proactively manage and optimize Windows 10.
+  #### Lessons
+  - Troubleshooting Windows
+  - Troubleshooting Tools
+
+
+  #### Lab &#58; Practice Lab&#58; Monitoring Windows 10
+  - Monitoring Events
+  - Monitoring Reliability and Performance
+
+
+  After completing this module, students will be able to&#58;
+  - Describe the Windows architecture
+  - Describe key stages in troubleshooting
+  - Describe the purpose and benefits of the various tools in Windows
+  - Use monitoring tools to establish a performance baseline
+  - Optimize performance on Windows 10 clients
+
+
+  ### Module  2&#58; Troubleshooting the Windows OS
+  In this module, students will learn how to troubleshoot startup and service issues related to the operating system.  This module will teach the different startup and recovery options, and how to troubleshoot different Windows services.
+  #### Lessons
+  - Troubleshooting Windows Startup
+  - Troubleshooting Operating System Service Issues
+  - Troubleshooting Sign-In Issues
+
+
+  After completing this module, students will be able to&#58;
+  - Describe the various methods identifying and recovering from startup issues
+  - Describe when to use the various advanced startup options
+  - Identify and disable a failed service
+  - Identify and mitigate common locked account scenarios
+
+
+  ### Module  3&#58; Troubleshooting Files & Applications
+  This module helps students plan for file backup and recovery.  Students will learn how to plan and configure data protection strategies and how to perform various file and system recovery methods.  This module also includes common methods for troubleshooting application installation issues, compatibility issues, and resolving browser issues.
+  #### Lessons
+  - File Recovery in Windows 10
+  - Application Troubleshooting
+
+
+  #### Lab &#58; Troubleshooting Desktop Apps
+  - Troubleshooting AppLocker Policy Applications
+  - Troubleshooting Application Compatibility Issues
+  - Troubleshooting Microsoft Internet Explorer Issues
+  - Troubleshooting Microsoft Edge Issues
+
+
+  After completing this module, students will be able to&#58;
+  - Describe the different methods of file recovery
+  - Configure Windows 10 to support individual file and system recovery
+  - Recover a device using the Reset This PC function
+  - Solve application compatibility issues with the Application Compatibility Toolkit
+  - Troubleshoot common browser issues
+
+
+  ### Module  4&#58; Troubleshooting Hardware and Drivers
+  This module introduces hardware troubleshooting.  Students will learn about driver management and how to troubleshoot devices. Students will also learn steps for troubleshooting system hardware and external peripherals such as USB drives and printers, including diagnostic methods and remediation.
+  #### Lessons
+  - Troubleshooting Device Driver Failures
+  - Overview of Hardware Troubleshooting
+  - Troubleshooting Physical Failures
+
+
+  #### Lab &#58; Troubleshooting Device Driver Issues
+  - Troubleshooting a Missing Device Driver
+  - Resolving Hardware Problems
+  - Resolving device driver problem
+  - Configuring Group Policy Settings to Control Device Installation
+
+
+  After completing this module, students will be able to&#58;
+  - Troubleshoot and remediate driver issues
+  - Troubleshoot peripherals
+  - Diagnose and replace hardware
+
+
+  ### Module  5&#58; Course Conclusion
+  #### Lessons
+  - Final Exam
+
+
+  #### Lab &#58; Graded Lab

@@ -1,0 +1,138 @@
+### YamlMime:Course
+title: Migrate SQL workloads to Azure
+metadata:
+  title: 'Course DP-050T00-A: Migrate SQL workloads to Azure'
+  description: 'Course DP-050T00-A: Migrate SQL workloads to Azure'
+uid: course.dp-050t00
+courseNumber: 'DP-050T00-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Understand Data Platform Modernization
+- skill: Choose the right tools for Data Migration
+- skill: Migrate SQL Workloads to Azure Virtual Machines
+- skill: Migrate SQL Workloads to Azure SQL Databases
+- skill: Migrate SQL Workloads to Azure SQL Database Managed Instance
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- data-engineer
+products:
+- azure
+summary: |-
+  In this course, the students will explore the objectives of data platform modernization and how it is suitable for given business requirements. They will also explore each stage of the data platform modernization process and define what tasks are involved at each stage, such as the assessment and planning phase. Students will also learn the available migration tools and how they are suitable for each stage of the data migration process.
+  The student will learn how to migrate to the three target platforms for SQL based workloads; Azure Virtual Machines, Azure SQL Databases and Azure SQL Database Managed Instances. The student will learn the benefits and limitations of each target platform and how they can be used to fulfil both business and technical requirements for modern SQL workloads. The student will explore the changes that may need to be made to existing SQL based applications, so that they can make best use of modern data platforms in Azure.
+
+  #### Audience profile
+  The audience for this course is data professionals and data architects who want to learn about migrating data platform technologies that exist on Microsoft Azure and how existing SQL based workloads can be migrated and modernized.
+  The secondary audience for this course is individuals who manage data platforms or develop applications that deliver content from the existing data platform technologies.
+prerequisitesSection: |-
+  Successful students start this role with a fundamental knowledge of cloud computing concepts and professional experience in implementing SQL solutions.
+  
+  Specifically&#58;
+  -	Working with and maintaining SQL workloads 
+  - Experience with Azure, such as deploying and managing resources
+  
+  To gain these skills, take the following free online training before attending the course&#58;
+  -	[Introduction to Azure SQL](/learn/modules/azure-sql-intro/)
+  -	[Azure Fundamentals](/learn/certifications/azure-fundamentals)
+outlineSection: |-
+  ### Module  1&#58; Introducing Data Platform Modernization
+  In this module, the students will learn the purpose of Data Platform Modernization and they will outline the benefits that data platform modernization can bring to an organization. The students will then learn the various stages of a data platform migration projects to understand what is involve in each stage to maximise the chances of a successful Data Platform Modernization Projects. Finally, students will explore the various data migration paths to understand how each approach is different and why you would choose one migration approach over another.
+  #### Lessons
+  - Understand Data Platform Modernization
+  - Understanding the stages of migration
+  - Data Migration Paths
+
+
+  #### Lab &#58; Introducing Data Platform Modernization
+  - Understand Data Platform Modernization
+  - Understand the Stages of Migration
+  - Data Migration Paths
+
+  After completing this module, students will be able to&#58;
+  - Understand Data Platform Modernization
+  - Understand the Stages of Migration
+  - Data Migration Paths
+
+
+  ### Module  2&#58; Choose the right tools for Data Migration
+  In this module, the student will be introduced to the Data Migration Guide as a starting point for the source of information that your organization should use for step by step guidance for modernizing your existing data platform. They will then learn the value of the Microsoft Assessment and Planning Toolkit to help discover the data assets that currently exist in their environments.
+  The students will then learn the tools that can be used to help them to asses for compatibility or workload issues using both the Data Migration and Data Experimentation Assistant. The students will then see how the Azure Database Migration Service can be used to aid online migration of databases to reduce the amount of downtime. Finally, an overview of the SQL Migration assistant is provided to show student how to migrate no-SQL Server workloads.
+
+  #### Lessons
+  - Discover the Database Migration Guide
+  - Build your data estate inventory using Map Toolkit
+  - Identify Migration candidates using Data Migration Assistant
+  - Evaluate a Data workload using Database Experimentation Assistant
+  - Data Migration using Azure Database Migration Service
+  - Migrate non-SQL Server workloads to Azure using SQL Migration Assistant
+
+
+  #### Lab &#58; Choose the right Tools for Data Migration
+  - Identify Migration candidates using Data Migration Assistant
+  - Evaluate a Data workload using Database Experimentation Assistant
+
+  After completing this module, students will be able to&#58;
+  - Identify Migration candidates using Data Migration Assistant
+  - Evaluate a Data workload using Database Experimentation Assistant
+
+
+  ### Module  3&#58; Migrating SQL Workloads to Azure Virtual Machines
+  In this module, the student will learn how to migrate on-premises SQL workloads to Azure Virtual Machines that are running SQL Server. Students will first explore the migration consideration when migrating from on-premises SQL Server to Azure Virtual Machines and the benefits they can gain by performing the migration.
+
+  They will then learn the different migration options that can be performed when migrating to Azure Virtual Machines. This will include a look at the benefits and limitations of each approach. The students will finally look at SQL Server workloads that include High Availability and Disaster Recovery to ensure service continuity.
+
+  #### Lessons
+  - Considerations of SQL Server to Azure VM Migrations
+  - SQL Workloads to Azure VM Migration Options
+  - Implementing High Availability and Disaster Recovery Scenarios
+
+
+  #### Lab &#58; Migrating SQL Workloads to Azure Virtual Machines
+  After completing this module, students will be able to&#58;
+  - Considerations of SQL Server to Azure VM Migrations
+  - SQL Workloads to Azure VM Migration Options
+  - Implementing High Availability and Disaster Recovery Scenarios
+
+
+  ### Module  4&#58; Migrate SQL Workloads to Azure SQL Databases
+  In this module, the students will explore what is Azure SQL Database and why it is a suitable target for SQL based workloads. It teaches students how to choose the appropriate SQL Server instance option and why it can fulfil business requirements for data platform modernization.
+
+  The modules will also show students how they can perform both offline and online migrations to Azure SQL Database. By doing so, they can assess which method maybe appropriate to their scenarios at work. It will also show the tools that can be used to enable the data migration process. Finally, they will explore the methods that can be used to load data into Azure SQL Database from an on-premises instance.
+
+  #### Lessons
+  - Choose the right SQL Server Instance option in Azure
+  - Migrate SQL Server to Azure SQL DB offline
+  - Migrate SQL Server to Azure SQL DB online
+  - Load and Move data to Azure SQL Database
+
+
+  #### Lab &#58; Migrate SQL Workloads to Azure SQL Databases
+  After completing this module, students will be able to&#58;
+  - Choose the right SQL Server Instance option in Azure
+  - Migrate SQL Server to Azure SQL DB offline
+  - Migrate SQL Server to Azure SQL DB online
+  - Load and Move data to Azure SQL Database
+
+
+  ### Module  5&#58; Migrate SQL Workloads to Azure SQL Database Managed Instance
+  This module will explore what is an Azure SQL Database Managed Instance and why it is a suitable target for SQL based workloads. They also learn how Azure SQL Database Managed Instance can fulfil the business requirements for data platform modernization. The students will then explore the tools that can be used to enable the data migration process to Azure SQL Database Managed Instance.
+  They will then explore the methods and tools that can be used to load data into Azure SQL Database Managed Instance from an on-premises instance. Finally, they will learn some of the changes that may need to be made to existing SQL based applications so that they can use Azure SQL Database Managed Instance.
+
+  #### Lessons
+  - Evaluate migration scenarios to SQL Database Managed Instance
+  - Migrate to SQL Database Managed instance
+  - Load and Move data to SQL Database Managed instance
+  - Application Configuration and Optimization
+
+
+  #### Lab &#58; Migrate SQL Workloads to Azure SQL Database Managed Instance
+  After completing this module, students will be able to&#58;
+  - Evaluate migration scenarios to SQL Database Managed Instance
+  - Migrate to SQL Database Managed instance
+  - Load and Move data to SQL Database Managed instance
+  - Application Configuration and Optimization

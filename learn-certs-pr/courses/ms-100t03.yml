@@ -1,0 +1,83 @@
+### YamlMime:Course
+title: Microsoft 365 Identity Management
+metadata:
+  title: 'Course MS-100T03-A: Microsoft 365 Identity Management'
+  description: 'Course MS-100T03-A: Microsoft 365 Identity Management'
+uid: course.ms-100t03
+courseNumber: 'MS-100T03-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Manage user accounts and licenses in Microsoft 365
+- skill: Manage admin roles and security groups in Microsoft 365
+- skill: Plan and implement password management
+- skill: Manage Microsoft 365 authentication and provisioning options
+- skill: Plan for directory synchronization
+- skill: Plan and implement Azure AD Connect
+- skill: Manage synchronized identities
+- skill: Plan and implement an ADFS deployment
+- skill: Implement applications in Azure AD
+- skill: Configure Azure AD Application Proxy
+- skill: Design solutions for external access
+- skill: Manage their Microsoft 365 tenant health and services
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-100
+summary: |-
+  Learn about Microsoft 365 Identity Management, including how to manage user security groups and licenses for cloud identities, and how to plan and implement identity synchronization, federated identities, applications, and external access.
+
+  #### Audience profile
+  This course is designed for persons who are aspiring to the Microsoft 365 Enterprise Admin role and have completed one of the Microsoft 365 role-based administrator certification paths.
+prerequisitesSection: |-
+  - Completed a role-based administrator course, such as Messaging, Teamwork, Security and Compliance, or Collaboration.
+  - A proficient understanding of DNS and basic functional experience with Microsoft 365 services.
+  - A proficient understanding of general IT practices.
+outlineSection: |-
+  ### Module  1&#58; Manage User Security Groups and Licenses for Cloud Identities
+  #### Lessons
+  - User Accounts and Licenses in Microsoft 365
+  - Admin Roles and Security Groups in Microsoft 365
+  - Password Management in Microsoft 365
+
+
+  #### Lab &#58; Managing your Microsoft 365 Identity environment
+  - Exercise 1&#58; Setting up your lab environment
+  - Exercise 2&#58; Managing your Microsoft 365 identity environment using the Microsoft 365 admin center
+  - Exercise 3&#58; Managing your Microsoft 365 identity environment using Windows PowerShell
+
+
+  ### Module  2&#58; Plan and Implement Identity Synchronization
+  #### Lessons
+  - Introduction to Identity Synchronization
+  - Planning for Azure AD Connect
+  - Implementing Azure AD Connect
+  - Managing Synchronized Identities
+
+
+  #### Lab &#58; Implementing Identity Synchronization
+  - Exercise 1&#58; Setting up your organization for identity synchronization
+  - Exercise 2&#58; Implement Identity Synchronization
+
+
+  ### Module  3&#58; Planning and Implementing Federated Identities
+  #### Lessons
+  - Introduction to Federated Identities
+  - Planning an AD FS Deployment
+  - Implementing AD FS
+
+
+  ### Module  4&#58; Implementing Applications and External Access
+  #### Lessons
+  - Implementing Applications in Azure AD
+  - Configuring Azure AD Application Proxy
+  - Designing Solutions for External Access

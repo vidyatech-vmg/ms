@@ -1,0 +1,202 @@
+### YamlMime:Course
+title: Configure and use essential components of financial management in Dynamics 365 for Finance and Operations
+metadata:
+  title: 'Course MB-310T01-A: Configure and use essential components of financial management in Dynamics 365 for Finance and Operations'
+  description: 'Course MB-310T01-A: Configure and use essential components of financial management in Dynamics 365 for Finance and Operations'
+uid: course.mb-310t01
+courseNumber: 'MB-310T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-finance
+exams:
+- uid: exam.mb-310
+summary: |-
+  Organizations use Dynamics 365 for Finance and Operations to elevate their financial performance by increasing profitability, optimizing workforce productivity, reducing operational expenses, adapting quickly to requirement changes, and streamlining asset management.
+
+  This course discusses how to configure and use essential components of financial management in Dynamics 365 for Finance and Operations.
+
+  #### Audience profile
+  A Dynamics 365 for Finance and Operations Functional Consultant is responsible for performing discovery, capturing requirements, engaging subject matter experts and stakeholders, translating requirements, and configuring the solution and applications. The Functional Consultant implements a solution using out of the box capabilities, codeless extensibility, application, and service integrations.
+prerequisitesSection: |-
+  Basic understanding of ERP and CRM concepts.
+outlineSection: |-
+  ### Module  1&#58; Financial Management
+  In this module students will learn some benefits of financial management of Dynamics 365 for Finance and Operations.
+  #### Lessons
+  - Benefits of financial management
+  - Financial management
+  - Module summary
+
+  Students became familiar with modules in Finance and Operations related to financial management and their overall features and functionality.
+
+  ### Module  2&#58; Configure Currencies
+  One of the first and most important steps of implementing financial management in Dynamics 365 for Finance and Operations is currency setup. Currency setup is a required step in the configuration of the system and is used to record financial transactions. This module explains currency management in Finance and Operations.
+  #### Lessons
+  - Introduction
+  - Setup legal entity currencies and conversions
+  - Configure and import currency exchange rates
+  - Practice lab
+  - Module summary
+
+  Students have now learned about different types of currencies in Finance and Operations. They are also now familiar with the concept of triangulation currency, how to set up legal entity currencies, and conversions. From the video, students learned how to configure exchange rate providers and use them to import exchange rates into an exchange rate type.
+
+  ### Module  3&#58; Create fiscal calendars, years and periods
+  Before posting transactions, a new fiscal year must be divided into periods. This is because transactions cannot post unless a period is created for the posting date and shared across multiple legal entities. A benefit of sharing fiscal calendars is that this supports multiple fiscal calendars for each legal entity. The fiscal year in Finance and Operations can be set to any length and divided into any number of periods. This module explains fiscal and ledger calendar management in Finance and Operations.
+  #### Lessons
+  - Introduction
+  - Create fiscal calendars, years and periods
+  - Create date intervals
+  - Practice lab
+  - Module summary
+
+  In this module, students learned how to&#58;
+  - Differentiate between ledger and fiscal calendars
+  - Configure and set up fiscal calendars, years, and periods
+  - Create and use date intervals
+
+
+  ### Module  4&#58; Configure Chart of Accounts
+  A chart of accounts is a set of main accounts in Finance and Operations that captures financial information upon posting a journal. Each account is assigned an account number as a unique identifier.
+  #### Lessons
+  - Introduction
+  - Define and configure the chart of accounts
+  - Define and configure the financial dimensions
+  - Define and configure account structures and rules
+  - Practice labs
+  - Module summary
+
+  In this module, students learned how to&#58;
+  - Identify the required components for the chart of accounts
+  - Define and configure the chart of accounts
+  - Define and configure the financial dimensions and dimension sets
+  - Configure chart of accounts, main accounts, categories, templates, ledger account alias, and balance control
+  - Configure account structures and advanced rules
+
+
+  ### Module  5&#58; Configure Ledger and Journals
+  A journal is a worksheet that one can use before manually enter postings into the system. When set up correctly, journals allow to quickly and efficiently manage posting. To use a journal, there must be a journal name, and the configuration of the ledger, journal, and posting of the General ledger module should be complete. By using the General ledger journal directly or via the General ledger processing workspace, one can perform daily activities as someone who is assigned proper security role to access the General ledger. A journal name gives financial leaders the capability to control data entry validation and restrict posting of a journal name for users differently.
+  #### Lessons
+  - Journals and their setup
+  - Configure ledger and journal setup
+  - User journals
+  - Practice lab
+  - Module summary
+
+  In this module students learned about&#58;
+  - Different types of journals and their setup
+  - How to configure ledger and posting setup
+  - How to configure and use journals
+
+
+  ### Module  6&#58; Configure Cash and Bank Management
+  In Dynamics 365 for Finance and Operations, organizations use the Cash and bank management module to create and maintain bank accounts. The Bank account table contains a record for each bank account. Each record contains bank account information, such as the following&#58; Registration number and account number; Address; Other contact information; Currency; Check setup; and Main account for posting. Finance and Operations uses this information to process all bank transactions, such as payments and deposits.
+  #### Lessons
+  - Introduction
+  - Bank transaction types and groups
+  - Setup cash and bank management parameters
+  - Configure banks and bank checks
+  - Deposit and refund checks
+  - Cash flow
+  - Practice Labs
+  - Module summary
+
+  In this module, students learned how to&#58;
+  - Create and configure banks
+  - Create and configure bank layouts
+  - Configure cash and bank management parameters
+  - Set up vendor and customer banks
+  - Configure cash flow forecasts and reports
+
+
+  ### Module  7&#58; Use Cash and Bank Management
+  This module covers the main procedures in the Cash and bank management module in Finance and Operations. Students learned how to work with cash and bank management workspaces, such as Bank management and Cash overviews. Students also learned about the processes and procedures for cash and bank management, like how to make deposits and cancel payments (deposits). Finance and Operations provides functionality to manage check payments, as well as procedures for resolving special situations with checks. One can delete, refund, and void checks, in addition to generating and issuing checks according to company specifications. Because Finance and Operations records all financial transactions, companies can use the bank reconciliation function to match internal company records of transactions against bank statements.
+  #### Lessons
+  - Make deposits and perform payment reversals
+  - Use cash and bank management workspaces
+  - Practice Labs
+  - Module summary
+
+  In this module, students learned how to&#58;
+  - Work with cash and bank management processes
+  - Use cash and bank management workspaces
+  - Make deposits
+  - Cancel payments
+
+
+  ### Module  8&#58; Configure Letters of Credit and Guarantees
+  Students now have learned what the bank letters are; how to configure letters of credit in order to create bank documents that are commonly used for the purchase and sale of goods across international borders; and about letters of guarantee, where a bank agrees to pay a specific amount of money to a person if one of the bank's customers defaults on a payment or obligation to that person.
+  #### Lessons
+  - Introduction
+  - Configure letters of credit
+  - Configure letters of guarantee
+  - Module summary
+
+  Students will understand bank letters and letters of credit and guarantee.
+
+  ### Module  9&#58; Perform Daily Procedures
+  Every manual posting entered in Finance and Operations is entered through a journal. A journal is a type of worksheet where entries do not post immediately. One can review, change, and verify completed journals until they are ready for posting. A voucher template is a voucher that can be used as the basis for future vouchers in other journal entries. One can use voucher templates with a general journal or any of the financial sub ledger journals, such as Accounts payable and Accounts receivable journals. One can set up restrictions on the company, account type, and segment values.
+  #### Lessons
+  - Learn about general ledger processes
+  - Create voucher templates
+  - Setup journal controls
+  - Practice Lab
+  - Module summary
+
+  Students have now learned how to process daily activities in general ledger and use journal control to apply rules during data entry. They've worked with balance control accounts to view the balances of either banks or liquidity accounts. 
+  
+  Students also learned that one can only use the balance control prior to posting to ensure that the entries are correct.
+  
+  Lastly, they learned how to benefit from voucher templates for Amount, which is simply copying the exact amount of the template as new lines, or Percent, which converts the amounts in the voucher into percentage factors; this allows any amount to be applied when the voucher template is selected.
+
+  ### Module  10&#58; Intercompany Accounting
+  Intercompany accounting can help organizations by providing a single-entry point for transactions that must be recorded to multiple companies. Making transactions from a single company saves data entry time and helps provide a guarantee that transactions affecting multiple companies are recorded in each company. Finance and Operations also helps trace the intercompany entries through the system. It has the functionality that is required by most companies that process intercompany transactions. This includes the ability to efficiently record intercompany sales orders, purchase orders, and cash disbursements.
+  #### Lessons
+  - Setup and use intercompany accounting
+  - Practice Lab
+  - Module Summary
+
+  Students will be able to set up and use intercompany accounting.
+
+  ### Module  11&#58; Configure Ledger Allocations and Accruals
+  Finance and Operations provides the capabilities to support accrual schemes.
+  #### Lessons
+  - Introduction
+  - Configure and apply accrual schemes
+  - Configure ledger allocation rules
+  - Practice labs
+  - Module summary
+
+  Students will have learned how to configure and use allocation rules, as well as how to configure and use accrual schemes. Finance and Operations provides the following capabilities to support this process&#58;
+  - Manually allocate transaction amounts by using the split action in accounting distributions, or by applying financial dimension default templates to a document.
+  - Automatically allocate transaction amounts based on allocation terms defined individually on the main account. Allocation account entries will be generated for each journal based on the percentage and destination ledger account when an accounting entry meets the criteria defined as the source ledger account.
+  - Automatically allocate ledger balances or fixed amounts based on ledger allocation rules. The ledger allocation rules are processed on a periodic basis using allocation journals.
+
+
+  ### Module  12&#58; Configure Sales Tax
+  The requirements for tax calculation and tax reporting differ significantly for different countries or regions. Therefore, the Tax module of Dynamics 365 for Finance and Operations is extremely comprehensive.
+  #### Lessons
+  - Understand tax engine components
+  - Practice lab
+  - Module summary
+
+  Students now have learned about country and regional tax reporting capabilities in Finance and Operations.
+  
+  In this module, students learned how to configure tax components, such as sales tax authorities, settlement periods, and the sales tax codes. Additionally, they learned that sales tax codes are the main component to define tax calculations and connect all other components in the tax so that Finance and Operations can automatically calculate and post transactions for settlement based on the period interval assigned by an authority.
+
+  ### Module  13&#58; Course Conclusion
+  Final assessment and course summary, as well as a post-course survey for the course.
+  #### Lessons
+  - Final assessment
+  - Course summary
+  - Post-course survey
+
+  Students will have completed the course.

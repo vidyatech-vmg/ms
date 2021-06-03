@@ -1,0 +1,88 @@
+### YamlMime:Course
+title: Microsoft Dynamics 365 Business Central Functional Consultant
+metadata:
+  title: 'Course MB-800T00-A: Microsoft Dynamics 365 Business Central Functional Consultant'
+  description: 'Course MB-800T00-A: Microsoft Dynamics 365 Business Central Functional Consultant'
+uid: course.mb-800t00
+courseNumber: 'MB-800T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Understand use cases for Business Central modules
+- skill: Set up Business Central
+- skill: Configure Financials
+- skill: Configure Sales and Purchasing
+- skill: Configure Operations
+- skill: Understand Integrationa nd Automation scenarios
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-business-central
+- power-platform
+exams:
+- uid: exam.mb-800
+summary: |-
+  Built and optimized for small and medium businesses, Dynamics 365 Business Central is an application for companies that have outgrown their entry-level business applications. Growing businesses often outgrow their basic accounting software or legacy enterprise resource planning (ERP) systems that are unable to handle increased inventory and transactions, lack integration with other line-of-business systems, and have reporting limitations. Businesses are also challenged with the logistics of providing services that have more scalability, increased mobility, and availability in the cloud. With Business Central, you can manage your financials, automate and secure your supply chain, sell smarter, improve customer service and project performance, and optimize your operations.
+
+  #### Audience profile
+  A Dynamics 365 Business Central core Functional Consultant is responsible for implementing core application setup processes for small and medium businesses.
+prerequisitesSection: |-
+  This course is designed for functional consultants working with Dynamics 365 Business Central, or functional consultants who work with other Dynamics 365 apps who want to expand their knowledge of Business Central
+outlineSection: |-
+  ### Module  1&#58; Introduction to Business Central
+  Introduction to Business Central Modules
+  #### Lessons
+  - Introduction to Business Central
+  - Technology overview
+  - Navigate the user interface
+  - Master data for the Sales and Purchase process
+
+
+  ### Module  2&#58; Application Setup
+  #### Lessons
+  - Create and configure a new company
+  - Migrate data to Business Central
+  - Manage Security
+  - Set up core app functionality
+  - Set up dimensions
+
+
+  ### Module  3&#58; Configure Financials
+  #### Lessons
+  - Set up Finance Management
+  - Set up the Chart of Accounts
+  - Set up posting groups
+  - General Journals
+  - Set up Cash Management
+  - Set up Accounts Payables
+  - Set up Accounts Receivables
+
+
+  ### Module  4&#58; Configure Sales and Purchasing
+  #### Lessons
+  - Set up Inventory
+  - Configure prices and discounts
+
+
+  ### Module  5&#58; Operations
+  #### Lessons
+  - Purchase items
+  - Sell items
+  - Process financial transactions
+  - Inventory costing
+
+
+  ### Module  6&#58; Integration and Automation
+  #### Lessons
+  - Set up and use approvals with workflows
+  - Connect Power Apps
+  - Connect Power Automate
+  - Connect Power BI
+
+  #### Additional Reading
+  Microsoft.com/learn

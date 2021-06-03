@@ -1,0 +1,135 @@
+### YamlMime:Course
+title: Core common features of Dynamics 365 for Finance and Operations
+metadata:
+  title: 'Course MB-300T01-A: Core common features of Dynamics 365 for Finance and Operations'
+  description: 'Course MB-300T01-A: Core common features of Dynamics 365 for Finance and Operations'
+uid: course.mb-300t01
+courseNumber: 'MB-300T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-finance
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-300
+summary: |-
+  Organizations use Dynamics 365 for Finance and Operations to reduce operational costs and rapidly respond to changing business needs. This solution lets organizations achieve these goals. 
+
+  This course discusses core components of Microsoft Dynamics 365 for Finance and Operations.
+
+  #### Audience profile
+  A Dynamics 365 for Finance and Operations Functional Consultant is responsible for performing discovery, capturing requirements, engaging subject matter experts and stakeholders, translating requirements, and configuring the solution and applications. The Functional Consultant implements a solution using out-of-the-box capabilities, codeless extensibility, application, and service integrations.
+prerequisitesSection: |-
+  Basic understanding of ERP and CRM concepts.
+outlineSection: |-
+  ### Module  1&#58; Get Started with Dynamics 365 for Finance and Operations
+  This module provides an understanding of what Dynamics 365 for Finance and Operations is, and the industries that it supports. It describes the modules in Finance and Operations, the purpose of the features in those modules, and how they support the industry-specific areas.
+  #### Lessons
+  - Introduction
+  - Industry focus
+  - Introduction to financial management
+  - Introduction to employee management
+  - Introduction to supply chain management
+  - Module summary
+
+  Students will have an understanding of what Finance and Operations is, and the industries that it supports. They will be familiar with the modules in Finance and Operations, and the purpose of the features in those modules and how they support the industry-specific areas.
+
+  ### Module  2&#58; Get Started with Lifecycle Services
+  Microsoft Dynamics Lifecycle Services (LCS) is a collaborative workspace that customers and their partners use to manage Dynamics 365 for Finance and Operations projects from pre-sales, to implementation, and finally to the production environment, either on the cloud or on-premise. It provides checklists and tools that help manage the project, including methodologies that can help manage the implementation process.
+  #### Lessons
+  - Understand the functionality and tools of Lifecycle Services
+  - Reuse existing assets, copy and share data
+  - Understand Task recorder functionality
+  - Create a business process model
+  - Run the LCS Issue Search tool and analyze results
+  - Learn how to use Regression Suite Automation Tool
+  - Practice Labs
+  - Module Summary
+
+  Students will be able to&#58;
+  - Understand the functionality and tools of LCS for Finance and Operations
+  - Reuse existing assets, copy, and share data
+  - Understand Task recorder functionality
+  - Create a business process model
+  - Identify and analyze gaps using the Business process modeler (BPM)
+  - Run the LCS Issue Search tool and analyze results
+
+
+  ### Module  3&#58; Use Lifecycle Services to Design and Plan
+  With proper planning, the Dynamics 365 for Finance and Operations implementation will be a success. After a customer signs the agreement to purchase licenses for Finance and Operations, the job as a Functional Consultant starts by managing the application lifecycle and moving toward a predictable, repeatable, high-quality implementation.
+  #### Lessons
+  - Introduction
+  - Phases of a cloud implementation
+  - Phases of an on-premises implementation
+  - Create Functional Design Documents (FDD)
+  - Module Summary
+
+  Students will be able to&#58;
+  - Prepare documentation for gathered requirements by using a methodology in LCS
+  - Define use case scenarios
+  - Participate in the creation of functional requirements documents (FRD)
+  - Understand the importance of creating and maintaining documented processes
+  - Participate in phase-based planning processes and solution design
+  - Describe the future state business processes based on a proposed solution
+  - Determine when to build versus buy
+  - Create functional design documents (FDD)
+
+
+  ### Module  4&#58; Overview of Reporting and Analytics
+  A report in Dynamics 365 for Finance and Operations can be defined simply as a structured presentation of data.
+  Under ideal circumstances, reports materialize data in such a way that it allows the user to make informed decisions.
+  Finance and Operations supports a broad spectrum of information access scenarios.
+  #### Lessons
+  - Understand reports and inquiries
+  - Learn about Financial reporting
+  - Configure PowerBI to the instance
+  - Practice Labs
+  - Module Summary
+
+  Students will have learned about&#58;
+  - Different types of reports and inquiries in Finance and Operations
+  - Financial reporting
+  - Configuring Finance and Operations for Microsoft Power Platform
+
+
+  ### Module  5&#58; Build and Test Mobile Apps
+  This module explains the guidelines and design patterns of a mobile app for Dynamics 365 for Finance and Operations. Additionally, it explains how to build and test mobile apps based on a use case scenario.
+  The mobile platform makes it easy to change the forms and mobile app definitions to include customizations that are made to Finance and Operations.
+  Mobile apps enable rich offline and mobile interactions and provide an easy-to-use designer experience. Developers can create simplified forms in Microsoft Visual Studio and then design mobile apps that expose this functionality.
+  #### Lessons
+  - Overview of Unified Operations mobile app
+  - Build and use mobile apps
+  - Practice Lab
+  - Module Summary
+
+  Students will have learned how to create a mobile app and publish it in Finance and Operations. Understanding the design considerations for a mobile app helps create the mobile app to match the user experience of a modern application. Students will also have learned that to use and work with a Finance and Operations, they need to download the Microsoft Dynamics 365 Unified Operations app. Additionally, they will have discovered how to run the Dynamics 365 Unified Operations app to connect to Finance and Operations, and how to use the published mobile apps and pull-to-refresh the data.
+
+  ### Module  6&#58; Create, Maintain and Use Workflows
+  A workflow represents a business process. It defines how a document flows, or moves, through the system by showing who must complete a task, make a decision, or approve a document.
+  Some organizations require that specific processes are approved by a user other than the person who enters the record. These workflow processes might require manual approval, workflow approval, or no approval.
+  #### Lessons
+  - Workflows for business processes
+  - Create and setup workflows
+  - Assign users to workflow touchpoints
+  - Use Work items
+  - Practice Lab
+  - Module Summary
+
+  In this module, students learned how to apply automation by using workflows and discovered that defining a specific type allows a business to control each step in a critical process. Students also learned that workflows can be used as procedural steps that use approvals for several journal types. Additionally, they learned that one can define several versions for each workflow and modify an existing workflow without deleting the original. These workflow processes can require manual approval, workflow approval, or no approval. After gaining an understanding of the workflow architecture, elements, and actions, they then learned how to set up workflows, configure workflow properties, and add a manual or automated task in a workflow. Finally, they learned how to configure an approval process in a workflow, assign users to workflow touchpoints, configure an approval step in a workflow, and use the Work items functionality to process a workflow.
+
+  ### Module  7&#58; Course Conclusion
+  Final assessment and course summary, as well as a post-course survey for the course.
+  #### Lessons
+  - Final assessment
+  - Course summary
+  - Post-course survey
+
+  Students will have concluded the course.

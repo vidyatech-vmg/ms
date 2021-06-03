@@ -1,0 +1,90 @@
+### YamlMime:Course
+title: Configure and use process manufacturing in Dynamics 365 for Finance and Operations
+metadata:
+  title: 'Course MB-320T03-A: Configure and use process manufacturing in Dynamics 365 for Finance and Operations'
+  description: 'Course MB-320T03-A: Configure and use process manufacturing in Dynamics 365 for Finance and Operations'
+uid: course.mb-320t03
+courseNumber: 'MB-320T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-320
+summary: |-
+  Organizations use Dynamics 365 for Finance and Operations to run smarter with connected operations by selecting best-fit manufacturing processes, improving operational procedures, simplifying resource management, accelerating product delivery, and increasing quality and customer satisfaction.
+  This course discusses how to configure and use process manufacturing in Dynamics 365 for Finance and Operations.
+
+prerequisitesSection: |-
+  Basic understanding of ERP and CRM concepts.
+outlineSection: |-
+  ### Module  1&#58; Get Started with Process Manufacturing
+  This topic explains how to get started with the process manufacturing in Finance and Operations.
+  #### Lessons
+  - Introduction
+  - Understand process manufacturing
+  - Understand formula management
+  - Understand co-products and by-products
+  - Configure approved vendors
+  - Practice labs
+  - Module summary
+
+
+  In this module students learned&#58;
+  - Understand process manufacturing
+  - Understand formula management
+  - Understand co-products and by-products
+  - Understand approved vendors
+
+
+  ### Module  2&#58; Identify and Configure Batch Attributes for Process Manufacturing
+  This topic explains how to configure batch attributes in Finance and Operations.
+
+  #### Lessons
+  - Introduction
+  - Identify and configure batch attributes
+  - Create and configure catch weight items
+  - Setup potency management
+  - Practice labs
+  - Module summary
+
+
+  In this module students learned to&#58;
+  - Understand Batch Attributes
+  - Identify and configure batch attributes
+  - Understand Lot and Batch Control processes
+  - Configure batch rework
+
+
+  ### Module  3&#58; Configure Commodity Pricing and Product Compliance
+  This topic explains how to work with commodity pricing, and compliance in Finance and Operations.
+  #### Lessons
+  - Introduction
+  - Configure commodity pricing
+  - Configure product compliance
+  - Practice labs
+  - Module summary
+
+
+  In this module students learned to&#58;
+  - Configure commodity pricing
+  - Configure product compliance
+
+
+  ### Module  4&#58; Course conclusion
+  Final assessment and course summary, as well as a post-course survey for the course.
+  #### Lessons
+  - Final assessment
+  - Course summary
+  - Post-course survey
+
+
+  Students will have completed the course.

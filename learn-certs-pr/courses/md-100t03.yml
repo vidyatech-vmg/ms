@@ -1,0 +1,107 @@
+### YamlMime:Course
+title: Protecting Windows 10
+metadata:
+  title: 'Course MD-100T03-A: Protecting Windows 10'
+  description: 'Course MD-100T03-A: Protecting Windows 10'
+uid: course.md-100t03
+courseNumber: 'MD-100T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Describe the methods for securing Windows 10
+- skill: Configure account access and authentication
+- skill: Configure file and folder permissions
+- skill: Create security policies
+- skill: Describe common threats and methods for mitigating against them
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- windows
+exams:
+- uid: exam.md-100
+summary: |-
+  In this course, students will learn how to secure the Windows 10 OS and protect the data on the device. Students will be introduced to common methods used for authentication and access control. This course will teach how to configure file and folder permissions and create security policies. Students will also be introduced to the different types of external threats and how to leverage features like encryption and firewalls, as well as tools like Windows Defender.
+
+  #### Audience profile
+  Candidates for this exam are IT Professionals who perform installation, configuration, general local management and maintenance of Windows 10 core services. Candidates may also be familiar with enterprise scenarios and cloud-integrated services.
+prerequisitesSection: |-
+  Learners should start this course already having the following skills&#58;
+  - Basic understanding of computer networks and hardware concepts.
+  - Basic understanding of OS and Application concepts.
+  - Experience with using the Windows OS.
+outlineSection: |-
+  ### Module  1&#58; Configuring Authorization & Authentication
+  This module introduces the tools and features of Windows 10 for authorizing access to Windows 10 clients. Students will learn about methods for how users sign-in to Windows 10.  This module also covers  restricting what users can or cannot do on a device through methods like User Account Control (UAC) and account types.
+  #### Lessons
+  - Using Security Settings to Mitigate Threats
+  - Configuring UAC
+  - Implementing Device Registration
+  - Authentication
+
+
+  After completing this module, students will be able to&#58;
+  - Describe the different methods for securing data and the Windows 10 OS.
+  - Describe the different types of user and service accounts.
+  - Configure Windows Hello.
+  - Configure user account control.
+
+
+  ### Module  2&#58; Configuring Data Access and Usage
+  In this module, students will learn about permissions. This module will cover considerations for different files systems. Students will learn how to configure file and folder permissions as well as shared folders. The module will conclude with configuring settings through methods such as local and group policy.
+  #### Lessons
+  - Overview of File Systems
+  - Configuring and Managing File Access
+  - Configuring and Managing Shared Folders
+  - Managing Security with Policies
+
+
+  #### Lab &#58; Configuring and Managing Permissions and Shares
+  - Creating, Managing, and Sharing a Folder
+  - Using Conditions to Control Access and Effective Permissions
+
+
+  After completing this module, students will be able to&#58;
+  - Describe the differences and benefits of supported file systems.
+  - Configure file and folder permissions.
+  - Configure shared folders.
+  - Secure Windows through local policy settings.
+
+
+  ### Module  3&#58; Configuring Threat Protection
+  This module introduces students to protecting devices from external threats. Students will learn about the different types of common threats. This module will teach students about using encryption, firewalls, and IPSec to help protect against threats. The module will conclude with how to configure and use Windows Defender and AppLocker.
+  #### Lessons
+  - Malware and Threat Protection
+  - Windows Defender
+  - Connection Security Rules
+  - Advanced Protection Methods
+
+
+  #### Lab &#58; Practice Lab&#58; Managing Network Security
+  - Creating and Testing Inbound Rules
+  - Creating and Testing Outbound Rules
+  - Creating and Testing Connection Security Rules
+  - Configuring Windows Defender
+
+
+  After completing this module, students will be able to&#58;
+  - Identify common security threats
+  - Describe the methods by which you can mitigate these common security threats.
+  - Describe the different methods of encryption.
+  - Describe how Windows firewall can secure the device.
+  - Describe the benefits of using IPSec.
+  - Describe the different features of Windows Defender.
+  - Describe the benefits of using AppLocker.
+
+
+  ### Module  4&#58; Course Conclusion
+  #### Lessons
+  - Final Exam
+
+
+  #### Lab &#58; Graded Lab

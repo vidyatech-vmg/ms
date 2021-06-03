@@ -1,0 +1,99 @@
+### YamlMime:Course
+title: 'Dynamics 365: Power Platform automation'
+metadata:
+  title: 'Course MB-200T02-A: Dynamics 365: Power Platform automation'
+  description: 'Course MB-200T02-A: Dynamics 365: Power Platform automation'
+uid: course.mb-200t02
+courseNumber: 'MB-200T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Identify automation options available in the Power Platform.
+- skill: Identify when to use what automation.
+- skill: Create and use business rules.
+- skill: Create and use workflows.
+- skill: Create and use Microsoft Flows.
+- skill: Create and use business process flows.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-sales
+- dynamics-marketing
+- dynamics-field-service
+- dynamics-customer-service
+exams:
+- uid: exam.mb-200
+summary: |-
+  The Microsoft Power Platform helps organizations optimize their operations by automating routine tasks and standardizing best practices. This training provides a high-level overview of the capabilities of Microsoft Dynamics 365 and the Power Platform and provides a foundation for other Microsoft Dynamics 365 and Power Platform training offerings.
+
+  In this course, our globally recognized experts guide students through the various automation options available and how to use them in real-world scenarios.
+
+  #### Audience profile
+  A Dynamics 365 Customer Engagement Functional Consultant is responsible for performing discovery, capturing requirements, engaging subject matter experts and stakeholders, translating requirements, and configuring the solution and applications. The Functional Consultant implements a solution using out-of-the-box capabilities, codeless extensibility, application, and service integrations.
+prerequisitesSection: |-
+  Familiarity of business applications and the desire to customize and implement them for your business.
+outlineSection: |-
+  ### Module  1&#58; Platform Automation Overview
+  In this module students will learn the basics of the Power Platform automation capabilities. They will learn the need for automation and how to map the needs to the capabilities.
+  #### Lessons
+  - Platform automation overview
+  - Module summary
+
+  After completing this module, students will be able to&#58;
+  - Identify common platform automation and their uses
+
+
+  ### Module  2&#58; Business Rules
+  In this module students will learn how to build and use business rules and how they work alongside other platform automations.
+  #### Lessons
+  - Introduction to business rules
+  - Additional business rule details
+  - Module summary
+
+  After completing this module, students will be able to&#58;
+  - Create and use business rules
+
+
+  ### Module  3&#58; Workflows
+  In this module students will learn how to build and use workflows and how they work alongside other platform automations.
+  #### Lessons
+  - Introduction to workflows
+  - Building workflows
+  - Advanced workflow
+  - Module summary
+
+  After completing this module, students will be able to&#58;
+  - Create and use workflows
+
+
+  ### Module  4&#58; Microsoft Flows
+  In this module students will learn how to build and use Microsoft Flows and how they work alongside other platform automations.
+  #### Lessons
+  - Introduction to Microsoft Flow
+  - Other flow concepts
+  - Working with CDS
+  - Building approval flows
+  - Starting from apps
+  - Flow deployment considerations
+  - Module summary
+
+  After completing this module, students will be able to&#58;
+  - Create and use Microsoft Flows
+
+
+  ### Module  5&#58; Business Process Flows
+  In this module students will learn how to build and use business process flows and how they work alongside other platform automations.
+  #### Lessons
+  - Introduction to business process flows
+  - Configure business process flows
+  - Additional business process flows details
+  - Module summary
+
+  After completing this module, students will be able to&#58;
+  - Create and use business process flows

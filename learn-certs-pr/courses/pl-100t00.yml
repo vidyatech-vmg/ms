@@ -1,0 +1,52 @@
+### YamlMime:Course
+title: Microsoft Power Platform App Maker
+metadata:
+  title: 'Course PL-100T00-A: Microsoft Power Platform App Maker'
+  description: 'Course PL-100T00-A: Microsoft Power Platform App Maker'
+uid: course.pl-100t00
+courseNumber: 'PL-100T00-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Design apps and automate workflows
+- skill: Create apps and automate workflows
+- skill: Analyze and visualize data in context of an app or automated workflow
+- skill: Implement and manage apps and automated workflows
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- power-platform
+exams:
+- uid: exam.pl-100
+summary: |-
+  This course will teach you how to build apps with low-code techniques to simplify, automate, and transform business tasks and processes using Microsoft Power Platform.
+
+  #### Audience profile
+  The App Maker builds solutions to simplify, automate, and transform tasks and processes for themselves and their team where they have deep expertise in the solution business domain. They have basic data modeling, user experience design, requirements analysis, and process analysis skills. The App Maker creates and enforces business processes, structures digital collection of information, improves efficiency of repeatable tasks, and automates business processes. The App Maker uses the Maker tools of Power Platform to solve business problems. They may use advanced features of Microsoft apps and third-party productivity tools. The App Maker is aware of the capabilities and limitations of available tools and understands how to apply them. The App Maker is self-directed, and solution focused. They may not have formal IT training but are comfortable using technology to solve business problems with a personal growth mindset. They understand the operational need and have a vision of the desired outcome. They approach problems with phased and iterative strategies.
+prerequisitesSection: |-
+  - Basic data modeling, user experience design, requirements analysis, and process analysis skills.
+  - A personal growth mindset and are comfortable using technology to solve business problems.
+  - An understanding of the operational need and have a vision of the desired outcome. They approach problems with phased and iterative strategies.
+outlineSection: |-
+  ### Module 1&#58; Create a model-driven application in Power Apps
+  This module introduces you to creating a model-driven app in Power Apps that uses Common Data Service.
+
+  ### Module 2&#58; Create a canvas app in Power Apps
+  This module introduces you to Power Apps, helps you create and customize an app, and then manage and distribute it.
+
+  ### Module 3&#58; Use the UI and controls in a canvas app in Power Apps
+  This module will focus on how to provide the best app navigation, and build the best UI using themes, icons, images, personalization, different form factors, and controls.
+
+  ### Module 4&#58; Automate a business process using Power Automate
+  This module introduces you to Power Automate, teaches you how to build workflows, and how to administer flows.
+
+  ### Module 5&#58; Create and use analytics reports with Power BI
+  Learn what Power BI is, including its building blocks and how they work together.
+
+  ### Module 6&#58; Get started with AI Builder
+  This module helps you build an AI model from the beginning and shows how you can use it in your business without writing a single line of code.

@@ -1,0 +1,206 @@
+### YamlMime:Course
+title: SharePoint Hybrid Deployment and Migration
+metadata:
+  title: 'Course MS-050T00-A: SharePoint Hybrid Deployment and Migration'
+  description: 'Course MS-050T00-A: SharePoint Hybrid Deployment and Migration'
+uid: course.ms-050t00
+courseNumber: 'MS-050T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Describe the MinRole feature in SharePoint 2019.
+- skill: Describe how to install and configure SharePoint 2019.
+- skill: Describe how to implement high availability for SharePoint.
+- skill: Provision a BDC Service Application instance.
+- skill: Configure the Secure Store Service application.
+- skill: Describe how to configure My Sites in SharePoint 2019.
+- skill: Describe the available SharePoint Hybrid Scenarios.
+- skill: Describe the requirements for SharePoint hybrid configuration.
+- skill: Plan for SharePoint Server hybrid.
+- skill: Plan for content migration process.
+- skill: Describe available resources and tools to leverage during migration process.
+- skill: Access data to be migrated using SharePoint Migration Assessment Tool (SMAT).
+- skill: Migrate content to the cloud using SharePoint Migration Tool (SPMT).
+- skill: Migrate content to the cloud using Migration Manager.
+- skill: Migrate content to the cloud using Mover.
+- skill: Manage and monitor migration process.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+summary: |-
+  The business climate has changed. People want to communicate without collaborative barriers. Businesses want solutions that are both cost-effective and flexible. Organizations start to configure hybrid environments and migrate content to the cloud as the solution. In this course, you will learn how to deploy and configure the SharePoint Server 2019, designed to meet the demands of modern workstyles. You will also learn how to configure and manage various SharePoint service applications to prepare for a hybrid deployment. Then, you will learn how to plan and implement SharePoint hybrid scenarios that provide seamless users experience. Eventually, you will learn how to design the content migration process and available resources and tools to use while migrating content to SharePoint and OneDrive in Microsoft 365.
+
+  #### Audience profile
+  This course is designed for IT Professionals who deploy and manage SharePoint on-premises environment and are interested in deploying hybrid scenarios and migrating content to Microsoft 365.
+prerequisitesSection: |-
+  - Experience with Windows PowerShell.
+  - Basic understanding of SQL Server management.
+  - Basic understanding of networking, including DNS.
+  - Working knowledge of windows server administration.
+  - Basic understanding of Active Directory and Azure AD.
+  - Basic understanding of mobile device management, and alternative operating systems (Android and macOS).
+outlineSection: |-
+  ### Module 1&#58; SharePoint infrastructure
+  This module is about fundamental SharePoint Infrastructure. It describes the components in SharePoint farm. It also discusses how to install and configure SharePoint farm.
+  #### Lessons
+  - Plan a SharePoint farm
+  - Overview of SharePoint Server 2019
+  - Install and manage a SharePoint farm
+  
+  After completing this module, students will be able to&#58;
+  - Describe the MinRole feature in SharePoint 2019
+  - Describe how to install and configure SharePoint 2019
+  - Describe how to implement high availability for SharePoint
+  - Plan farm backups and restore
+
+
+  ### Module 2&#58; SharePoint authentication and security
+  This module is about SharePoint Authentication and Security. It introduces different authentication methods in SharePoint 2019.
+  #### Lessons
+  - Plan authentication
+  - Configure federated authentication
+  
+  After completing this module, students will be able to&#58;
+  - Describe the authentication infrastructure in SharePoint 2019.
+  - Describe NTLM and Kerberos authentication.
+  - Describe server-to-server authentication.
+  - Explain the concepts behind federated identity.
+
+
+  ### Module 3&#58; SharePoint content management
+  This module is about SharePoint Content Management. It discusses the content structure in SharePoint. It also provides details on authorization and content access in SharePoint.
+  #### Lessons
+  - Plan sites and site collections
+  - Manage access to content
+  - Configure and manage site collections
+  
+  After completing this module, students will be able to&#58;
+  - Explain the site collection concepts.
+  - Describe how to create site collections.
+  - Describe how to plan for authorization in SharePoint 2019.
+  - Describe how to manage permissions levels in SharePoint 2019.
+  - Describe how to manage SharePoint groups in SharePoint 2019.
+
+
+  ### Module 4&#58; SharePoint service applications
+  This module is all about SharePoint service applications and workflow. It describes how to provision and manage a BCS service application and User Profile service application. Specifically, we discuss how to import and export BDC models as well as how to import user properties to SharePoint.
+  #### Lessons
+  - SharePoint service applications and workflow
+  - Plan and configure BCS and Secure Store service
+  - Plan and configure user profile service
+  
+  After completing this module, students will be able to&#58;
+  - Explain the key components of a BDC model.
+  - Describe the high-level architecture of BCS.
+  - Provision a BDC Service Application instance.
+  - Configure the Secure Store Service application.
+  - Explain the purpose of the Secure Store Service.
+  - Manage permissions for a BDC Service Application instance.
+  - Describe how to configure user profile properties.
+  - Describe how to manage audiences in SharePoint 2019.
+  - Describe how to configure My Sites in SharePoint 2019.
+  - Describe how to configure the User Profile Service Application.
+  - Describe how to plan SharePoint Active Directory import and synchronization.
+
+
+  ### Module 5&#58; Plan and configure Managed Metadata service
+  This module is about the integral functionalities, such as the Managed Metadata Service, content types, and term sets, that allow you to create and disseminate an information architecture. It introduces the purpose of content types as well as the concepts behind the managed metadata service, including taxonomies, term sets, and enterprise keywords.
+  #### Lessons
+  - Manage content types
+  - Overview of Managed Metadata service
+  - Configure the Managed Metadata service
+  
+  After completing this module, students will be able to&#58;
+  - Explain the function and use of content types.
+  - Describe the functions of the Managed Metadata Service.
+  - Explain how to create and publish a content type across site collections.
+  - Identify the capabilities of the managed metadata service.
+  - Create and manage term groups, term sets, and terms.
+  - Configure term sets and terms for managed navigation.
+
+
+  ### Module 6&#58; Plan and configure search
+  This module is about enterprise search service application. It provides details on planning and configuring content sources, crawl schedules, and crawl rules. It also discusses how to provision search management of a range of search components, such as Query Rules, Result Types and Display Templates.
+  #### Lessons
+  - Plan enterprise search
+  - Configure enterprise search
+  - Manage enterprise search
+  
+  After completing this module, students will be able to&#58;
+  - Describe the function of search components.
+  - Explain how to plan and configure a search topology.
+  - Describe how to plan and configure content sources.
+  - Describe how to plan and configure crawl schedules.
+  - Describe how to plan and configure crawl rules.
+  - Describe how to manage the search schema.
+  - Describe how to configure search center.
+  - Explain the use and deployment of query rules.
+  - Explain the use and deployment of result source.
+
+
+  ### Module 7&#58; Overview of SharePoint hybrid scenarios
+  This module is all about planning SharePoint Server hybrid. It provides an overview of SharePoint hybrid scenarios as well as requirements for configuration.
+  #### Lessons
+  - Overview of SharePoint hybrid scenarios
+  - Plan SharePoint Server hybrid
+  
+  After completing this module, students will be able to&#58;
+  - Describe the available SharePoint Hybrid Scenarios.
+  - Describe the requirements for SharePoint hybrid configuration.
+  - Plan for SharePoint Server hybrid.
+
+
+  ### Module 8&#58; Implement SharePoint hybrid scenarios
+  This module is focused on implementing SharePoint hybrid scenarios. Specifically, it discusses the hybrid configuration roadmaps, including the configuration of hybrid infrastructure and hybrid picker. It also introduces On-premises data gateway to enable using Microsoft 365 features in SharePoint Server 2019.
+  #### Lessons
+  - Implement SharePoint hybrid scenarios
+  - Configure on-premises data gateway
+  
+  After completing this module, students will be able to&#58;
+  - Configure SharePoint hybrid scenarios.
+  - Configure on-premises data gateway.
+
+
+  ### Module 9&#58; Implement SharePoint hybrid search
+  This module is focused on SharePoint hybrid search. It introduces different types of hybrid search, including cloud hybrid search and hybrid federated search. It explains how to set up hybrid search and configure search results
+  #### Lessons
+  - Overview of SharePoint hybrid search
+  - Configure SharePoint hybrid search
+  
+  After completing this module, students will be able to&#58;
+  - Describe difference between cloud hybrid search and hybrid federated search.
+  - Evaluate different types of hybrid search.
+  - Configure cloud hybrid search.
+  - Configure hybrid search results.
+
+
+  ### Module 10&#58; Plan content migration
+  This module is all about planning the migration process to the cloud. It provides an overview of resources and tools to leverage during migration process.
+  #### Lessons
+  - Overview of content migration
+  - Prepare for content migration
+  
+  After completing this module, students will be able to&#58;
+  - Plan for content migration process.
+  - Describe available resources and tools to leverage during migration process.
+
+
+  ### Module 11&#58; Migrate content to Microsoft 365
+  This module is focused on using SharePoint Migration Tool (SPMT) to migrate content to the cloud. Specifically, it discusses the requirement and limitation of SPMT. It introduces different migration methods for different data source, such as file shares and SharePoint content.
+  #### Lessons
+  - Migrate content with SPMT
+  - Migrate content with Migration Manager
+  - Migrate content with Mover
+  
+  After completing this module, students will be able to&#58;
+  - Access data to be migrated using SharePoint Migration Assessment Tool (SMAT).
+  - Migrate content to the cloud using SharePoint Migration Tool (SPMT).
+  - Migrate content to the cloud using Migration Manager.
+  - Migrate content to the cloud using Mover.
+  - Manage and monitor migration process.

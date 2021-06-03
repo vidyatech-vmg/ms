@@ -1,0 +1,103 @@
+### YamlMime:Course
+title: Microsoft Security, Compliance, and Identity Fundamentals
+metadata:
+  title: 'Course SC-900T00-A: Microsoft Security, Compliance, and Identity Fundamentals'
+  description: 'Course SC-900T00-A: Microsoft Security, Compliance, and Identity Fundamentals'
+uid: course.sc-900t00
+courseNumber: 'SC-900T00-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Describe basic concepts of security, compliance, and identity.
+- skill: Describe the concepts and capabilities of Microsoft identity and access management solutions.
+- skill: Describe the capabilities of Microsoft security solutions.
+- skill: Describe the compliance management capabilities in Microsoft.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- business-user
+- student
+products:
+- m365
+exams:
+- uid: exam.sc-900
+summary: |-
+  This course provides foundational level knowledge on security, compliance, and identity concepts and related cloud-based Microsoft solutions.
+
+  #### Audience profile
+  The audience for this course is looking to familiarize themselves with the fundamentals of security, compliance, and identity (SCI) across cloud-based and related Microsoft services. The content for this course aligns to the SC-900 exam objective domain. Candidates should be familiar with Microsoft Azure and Microsoft 365 and understand how Microsoft security, compliance, and identity solutions can span across these solution areas to provide a holistic and end-to-end solution.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - General understanding of networking and cloud computing concepts.
+  - General IT knowledge or any general experience working in an IT environment.
+  - General understanding of Microsoft Azure and Microsoft 365.
+outlineSection: |-
+  ### Module 1&#58; Describe basic concepts of security, compliance, and identity.
+  Learn about core concepts, principles, and methodologies that are foundational to security, compliance, and identity solutions, including Zero-Trust, shared responsibility, our privacy principles, and more.
+  #### Lessons
+  - Describe security concepts and methodologies.
+  - Describe Microsoft security and compliance principles.
+  
+  After completing this module, students will be able to&#58;
+  - Describe security concepts and methodologies.
+  - Explore the Service Trust Portal.
+  - Know where to go to find and review Azure compliance documentation.
+  
+  
+  ### Module 2&#58; Describe the concepts and capabilities of Microsoft identity and access management solutions
+  Learn about Azure AD services and identity principals, secure authentication, access management capabilities, as well as identity protection and governance.
+  #### Lessons
+  - Describe identity concepts
+  - Describe the basic services and identity types of Azure AD
+  - Describe the authentication capabilities of Azure AD
+  - Describe the access management capabilities of Azure AD
+  - Describe the identity protection and governance capabilities of Azure AD
+  
+  After completing this module, students will be able to&#58;
+  - Describe basic identity concepts.
+  - Describe the basic services and identity types of Azure AD
+  - Describe the authentication capabilities of Azure AD.
+  - Describe the access management capabilities of Azure AD.
+  - Describe the identity protection and governance capabilities of Azure AD.
+  
+  
+  ### Module 3&#58; Describe the capabilities of Microsoft security solutions
+  Learn about security capabilities in Microsoft. Topics covered will include network and platform capabilities of Azure, Azure security management, and Sentinel. You’ll learn about threat protection with Microsoft 365 Defender and Microsoft 365 security management, and you'll explore endpoint protection with Intune.
+  #### Lessons
+  - Describe the basic security capabilities in Azure
+  - Describe the security management capabilities of Azure
+  - Describe the security capabilities of Azure Sentinel
+  - Describe the threat protection capabilities of Microsoft 365
+  - Describe the security management capabilities of Microsoft 365
+  - Describe endpoint security with Microsoft Intune
+  - Module summary
+  
+  After completing this module, students will be able to&#58;
+  - Describe the basic security capabilities in Azure.
+  - Describe the security management capabilities of Azure.
+  - Describe the security capabilities of Azure Sentinel.
+  - Describe the threat protection capabilities of Microsoft 365.
+  - Describe the security management capabilities of Microsoft 365.
+  - Describe endpoint security with Microsoft Intune.
+  
+  
+  ### Module 4&#58; Describe the capabilities of Microsoft compliance solutions
+  Learn about compliance solutions in Microsoft. Topics covered will include Compliance center, Information protection and governance in Microsoft 365, Insider Risk, audit, and eDiscovery solutions. Also covered are Azure resources governance capabilities.
+  #### Lessons
+  - Describe the compliance management capabilities in Microsoft
+  - Describe the information protection and governance capabilities of Microsoft 365
+  - Describe the insider risk capabilities in Microsoft 365
+  - Describe the eDiscovery capabilities of Microsoft 365
+  - Describe the audit capabilities of Microsoft 365
+  - Describe the resource governance capabilities in Azure
+  
+  After completing this module, students will be able to&#58;
+  - Describe the compliance management capabilities in Microsoft.
+  - Describe the information protection and governance capabilities of Microsoft 365.
+  - Describe the insider risk capabilities in Microsoft 365.
+  - Describe the eDiscovery capabilities of Microsoft 365.
+  - Describe the audit capabilities of Microsoft 365.
+  - Describe the resource governance capabilities in Azure.

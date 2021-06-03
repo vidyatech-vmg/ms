@@ -1,0 +1,151 @@
+### YamlMime:Course
+title: Configure and use lean manufacturing in Dynamics 365 for Finance and Operations
+metadata:
+  title: 'Course MB-320T02-A: Configure and use lean manufacturing in Dynamics 365 for Finance and Operations'
+  description: 'Course MB-320T02-A: Configure and use lean manufacturing in Dynamics 365 for Finance and Operations'
+uid: course.mb-320t02
+courseNumber: 'MB-320T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-320
+summary: |-
+  Organizations use Dynamics 365 for Finance and Operations to run smarter with connected operations by selecting best-fit manufacturing processes, improving operational procedures, simplifying resource management, accelerating product delivery, and increasing quality and customer satisfaction. 
+
+  This course discusses how to configure and use lean manufacturing in Dynamics 365 for Finance and Operations.
+
+  #### Audience profile
+  A Dynamics 365 for Finance and Operations Functional Consultant is responsible for performing discovery, capturing requirements, engaging subject matter experts and stakeholders, translating requirements, and configuring the solution and applications. The Functional Consultant implements a solution using out-of-the-box capabilities, codeless extensibility, application, and service integrations.
+prerequisitesSection: |-
+  Basic understanding of ERP and CRM concepts.
+outlineSection: |-
+  ### Module  1&#58; Get Started with Lean Manufacturing
+  This topic explains how to get started with the Lean manufacturing in Finance and Operations.
+
+  #### Lessons
+  - Introduction
+  - Concepts and terminology
+  - Module Summary
+
+
+  In this lesson, students learned to&#58;
+  - Understand Lean manufacturing
+  - Understand Lean concepts and terminology
+
+
+  ### Module  2&#58; Configure Lean Manufacturing
+  This topic explains how to configure Lean manufacturing in Finance and Operations. A Lean manufacturing scenario is usually more than an accumulation of unrelated Kanban rules or material-supply policies. The flow of material and products throughout work cells and locations for a specific production or supply scenario can be described as a sequence or small network of process or transfer activities, called a production flow. The activity-based production flows are introduced in Finance and Operations to establish a production and cost context for various Kanban scenarios. All Kanban rules are directly connected to this pre-defined structure. The activity-based model allows users to set up a wider range of scenarios than supported by previous versions of Lean manufacturing for Finance and Operations, without adding complexity for the shop floor workers because all scenarios use the same activity-based user interface.
+  #### Lessons
+  - Introduction
+  - Configure parameters
+  - Create value streams and production flow models
+  - Create production flows
+  - Practice Labs
+  - Module summary
+
+
+  In this module, students learned to&#58;
+  - Configure parameters
+  - Configure value streams
+  - Create Production Flows
+  - Configure lean manufacturing work cells
+
+
+  ### Module  3&#58; Create and Process Fixed Kanban Rules
+  In Dynamics 365 for Finance and Operations, a Kanban is implemented as a framework to plan, track, and process based on Pull signals. A Kanban is an essential part of a pull system of supply, which is a critical element of Lean production/supply. When a Kanban has been consumed, it should be passed (triggered) to the source of supply to replenish it. This source of supply is defined through the production flow activities to which the Kanban is linked. Kanban rules in Finance and Operations are tied to production flows as the foundation that defines the activities of a Kanban. Kanban rules can be set up to support a variety of make-to-stock and make-to-order scenarios.
+  #### Lessons
+  - Introduction
+  - Kanban boards
+  - Configure a fixed Kanban rule
+  - Process fixed Kanbans
+  - Practice Labs
+  - Module summary
+
+
+  Students understood an overview of Kanbans and Kanban types, and learn how to configure and process Fixed Kanban rules.
+
+
+  Students learned how to configure and work with&#58;
+  - Kanban rules
+  - Manufacturing Kanbans
+  - Withdrawal Kanbans
+  - Fixed quantity Kanbans
+
+
+  ### Module  4&#58; Create and Process Event Kanban Rules
+  In this module we discuss the event kanbans and different ways to trigger them.
+  #### Lessons
+  - Introduction
+  - Configure event Kanban rules
+  - Configure sales, Kanban, stock replenishment and BOM line events
+  - Practice labs
+  - Module summary
+
+
+  Students learned how to configure and process event Kanban rules.
+
+
+  Students learned how to configure and work with&#58;
+  - Kanban rules
+  - Manufacturing Kanbans
+  - Withdrawal Kanbans
+  - Create and manage Sales line event Kanban
+  - Create and manage BOM line event Kanban
+  - Students also understand sample scenarios for event Kanbans processes and different event Kanban types.
+
+
+  ### Module  5&#58; Create and Process Scheduled Kanban Rules
+  The planned orders of type Kanban are created based on the Kanban rule and follow the standard Master Planning logic and horizons. Master Planning item coverage settings determine how the planned orders are created and whether they are automatically or manually firmed. In this module we discuss the scheduled Kanban in Dynamics 365 for Finance and Operations.
+  #### Lessons
+  - Introduction
+  - Configure scheduled Kanban rules
+  - Understand Kanban quantity calculations and circulation Kanbans
+  - Practice labs
+  - Module summary
+
+
+  Students learned how to configure and work with&#58;
+  - Kanban rules
+  - Manufacturing Kanbans
+  - Withdrawal Kanbans
+  - Create and manage scheduled Kanban
+  - Supply schedule
+  - Kanban quantity calculations
+
+
+  ### Module  6&#58; Configure Activity-Based Subcontracting and Production Flow Costing
+  The basic principle of a production flow does not change when activities are subcontracted using Finance and Operations; material still flows between locations, process activities convert material to products, and transfer activities move material or products from one location to another. In Dynamics 365 for Finance and Operations, there are two approaches for subcontracting&#58; production orders and Lean manufacturing. The first approach models the subcontracting work as a service that is related to an activity of a production flow. A cost group type, direct outsourcing, is required to be configured, so that the subcontracting services are not as part of a BOM. The cost accounting of subcontracted work is completely integrated in the new costing for manufacturing in Microsoft Dynamics 365 for Finance and Operations.
+  #### Lessons
+  - Introduction
+  - Configure activity-based subcontracting
+  - Understand production flow costing
+  - Practice labs
+  - Module summary
+
+
+  In this lesson, students learned how to&#58;
+  - Configure activity-based subcontracting
+  - Configure production scheduling and subcontracting
+  - Designate vendors as subcontractors
+  - Configure production flow costing
+
+
+  ### Module  7&#58; Course Conclusion
+  Final assessment and course summary, as well as a post-course survey for the course.
+  #### Lessons
+  - Final assessment
+  - Course summary
+  - Post-course survey
+
+
+  Students will have completed the course.

@@ -1,0 +1,120 @@
+### YamlMime:Course
+title: Manage SharePoint and OneDrive in Microsoft 365
+metadata:
+  title: 'Course MS-040T00-A: Manage SharePoint and OneDrive in Microsoft 365'
+  description: 'Course MS-040T00-A: Manage SharePoint and OneDrive in Microsoft 365'
+uid: course.ms-040t00
+courseNumber: 'MS-040T00-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Configure SharePoint Sites.
+- skill: Manage sites storage limits.
+- skill: Deploy OneDrive sync client.
+- skill: Use Group Policy to control OneDrive sync client settings.
+- skill: Manage external sharing for data in Microsoft SharePoint and OneDrive.
+- skill: Configure user profile properties.
+- skill: Manage audiences.
+- skill: Use the App Catalog to manage custom apps.
+- skill: Create and manage term groups, term sets, and terms.
+- skill: Describe the difference between modern and classic search experiences.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+summary: |-
+  Content is the most critical digital asset for every organization. In this course, you will learn how to plan, configure, and manage SharePoint Sites and OneDrive to enable modern content services that transform the content lifecycle. Specifically, this course discusses the modern SharePoint site structure, such as SharePoint hub sites. It provides best practices for the adoption and deployment of OneDrive within your organization. It also covers sharing, security, and monitoring in SharePoint and OneDrive in Microsoft 365. Additionally, you will learn how to manage user profiles and apps with proper permission settings. We will also discuss how to plan and configure Managed Metadata, Business Connectivity Services, and search allowing content to be found, consumed, and governed across Microsoft 365.
+
+  #### Audience profile
+  This course is designed for IT Professionals who deploy and manage Microsoft SharePoint and OneDrive in their organizations. Students in this course are interested in Microsoft SharePoint and OneDrive.
+prerequisitesSection: |-
+  Learners should start this course already having the following skills&#58;
+  - A proficient understanding of basic functional experience with Microsoft 365 services.
+  - A proficient understanding of general IT practices, including using PowerShell.
+  - Basic understanding of Active Directory and Azure AD.
+  - Basic understanding of mobile device management, and alternative operating systems (Android and macOS).
+outlineSection: |-
+  ### Module 1&#58; Plan and Configure SharePoint Sites
+  This module is all about planning, configuring, and managing SharePoint sites. It discusses how SharePoint administrators use SharePoint Admin Center to manage the lifecycle of SharePoint sites in your organization.
+  #### Lessons
+  - Overview of SharePoint in Microsoft 365
+  - Configure SharePoint sites
+  - Manage SharePoint sites
+
+  After completing this module, students will be able to&#58;
+  - Create SharePoint sites.
+  - Manage SharePoint site storage limits.
+  - Create and configure SharePoint hub sites.
+  - Describe how to use SharePoint Admin Center to manage SharePoint sites.
+
+  
+  ### Module 2&#58; Configure and Manage OneDrive
+  This module explains how to plan the deployment of OneDrive It discusses different approaches to deploy OneDrive based on different scenarios. It also introduces the capabilities to manage content in OneDrive.
+  #### Lessons
+  - Overview of OneDrive in Microsoft 365
+  - Deploy OneDrive
+  - Manage OneDrive
+
+  After completing this module, students will be able to&#58;
+  - Manage users’ storage limits.
+  - Configure data retention in OneDrive.
+  - Use Group Policy to control OneDrive sync client settings.
+  - Describe different methods to deploy OneDrive.
+  - Describe how to use OneDrive Admin Center to manage OneDrive.
+
+
+  ### Module 3&#58; Sharing and Security in SharePoint and OneDrive
+  This module is focused on sharing, security, and monitoring in Microsoft SharePoint and OneDrive. Specifically, we discuss planning and managing external sharing as well as access control in SharePoint and OneDrive. It also discusses how to use Microsoft 365 Admin Center to monitor the activities in Microsoft SharePoint and OneDrive.
+  #### Lessons
+  - Manage SharePoint site permissions
+  - Manage sharing in SharePoint and OneDrive
+  - Manage security in SharePoint and OneDrive
+
+  After completing this module, students will be able to&#58;
+  - Describe the external sharing in Microsoft SharePoint and OneDrive.
+  - Describe the options to manage device access to Microsoft SharePoint and OneDrive.
+  - View Microsoft 365 reports that measure SharePoint and OneDrive usage.
+
+
+  ### Module 4&#58; Manage User Profiles and Apps
+  This module is about user profile and customization in Microsoft SharePoint. It discusses manage User Profiles in Microsoft SharePoint. It also describes how to use the App Catalog to make custom business apps available for your SharePoint in Microsoft 365.
+  #### Lessons
+  - Manage User Profiles
+  - Manage apps
+
+  After completing this module, students will be able to&#58;
+  - Describe how to configure user profile properties.
+  - Describe how to manage audiences
+  - Describe how to use the App Catalog to manage custom apps.
+
+
+  ### Module 5&#58; Plan and Configure Managed Metadata and Business Connectivity Services
+  This module is about the Managed Metadata and Business Connectivity Services. It introduces the concepts of managed metadata as well as the process to import term sets. It also describes how to manage Business Connectivity Services and create an external list.
+  #### Lessons
+  - Plan and configure Managed Metadata
+  - Plan and configure Business Connectivity Services
+
+  After completing this module, students will be able to&#58;
+  - Describe the functions of the Managed Metadata.
+  - Create and manage term groups, term sets, and terms.
+  - Explain the key components of a BDC model.
+  - Describe the high-level architecture of BCS.
+  - Explain the purpose of the Secure Store Service.
+
+
+  ### Module 6&#58; Plan and Configure Search
+  This module is about SharePoint search service. It provides details on planning and configuring SharePoint search, including the difference between the classic and modern search experience. It also discusses how to customize search experience with different settings.
+  #### Lessons
+  - Plan search
+  - Configure search
+
+  After completing this module, students will be able to&#58;
+  - Describe the difference between modern and classic search experiences.
+  - Describe how to manage the search schema.
+  - Explain the use and deployment of query rules.
+  - Explain the use and deployment of result source.

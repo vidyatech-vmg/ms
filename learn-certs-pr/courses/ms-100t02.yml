@@ -1,0 +1,67 @@
+### YamlMime:Course
+title: Microsoft 365 Tenant & Service Management
+metadata:
+  title: 'Course MS-100T02-A: Microsoft 365 Tenant & Service Management'
+  description: 'Course MS-100T02-A: Microsoft 365 Tenant & Service Management'
+uid: course.ms-100t02
+courseNumber: 'MS-100T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Plan their Microsoft 365 on-premises infrastructure
+- skill: Plan their identity and authentication solution
+- skill: Plan and configure their Microsoft 365 experience
+- skill: Leverage Microsoft’s FastTrack and partner services
+- skill: Implement their domain services
+- skill: Configure their Microsoft 365 tenant roles
+- skill: Manage their Microsoft 365 tenant health and services
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-100
+summary: |-
+  Learn about Microsoft 365 Tenant and Service Management, including how to plan, manage, and customize an organization’s Microsoft 365 tenant and services.
+
+  #### Audience profile
+  This course is designed for persons who are aspiring to the Microsoft 365 Enterprise Admin role and have completed one of the Microsoft 365 role-based administrator certification paths.
+prerequisitesSection: |-
+  - Completed a role-based administrator course, such as Messaging, Teamwork, Security and Compliance, or Collaboration.
+  - A proficient understanding of DNS and basic functional experience with Microsoft 365 services.
+  - A proficient understanding of general IT practices.
+outlineSection: |-
+  ### Module  1&#58; Designing your Microsoft 365 Tenant
+  #### Lessons
+  - Planning a Microsoft 365 On-premises infrastructure
+  - Planning Your Identity and Authentication Solution
+
+
+  ### Module  2&#58; Configuring your Microsoft 365 Tenant
+  #### Lessons
+  - Planning your Microsoft 365 Experience
+  - Configuring your Microsoft 365 Experience
+  - Leveraging FastTrack and Partner Services
+  - Implementing Your Domain Services
+
+
+  ### Module  3&#58; Managing your Microsoft 365 Tenant
+  #### Lessons
+  - Configuring Tenant Roles
+  - Managing Tenant Health and Services
+
+
+  ### Module  4&#58; Hands-On Lab
+
+  #### Lab &#58; Microsoft 365 Tenant and Service Management
+  - Exercise 1&#58; Set up a Microsoft 365 trial tenant
+  - Exercise 2&#58; Managing Microsoft 365 users, groups, and administration
+  - Exercise 3&#58; Configuring Rights Management and compliance
+  - Exercise 4&#58; Monitor and troubleshoot Microsoft 365

@@ -1,0 +1,273 @@
+### YamlMime:Course
+title: 'Microsoft Finance and Operations Core'
+metadata:
+  title: 'Course MB-300T00: Microsoft Finance and Operations Core'
+  description: 'Course MB-300T00: Microsoft Finance and Operations Core'
+uid: course.mb-300t00
+courseNumber: 'MB-300T00'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: How to navigate and efficiently use search, filtering and queries
+- skill: How to use operational workspaces
+- skill: Work with Business Document Management
+- skill: Work with record templates
+- skill: Integrate Power BI with Dynamics 365 Finance and Operations apps
+- skill: How to personalize workspaces
+- skill: Identify when to use Power Platform in Dynamics 365 Finance and Operations app.
+- skill: How to apply security roles to users
+- skill: Run and analyze security reports
+- skill: Create and use workflow for approval
+- skill: Work with Organization Hierarchy and its purposes.
+- skill: How to use personalization feature
+- skill: Use Data Management workspace
+- skill: Create and use and entity templates
+- skill: Copy configuration data between legal entities
+- skill: Import and Export data and manage data by using Office Integration
+- skill: Use Regression Suite Automation Tool (RSAT)
+- skill: Create User acceptance Tests (UAT) and test plans
+- skill: Create and work with Business Process Modeler (BPM)
+- skill: Understand how to use Issue search
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-finance
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-300
+summary: |-
+  Dynamics 365 Finance and Operations apps include, but are not limited to, Dynamics 365 Finance, Dynamics 365 Supply Chain Management, and Dynamics 365 Supply Chain Management, Manufacturing.
+  Dynamics 365 Finance helps you to&#58;
+  - Automate and modernize your global financial operations.
+  - Monitor performance in real time, predict future outcomes, and make data-driven decisions to drive business growth.
+  - Drive strategic financial decisions with artificial intelligence (AI), unify and automate your financial processes, reduce operational expenses, and decrease global financial complexity and risk.
+  
+  Dynamics 365 Supply Chain Management helps you to&#58;
+  - Transform your manufacturing and supply chain operations.
+  - Use predictive insights and intelligence from AI and the Internet of Things (IoT) across planning, production, inventory, warehouse, and transportation management.
+  - Maximize operational efficiency, product quality, and profitability.
+  - Innovate with intelligent manufacturing operations, modernize warehouse management, optimize production performance, maximize the life of your assets, and automate and streamline your supply chain.
+  
+  Note&#58; For more information, please refer to https://docs.microsoft.com/learn/paths/get-started-finance-operations/
+  In this module, we will focus on the core features and functionality for Dynamics 365 Dynamics 365 Finance apps that are most used by end users and consultants.
+  
+  #### Audience profile
+  A Dynamics 365 for Finance and Operations Functional Consultant is responsible for performing discovery, capturing requirements, engaging subject matter experts and stakeholders, translating requirements, and configuring the solution and applications. The Functional Consultant implements a solution using out of the box capabilities, codeless extensibility, application and service integrations.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - General knowledge of Microsoft Windows
+  - The ability to use Dynamics 365 for Finance and Operations for basic processing
+  - General knowledge of basic mobile device features and navigation
+outlineSection: |-
+  ### Module 1&#58; Use common functionality and implementation tools
+  In this module, you will learn how to&#58;
+  - Use common functionality and implementation tools.
+  - Describe uses cases for, and capabilities of, workspaces.
+  - Use and personalize operational workspaces.
+  - Describe case management.
+  - Describe global address book features and their use cases.
+  - Identify the inquiry and report types available in a default installation.
+  - Describe use cases for the business document management and electronic reporting features.
+  - Work with business document management.
+  - Navigate and efficiently use search filtering and create search queries.
+  - Understand and use record templates.
+  - Describe use cases for Power Platform apps and services.
+  - Identify when to use Power Platform in the Dynamics 365 Finance app.
+  - Integrate Power BI with Dynamics 365 Finance apps.
+  #### Lessons
+  - Introduction
+  - Identify and use common Dynamics 365 Finance and Operations apps features and functionality
+  - Describe use cases for Power Platform apps and services
+  - Module Summary
+
+  #### Lab &#58; Work with an operational workspace
+  
+  #### Lab &#58; Prepare, enable, and use Business document management
+  
+  #### Lab &#58; Perform searches and work with filters
+  
+  #### Lab &#58; Create search queries and save for future use
+  
+  #### Lab &#58; Work with record templates
+  
+  You have learned how to&#58;
+  - Use common functionality and implementation tools.
+  - Describe use cases for, and capabilities of, workspaces.
+  - Use and personalize operational workspaces.
+  - Describe case management.
+  - Describe global address book features and their use cases.
+  - Identify the inquiry and report types available in a default installation.
+  - Describe use cases for the business document management and electronic reporting features.
+  - Work with business document management.
+  - Navigate and efficiently use search filtering and create search queries.
+  - Understand and use record templates.
+  - Describe use cases for Power Platform apps and services.
+  - Identify when to use Power Platform in the Dynamics 365 Dynamics 365 Finance app.
+  - Integrate Power BI with Dynamics 365 Dynamics 365 Finance apps.
+  
+  
+  ### Module 2&#58; Configure security, processes, and options
+  In this module, you will learn how to&#58;
+  - Distinguish between roles, duties, privileges, and permissions.
+  - Apply security roles to users.
+  - Describe segregation of duties.
+  - Run and analyze security reports.
+  - Create and use workflow for approval.
+  - Configure workflow properties and elements.
+  - Set up and configure legal entities and operating units.
+  - Configure and troubleshoot number sequences.
+  - Create an organization hierarchy and assign purpose.
+  - Describe and apply user options.
+  - Configure document handling for attachments.
+  - Configure print management and form setup features.
+  - Describe use cases for the Microsoft Excel Workbook Designer and the Microsoft Dynamics Office add-in.
+  - Configure email (SMTP/Exchange).
+  - Create and maintain email templates.
+  - Use the personalization feature.
+  - Set up and monitor batch jobs and alerts.
+  #### Lessons
+  - Introduction
+  - Implement security
+  - Design and create workflows
+  - Configure Organization administration features
+  - Configure System administration features
+  - Module Summary
+  
+  #### Lab &#58; Create users and assign security roles
+  
+  #### Lab &#58; Set up segregation of duties
+  
+  #### Lab &#58; Run a security report and analyze the output
+  
+  #### Lab &#58; Create a purchase requisition workflow
+  
+  #### Lab &#58; Configure a new legal entity
+  
+  #### Lab &#58; Create an operating unit
+  
+  #### Lab &#58; Set up number sequences
+  
+  #### Lab &#58; Create an Organization Hierarchy and assign purpose
+  
+  #### Lab &#58; Use Excel workbook designer
+  
+  #### Lab &#58; Create a batch job
+  
+  You have learned how to&#58;
+  - Distinguish between roles, duties, privileges, and permissions.
+  - Apply security roles to users.
+  - Describe segregation of duties.
+  - Run and analyze security reports.
+  - Create and use workflow for approval.
+  - Configure workflow properties and elements.
+  - Set up and configure legal entities and operating units.
+  - Configure and troubleshoot number sequences.
+  - Create an organization hierarchy and assign purpose.
+  - Describe and apply user options.
+  - Configure document handling for attachments.
+  - Configure print management and form setup features.
+  - Describe use cases for the Microsoft Excel Workbook Designer and the Microsoft Dynamics Office add
+  - Configure email (SMTP/Exchange).
+  - Create and maintain email templates.
+  - Use personalization feature.
+  - Set up and monitor batch jobs and alerts.
+  
+  
+  ### Module 3&#58; Manage Dynamics 365 Finance and Operation data
+  In this module, you will learn how to&#58;
+  - Manage data in Dynamics 365 Finance and Operations apps.
+  - Describe Data management concepts.
+  - Understand the Data management workspace overview.
+  - Work with templates in the Data management workspace.
+  - Prepare data for import or create all necessary startup data including postal code data, customers, vendors, and products.
+  - Describe use cases for and types of data entities.
+  - Export data from a legal entity.
+  - Import data into a legal entity.
+  - Copy configuration data between companies or legal entities by using the data management framework.
+  - Describe use cases for the dual-write feature.
+  - Plan a migration strategy.
+  - Identify common migration scenarios and tools in Dynamics 365 Finance and Operations apps.
+  - Determine the scope for a migration.
+  - Identify relevant data entities and elements based on given scenarios.
+  - Establish migration strategy processes including migration scope.
+  - Prepare data for migration and migrate data.
+  - Create a checklist for proper planning for a given scenario prior to data migration.
+  - Identify and extract source data.
+  - Identify available data types for creating source data on a given scenario for data migration.
+  - Generate field mapping between source and target data structures.
+  - Import or export data by using the data management framework.
+  - Support the transition between the existing and migrated systems.
+  - Perform a test migration and validate output from the process.
+  - Implement data task automation.
+  #### Lessons
+  - Introduction
+  - Manage data in Dynamics 365 Finance and Operations apps
+  - Plan a migration strategy
+  - Prepare data for migration and migrate data
+  - Module Summary
+  
+  #### Lab &#58; Work with templates in the Data management workspace
+  
+  #### Lab &#58; Export and import data
+  
+  #### Lab &#58; Copy configuration data between legal entities
+  
+  In this module, you learned how to&#58;
+  - Manage data in Dynamics 365 Finance and Operations apps.
+  - Describe Data management concepts.
+  - Understand the Data management workspace overview.
+  - Work with templates in the Data management workspace.
+  - Prepare data for import or create all necessary startup data including postal code data, customers
+  - Describe use cases for and types of data entities.
+  - Export data from a legal entity.
+  - Import data into a legal entity.
+  - Copy configuration data between companies or legal entities by using the data management framework
+  - Describe use cases for the dual-write feature.
+  - Plan a migration strategy.
+  - Identify common migration scenarios and tools in Finance and Operations apps.
+  - Determine the scope for a migration.
+  - Identify relevant data entities and elements based on given scenarios.
+  - Establish migration strategy processes including migration scope.
+  - Prepare data for migration and migrate data
+  - Create a checklist for proper planning for a given scenario prior to data migration.
+  - Identify and extract source data.
+  - Identify available data types for creating source data on a given scenario for data migration.
+  - Generate field mapping between source and target data structures.
+  - Import or export data by using the data management framework.
+  - Support the transition between the existing and migrated systems.
+  - Perform a test migration and validate output from the process.
+  - Implement data task automation.
+  
+  
+  ### Module 4&#58; Validate and support the solution
+  In this module, you will learn how to&#58;
+  - Describe the correlation between test cases and business requirements.
+  - Use best practices for recording test cases.
+  - Use Task recorder.
+  - Create a scenario for acceptance testing and save in a Business process modeler (BPM) library.
+  - Sync and configure your test plan in Azure DevOps.
+  - Execute your tests.
+  - Use Regression suite automation tool (RSAT).
+  - Create user acceptance tests (UAT) and test plans.
+  - Create and work with BPM.
+  - Use Issue search.
+  #### Lessons
+  - Introduction
+  - Test solutions in Dynamics 365 Finance and Operations apps
+  - Implement Lifecycle Services tools
+  - Module Summary
+  
+  In this module, you learned how to&#58;
+  - Under stand the correlation between test cases and business requirements
+  - Build test cases to test business functionality without the need to be a developer
+  - Use the Task recorder functionality to create a business process model in Lifecycle Services
+  - Identify any missing functionality by identifying and analyzing gaps using the BPM
+  - Use the Regression suite automation tool (RSAT)
+  - Understand what the FastTrack Go-live assessment is
+  - How to assist the customer to request the production environment

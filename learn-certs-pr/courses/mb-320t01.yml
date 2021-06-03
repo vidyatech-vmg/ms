@@ -1,0 +1,167 @@
+### YamlMime:Course
+title: Configure and use discrete manufacturing in Dynamics 365 for Finance and Operations
+metadata:
+  title: 'Course MB-320T01-A: Configure and use discrete manufacturing in Dynamics 365 for Finance and Operations'
+  description: 'Course MB-320T01-A: Configure and use discrete manufacturing in Dynamics 365 for Finance and Operations'
+uid: course.mb-320t01
+courseNumber: 'MB-320T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-320
+summary: |-
+  Organizations use Dynamics 365 for Finance and Operations to run smarter with connected operations by selecting best-fit manufacturing processes, improving operational procedures, simplifying resource management, accelerating product delivery, and increasing quality and customer satisfaction. This course discusses how to configure and use discrete manufacturing in Dynamics 365 for Finance and Operations.
+
+  #### Audience profile
+  A Dynamics 365 for Finance and Operations Functional Consultant is responsible for performing discovery, capturing requirements, engaging subject matter experts and stakeholders, translating requirements, and configuring the solution and applications. The Functional Consultant implements a solution using out-of-the-box capabilities, codeless extensibility, application, and service integrations.
+prerequisitesSection: |-
+  Basic understanding of ERP and CRM concepts.
+outlineSection: |-
+  ### Module  1&#58; Get Started with Production Control
+  This module explains the concepts used in the Production control module in Finance and Operations.
+
+  #### Lessons
+  - Introduction
+  - Compare discrete, lean and process manufacturing
+  - Configure production control for unified manufacturing
+  - Understand capacity planning
+  - General ledger and production control module
+  - Practice labs
+  - Summary
+
+
+  In this module students learned about&#58;
+  - Discrete, lean, and process manufacturing methodologies
+  - Unified manufacturing
+  - How to configure production control for unified manufacturing
+  - Capacity planning
+  - Interconnectivity between the General ledger and the Production control modules
+  - Production pools
+  - How to work with allocation keys
+
+
+  ### Module  2&#58; Get Started with Discrete Manufacturing
+  Even though each legal entity's manufacturing processes are unique, depending on the nature of the production environment, the core conceptual elements that are used in the Production control module are frequently very similar.
+  #### Lessons
+  - Introduction
+  - Understand the discrete production process statuses
+  - Understand the Bill of Materials (BOM)
+  - Working with BOM and item configurations
+  - Create BOM
+  - Production orders
+  - Practice Labs
+  - Module summary
+
+
+  In this module students learned about&#58;
+  - Discrete manufacturing concepts
+  - Production process statues
+  - Production stages
+  - BOMs
+  - Resources
+  - Routes and Operations
+
+
+  ### Module  3&#58; Configure Discrete Manufacturing
+  Before one can work in the Production control module, and create production orders, production parameters must be set up. The parameters selected have direct impact on the production order and the production life cycle. The parameters can be set by company or by site, which determines whether Dynamics 365 for Finance and Operations uses the company-level parameters or the site-specific parameters. Parameters, Production Orders and Life Cycle reviews how these parameters are defined, how journal names are used, how production orders are created, and the ways in which they are processed through manufacturing based on their status and the production life cycle. This lesson explains how to configure Discrete manufacturing in Finance and Operations.
+
+  #### Lessons
+  - Introduction
+  - Prepare general ledger for production
+  - Configure production control parameters
+  - Configure calendar and resources
+  - Configure operations and routes
+  - Practice lab
+  - Module summary
+
+
+  In this module students learned how to&#58;
+  - Configure inventory dimensions in production
+  - Configure parameters, production orders and status
+  - Configure calendars and resources
+  - Configure operations and routes.
+
+
+  ### Module  4&#58; Create and Complete Production Orders
+  The life cycle of a production order reflects the actual steps that are taken to manufacture a product. It begins with the creation of a production order and ends with a finished, manufactured product that is ready for the customer. The production order is assigned a status that reflects where it is in the production life cycle. This module reviews the Release, Start, Report as finished, and End stages in the production life cycle in the order in which they are conducted. Release, Start, and Report as finished are considered part of production control
+  #### Lessons
+  - Introduction
+  - Capacity planning, scheduling, and subcontracting
+  - Scrap and waste
+  - Practice Labs
+  - Module summary
+
+
+  In this module students learned&#58;
+  - Understand capacity planning
+  - Create discrete production orders
+  - Schedule a production order
+  - Process production orders
+  - Control and end production ‎
+
+
+  ### Module  5&#58; Work with Cost Sheeting
+  This module describes how to set up a costing sheet that includes material and manufacturing, as well as how the setup affects the BOM calculation results. Students will learn how to configure and manage costing sheet in Finance and Operations.
+
+
+  In this module, students learned&#58;
+  - How to work with the costing sheet
+
+
+  ### Module  6&#58; Use Manufacturing Execution
+  Manufacturing execution is primarily intended to be used by manufacturing companies. Workers can register time and item consumption on production jobs and project activities using the Job registration form. All registrations are approved and subsequently transferred to the relevant Dynamics 365 for Finance and Operations modules. Continuous approval and transfer of registrations give managers the ability to easily track actual costs on production orders.
+  #### Lessons
+  - Introduction
+  - Understand the manufacturing executions
+  - Identify roles
+  - Planning considerations
+  - Configure manufacturing execution
+  - Control production
+  - Practice Labs
+  - Module summary
+
+
+  In this module students learned to&#58;
+  - Understand the manufacturing execution
+  - Identify the roles in manufacturing execution
+  - Process production orders
+  - Understand the process workflows to manage a production
+
+
+  ### Module  7&#58; Get Started with Product Configuration
+  Product configuration is a constraint-based product configuration tool that uses the Microsoft Solver Foundation (MSF) product technology that is designed for modeling and constraint solving. One can use product configuration to create and maintain product configuration models, and to reuse components and attribute types. Attributes, constraints, subcomponents, user requirements, Bill of Material (BOM) lines, and route operations are implicitly reused when reusing a component. Components can also reuse table constraint definitions. This module explains how to get started with product configurator in Finance and Operations.
+  #### Lessons
+  - Introduction
+  - Understand the product configuration model
+  - Build a product configuration model
+  - Practice Labs
+  - Module summary
+
+
+  In this module students learned about&#58;
+  - The terminology that is important for understanding the concepts and processes that are associated with product configuration
+  - Product configuration end-to-end scenario
+  - The different areas that span the product configuration process
+  - The product configuration model
+  - How to build a product configuration model
+
+
+  ### Module  8&#58; Course Conclusion
+  Final assessment and course summary, as well as a post-course survey for the course.
+  #### Lessons
+  - Final assessment
+  - Course summary
+  - Post-course survey
+
+
+  Students will have completed the course.

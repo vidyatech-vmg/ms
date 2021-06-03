@@ -1,0 +1,170 @@
+### YamlMime:Course
+title: Building applications and solutions with Microsoft 365 core services
+metadata:
+  title: 'Course MS-600T00-A: Building applications and solutions with Microsoft 365 core services'
+  description: 'Course MS-600T00-A: Building applications and solutions with Microsoft 365 core services'
+uid: course.ms-600t00
+courseNumber: 'MS-600T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Implementing Microsoft Identity
+- skill: Working with Microsoft Graph
+- skill: Determining workload platform targets
+- skill: Integration Points, including Microsoft Teams, Office Add-ins, and SharePoint Framework
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-600
+summary: |-
+  This course covers five central elements of Microsoft 365 platform – implementing Microsoft Identity, working with Microsoft Graph, extending and customizing SharePoint, extending Teams, and extending Office.
+  In this course, students will learn how to implement Microsoft Identity and work with Microsoft Graph. Students will also gain the knowledge on UI elements (including Adaptive Cards and UI Fabric), Integration Points (including Microsoft Teams, Office Add-ins, SharePoint Framework, Actionable Messages), and determining workload platform targets.
+  In implementing Microsoft Identity, students will learn to implement Microsoft identity including registering an application, implanting authentication, configuring permissions to consume an API, and creating a service to access Microsoft Graph.
+  In working with Microsoft Graph, students will learn how to access user data, explore query parameters, manage a group lifecycle, access files, and optimize network traffic using Microsoft Graph.
+  In extending and customizing SharePoint, students will learn about SharePoint Framework web parts, extensions, and how to package and deploy a SPFx solution.
+  In extending Teams, students will look at the components of a Teams App, work with webhooks, tabs, and conversational bots.
+  In extending Office, students work with Office Add-ins, task pane add-ins, JavaScript APIs, Office UI Fabric, and actionable messages with adaptive cards.
+
+  #### Audience profile
+  Students in this course are interested in Microsoft 365 development platform or in passing the Microsoft 365 Developer Associate certification exam. Students should also have 1-2 years experience as a developer. This course assumes students know how to code and have a basic understanding of REST APIs, JSON, OAuth2, OData, OpenID Connect, Microsoft identities including Azure AD and Microsoft accounts, Azure AD B2C, and permission/consent concepts.
+prerequisitesSection: |-
+  - Students should have 1-2 years experience as a developer. This course assumes students know how to code and have a basic understanding of REST APIs, JSON, OAuth2, OData, OpenID Connect, Microsoft identities including Azure AD and Microsoft accounts, Azure AD B2C, and permission/consent concepts.
+  - It is recommended that students have some experience developing solutions on Microsoft Teams, Office Add-ins, or SharePoint Framework through all phases of software development.
+outlineSection: |-
+  ### Module  1&#58; Implement Microsoft Identity
+  In this module, you will learn to implement Microsoft identity  including registering an application, implanting authentication, configuring permissions to consume an API, and creating a service to access Microsoft Graph.
+  #### Lessons
+  - Microsoft Identity platform
+  - Register an Application
+  - Implement Authentication
+  - Configure Permissions to consume an API
+  - Implement Authorization to consume an API
+  - Implement Authorization in an API
+  - Create a Service to access Microsoft Graph
+
+
+  #### Lab &#58; Implement Microsoft Identity
+  - Registering an application in azure active directory
+  - Implementing Authentication
+  - Configuring permission to consume an API
+  - Implementing authorization to consume an API
+  - Implementing authorization in an API
+  - Creating a service to access Microsoft Graph
+
+  After completing this module, students will be able to&#58;
+  - Register an application in Azure AD
+  - Implement authentication
+  - Configure permissions to consume an API
+  - Create a service to access Microsoft Graph
+
+
+  ### Module  2&#58; Work with Microsoft Graph
+  In this module you will learn how to access user data, explore query parameters, manage a group lifecycle, access files, and optimize network traffic using Microsoft Graph.
+  #### Lessons
+  - What is Microsoft Graph
+  - Access user data from Microsoft Graph
+  - Data usage with query parameters
+  - Manage a group lifecycle on Microsoft Graph
+  - Access files with Microsoft Graph
+  - Optimize network traffic
+
+
+  #### Lab &#58; Work with Microsoft Graph
+  - Querying User Data from the Microsoft Graph
+  - Using Query Parameters when querying Microsoft Graph via HTTP
+  - Retrieving and controlling information returned from Microsoft Graph
+  - Creating an Office 365 Group and Team
+  - Uploading files to OneDrive and SharePoint
+  - Using Change Notifications and Track Changes with Microsoft Graph
+  - Reducing traffic with batched requests
+  - Understanding throttling in Microsoft Graph
+
+  After completing this module, students will be able to&#58;
+  - Access user data with Microsoft Graph
+  - Work with data using queries on Microsoft Graph
+  - Manage a group lifecycle on Microsoft Graph
+  - Optimize network traffic using Microsoft Graph
+
+
+  ### Module  3&#58; Extend and Customize SharePoint
+  In this module you will learn about SharePoint Framework web parts, extensions, and how to package and deploy a SPFx solution.
+  #### Lessons
+  - SharePoint Framework web parts
+  - SharePoint Framework extensions
+  - Package and deploy a SPFx solution
+  - Consumption of Microsoft Graph
+  - Consumption of 3rd party APIs secured with Azure AD from within SPFx
+  - Web Parts as Teams Tabs
+  - Branding and theming in SharePoint
+
+
+  #### Lab &#58; Extend and Customize SharePoint
+  - Introduction to SharePoint Framework (SPFx)
+  - Working with the web part property pane
+  - Creating SharePoint Framework Extensions
+  - Creating a Command Set Extension
+  - Creating a Field Customizer Extension
+  - Deploying a SharePoint Framework Solution
+  - Calling Azure AD Protected 3rd Party REST APIs
+  - Deploying SPFx Solutions to Microsoft Teams
+
+  After completing this module, students will be able to&#58;
+  - Package and deploy a SharePoint Framework solution
+  - Utilize consumption of Microsoft Graph
+  - Work with web parts as Team Tabs
+
+
+  ### Module  4&#58; Extend Teams
+  In this module you will look at the components of a Teams App, work with webhooks, tabs, and conversational bots.
+  #### Lessons
+  - Microsoft Teams App
+  - Webhooks in Microsoft Teams
+  - Tabs in Microsoft Teams
+  - Messaging extensions in Microsoft Teams
+  - Conversational bots in Microsoft Teams
+
+
+  #### Lab &#58; Extend Teams
+  - Understanding the components of a Teams App
+  - Working with webhooks in Microsoft Teams
+  - Creating tabs in Microsoft Teams
+  - Understanding messaging extensions
+  - Understanding conversational bots
+
+  After completing this module, students will be able to&#58;
+  - Recognize the components of a Teams App
+  - Work with webhooks in Microsoft Teams
+  - Create tabs in Microsoft Teams
+  - Create and register outgoing webhooks
+
+
+  ### Module  5&#58; Extend Office
+  In this module you will work with Office Add-ins, task pane add-ins, JavaScript APIs, Office UI Fabric, and actionable messages with adaptive cards.
+  #### Lessons
+  - Office Add-ins
+  - Office JS APIs
+  - Customization of Add-ins
+  - Testing, debugging, and deployment options
+  - Actionable message
+
+
+  #### Lab &#58; Extend Office
+  - Understanding fundamental components and types of Office Add-ins
+  - Understanding Office JavaScript APIs
+  - Understanding customization of Add-ins
+  - Understanding actionable messages
+
+  After completing this module, students will be able to&#58;
+  - Understanding fundamental components and types of Office Add-ins
+  - Understanding Office JavaScript APIs
+  - Understanding customization of Add-ins
+  - Understanding actionable messages

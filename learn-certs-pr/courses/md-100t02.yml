@@ -1,0 +1,127 @@
+### YamlMime:Course
+title: Configuring Windows 10
+metadata:
+  title: 'Course MD-100T02-A: Configuring Windows 10'
+  description: 'Course MD-100T02-A: Configuring Windows 10'
+uid: course.md-100t02
+courseNumber: 'MD-100T02-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Configure devices and drivers for Windows.
+- skill: Configure storage for Windows.
+- skill: Configure network settings in Windows.
+- skill: Configure remote management of Windows.
+- skill: Configure and manage applications in Windows.
+- skill: Configure Internet Explorer.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- windows
+exams:
+- uid: exam.md-100
+summary: |-
+  In
+  this course, students will learn how to support the configuration tasks
+  associated with Windows 10. Students will develop skills that include managing
+  storage, files, drivers, and printers as well as how to configure network
+  connectivity for Windows 10. This course will also cover managing and deploying
+  applications.
+
+  #### Audience profile
+  Candidates
+  for this exam are IT Professionals who perform installation, configuration,
+  general local management, and maintenance of Windows 10 core services.
+  Candidates may also be familiar with enterprise scenarios and cloud-integrated
+  services.
+prerequisitesSection: |-
+  Candidates
+  for this exam are IT Professionals who perform installation, configuration,
+  general local management, and maintenance of Windows 10 core services.
+  Candidates may also be familiar with enterprise scenarios and cloud-integrated
+  services.
+outlineSection: |-
+  ### Module  1&#58; Configuring Peripherals and Drivers
+  This module will cover device configuration. Students will learn how device drivers work and how to install them. Students will also be introduced to managing and configuring hardware peripherals, such as printers.
+  #### Lessons
+  - Managing Devices and Drivers
+  - Managing Printers
+
+
+  After completing this module, students will be able to&#58;
+  - Describe concepts related to drivers
+  - Install a device driver
+  - Describe printer management concepts
+  - Configure client-side printing and managing print server properties
+
+
+  ### Module  2&#58; Configuring Networking
+  In this module, students will learn about networking concepts. This module will introduce to IPv4 and IPv6 and concepts like DNS.  Students will learn how to configure network settings in Windows, as well as learn about wireless network technologies. The module will conclude with methods of managing  Windows remotely.
+  #### Lessons
+  - Configure IP Network Connectivity
+  - Implement Name Resolution
+  - Implement Wireless Network Connectivity
+  - Remote Access Overview
+  - Remote Management
+
+
+  After completing this module, students will be able to&#58;
+  - Describe the different types of applications
+  - Install applications manually and using automated methods
+  - Manage application deployment using the Windows Store
+  - Learn about web browser features in Windows 10
+
+
+  ### Module  3&#58; Configuring Storage
+  This module covers storage configuration and management in Windows 10.  Students will be introduced to local, cloud and virtual storage options. This course will also cover configuring storage on client devices and introduce storage spaces.
+  #### Lessons
+  - Overview of storage options
+  - Using OneDrive
+  - Managing Disks, Partitions, and Volumes
+  - Maintaining Disks and Volumes
+  - Managing Storage Spaces
+
+
+  #### Lab &#58; Practice Lab&#58; Managing Storage
+  - Adding a Disk
+  - Creating a Simple Volume
+  - Compressing a Folder
+  - Enabling Disk Quotas
+  - Creating a Storage Space
+
+
+  After completing this module, students will be able to&#58;
+  - Describe the options and benefits of local, cloud, and virtual storage
+  - Configure OneDrive
+  - Configure local disk partitions and volumes
+  - Describe the capabilities and benefits of Storage spaces
+
+
+  ### Module  4&#58; Managing Apps in Windows 10
+  In this module, Students will be introduced to App management in Windows 10. This module will cover the different types of apps and supported installation methods.  Students will learn how to install apps using manual and automated methods, as well as manage app delivery using the Windows Store. Finally, this module will cover the differences between Internet Explorer and Microsoft Edge.
+  #### Lessons
+  - Providing Apps to Users
+  - Managing Universal Windows Apps
+  - The Windows Store
+  - Web browsers in Windows 10
+
+
+  After completing this module, students will be able to&#58;
+  - Describe the different types of applications
+  - Install applications manually and using automated methods
+  - Manage application deployment using the Windows Store
+  - Learn about web browser features in Windows 10
+
+
+  ### Module  5&#58; Course Conclusion
+  #### Lessons
+  - Final Exam
+
+
+  #### Lab &#58; Graded Lab

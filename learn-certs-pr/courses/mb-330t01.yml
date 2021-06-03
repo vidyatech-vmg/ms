@@ -1,0 +1,250 @@
+### YamlMime:Course
+title: Configure and use supply chain management in Dynamics 365 for Finance and Operations
+metadata:
+  title: 'Course MB-330T01-A: Configure and use supply chain management in Dynamics 365 for Finance and Operations'
+  description: 'Course MB-330T01-A: Configure and use supply chain management in Dynamics 365 for Finance and Operations'
+uid: course.mb-330t01
+courseNumber: 'MB-330T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-330
+summary: |-
+  Organizations use Dynamics 365 for Finance and Operations to automate and streamline their supply chain by modernizing business logistics, delivering timely customer response, getting ahead with predictive insights, streamlining procurement, and unifying processes from sales to fulfillment. This course discusses how to configure and use supply chain management in Dynamics 365 for Finance and Operations.
+
+  #### Audience profile
+  A Dynamics 365 for Finance and Operations Functional Consultant is responsible for performing discovery, capturing requirements, engaging subject matter experts and stakeholders, translating requirements, and configuring the solution and applications. The Functional Consultant implements a solution using out-of-the-box capabilities, codeless extensibility, application, and service integrations.
+prerequisitesSection: |-
+  Basic understanding of ERP and CRM concepts.
+outlineSection: |-
+  ### Module  1&#58; Supply Management
+  To configure the inventory, one should first understand daily operations of the inventory. In this lesson we first discuss inbound and outbound inventory operations.
+
+  This module explains how to configure Inventory components for supply chain management processes in Finance and Operations.
+  #### Lessons
+  - Introduction
+  - Configure serial and batch numbers
+  - Configure inventory breakdown
+  - Configure inventory and warehouse journals
+  - Configure inventory dimensions
+  - Inventory closing and adjustment
+  - Practice Labs
+  - Module summary
+
+
+  In this module, students learned how to&#58;
+  - Perform inbound and outbound inventory operations
+  - Configure Inventory parameters
+  - Configure Tracking number groups
+  - Configure inventory breakdown
+  - Configure inventory and warehouse Journals
+  - Configure Units
+  - Configure Inventory dimensions
+  - Configure inventory costing
+  - Setup Distribution
+  - Understand inventory closing and adjustments
+
+
+  ### Module  2&#58; Use Inventory Journals
+  This topic explains how to use Inventory journals in Finance and Operations.
+  #### Lessons
+  - Introduction
+  - Use inventory journals
+  - Practice labs
+  - Module summary
+
+
+  In this module, students learned to&#58;
+  - Use movement journals
+  - Use inventory adjustment journals
+  - Use transfer journals
+  - Use counting and tag counting journals
+  - Use item arrival journals
+  - Use consignment journals
+
+
+  ### Module  3&#58; Use Inventory Reports
+  This topic explains how to use Inventory reports for supply chain management processes in Finance and Operations.
+  #### Lessons
+  - Introduction
+  - Understand ABC classification
+  - Use other inventory inquiries and reports
+  - Practice Labs
+  - Module summary
+
+
+  In this module, students learned to&#58;
+  - Understand ABC Classification
+  - Use Inventory inquires and reports
+
+
+  ### Module  4&#58; Create Products and Product Masters
+  Product information management in Dynamics 365 for Finance and Operations is for the creation and maintenance of an Enterprise Products Repository. It supports larger organizations in a centralized, structured approach in creating and maintaining core master data such as product definitions. Smaller organizations that require a more decentralized approach can, with some restrictions, create and maintain their respective products while their products are automatically added to the shared products repository.
+
+  This topic explains how to configure products for supply chain management processes in Finance and Operations.
+  #### Lessons
+  - Introduction
+  - Create products
+  - Create product masters with variants
+  - Create and configure attributes and category hierarchies
+  - Configure item pricing
+  - Practice Labs
+  - Module summary
+
+
+  In this module, students learned how to&#58;
+  - Create products as type item and service
+  - Configure default order settings
+  - Create Product masters with predefined variants
+  - Create and configure category hierarchies
+  - Create product attributes
+
+
+  ### Module  5&#58; Create Bill of Materials
+  A bill of materials (BOM) is a comprehensive list of all the components, parts, raw materials, assemblies and their quantities that are required to make a finished product. This module explains how create BOMs and BOM versions by using BOM designer in Finance and Operations.
+  #### Lessons
+  - Introduction
+  - Use BOM designer
+  - Practice lab
+  - Module summary
+
+
+  In this module, students learned how to&#58;
+  - Create BOMs and BOM versions by using BOM designer
+
+
+  ### Module  6&#58; Configure and Perform the Procure-to-Purchase Process
+  This topic explains how to configure and perform the procure-to-purchase process in Finance and Operations.
+  #### Lessons
+  - Introduction
+  - Procurement and sourcing business scenario
+  - Create purchase requisition workflow
+  - Create purchase requisitions
+  - Create request for quotation
+  - Use procurement policies
+  - Practice Labs
+  - Module summary
+
+
+  In this module, students learned how to&#58;
+  - Apply the procurement and sourcing processes in a business scenario
+  - Use procurement policies
+  - Create and maintain vendors
+  - Create purchase requisitions
+  - Create request for quotes
+
+
+  ### Module  7&#58; Configure Vendor Collaborations
+  This topic explains how configure vendor collaborations in Finance and Operations.
+  #### Lessons
+  - Introduction
+  - Configure vendor collaborators
+  - Use vendor collaboration
+  - Practice labs
+  - Module summary
+
+
+  In this module, students learned to&#58;
+  - Configure the Vendor Collaborations
+  - Work with vendor collaboration workspace
+  - Use vendor collaboration as part of procure-to-pay process
+
+
+  ### Module  8&#58; Configure and perform the Purchase-to-Pay Process
+  The Purchase Orders module reviews the process that is required to create and manage purchase orders in Dynamics 365 for Finance and Operations. A company uses purchase orders to record information about the goods and services they are purchasing from various vendors.
+  #### Lessons
+  - Introduction
+  - Create purchase orders
+  - Use purchase order change management
+  - Use item orders and arrival
+  - Manage over and under delivery and charges
+  - Create vendor returns
+  - Practice labs
+  - Module summary
+
+
+  In this module, students learned to&#58;
+  - Understand overview of the purchase-to-pay scenario
+  - Use purchase order change management
+  - Create a Purchase order
+  - Use Item arrivals and Arrival overview
+  - Generate and Post the Invoice
+  - Create the Invoice Journal
+  - Generate and post the vendor payments
+  - Create vendor returns
+
+
+  ### Module  9&#58; Configure and Use Agreements
+  This topic explains how to configure and use agreement in Finance and Operations.
+  #### Lessons
+  - Introduction
+  - Maintain trade agreements
+  - Create sales agreements
+  - Create purchase agreements
+  - Configure trade allowance
+  - Configure brokerage
+  - Configure royalties
+  - Configure rebates
+  - Practice Labs
+  - Module summary
+
+
+  In this module, students learned how to&#58;
+  - Maintain trade agreements
+  - Configure smart rounding
+  - Create Sales agreements
+  - Use procurement policies
+  - Create Purchase agreements
+  - Configure Trade allowance
+  - Configure Brokerage
+  - Configure Royalties
+  - Configure Rebates
+
+
+  ### Module  10&#58; Configure and Use the Order-to-Cash Process
+  This topic explains how to configure and use the order-to-cash process in Finance and Operations.
+  #### Lessons
+  - Introduction
+  - Understand the order-to-cash scenario
+  - Configure and use commissions
+  - Configure customer and item search
+  - Create and confirm sales quotations and orders
+  - Configure order promising
+  - Configure order hold codes
+  - Print and post picking lists
+  - Process customer returns
+  - Practice Lab
+  - Module Summary
+
+
+  In this module, students learned how to&#58;
+  - Perform the order-to-cash process
+  - Configure and use commissions
+  - Configure customer and item search
+  - Create and confirm Sales quotations
+  - Create and confirm Sales orders
+  - Print and post picking lists
+  - Generate and Post the Invoice
+  - Configure order hold codes
+  - Process Customer returns
+
+
+  ### Module  11&#58; Course Conclusion
+  Final assessment and course summary, as well as a post-course survey for the course.
+  #### Lessons
+  - Final assessment
+  - Course summary
+  - Post-course survey
+
+
+  Students will have completed the course.

@@ -1,0 +1,134 @@
+### YamlMime:Course
+title: Microsoft Dynamics 365 Customer Service
+metadata:
+  title: 'Course MB-230T01-A: Microsoft Dynamics 365 Customer Service'
+  description: 'Course MB-230T01-A: Microsoft Dynamics 365 Customer Service'
+uid: course.mb-230t01
+courseNumber: 'MB-230T01-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Install and configure the customer service app
+- skill: Identify common customer service scenarios
+- skill: Complete a case resolution process
+- skill: Analyze customer service data
+- skill: Automate case management record processing
+- skill: Create and use knowledge articles
+- skill: Create and use entitlements and service level agreements 
+- skill: Work with Omnichannel
+- skill: Work with Connected Customer Service
+- skill: Work with Customer Service Scheduling
+- skill: Work with Customer Service Insights
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-customer-service
+exams:
+- uid: exam.mb-230
+summary: |-
+  Microsoft Dynamics 365 Customer Service offers any organization an opportunity for customer success.  Using tools such as automatic case creation and queue management frees up your time to dedicate it where you can have a greater impact, directly with your customers.
+
+  Join our team of globally recognized experts as they take you step by step from creating cases to interacting with customers to resolving those cases.  Once you’ve resolved those cases you can learn from data analysis the key details to help you resolve similar cases faster or avoid new issues altogether.
+
+  #### Audience profile
+  A Dynamics 365 Customer Engagement Functional Consultant is responsible for performing discovery, capturing requirements, engaging subject matter experts and stakeholders, translating requirements, and configuring the solution and applications. The Functional Consultant implements a solution using out of the box capabilities, codeless extensibility, application and service integrations.
+prerequisitesSection: |-
+  This course is designed for functional consultants working with Dynamics 365 Customer Service, or functional consultants who work with other Dynamics 365 apps who want to expand their knowledge of Customer Service.
+outlineSection: |-
+  ### Module 1&#58; Customer Service Overview
+  In this module you will learn the basics of customer service in Dynamics 365. We will install and configure the application as well as learn about security roles, related applications and analytics.
+  #### Lessons
+  - Lesson 1&#58; Create case records
+  - Lesson 2&#58; Related service apps
+  - Lesson 3&#58; Analytics for service
+  - Lesson 4&#58; AI for service
+  - Lesson 5&#58; Configuring customer service
+
+  After completing this module, students will be able to&#58;
+  - Install and configure the customer service application.
+  - Identify common customer service scenarios.
+  
+  
+  ### Module 2&#58; Case Management
+  In this module you will learn how to open and resolve customer service cases, both manually and with automation.
+  #### Lessons
+  - Lesson 1&#58; Case management overview
+  - Lesson 2&#58; Creating case records
+  - Lesson 3&#58; Queue management
+  - Lesson 4&#58; Case routing
+  - Lesson 5&#58; Resolving cases
+  
+  After completing this module, you will be able to&#58;
+  - Open and resolve customer service cases.
+  - Automate case creation and routing.
+  
+  
+  ### Module 3&#58; Service Level Agreements and Entitlements
+  In this module you will learn how to define and use entitlements and entitlement templates as well as service level agreements and how these tools enable case resolution.
+  #### Lessons
+  - Lesson 1&#58; SLA and entitlement overview
+  - Lesson 2&#58; Create and manage entitlements
+  - Lesson 3&#58; Create and manage SLAs
+  
+  After completing this module, you will be able to&#58;
+  - Create and use service level agreements.
+  - Create and use entitlements.
+  
+  
+  ### Module 4&#58; Knowledge Management
+  In this module you will learn how to create and use knowledge management. Additionally, you will learn the lifecycle of knowledge articles.
+  #### Lessons
+  - Lesson 1&#58; Knowledge management overview
+  - Lesson 2&#58; Authoring and organizing
+  - Lesson 3&#58; Use knowledge content
+  - Lesson 4&#58; Manage knowledge content
+  
+  After completing this module, you will be able to&#58;
+  - Create and manage knowledge content.
+  
+  
+  ### Module 5&#58; Omnichannel
+  In this module, you will learn how to work with Omnichannel for Dynamics 365 Customer Service.
+  #### Lessons
+  - Lesson 1&#58; Get Started
+  - Lesson 2&#58; Entity record routing
+  - Lesson 3&#58; Routing and work distribution
+  - Lesson 4&#58; Configure message channels
+  - Lesson 5&#58; Deploy chat widgets
+  - Lesson 6&#58; Create smart assist solutions
+  - Lesson 7&#58; Integrate a Power Virtual Agents bot
+  - Lesson 8&#58; Productivity tools
+  
+  
+  ### Module 6&#58; Customer Service Scheduling
+  In this module, you will learn how to use the Customer Service Scheduling feature in Dynamics 365 Customer Service
+  #### Lessons
+  - Lesson 1&#58; Getting Started with Customer Service Scheduling
+  - Lesson 2&#58; Configure Customer Service Scheduling
+  - Lesson 3&#58; Defining and working with bookable resources
+  - Lesson 4&#58; Working with services
+  - Lesson 5&#58; Working with fulfillment preferences
+  - Lesson 6&#58; Scheduling service activities
+  - Lesson 7&#58; Rescheduling service activities and substituting resources
+  
+  
+  ### Module 7&#58; Connected Customer Service
+  In this module, you will learn how to use Dynamics 365 Connected Customer Service to take data and help execute actual business actions on the data.
+  #### Lessons
+  - Lesson 1&#58; Getting started with Connected Customer Service
+  - Lesson 2&#58; Registering devices
+  - Lesson 3&#58; Device management and interaction
+  - Lesson 4&#58; IoT alerts and sending commands
+  
+  
+  ### Module 8&#58; Customer Service Insights
+  In this module, you will learn how to work with Customer Service Insights to use Artificial Intelligence (AI) in your Dynamics 365 Customer Service solution.
+  #### Lessons
+  - Lesson 1&#58; Get started with Customer Service Insights
+  - Lesson 2&#58; Work with Customer Service call insights

@@ -1,0 +1,184 @@
+### YamlMime:Course
+title: Microsoft Dynamics 365 Field Service
+metadata:
+  title: 'Course MB-240T00-A: Microsoft Dynamics 365 Field Service'
+  description: 'Course MB-240T00-A: Microsoft Dynamics 365 Field Service'
+uid: course.mb-240t00
+courseNumber: 'MB-240T00-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Identify the key components involved in Field Service Implementations.
+- skill: Define the products and services that will be delivered to customers.
+- skill: Determine which pricing options to use in specific scenarios.
+- skill: Determine which resources are required.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-field-service
+exams:
+- uid: exam.mb-240
+summary: |-
+  Dynamics 365 Field Service helps organizations better position themselves in the market by providing a variety of tools that assist in identifying and scheduling resources and managing workloads for mobile workers. This course will equip students with the skills necessary to identify and configure the key components that are used to deliver Field Service and mobile solutions. Key topics include identifying the organizational considerations that will drive configuration decisions and common configuration aspects.
+  This course helps students better understand the bigger picture and end goals focused around implementations that aid in designing more efficient solutions that align with customer and organizational goals.
+
+  #### Audience profile
+  This course is designed for IT professionals with experience or interest in delivering Field Service solutions for large-scale customers.
+outlineSection: |-
+  ### Module  1&#58; Configure Field Service
+  In this introductory module, we will introduce key concepts of Dynamics 365 Field Service, including products, services, and tax codes.
+  #### Lessons
+  - Introduction to configuring Field Service
+  - Defining products and services
+  - Defining tax codes
+
+  you will be able to&#58;
+  - Create and manage products and services
+  - Configure tax codes for your organization
+
+
+  ### Module  2&#58; Resource Scheduling Configuration
+  In this module, we will explore the concept of resource scheduling, and learn how to configure the system to schedule resources efficiently.
+  #### Lessons
+  - Mapping and location information
+  - Configuring resource components
+  - Defining account preferences
+
+  you will be able to&#58;
+  - Configure resource scheduling for your organization
+  - Define account preferences
+  - Enable location mapping
+
+
+  ### Module  3&#58; Defining and Configuring Bookable Resources
+  In this module, we will learn how to create and manage bookable resources, including resource pools and crews.
+  #### Lessons
+  - Defining bookable resources
+  - Resource pools, crews and facilities
+
+  you will be able to&#58;
+  - Define bookable resources
+  - Create pools and crews
+  - Manage facility records
+
+
+  ### Module  4&#58; Configure Incidents
+  In this module, we will learn how incidents can improve the scheduling efficiency and consistency of your organization.
+  #### Lessons
+  - Creating an incident
+  - Using service tasks
+
+  you will be able to&#58;
+  - Create an incident for common service tasks
+  - Schedule using incidents
+
+
+  ### Module  5&#58; Inventory and Work Order Management
+  In this module, we will learn how to create and use work orders to schedule resources.
+  #### Lessons
+  - Configure Field Service work orders
+  - Creating work orders
+  - Managing work orders
+
+  you will be able to&#58;
+  - Configure work orders
+  - Schedule resources using work orders
+
+
+  ### Module  6&#58; Field Service Agreements
+  In this module, we will introduce agreements, and learn how to configure them for your organization.
+  #### Lessons
+  - Using Field Service agreements
+  - Set up bookings
+  - Set up invoices
+
+  you will be able to&#58;
+  - Use an agreement to schedule work orders
+  - Generate invoices for customers
+
+
+  ### Module  7&#58; Inventory and Purchasing
+  In this module, we will learn about management of customer assets.
+  #### Lessons
+  - Manage customer assets
+  - Manage inventory
+  - Purchasing and returns
+
+  you will be able to&#58;
+  - Create customer asset records
+  - Manage inventory, purchasing and returns
+
+
+  ### Module  8&#58; Field Service Mobile
+  In this module, we will learn how to use and configure the Field Service Mobile application for a mobile workforce.
+  #### Lessons
+  - Mobile client overview
+  - Install and deploy Field Service mobile projects
+  - Manage mobile projects
+  - Deploy the mobile client
+
+  you will be able to&#58;
+  - Manage mobile projects
+  - Install and deploy the mobile client
+  - Describe the value of the mobile app for a mobile workforce
+
+
+  ### Module  9&#58; Universal Resource Scheduling
+  In this module, we will introduce the concept of Universal Resource Scheduling, and describe how it can be leveraged for an organization.
+  #### Lessons
+  - URS overview and configuration
+  - Enabling entities for URS
+  - Customize entities for URS
+
+  you will be able to&#58;
+  - Describe Universal Resource Scheduling
+  - Enable an entity for URS
+
+
+  ### Module  10&#58; Managing Scheduling Options
+  In this module, we will learn how to use the schedule board to reschedule, substitute resources, and schedule pools and crews.
+  #### Lessons
+  - Using the schedule board
+  - Schedule items
+  - Rescheduling and substituting resources
+  - Crew and pool scheduling
+
+  you will be able to&#58;
+  - Configure and use the schedule board to schedule resources
+  - Reschedule work orders
+  - Substitute resources
+
+
+  ### Module  11&#58; Customizing the Schedule Board
+  In this module, we will learn how to configure the schedule board to best meet the organization or scheduler's needs.
+  #### Lessons
+  - Configure the board
+  - Create additional schedule boards
+  - Use views to enhance the schedule board
+  - Configuring schedule board queries and filters
+  - Working with requirement groups
+
+  you will be able to&#58;
+  - Customize the schedule board
+  - Create additional boards
+  - Add views to a schedule board
+
+
+  ### Module  12&#58; Advanced Scheduling Options
+  In this module, we will dive deeper into the options for customizing the scheduling of work orders based on unique business requirements.
+  #### Lessons
+  - Working with resource scheduling optimization
+  - Defining optimization goals
+  - Defining optimization scopes
+  - Defining optimization profiles
+  - Single resource scheduling
+
+  you will be able to&#58;
+  - Define optimization for an organization
+  - Schedule single resources

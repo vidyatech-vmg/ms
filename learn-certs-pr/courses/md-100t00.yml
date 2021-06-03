@@ -1,0 +1,315 @@
+### YamlMime:Course
+title: Windows 10
+metadata:
+  title: 'Course MD-100T00-A: Windows 10'
+  description: 'Course MD-100T00-A: Windows 10'
+  iltScheduling: true
+uid: course.md-100t00
+courseNumber: 'MD-100T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Install and customize Windows 10
+- skill: Configure Updates for Windows.
+- skill: Configure devices and drivers for Windows.
+- skill: Configure storage for Windows.
+- skill: Configure network and remote management settings in Windows.
+- skill: Configure and manage browsers and applications in Windows.
+- skill: Configure account access and authentication.
+- skill: Configure file and folder permissions.
+- skill: Describe methods for securing Windows 10, common threats and methods for mitigating against them.
+- skill: Troubleshoot Windows and application installations.
+- skill: Troubleshoot hardware and driver issues.
+- skill: Troubleshoot file issues and perform recoveries.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- administrator
+products:
+- m365
+- windows
+exams:
+- uid: exam.md-100
+summary: |-
+  In this course, students will learn how to support and configure Windows 10 desktops in an organizational environment. Students will develop skills that include learning how to install, customize, and update Windows 10 operating systems. Students will learn how to managing storage, files, and devices as well as how to configure network connectivity for Windows 10. Students will also learn how to secure the Windows 10 OS and protect the data on the device. Finally, students will learn how to manage and troubleshoot Windows 10.
+
+  #### Audience profile
+  Candidates for this exam are IT professionals who perform installation, configuration, general local management and maintenance of Windows 10 core services. Candidates may also be familiar with enterprise scenarios and cloud-integrated services.
+prerequisitesSection: |-
+  - Basic understanding of computer networks and hardware concepts.
+  - Basic understanding of OS and Application concepts.
+  - Experience with using the Windows OS.
+outlineSection: |-
+  ### Module  1&#58; Installing Windows
+  This module covers installing the Windows 10 OS.  Students will learn the different editions of Windows 10, requirements, and new features introduced. This module covers how to install the OS, as well as methods for migrations and upgrading. Students will also learn about common tools used in the deployment process.
+  #### Lessons
+  - Introducing Windows 10
+  - Windows 10 Editions and Requirements
+  - Deployment Options
+  - Upgrading to Windows 10
+  - Deployment Tools
+
+
+  #### Lab &#58;  In-place upgrade of Win7 to Win 10
+
+  #### Lab &#58; Migrating User Settings using USMT
+  After completing this module, students will be able to&#58;
+  - Understanding the different editions and features of Windows 10.
+  - Understand the Windows 10 client installation options.
+  - Practice installing Windows 10.
+  - Migrate content using the User State Migration Tool.
+
+
+  ### Module  2&#58; Post-installation Configuration and Personalization
+  This module covers common post-installation tasks in Windows 10. Students will learn how to customize the user interface, as well as using the control panel and settings app to configure common OS settings. This course will also introduce students to Windows PowerShell.  This module will cover how device drivers work and how they work. Students will also be introduced to managing and configuring hardware peripherals such as printers.
+  #### Lessons
+  - Configure and Customize the Windows Start Menu
+  - Common Configuration Options
+  - Advanced Configuration Methods
+  - Managing Drivers and Devices
+
+
+  #### Lab &#58; Using Settings App &  Control Panel
+
+  #### Lab &#58; Using Group Policy Objects
+
+  #### Lab &#58; Using PowerShell to Configure Windows
+
+  #### Lab &#58; Managing local and network printers
+  After completing this module, students will be able to&#58;
+  - Customize the Windows 10 UI
+  - Configure device specific settings such as power plans and mobile device options.
+  - Use the Windows control panel and setting app to configure settings.
+  - Perform tasks using Windows PowerShell.
+  - Describe concepts related to drivers.
+  - Describe printer management concepts.
+  - Configure client-side printing and managing print server properties.
+
+
+  ### Module  3&#58; Updating Windows in Windows 10
+  In this module, Students will learn about keeping Windows 10 up-to-date. Students will be introduced to the new Windows servicing model and how it applies to various scenarios. Students will learn the various different methods for updating Windows and applications, as well as managing updates using tools like group policy and Windows Update for Business.
+  #### Lessons
+  - Windows Servicing Model
+  - Updating Windows
+
+
+  #### Lab &#58; Updating Windows 10
+  After completing this module, students will be able to&#58;
+  - Describe the Windows servicing model.
+  - Configure Windows update settings.
+  - Describe updating Windows using WSUS.
+  - Describe updating Windows using Windows Update for Business.
+  - Configure Windows update using group policy.
+
+
+  ### Module  4&#58; Configuring Networking
+  In this module, Students will learn about networking concepts. This module will introduce to IPv4 and IPv6, and concepts like DNS.  Students will learn how to configure network settings in Windows, as well as learn about wireless network technologies. The module will conclude with methods of managing  Windows remotely.
+  #### Lessons
+  - Configure IP Network Connectivity
+  - Implement Name Resolution
+  - Implement Wireless Network Connectivity
+  - Remote Access Overview
+  - Remote Management
+
+
+  #### Lab &#58; Configuring Network Connectivity
+
+  #### Lab &#58; Configuring and Testing Name Resolution
+
+  #### Lab &#58; Remote Management
+  After completing this module, students will be able to&#58;
+  - Configure IP network connectivity.
+  - Describe how name resolution works.
+  - Describe remote access technologies like VPNs.
+  - Configure Windows for remote management and access.
+
+
+  ### Module  5&#58; Configuring Storage
+  This module covers storage configuration and management in Windows 10.  Students will be introduced to local, cloud and virtual storage options. This course will also cover configuring storage on client devices and introduce storage spaces.
+  #### Lessons
+  - Overview of storage options
+  - Managing Local Storage
+  - Maintaining Disks and Volumes
+  - Managing Storage Spaces
+
+
+  #### Lab &#58; Managing Storage
+
+  #### Lab &#58; Compressing Folders
+
+  #### Lab &#58; Enabling Disk Quotas
+
+  #### Lab &#58; Creating a Storage Space
+
+  #### Lab &#58; Synchronizing files with OneDrive
+
+  - Describe the options and benefits of local, cloud, and virtual storage.
+  - Configure OneDrive.
+  - Configure local disk partitions and volumes.
+  - Describe the capabilities and benefits of Storage spaces.
+
+
+  ### Module  6&#58; Managing Apps in Windows 10
+  In this module, Students will be introduced to App management in Windows 10. This module will cover the different types of apps and supported installation methods.  Students will learn how to install apps using manual and automated methods, as well as manage app delivery using the Windows Store. Finally, this module will cover the differences between Internet Explorer and Microsoft Edge.
+
+  #### Lessons
+  - Providing Apps to Users
+  - Managing Universal Windows Apps
+  - Web Browsers in Windows 10
+
+
+  #### Lab &#58; Sideloading an App
+
+  #### Lab &#58; Installing and Updating Microsoft Store Apps
+
+  #### Lab &#58; Configuring Internet Explorer Enterprise Mode
+  After completing this module, students will be able to&#58;
+  - Describe the different types of applications.
+  - Install applications manually and using automated methods.
+  - Manage application deployment using the Windows Store.
+  - Learn about web browser features in Windows 10.
+
+
+  ### Module  7&#58; Configuring Authorization & Authentication
+  This module introduces the tools and features of Windows 10 for authorizing access to Windows 10 clients. Students will learn about methods for how users sign-in to Windows 10.  This module also covers  restricting what users can or cannot do on a device through methods like UAC and account types.
+  #### Lessons
+  - Authentication
+  - Configuring User Account Control
+  - Implementing Device Registration
+
+
+  #### Lab &#58; Joining a Domain
+
+  #### Lab &#58; Creating Security Policies
+
+  #### Lab &#58; Configuring UAC
+  After completing this module, students will be able to&#58;
+  - Describe the different methods for securing data and the Windows 10 OS.
+  - Describe the different types of user and service accounts.
+  - Configure Windows Hello.
+  - Configure user account control.
+
+
+  ### Module  8&#58; Configuring Data Access and Usage
+  In this module, Students will learn about permissions. This module will cover considerations for different files systems. Students will learn how to configure file and folder permissions as well as shared folders. The module will conclude with configuring settings through methods such as local and group policy.
+  #### Lessons
+  - Overview of File Systems
+  - Configuring and Managing File Access
+  - Configuring and Managing Shared Folders
+
+
+  #### Lab &#58; Creating, Managing, and Sharing a Folder
+
+  #### Lab &#58; Using Conditions to Control Access and Effective Permissions
+  After completing this module, students will be able to&#58;
+  - Describe the differences and benefits of supported file systems.
+  - Configure file and folder permissions.
+  - Configure shared folders.
+  - Secure Windows through local policy settings.
+
+
+  ### Module  9&#58; Configuring Threat Protection and Advanced Security
+  This module introduces students to protecting devices from external threats. Students will learn about the different types of common threats. This module will teach students about using encryption, firewalls, and IPSec to help protect against threats. The module will conclude with how to configure and use Windows Defender and AppLocker.
+  #### Lessons
+  - Malware and Threat Protection
+  - Windows Defender
+  - Connection Security Rules
+  - Advanced Protection Methods
+
+
+  #### Lab &#58; Configuring Windows Defender
+
+  #### Lab &#58; Creating Firewall Rules
+
+  #### Lab &#58; Creating Connection Security Rules
+
+  #### Lab &#58; Using EFS
+
+  #### Lab &#58; Using Bitlocker
+
+  #### Lab &#58; Configuring AppLocker
+  After completing this module, students will be able to&#58;
+  - Identify common security threats .
+  - Describe the methods by which you can mitigate these common security threats.
+  - Describe the different methods of encryption.
+  - Describe how Windows firewall can secure the device.
+  - Describe the benefits of using IPSec.
+  - Describe the different features of Windows Defender.
+  - Describe the benefits of using AppLocker.
+
+
+  ### Module  10&#58; Supporting the Windows 10 Environment
+  This module will cover the Windows 10 architecture and common environments. Students will be introduced to the various tools used in maintaining Windows. This module will also discuss methodologies for effectively troubleshooting issues and how to proactively manage and optimize Windows 10.
+
+  #### Lessons
+  - Windows Architecture
+  - Support and Diagnostic Tools
+  - Monitoring and Troubleshooting Computer Performance
+
+
+  #### Lab &#58; Monitoring Events
+
+  #### Lab &#58; Monitoring Reliability and Performance
+  After completing this module, students will be able to&#58;
+  - Describe the Windows architecture.
+  - Describe key stages in troubleshooting.
+  - Describe the purpose and benefits of the various tools in Windows.
+  - Use monitoring tools to establish a performance baseline
+  - Optimize performance on Windows 10 clients.
+
+
+  ### Module  11&#58; Troubleshooting Files & Applications
+  This module helps students plan for file backup and recovery.  Students will learn how to plan and configure data protection strategies and how to perform various file and system recovery methods.  This module also includes common methods for troubleshooting application installation issues, compatibility issues, and resolving browser issues.
+  #### Lessons
+  - File Recovery in Windows 10
+  - Application Troubleshooting
+
+
+  #### Lab &#58; Using File History to Recover Files
+
+  #### Lab &#58; Troubleshooting Desktop Apps
+
+  #### Lab &#58; Troubleshooting Application Compatibility Issues
+
+  #### Lab &#58; Troubleshooting Microsoft Edge Issues
+  After completing this module, students will be able to&#58;
+  - Describe the different methods of file recovery.
+  - Configure Windows 10 to support individual file and system recovery.
+  - Recover a device using the Reset This PC function.
+  - Solve application compatibility issues with the Application Compatibility Toolkit.
+  - Troubleshoot common browser issues.
+
+
+  ### Module  12&#58; Troubleshooting the OS
+  In this module, Students will learn how to troubleshoot startup and service issues related to the operating system.  This module will teach the different startup and recovery options, and how to troubleshoot different Windows services.
+  #### Lessons
+  - Troubleshooting Windows Startup
+  - Troubleshooting Operating System Service Issues
+
+
+  #### Lab &#58; Recovering using Reset This PC
+
+  #### Lab &#58; Recovering using a Restore Point
+  After completing this module, students will be able to&#58;
+  - Describe the various methods identifying and recovering from startup issues.
+  - Describe when to use the various advanced startup options.
+  - Identify and disable a failed service.
+  - Identify and mitigate common locked account scenarios.
+
+
+  ### Module  13&#58; Troubleshooting Hardware and Drivers
+  This module introduces hardware troubleshooting.  Students will learn about driver management and how to troubleshoot devices. Students will also learn steps for troubleshooting system hardware and external peripherals such as USB drives and printers, including diagnostic methods and remediation.
+  #### Lessons
+  - Troubleshooting Device Driver Failures
+  - Overview of Hardware Troubleshooting
+  - Troubleshooting Physical Failures
+
+
+  #### Lab &#58; Recovering using Driver Rollback
+  After completing this module, students will be able to&#58;
+  - Troubleshoot and remediate driver issues.
+  - Troubleshoot Peripherals
+  - Diagnose and replace hardware.

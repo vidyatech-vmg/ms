@@ -1,0 +1,144 @@
+### YamlMime:Course
+title: Microsoft Power Platform Fundamentals
+metadata:
+  title: 'Course PL-900T00-A: Microsoft Power Platform Fundamentals'
+  description: 'Course PL-900T00-A: Microsoft Power Platform Fundamentals'
+uid: course.pl-900t00
+courseNumber: 'PL-900T00-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Describe the Power Platform components
+- skill: Describe Microsoft Dataverse, Connectors and AI builder
+- skill: Describe cross-cloud scenarios across M365, Dynamics 365, Microsoft Azure and 3rd party services
+- skill: Identify benefits and capabilities of Power Platform
+- skill: Identify the basic functionality and business value Power Platform components
+- skill: Implement simple solutions with Power Apps, Power Automate, Power BI, and Power Virtual Agents
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- power-platform
+exams:
+- uid: exam.pl-900
+summary: |-
+  Learn the business value and product capabilities of Power Platform. Create simple Power Apps, connect data with Dataverse, build a Power BI Dashboard, automate processes with Power Automate, and build a chatbot with Power Virtual Agents
+
+  #### Audience profile
+  Candidates for this exam are users who aspire to improve productivity by automating business processes, analyzing data to produce business insights, and acting more effectively by creating simple app experiences.
+prerequisitesSection: |-
+  No prerequisites for this course
+outlineSection: |-
+  ### Module 1&#58; Introduction to Power Platform
+  Learn about the components of Power Platform, ways to connect data, and how organizations can leverage this technology to create business solutions.
+  #### Lessons
+  - Power Platform Overview
+  - Module Summary
+  
+  After completing this module, students will be able to&#58;
+  - Identify when to use each Power Platform component application to create business solutions
+  - Learn the value of using Power Platform to create business solutions
+  - Learn the components and features of Power Platform
+
+  
+  ### Module 2&#58; Introduction to Microsoft Dataverse
+  Dataverse allows you to delve into powerful, scalable data solutions in the cloud. Learn what makes Dataverse tick and how it can work with the Power Platform to create unique and efficient business solutions.
+  #### Lessons
+  - Microsoft Dataverse Overview
+  - Module Summary
+  
+  #### Lab &#58; Data Modeling
+  - Create Solution
+  - Add Existing and Create New Tables
+  - Create Relationships
+  - Import Data
+  
+  After completing this module, students will be able to&#58;
+  - Descibe the difference between Dataverse and Common Data Model
+  - Explain use cases and limitations of business rules and process flows
+  - Explain what environments, tables, columns, and relationships are in Dataverse
+  
+  
+  ### Module 3&#58; Get Started with Power Apps
+  Learn about the value and capabilities of Power Apps, and ways other organizations have leverage this technology to build simple applications for their business.
+  #### Lessons
+  - Introduction to Power Apps
+  - How to build a canvas app
+  - How to build a model-driven app
+  - Introduction to Power Apps portals
+  
+  #### Lab &#58; How to build a canvas app, part 1
+  - Create Staff Canvas App
+  - Complete the App
+  
+  #### Lab &#58; How to build a canvas app, part 2
+  - Create Security Canvas App
+  
+  #### Lab &#58; How to build a model-driven app
+  - Customize Views and Forms
+  - Create Model-Driven Application
+  
+  #### Lab &#58; How to build a Power Apps portal
+  - Provision a Power Apps portal
+  - Create a Portal Webpage
+  - Change the Portal Theme
+  
+  After completing this module, students will be able to&#58;
+  - Learn how other organizations digitize their processes using Power Apps
+  - See Power Apps in action and learn options for making your first app
+  - Learn about what Power Apps is and its business value
+  
+  
+  ### Module 4&#58; Get Started with Power Automate
+  Learn how users can leverage Power Automate to improve business efficiency and productivity.
+  #### Lessons
+  - Power Automate Overview
+  - How to Build an Automated Solution
+  
+  #### Lab &#58; Power Automate
+  - Create Visit Notification flow
+  - Create Security Sweep Flow
+  
+  After completing this module, students will be able to&#58;
+  - See how Power Automate works and looks from the user's perspective
+  - Build a simple flow
+  - Learn the business value and features of Power Automate
+  
+  
+  ### Module 5&#58; Get Started with Power BI
+  Learn how organizations can use Power BI to easily clean, display, and understand data to ensure better informed decisions.
+  #### Lessons
+  - Power BI Overview
+  - How to Build a Simple Dashboard
+  
+  #### Lab &#58; How to build a simple dashboard
+  - Create Power BI Report
+  - Create Power BI Dashboard
+  
+  After completing this module, students will be able to&#58;
+  - See how Power BI works and looks from the user's perspective
+  - Learn how to build a simple Power BI dashboard
+  - Describe the business value and features of Power BI
+  
+  
+  ### Module 6&#58; Introduction to Power Virtual Agents
+  Learn about the value and capabilities of Power Virtual Agents and ways organizations can leverage this technology to build chatbot solutions for their business.
+  #### Lessons
+  - Power Virtual Agents overview
+  - How to build a chatbot
+  
+  #### Lab &#58; How to build a basic chatbot
+  - Sign up for PVA and Create a New Bot
+  - Create Topics
+  - Test Topics
+  - Change the Greeting
+  - Publish the Bot
+  
+  After completing this module, students will be able to
+  - Describe the business value and features of Power Virtual Agents
+  - Build a basic chatbot
+  - Learn essential components that make up Power Virtual Agents and chatbots

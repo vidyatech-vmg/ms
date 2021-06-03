@@ -1,0 +1,165 @@
+### YamlMime:Course
+title: Querying Data with Microsoft Transact-SQL
+metadata:
+  title: 'Course DP-080T00--A: Querying Data with Microsoft Transact-SQL'
+  description: 'Course DP-080T00--A: Querying Data with Microsoft Transact-SQL'
+uid: course.dp-080T00
+courseNumber: 'DP-080T00'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Use SQL Server query tools
+- skill: Write SELECT statements to retrieve columns from one or more tables
+- skill: Sort and filter selected data
+- skill: Use built-in functions to returned data values
+- skill: Create groups of data and aggregate the results
+- skill: Modify data with Transact-SQL using INSERT, UPDATE, DELETE and MERGE
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- database-administrator
+products:
+- azure
+summary: |-
+  This course will teach the basics of Microsoft's dialect of the standard SQL language: Transact-SQL. Topics include both querying and modifying data in relational databases that are hosted in Microsoft SQL Server-based database systems, including: Microsoft SQL Server, Azure SQL Database and, Azure Synapse Analytics.
+
+  #### Audience Profile
+
+  This course can be valuable for anyone who needs to write basic SQL or Transact-SQL queries. This includes anyone working with data as a data analyst, a data engineer, a data scientist, a database administrator or a database developer. It can also be useful for others peripherally involved with data, or wanting to learn more about working with data such as solution architects, students and technology managers.
+outlineSection: |-
+  ### Module 1: Getting Started with Transact-SQL
+
+  In this module you will learn about the basics of the Transact-SQL (T-SQL) language, as well as general properties and terminology of relational databases. This module will also introduce the basic SELECT statement for retrieving data from a table.
+
+  #### Lessons
+
+  *   Introduction to Transact-SQL
+
+  *   Using the SELECT statement
+
+  #### Lab : Get started with SQL Server query tools and writing queries in T-SQL
+
+  ####
+
+  After completing this module, students will be able to:
+
+  *   Using a query tool to write and execute queries in Transact-SQL
+
+  *   Understand the basic concepts of relational database and the T-SQL language
+
+  *   Write SELECT statements to retrieve data from a relational database table
+
+  *   Understand basic datatypes and how they are used
+
+  *   Understand the basics of NULL values
+
+  ### Module 2: Sorting and Filtering Query Results
+
+  In the module you will learn how to control what data is returned, the order in which it is returned. You will use the ORDER BY clause, with and without paging. You will learn about various kinds of filters that can be used in the WHERE clause to control which data rows are returned. You will also learn how to manage the results by removing duplicates with DISTINCT.
+
+  #### Lessons
+
+  *   Sorting query results
+
+  *   Filtering the data
+
+  #### Lab : Sort and filter data returned by SELECT queries
+
+  ####
+
+  After completing this module, students will be able to:
+
+  *   Use ORDER BY to sort results from a T-SQL SELECT statement
+
+  *   Add a TOP clause to limit the ordered rows returned
+
+  *   Page the sorted data with OFFSET-FET
+
+  *   Write WHERE clauses to filter the rows returned
+
+  *   Use DISTINCT to eliminate duplicate rows in the results
+
+  ### Module 3: Using Joins and Subqueries
+
+  In this module, you will explore T-SQL queries which access data from multiple tables with various kinds of JOIN operations and simple subqueries.
+
+  #### Lessons
+
+  *   Using JOIN operations
+
+  *   Using subqueries
+
+  #### Lab : Write queries with JOIN operations
+
+  ####
+
+  #### Lab : Write SELECT statements using subqueries
+
+  ####
+
+  After completing this module, students will be able to:
+
+  *   Write queries accessing data from multiple tables using JOIN operations
+
+  *   Understand the differences between type of JOIN operations: INNER JOIN, OUTER JOIN, CROSS JOIN
+
+  *   Understand how to join a table to itself with a self-join
+
+  *   Write subqueries within a SELECT statement
+
+  *   Understand the difference between scalar and multi-valued subqueries
+
+  *   Understand the difference between correlated and self-contained subqueries
+
+  ### Module 4: Using Built-in Functions
+
+  In the module you will explore the use of built-in functions for returning computed or special values in the SELECT list or in the WHERE clause. Functions include math functions, string functions and system functions. There are other types of functions that will be mentioned, but not discussed in detail. You will also learn how to combine rows of data into a single group, providing summary information for the group such as SUM, MIN or MAX.
+
+  #### Lessons
+
+  *   Getting started with scalar functions
+
+  *   Grouping aggregated results
+
+  #### Lab : Built-in functions
+
+  ####
+
+  After completing this module, students will be able to:
+
+  *   Write queries using scalar functions
+
+  *   Write queries using aggregate functions
+
+  *   Use GROUP BY to combine data into groups based on a common column value
+
+  *   Understand how HAVING is used to filter groups of rows
+
+  ### Module 5: Modifying Data
+
+  In this module, you will learn the T-SQL statements for modifying table data including UPDATE, DELETE and MERGE as well as various options for INSERT including creating a new table with data from an existing table. You will also look at how to have the system automatically supply values for columns as the data is inserted.
+
+  #### Lessons
+
+  *   Inserting data into tables
+
+  *   Modifying and deleting data
+
+  #### Lab : Modify data
+
+  ####
+
+  After completing this module, students will be able to:
+
+  *   Insert data into an existing table
+
+  *   Specify that a column should be automatically populating with an IDENTITY or a SEQUENCE value
+
+  *   Modify data using the UPDATE statement
+
+  *   Delete data using the DELETE statement
+
+  *   Modify data using MERGE to synchronize two tables

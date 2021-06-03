@@ -1,0 +1,82 @@
+### YamlMime:Course
+title: Migrating Application Workloads to Azure
+metadata:
+  title: 'Course WS-050T00-A: Migrating Application Workloads to Azure'
+  description: 'Course WS-050T00-A: Migrating Application Workloads to Azure'
+uid: course.ws-050t00
+courseNumber: 'WS-050T00-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Identify the tools and services specific to each phase of the migration.
+- skill: Identify the tools and services specific to each phase of the migration
+- skill: Discover and assess on-premises workloads for migration to Azure
+- skill: Obtain deeper profiling of an environment using app dependency mapping and assessment customizations
+- skill: Perform an end-to-end migration of on-premises workloads to Azure using Azure Migrate
+- skill: Replicate data from an on-premises datacenter to Azure or to a secondary site
+- skill: Migrate data from existing data sources to Azure data platforms using the Database Migration Service
+- skill: Secure and manage migrated workloads using Azure Security Center, Azure Backup, and Log Analytics
+- skill: Ensure an effective business continuity strategy that includes high availability, disaster recovery
+- skill: Back up and protect Azure IaaS virtual machines from any location using the Azure Backup Service
+- skill: Define a recovery plan to ensure virtual machines fail over properly before running a full failover
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+summary: |-
+  This workshop teaches IT Professionals how to migrate existing on-premises workloads and assets to the cloud, specifically to the Microsoft Azure platform. Students learn how to assess and evaluate an existing on-premises environment in preparation for a cloud migration. Students also learn how to monitor and optimize their Azure-based workloads to maximize return on investment (ROI), and use Azure services to protect and manage your virtual machines, applications, and data.
+
+  #### Audience profile
+  This workshop is for IT Administrators and staff who need to plan, implement and manage migrations of on-premises resources to Azure, or to replicate Azure virtual machines to other Azure locations. They take business requests from workload owners to migrate workloads to the cloud in order to take advantage of the benefits that a cloud-enabled strategy provides over a traditional datacenter approach. This role requires communicating and coordinating with different individuals within an organization’s IT department and business groups, as well as vendors.
+prerequisitesSection: |-
+  - IT Administrators start this role with experience on operating systems, virtualization, cloud infrastructure, storage structures, and networking. In addition, IT administrators should have experience or equivalent knowledge in administering an IaaS Azure infrastructure.
+  - Understanding of on-premises virtualization technologies, including&#58; VMs, virtual networking, and virtual hard disks.
+  - Understanding of network configuration, including TCP/IP, Domain Name System (DNS), virtual private networks (VPNs), firewalls, and encryption technologies.
+  - Understanding of Active Directory concepts, including domains, forests, domain controllers, replication, Kerberos protocol, and Lightweight Directory Access Protocol (LDAP).
+  - Understanding of resilience and disaster recovery, including backup and restore operations.
+  - Familiarity with using Azure, including the Azure portal, Cloud Shell, Azure PowerShell, CLI and ARM template.
+  - Understanding of Azure Active Directory and cloud identity management.
+  - Understanding of management of subscriptions, users, groups, and billing, and Azure policies.
+outlineSection: |-
+  ### Module 1&#58; Planning and Assessing and Azure Migration
+  In this module, you’ll learn about the key business and technical drivers leading to a cloud migration, the phases of an Azure migration and tools and services used for each phase. You will learn how to discover and assess your on-premises environments in preparation to migrate the appropriate workloads to Azure.
+  #### Lessons
+  - Cloud Migration - Business Motivations, Goals and Outcomes
+  - Discovery and Assessment
+
+
+  #### Lab &#58; Discover and Assess On-Premises Resources for Migration
+
+  ### Module 2&#58; Introduction to Data Migration
+  In this module, you’ll learn about solutions you can use when you need to securely send terabytes of data to Azure. You will learn about the Azure Data Box family of products with both online and offline transfer options. You will then learn about migrating an on-premises SQL Server 2008R2 database to Azure SQL Database Managed Instance (MI), using the Azure Database Migration Service (DMS).
+  #### Lessons
+  - Azure Data Box
+  - Database Migration
+
+
+  #### Lab &#58; Migrate On-Premises SQL Server Database to Azure SQL Managed Instance
+
+  ### Module 3&#58; Implementing Migration using Azure Migrate Services
+  In this module, you’ll learn how to prepare the on-premises infrastructure and the Azure components ahead of the planned migration. You’ll also learn how to perform and end to end migration using Azure Migrate Services.
+  #### Lessons
+  - Overview of Azure Migrate Server Migration
+  - VMware - Agentless Migration
+  - VMware - Agent-based Migration
+  - Securing Migrated Workloads
+  - Datacenter Migration using Microsoft Migration Factory
+
+
+  #### Lab &#58; Replicate Virtual Machines to Azure
+
+  ### Module 4&#58; Backup and Disaster Recovery in Azure
+  In this module, you’ll learn about the key components of a business continuity strategy and what is required for a highly available solution. You will also learn how to implement Azure IaaS virtual machine back up using the Azure Backup service. Additionally, you will learn how to replicate Azure VMs to any other Azure location using Azure Site Recovery.
+  #### Lessons
+  - Azure Backup Overview
+  - Implementing Azure IaaS Backup
+  - Azure to Azure Site Recovery
+  - Application Disaster Recovery

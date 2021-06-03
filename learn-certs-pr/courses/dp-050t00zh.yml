@@ -1,0 +1,126 @@
+### YamlMime:Course
+title: 将 SQL 工作负荷迁移至 Azure
+metadata:
+  title: 'Course DP-050T00ZH-A: 将 SQL 工作负荷迁移至 Azure'
+  description: 'Course DP-050T00ZH-A: 将 SQL 工作负荷迁移至 Azure'
+uid: course.dp-050t00zh
+courseNumber: 'DP-050T00ZH-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 了解 Data Platform Modernization
+- skill: 选择适用于数据迁移的正确工具
+- skill: 将 SQL 工作负荷迁移到 Azure 虚拟机
+- skill: 将 SQL 工作负荷迁移到 Azure SQL 数据库
+- skill: 将 SQL 工作负荷迁移到 Azure 托管实例
+learningPartnersLink: /learn/certifications/partners
+locales:
+- zh-cn
+levels:
+- intermediate
+roles:
+- data-engineer
+products:
+- azure
+summary: |-
+  在本课程中，学生将了解数据平台现代化的目标，以及这些目标如何满足给定的业务需求。他们还将了解数据平台现代化过程的每个阶段，并明确每个阶段涉及的任务，例如评估和规划阶段。 学生还将了解可用的迁移工具，以及这些工具如何满足数据迁移过程每个阶段的需求。
+  学生将了解如何迁移到适用于基于 SQL 的工作负荷的三个目标平台&#58; Azure 虚拟机、Azure SQL 数据库和 Azure SQL 数据库托管实例。学生将了解每个目标平台的优势和限制，以及如何使用这些平台满足现代 SQL 工作负荷的业务需求和技术需求。学生将了解基于 SQL 的现有应用程序可能需要进行哪些更改才能充分利用 Azure 中的现代数据平台。
+
+  #### Audience profile
+  本课程的受众是想要了解如何迁移 Microsoft Azure 上的数据平台技术以及如何迁移基于 SQL 的现有工作负荷并将其现代化的数据专业人员和数据架构师。
+  本课程的次要受众是管理数据平台的个人或开发可从现有数据平台技术交付内容的应用程序的个人。
+prerequisitesSection: |-
+  除了他们在 SQL Server 方面的专业经验外，参加此培训的学生还应具有与以下课程同等的技术知识&#58; 
+  Azure 基础知识
+outlineSection: |-
+  ### Module 1&#58; 介绍 Data Platform Modernization
+  在本模块中，学生将了解数据平台现代化的目的，并概述数据平台现代化可为组织带来的好处。然后，学生将通过了解数据平台迁移项目的各个阶段来了解每个阶段涉及的内容，从而最大程度地提高数据平台现代化项目的成功率。最后，学生将通过了解各种数据迁移路径来了解每种方法的不同之处，以及选择一种迁移方法而不选择另一种的原因。
+  #### Lessons
+  - 了解 Data Platform Modernization
+  - 了解迁移的阶段
+  - 数据平台技术
+
+
+  #### Lab &#58; 介绍 Data Platform Modernization
+  - 了解 Data Platform Modernization
+  - 了解迁移的阶段
+  - 数据平台技术
+
+  完成本模块后，学生将能够&#58; 
+  - 了解 Data Platform Modernization
+  - 了解迁移的阶段
+  - 数据平台技术
+
+
+  ### Module 2&#58; 选择适用于数据迁移的正确工具
+  本模块首先将选择《数据迁移指南》作为教材介绍给学生，组织应将其用作现有数据平台现代化的逐步指南。接下来，他们将了解 Microsoft 评估和规划工具包的价值，以帮助发现在他们的环境中当前存在的数据资产。然后，学生将了解可用于帮助他们使用数据迁移和数据实验助手评估兼容性或工作负荷问题的工具。之后，学生将了解如何使用 Azure 数据库迁移服务来帮助完成数据库的联机迁移，以减少故障时间。最后，简要介绍 SQL 迁移助手，并向学生展示如何迁移无 SQL Server 工作负荷。
+
+  #### Lessons
+  - 了解数据库迁移指南
+  - 使用 MAP 工具包构建数据库存清单
+  - 使用数据迁移助手识别迁移候选项
+  - 使用数据实验助手评估数据工作负荷
+  - 使用 SQL Server 迁移助手迁移非 SQL Server 工作负荷
+  - 使用 Azure 数据库迁移服务进行数据迁移
+
+
+  #### Lab &#58; 选择适用于数据迁移的正确工具
+  - 使用数据迁移助手识别迁移候选项
+  - 使用数据实验助手评估数据工作负荷
+
+  完成本模块后，学生将能够&#58; 
+  - 使用数据迁移助手识别迁移候选项
+  - 使用数据实验助手评估数据工作负荷
+
+
+  ### Module 3&#58; 将 SQL 工作负荷迁移到 Azure 虚拟机
+  在本模块中，学生将了解如何将本地 SQL 工作负荷迁移到运行 SQL Server 的 Azure 虚拟机。学生将首先了解从本地 SQL Server 迁移到 Azure 虚拟机时的迁移注意事项，以及通过执行迁移可获得的好处。然后，他们将了解在迁移到 Azure 虚拟机时可执行的不同迁移选项。其中包括每种方法的优势和限制。最后，学生将了解 SQL Server 工作负荷，其中包括用于确保服务连续性的高可用性和灾难恢复。
+
+  #### Lessons
+  - 从 SQL Server 迁移到 Azure VM 的注意事项
+  - SQL 工作负荷到 Azure VM 迁移选项
+  - 实施高可用性和灾难恢复方案
+
+
+  #### Lab &#58; 将 SQL 工作负荷迁移到 Azure 虚拟机
+  完成本模块后，学生将能够&#58; 
+  - 从 SQL Server 迁移到 Azure VM 的注意事项
+  - SQL 工作负荷到 Azure VM 迁移选项
+  - 实施高可用性和灾难恢复方案
+
+
+  ### Module 4&#58; 将 SQL 工作负荷迁移到 Azure SQL 数据库
+  在本模块中，学生将了解什么是 Azure SQL 数据库，以及它为什么是基于 SQL 的工作负荷的合适目标。本模块向学生介绍如何选择适当的 SQL Server 实例选项，以及该选项满足数据平台现代化的业务需求的原因。该模块还向学生介绍如何脱机和联机迁移到 Azure SQL 数据库。借此方式教会他们评估哪种方法可能适合他们的工作场景。该模块还展示可用于启用数据迁移过程的工具。最后，他们将了解可用于将数据从本地实例加载到 Azure SQL 数据库的方法。
+
+  #### Lessons
+  - 在 Azure 中选择适当的 SQL Server 实例
+  - 将 SQL Server 脱机迁移到 Azure SQL DB
+  - 在线将 SQL Server 迁移到 Azure SQL DB
+  - 将数据加载并移动到 Azure SQL 数据库
+
+
+  #### Lab &#58; 将 SQL 工作负荷迁移到 Azure SQL 数据库
+  完成本模块后，学生将能够&#58; 
+  - 在 Azure 中选择适当的 SQL Server 实例
+  - Migrate SQL Server to Azure SQL DB offline
+  - Migrate SQL Server to Azure SQL DB online
+  - 将数据加载并移动到 Azure SQL 数据库
+
+
+  ### Module 5&#58; 将 SQL 工作负荷迁移到 Azure SQL 数据库托管实例
+  本模块将介绍什么是 Azure SQL 数据库托管实例，以及它为什么是基于 SQL 的工作负荷的合适目标。他们还将了解 Azure SQL 数据库托管实例如何满足数据平台现代化的业务需求。接下来，学生将了解可用于实现迁移到 Azure SQL 数据库托管实例的数据迁移过程的工具。
+  然后，他们将了解可用于将数据从本地实例加载到 Azure SQL 数据库托管实例的方法和工具。最后，他们将了解为了使用 Azure SQL 数据库托管实例，基于 SQL 的现有应用程序可能需要的部分更改。
+
+  #### Lessons
+  - 评估迁移到 SQL 数据库管理实例的方案
+  - 迁移到 SQL 数据库托管实例
+  - 将数据加载并移动到 SQL 数据库托管实例
+  - 应用程序配置和优化
+
+
+  #### Lab &#58; 将 SQL 工作负荷迁移到 Azure SQL 数据库托管实例
+  完成本模块后，学生将能够&#58; 
+  - 评估迁移到 SQL 数据库管理实例的方案
+  - 迁移到 SQL 数据库托管实例
+  - 将数据加载并移动到 SQL 数据库托管实例
+  - 应用程序配置和优化

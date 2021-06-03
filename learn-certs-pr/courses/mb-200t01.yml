@@ -1,0 +1,111 @@
+### YamlMime:Course
+title: 'Dynamics 365: Power Platform applications'
+metadata:
+  title: 'Course MB-200T01-A: Dynamics 365: Power Platform applications'
+  description: 'Course MB-200T01-A: Dynamics 365: Power Platform applications'
+  iltScheduling: true
+uid: course.mb-200t01
+courseNumber: 'MB-200T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Identify platform components.
+- skill: Understand administrator options.
+- skill: Effectively model data.
+- skill: Build a basic model driven application on the Power Platform.
+- skill: Build a basic canvas application on the Power Platform.
+- skill: Manage user’s access to data and functionality using security.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-sales
+- dynamics-marketing
+- dynamics-field-service
+- dynamics-customer-service
+exams:
+- uid: exam.mb-200
+summary: |-
+  The Microsoft Power Platform helps organizations optimize their operations by automating routine tasks and standardizing best practices. This training provides a high-level overview of the capabilities of Microsoft Dynamics 365 and the Power Platform and provides a foundation for other Microsoft Dynamics 365 and Power Platform training offerings.
+
+  In this course, our globally recognized experts share with students the foundational knowledge to prepare them to build apps on the Power Platform.
+
+  #### Audience profile
+  A Dynamics 365 Customer Engagement Functional Consultant is responsible for performing discovery, capturing requirements, engaging subject matter experts and stakeholders, translating requirements, and configuring the solution and applications. The Functional Consultant implements a solution using out-of-the-box capabilities, codeless extensibility, application, and service integrations.
+prerequisitesSection: |-
+  This course is designed for persons who are aspiring to the Microsoft 365 Enterprise Admin role and have completed one of the Microsoft 365 work load administrator certification paths.
+outlineSection: |-
+  ### Module  1&#58; Platform Overview
+  In this module students will learn the basics of the Power Platform.  They will tour the various administrator portals and options, as well as install applications.
+  #### Lessons
+  - Overview
+  - Configure Power Platform environments
+  - Creating applications
+  - Discovery and planning
+  - Module summary
+
+  After completing this module, students will be able to&#58;
+  - Identify common platform components and their uses
+
+
+  ### Module  2&#58; Data Modeling
+  In this module students will learn how to model data effectively using the platform’s entities, attributes, and relationships.
+  #### Lessons
+  - Data model fundamentals
+  - Relationships
+  - Other entity options
+  - Other field options
+  - Internationalizing
+  - Module summary
+
+  After completing this module, students will be able to&#58;
+  - Create and use relationships and entities
+
+
+  ### Module  3&#58; Model Driven Apps
+  In this module students will learn about model-driven applications and how to configure and use them.
+  #### Lessons
+  - Configure model-driven apps
+  - Configure model-driven forms
+  - Configure views
+  - Configure model-driven charts
+  - Configure model-driven dashboards
+  - Configure reports
+  - Module summary
+
+  After completing this module, students will be able to&#58;
+  - Create and modify forms, views, dashboards, and other user experience components
+
+
+  ### Module  4&#58; Canvas Apps
+  In this module students will learn how to create and use canvas apps, as well as learn the differences between canvas apps and model-driven apps.
+  #### Lessons
+  - Application fundamentals
+  - Working with data and services
+  - Customizing the user experience
+  - Integration with model-driven apps
+  - Module summary
+
+  After completing this module, students will be able to&#58;
+  - Create a canvas app
+  - Work with CDS data
+
+
+  ### Module  5&#58; Security
+  In this module students will learn how the platform’s security model manages users’ experiences and access to both data and functionality.
+  #### Lessons
+  - Security overview
+  - Business units
+  - Manage security roles
+  - Manage teams
+  - Configure hierarchy security
+  - Module summary
+
+  After completing this module, students will be able to&#58;
+  - Create and use Business Units
+  - Create, modify, and use Security Roles

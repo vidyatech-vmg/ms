@@ -1,0 +1,132 @@
+### YamlMime:Course
+title: Microsoft Power Platform Developer
+metadata:
+  title: 'Course PL-400T00-A: Microsoft Power Platform Developer'
+  description: 'Course PL-400T00-A: Microsoft Power Platform Developer'
+uid: course.pl-400t00
+courseNumber: 'PL-400T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Create a technical design
+- skill: Configure Common Data Service
+- skill: Create and configure Power Apps
+- skill: Configure business process automation
+- skill: Extend the user experience
+- skill: Extend the platform
+- skill: Develop Integrations
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- power-platform
+exams:
+- uid: exam.pl-400
+summary: |-
+  The Microsoft Power Platform helps organizations optimize their operations by simplifying, automating and transforming business tasks and processes. In this course, students will learn how to build Power Apps, Automate Flows and extend the platform to complete business requirements and solve complex business problems.
+
+  #### Audience profile
+  Candidates for this course design, develop, secure, and troubleshoot Power Platform solutions. Candidates implement components of a solution that include application enhancements, custom user experience, system integrations, data conversions, custom process automation, and custom visualizations. Candidates will gain applied knowledge of Power Platform services, including in-depth understanding of capabilities, boundaries, and constraints. Candidates should have development experience that includes JavaScript, JSON, TypeScript, C#, HTML, .NET, Microsoft Azure, Microsoft 365, RESTful Web Services, ASP.NET, and Power BI.
+prerequisitesSection: |-
+  - Candidates should have an introductory knowledge of Power Platfom
+  - Candidates should have development experience that includes JavaScript, JSON, TypeScript, C#, HTML, .NET, Microsoft Azure, Microsoft 365, RESTful Web Services, ASP.NET, and Power BI
+outlineSection: |-
+  ### Module 1&#58; Create a model-driven application in Power Apps
+  This module introduces you to creating a model-driven app in Power Apps that uses Common Data Service.
+  #### Lessons
+  - Introduction to model-driven apps and Common Data Service
+  - Get started with model-driven apps in Power Apps
+  - Create and manage entities in Common Data Service
+  - Create and manage fields within an entity in Common Data Service
+  - Working with option sets in Common Data Service
+  - Create a relationship between entities in Common Data Service
+  - Define and create business rules in Common Data Service
+  - Create and define calculation or rollup fields in Common Data Service
+  - Get started with security roles in Common Data Service
+
+  
+  ### Module 2&#58; Create a canvas app in Power Apps
+  This module introduces you to Power Apps, helps you create and customize an app, and then manage and distribute it. It will also show you how to provide the best app navigation, and build the best UI using themes, icons, images, personalization, different form factors, and controls.
+  #### Lessons
+  - Get started with Power Apps
+  - Customize a canvas app in Power Apps
+  - Manage apps in Power Apps
+  - Navigation in a canvas app in Power Apps
+  - How to build the UI in a canvas app in Power Apps
+  - Use and understand Controls in a canvas app in Power Apps
+  - Document and test your Power Apps application
+  
+  
+  ### Module 3&#58; Master advance techniques and data options in canvas apps
+  This module will help you use advanced formulas, perform custom updates, performance checks and testing. It will also help you to improve user's experience, use custom connectors and focus on working with data source limits.
+  #### Lessons
+  - Use imperative development techniques for canvas apps in Power Apps
+  - Author an advanced formula that uses tables, records, and collections in a canvas app in Power Apps
+  - Perform custom updates in a Power Apps canvas app
+  - Complete testing and performance checks in a Power Apps canvas app
+  - Work with relational data in a Power Apps canvas app
+  - Work with data source limits (delegation limits) in a Power Apps canvas app
+  - Connecting to other data in a Power Apps canvas app
+  - Use custom connectors in a Power Apps canvas app
+  
+  
+  ### Module 4&#58; Automate a business process using Power Automate
+  This module introduces you to Power Automate, teaches you how to build workflows, and how to administer flows.
+  #### Lessons
+  - Get started with Power Automate
+  - Build more complex flows with Power Automate
+  - Introduction to business process flows in Power Automate
+  - Create an immersive business process flow in Power Automate
+  - Understand advanced business process flow concepts in Power Automate
+  - Introduction to expressions in Power Automate
+  
+  
+  ### Module 5&#58; Introduction to developing with Power Platform
+  This module is the first step in learning about platform, tools, and the ecosystem of the Power Platform
+  #### Lessons
+  - Introduction to Power Platform developer resources
+  - Use developer tools to extend the Power Platform
+  - Introduction to extending the Microsoft Power Platform
+  
+  
+  ### Module 6&#58; Extending the Power Platform Common Data Service
+  This module looks at the tools and resources needed for extending the Power Platform. We'll start with looking at the SDKs, the extensibility model, and event framework. This learning path also covers when to use plug-ins. Configuration of plug-ins as well as registering and deploying plug-ins.
+  #### Lessons
+  - Introduction to Common Data Service for developers
+  - Extend plug-ins
+  
+  
+  ### Module 7&#58; Extending the Power Platform user experience Model Driven apps
+  This module describes how to create client scripting, perform common actions with client script, and automate business process flow with client scrip. Learn about what client script can do, rules, and maintaining scripts. Discover when to use client script as well as when not to use client script.
+  #### Lessons
+  - Introduction to web resources
+  - Performing common actions with client script
+  - Automate business process flows with client script
+  
+  
+  ### Module 8&#58; Create components with Power Apps Component Framework
+  This module describes how to get started with Power Apps Component Framework with an introductory module on the core concepts and components. Then it shows you how to build a component and work with advanced Power Apps Component Framework features.
+  #### Lessons
+  - Get started with Power Apps component framework
+  - Build a Power Apps component
+  - Use advanced features with Power Apps component framework
+  
+  
+  ### Module 9&#58; Extend Power Apps portals
+  This module describes how to transform a content portal into a full web app interacting with Common Data Service. We will also cover the options available to customizers and developers to extend the portal functionality and integrate with Office 365, Power Platform, and Azure components.
+  #### Lessons
+  - Introduction to Power Apps portals
+  - Access Common Data Service in Power Apps portals
+  - Extend Power Apps portals
+  - Build custom Power Apps portals web templates
+  
+  
+  ### Module 10&#58; Integrate with Power Platform and Common Data Service
+  This module describes how to integrate with Common Data Service using code by learning about Common Data Service API. Get an in-depth overview of options available with Common Data Service to integrate data and events to Azure.
+  #### Lessons
+  - Work with Common Data Service Web API
+  - Integrate Common Data Service Azure solutions

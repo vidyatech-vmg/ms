@@ -1,0 +1,110 @@
+### YamlMime:Course
+title: Deploying the Modern Desktop
+metadata:
+  title: 'Course MD-101T01-A: Deploying the Modern Desktop'
+  description: 'Course MD-101T01-A: Deploying the Modern Desktop'
+uid: course.md-101t01
+courseNumber: 'MD-101T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Develop an Operating System deployment and upgrade strategy
+- skill: Understand the different methods of deployment
+- skill: Understand which scenarios on-premise and cloud-based solutions can be used for
+- skill: Deploy and migrate desktops to Windows 10
+- skill: Plan and configure Windows Update policies
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- windows
+exams:
+- uid: exam.md-101
+summary: |-
+  As desktops has evolved, so have methods for deploying and updating them. In this course, you'll learn how to plan and implement an operating system deployment strategy. This course will help students understand the various methods available, the scenarios they're suited for, as well as how to deploy Windows using modern methods. This course will also cover planning and implementing an update strategy for Windows.
+
+  #### Audience profile
+  The Modern Desktop Administrator (MDA) deploys, configures, secures, manages, and monitors devices and client applications in an enterprise environment. Responsibilities include managing identity, access, policies, updates, and apps. The MDA collaborates with the M365 Enterprise Administrator to design and implement a device strategy that meets the business needs of a modern organization. The (MDA) must be familiar with M365 workloads and must have strong skills and experience with deploying, configuring, and maintaining Windows 10 and non-Windows devices. The MDA role focuses on cloud services rather than on-premises management technologies.
+prerequisitesSection: |-
+  The
+  Modern Desktop Administrator (MDA) must be familiar with M365 workloads and must have
+  strong skills and experience of deploying, configuring, and maintaining Windows
+  10 and non-Windows devices. The MDA role focuses on cloud services rather than
+  on-premises management technologies.
+outlineSection: |-
+  ### Module  1&#58; Planning an Operating System Deployment Strategy
+  This module explains how to plan and implement a deployment strategy. It covers various methods and scenarios for deploying Windows. It discusses on-premise and cloud technologies as well as considerations for new deployments, upgrading, and migrations.
+  #### Lessons
+  - Overview of Windows as a service
+  - Windows 10 Deployment options
+  - Considerations for Windows 10 deployment
+
+
+  #### Lab &#58; Practice Lab - Planning Windows 10 deployment
+  After completing this module, students will be able to&#58;
+  - Describe Windows as a Service.
+  - Describe the different methods for deployment.
+  - Understand the differences between on-premise and cloud-based solutions.
+  - Describe methods of dynamic provisioning.
+  - Describe the different tools available in the Windows Assessment and Deployment Kit.
+  - Describe the scenarios and limitations for in-place upgrades and migrations.
+
+
+  ### Module  2&#58; Implementing Windows 10
+  This module covers new modern methods for deploying Windows 10 such as Windows Autopilot and provisioning packages. This module also covers tool used in upgrade planning, application compatibility and migration methods.
+  #### Lessons
+  - Implementing Windows 10 by using dynamic deployment
+  - Implementing Windows 10 by using Windows Autopilot
+  - Upgrading devices to Windows 10
+
+
+  #### Lab &#58; Practice Lab - Implementing Windows 10
+  - Creating and deploying provisioning package
+  - Migrating user settings
+  - Deploying Windows 10 with AutoPilot
+
+
+  After completing this module, students will be able to&#58;
+  - Develop an Operating System deployment and upgrade strategy
+  - Understand the different methods of deployment.
+  - Understand which scenarios on-premise and cloud-based solutions can be used for.
+  - Deploy and migrate desktops to Windows 10.
+  - Plan and configure Windows Update policies.
+
+
+  ### Module  3&#58; Managing Updates for Windows 10
+  This module covers managing updates to Windows. This module introduces the servicing options for Windows 10. Students will learn the different methods for deploying updates and how to configure windows update policies.
+  #### Lessons
+  - Updating Windows 10
+  - Windows Update for Business
+  - Introduction to Windows Analytics
+
+
+  #### Lab &#58; Practice Lab - Managing Updates for Windows 10
+  - Manually configuring Windows Update settings
+  - Configuring Windows Update by using GPOs
+
+
+  After completing this module, students will be able to&#58;
+  - Describe the Windows 10 servicing channels.
+  - Configure a Windows update policy using Group Policy settings.
+  - Configure Windows Update for Business to deploy OS updates.
+  - Use Windows Analytics to assess upgrade readiness and update compliance.
+
+
+  ### Module  4&#58; Course Conclusion
+  #### Lessons
+  - Final Exam
+
+
+  #### Lab &#58; Graded Lab
+  After completing this module, students will be able to&#58;
+  - Create a provisioning package.
+  - Configure an Autopilot deployment.
+  - Describe the tools used for planning upgrades and migrations.
+  - Describe the methods used to migrate user data.

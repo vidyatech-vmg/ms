@@ -1,0 +1,218 @@
+### YamlMime:Course
+title: 'Microsoft Certified: Dynamics 365 Fundamentals (ERP)'
+metadata:
+  title: 'Course MB-920T00--A: Microsoft Certified: Dynamics 365 Fundamentals (ERP)'
+  description: 'Course MB-920T00--A: Microsoft Certified: Dynamics 365 Fundamentals (ERP)'
+uid: course.mb-920t00
+courseNumber: 'MB-920T00'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Describe the capabilities and functionality of Dynamics 365 Supply Chain Management
+- skill: Describe the capabilities and functionality of Dynamics 365 Finance
+- skill: Describe the capabilities and functionality of Dynamics 365 Commerce
+- skill: Describe the capabilities and functionality of Dynamics 365 Human Resources
+- skill: Describe the capabilities and functionality of Dynamics 365 Project Operations (ERP)
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- business-owner
+products:
+- dynamics-365
+exams:
+- uid: exam.mb-920
+summary: |-
+  This course will provide you with a broad introduction to the finance and operations capabilities of Dynamics 365. You will become familiar with the concept of enterprise resource management (ERP), as well as each of the finance and operations apps, including Dynamics 365 Supply Chain Management, Dynamics 365 Finance, Dynamics 365 Commerce , Dynamics 365 Human Resources, and the ERP capabilities of Dynamics 365 Project Operations. This course will include lecture as well as hands-on-labs.
+
+  #### Audience Profile
+
+  People in different roles and at various stages in their careers can benefit from this fundamentals course. This includes IT professionals, business stakeholders and others who want to be exposed to the finance and operations capabilities of Dynamics 365, students, recent graduates, and people changing careers who want to leverage Dynamics 365 to move to the next level.
+outlineSection: |-
+  ### Module 1: Learn the Fundamentals of Dynamics 365 Supply Chain Management
+
+  This module covers the basic concepts of enterprise resource management and what the finance and operations apps have in common before diving into Dynamics 365 Supply Chain Management. We begin with the standard marketing business processes and how Marketing addresses those. Then we examine the product capabilities. Finally, we cover additional marketing apps such as LinkedIn Campaign Manager, Dynamics 365 Customer Voice and Dynamics 365 Customer Insights.
+
+  #### Lessons
+
+  *   Get introduced to the finance and operations apps
+
+  *   Identify general capabilities of Dynamics 365 Supply Chain Management
+
+  *   Explore warehouse and inventory capabilities in Dynamics 365 Supply Chain Management
+
+  *   Explore manufacturing strategies in Dynamics 365 Supply Chain Management
+
+  *   Explore asset management capabilities in Dynamics 365 Supply Chain Management
+
+  *   Capstone lab
+
+  #### Lab : Navigate the finance and operations apps
+
+  ####
+
+  #### Lab : Explore workspaces and filtering
+
+  ####
+
+  #### Lab : Create a Product
+
+  ####
+
+  #### Lab : Create a Purchase Order
+
+  ####
+
+  #### Lab : Create a Warehouse
+
+  ####
+
+  #### Lab : Create a Production Order
+
+  ####
+
+  #### Lab : Create a planned Work Order
+
+  ####
+
+  #### Lab : Dynamics 365 Supply Chain Management Capstone lab
+
+  ####
+
+  *   Explore Product Management
+
+  *   Explore Warehouse Management
+
+  *   Explore Production Management
+
+  *   Explore Inventory Management
+
+  *   Explore Procurement and Sourcing
+
+  After completing this module, students will be able to:
+
+  *   Describe the common features of the finance and operations apps
+
+  *   Describe the general capabilities of Dynamics 365 Supply Chain Management
+
+  *   Describe the warehouse and inventory management, manufacturing and asset management capabilities
+
+  ### Module 2: Learn the Fundamentals of Dynamics 365 Finance
+
+  In this module we take a look at Dynamics 365 Finance. We will cover core capabilities of the product before focusing on general ledger, accounts payable and accounts receivable. Next, we explore expense management and budgeting in Dynamics 365 Finance.
+
+  #### Lessons
+
+  *   Explore Dynamics 365 Finance core capabilities
+
+  *   Explore general ledger
+
+  *   Explore accounts payable and accounts receivable
+
+  *   Explore expense management, fixed asset management, and budgeting
+
+  *   Capstone lab
+
+  #### Lab : Capstone lab
+
+  ####
+
+  #### Lab : Create a vendor payment journal
+
+  ####
+
+  #### Lab : Create a financial dimension
+
+  ####
+
+  *   Explore the General Ledger
+
+  *   Explore Accounts Payable
+
+  *   Explore Accounts Receivable
+
+  After completing this module, students will be able to:
+
+  *   Discuss Dynamics 365 Finance core capabilities
+
+  *   Discuss general ledger, accounts payable and accounts receivable
+
+  *   Discuss expense management, fixed asset management, and budgeting
+
+  ### Module 3: Learn the Fundamentals of Dynamics 365 Commerce
+
+  In this module we take a look at Dynamics 365 Commerce. We will cover core capabilities of the product before turning our attention to Dynamics 365 Fraud Protection and its capabilities.
+
+  #### Lessons
+
+  *   Explore Dynamics 365 Commerce capabilities
+
+  *   Explore Dynamics 365 Fraud Protection
+
+  *   Capstone lab
+
+  #### Lab : Create a discount product
+
+  ####
+
+  #### Lab : Create a product assortment
+
+  ####
+
+  #### Lab : Capstone lab
+
+  ####
+
+  *   Explore Commerce Headquarters
+
+  After completing this module, students will be able to:
+
+  *   Discuss Dynamics 365 Commerce
+
+  *   Discuss Dynamics 365 Fraud Protection
+
+  ### Module 4: Learn the Fundamentals of Dynamics 365 Human Resources
+
+  In this module we take a look at Dynamics 365 Human Resources. We will cover core capabilities of the product before turning our attention to the personnel management capabilities of the product.
+
+  #### Lessons
+
+  *   Explore Dynamics 365 Human Resources core capabilities
+
+  *   Explore the personnel management capabilities
+
+  *   Capstone lab
+
+  #### Lab : Capstone lab
+
+  ####
+
+  *   Explore Human Resources
+
+  After completing this module, students will be able to:
+
+  *   Discuss the core capabilities of Dynamics 365 Human Resources
+
+  *   Discuss personnel management capabilities
+
+  ### Module 5: Learn the Fundamentals of Dynamics 365 Project Operations (ERP)
+
+  In this module we take a look at the enterprise resource capabilities of Dynamics 365 Project Operations. We will cover the project lifecycle as well as the project planning and execution apabilities of the product.
+
+  #### Lessons
+
+  *   Identify project lifecycle management capabilities in Dynamics 365 Project Operations
+
+  *   Explore the project planning and execution capabilities of Dynamics 365 Project Operations
+
+  After completing this module, students will be able to:
+
+  *   Discuss the project lifecycle management capabilities in Dynamics 365 Project Operations
+
+  *   Explore the project planning and execution capabilities of Dynamics 365 Project Operations
+
+  #### Additional Reading
+
+  Please review the content associated with this course on Microsoft Learn. Please note that there is a separate learning path per product.

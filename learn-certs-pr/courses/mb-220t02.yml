@@ -1,0 +1,74 @@
+### YamlMime:Course
+title: Set up events and surveys in Dynamics 365 for Marketing
+metadata:
+  title: 'Course MB-220T02-A: Set up events and surveys in Dynamics 365 for Marketing'
+  description: 'Course MB-220T02-A: Set up events and surveys in Dynamics 365 for Marketing'
+uid: course.mb-220t02
+courseNumber: 'MB-220T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Set up and manage event planning capabilities
+- skill: Create event messaging, customize the event portal, and manage registrations and check ins
+- skill: Design, configure, and distribute surveys
+- skill: Review and understand event and survey insights
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-marketing
+exams:
+- uid: exam.mb-220
+summary: |-
+  Events, webinars, and surveys are often a crucial part of how a marketing organization reaches customers. Events and webinars contain many moving parts and can be complex to manage. Dynamics 365 for Marketing simplifies this process by bringing all the planning data into one central location and providing execution channels through a customizable event portal. Surveys are often provided post-event, but can also be used throughout the marketing lifecycle to solicit feedback. Through Microsoft’s Voice of the Customer solution, surveys are easy to set up, manage, execute, and associate to an event.
+
+  This course will cover event planning, including setting up and managing sessions, speakers, passes, waitlists, venues, sponsors, vendors, logistics, and accommodations; as well as event execution, such as creating custom registration fields, managing registrations and check ins, and the event portal; then the course will cover survey creation and distribution. Finally, it will conclude with event and survey results.
+
+  Learn all the event and survey functionality within Dynamics 365 for Marketing through custom demonstrations, check your knowledge questions, and hands-on learning labs.
+
+  #### Audience profile
+  This course is designed for IT or Marketing Professionals who want to learn how to leverage Dynamics 365 for Marketing for businesses.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - An understanding of the basics of Dynamics 365 and knowledge of marketing principles, strategies, and procedures
+outlineSection: |-
+  ### Module  1&#58; Events
+  In this module students will learn how to manage event planning and execution in Dynamics 365 for Marketing.
+  #### Lessons
+  - Manage event planning
+  - Manage event execution
+
+  After completing this module, students will be able to&#58;
+  - Create in-person and webinar events
+  - Set up event planning features such as sessions, speakers, event passes, waitlists, venues, and sponsors
+  - Create and manage recurring events
+  - Create custom registration fields
+  - Create event outbound messaging
+  - Set up and manage the event portal, registration, and check-in functionality
+
+
+  ### Module  2&#58; Voice of the Customer
+  In this module students will review how to configure, design, and distribute Voice of the Customer surveys in Dynamics 365 for Marketing.
+  #### Lessons
+  - Create surveys
+
+  After completing this module, students will be able to&#58;
+  - Create a reusable survey theme
+  - Create, design, preview, and publish a survey
+  - Learn how to distribute a survey through Dynamics 365 for Marketing channels
+  - Clone, import, translate, close, stop, or delete a survey
+
+
+  ### Module  3&#58; Results
+  In the Results module, students will review marketing event and survey insights.
+  #### Lessons
+  - Review event and survey results
+
+  After completing this module, students will be able to&#58;
+  - Utilize the event dashboard to assess the outcome of events
+  - View the results of surveys

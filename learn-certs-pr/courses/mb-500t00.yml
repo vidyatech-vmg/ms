@@ -1,0 +1,94 @@
+### YamlMime:Course
+title: 'Microsoft Dynamics 365: Finance and Operations Apps Developer'
+metadata:
+  title: 'Course MB-500T00-A: Microsoft Dynamics 365: Finance and Operations Apps Developer'
+  description: 'Course MB-500T00-A: Microsoft Dynamics 365: Finance and Operations Apps Developer'
+uid: course.mb-500t00
+courseNumber: 'MB-500T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- dynamics-365
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-500
+summary: |-
+  Developer training. Microsoft Dynamics 365 Finance and Operations Apps Developers implement and extend applications to meet the requirements of the business. Candidates provide fully realized solutions by using standardized application coding patterns, extensible features, and external integrations.
+
+  #### Audience profile
+  
+  Microsoft Dynamics 365 Finance and Operations Apps Developers  
+
+outlineSection: |-  
+  ### Module 1: Overview & Architecture
+  
+  Describe the Dynamics 365 ecosystem and major components of the Dynamics 365 Finance and Operations (FO) software, describe the architecture of D365FO, describe relevant D365FO design and deployment considerations
+  
+  #### Lab : Development Environment configuration and Project/Model Creation
+  
+  #### Module 2: Developer Tools
+
+  Manage system implementations by using Lifecycle Services, Customize D365FO by using Visual Studio, Manage source code and artifacts by using version control, Work with other development tools to complete tasks
+  
+  #### Lab : Source Control using DevOps
+
+  #### Module 3: Solution Design
+  Determine the required application stack components and server architecture, Implement Application Lifecycle Management (ALM), Design a solution for D365FO
+
+  #### Lab : Data Structure Development
+  
+  #### Module 4: AOT Elements
+  
+  Create forms, Create and extend tables, Create Extended data Types (EDT) and enumerations, Create classes and extend AOT elements
+  
+  #### Lab : Metadata Extension & Development
+  
+  #### Module 5: Code Development & Testing
+  
+  Develop X++ code, Develop object-oriented code, Extend D365 FO functionality, Describe test framework and tools, Perform Unit Testing
+  
+  #### Lab : Code Extension & Development
+  
+  #### Module 6: Data Migration
+  
+  Describe migration tools and methodologies, Plan Migration strategy, Prepare data for migration and migrate data
+
+  #### Lab : Data Export/Import using Data Entity
+  
+  #### Lab : Recurring Data Transfer
+  
+  #### Module 7: Frameworks
+  
+  Implement D365 FO functionality
+  
+  #### Lab : SysExtension Framework
+  
+  #### Module 8: Integration
+  
+  Identify Data integration patterns and scenarios, Implement Data integration concepts and solutions, Implement Recurring integrations, Integrate D365FO with Microsoft Azure, Troubleshoot integration errors, Implement the Data Management Package API
+  
+  #### Lab : OData Integration
+
+  #### Lab : Logic App Integration
+  
+  #### Lab : Calling an External Web Service
+
+  #### Module 9: Reporting
+  
+  Describe the capabilities and limitations of reporting tools in D365FO, Design, create, and revise Dynamics Reports, Design, create, and revise
+  Dynamics workspaces, Design, create, and revise data sources that connect to data stores external to D365FO
+
+  #### Lab : Power BI reporting from F&O
+  
+  #### Module 10: Security & Performance
+  
+  Describe and implement performance tools and LCS Environment Monitoring tools, Implement role-based security policies and requirements, Apply fundamental performance optimization techniques, Optimize performance for batch processes, Optimize user interface performance, Enhance Integration performance, Optimize Report Performance
+  
+  #### Lab : Async & Sandbox Functionality

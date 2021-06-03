@@ -1,0 +1,113 @@
+### YamlMime:Course
+title: Protecting Modern Desktops and Devices
+metadata:
+  title: 'Course MD-101T03-A: Protecting Modern Desktops and Devices'
+  description: 'Course MD-101T03-A: Protecting Modern Desktops and Devices'
+uid: course.md-101t03
+courseNumber: 'MD-101T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Describe the benefits and capabilities of Azure AD.
+- skill: Manage users using Azure AD with Active Directory DS.
+- skill: Implement Windows Hello for Business.
+- skill: Configure conditional access rules based on compliance policies.
+- skill: Describe the various tools used to secure devices and data.
+- skill: Implement Windows Defender Advanced Threat Protection.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- windows
+exams:
+- uid: exam.md-101
+summary: |-
+  Every day, more organizations are asking IT to support mobility in the workforce. Modern environments require the Desktop Administrator be able to manage and support phones, tablets, and computers, whether they’re owned by the organization or personally owned by the employee. At the same time, IT must still be able to protect the data that these devices access. In this course, the student will be introduced to the key concepts of security in modern management. This course covers authentication, identities, and access, as well as how to protect these categories. The student will be introduced to Azure Active Directory and learn how to use Microsoft Intune to protect devices and data with compliance policies. Finally, this course will cover key capabilities of Azure Information Protection and Windows Defender Advanced Threat Protection and how to implement these capabilities.
+
+  #### Audience profile
+  The Modern Desktop Administrator (MDA) deploys, configures, secures, manages, and monitors devices and client applications in an enterprise environment. Responsibilities include managing identity, access, policies, updates, and apps. The MDA collaborates with the M365 Enterprise Administrator to design and implement a device strategy that meets the business needs of a modern organization. The MDA must be familiar with M365 workloads and must have strong skills and experience of deploying, configuring, and maintaining Windows 10 and non-Windows devices. The MDA role focuses on cloud services rather than on-premises management technologies.
+prerequisitesSection: |-
+  The
+  Modern Desktop Administrator MDA must be familiar with M365 workloads and must have
+  strong skills and experience of deploying, configuring, and maintaining Windows
+  10 and non-Windows devices. The MDA role focuses on cloud services rather than
+  on-premises management technologies.
+outlineSection: |-
+  ### Module  1&#58; Managing Authentication in Azure AD
+  In this module, students will be introduced to the concept of directory in the cloud with Azure Active Directory (Azure AD). Students will learn the similarities and differences between Azure AD and Active Directory DS and how to synchronize between the two. Students will explore identity management in Azure AD and learn about identity protection using Windows Hello for Business, as well as Azure AD Identity Protection and multi-factor authentication. The module will conclude with securely accessing corporate resources and introduce concepts such as Always On VPN and remote connectivity in Windows 10.
+  #### Lessons
+  - Azure AD Overview
+  - Managing identities in Azure AD
+  - Protecting identities in Azure AD
+  - Managing device authentication
+  - Enabling corporate access
+
+
+  #### Lab &#58; Practice Lab - Managing objects and authentication in Azure AD
+  - Enabling and configuring Azure AD Premium with Enterprise Mobility + Security (EMS) tenant
+  - Creating user and group objects with UI and Windows PowerShell
+  - Configuring Self-service password reset (SSPR) for user accounts in Azure AD
+  - Joining a device to Azure AD
+
+
+  After completing this module, students will be able to&#58;
+  - Describe the capabilities of Azure AD.
+  - Manage users using Azure AD with Active Directory DS.
+  - Implement Windows Hello for Business.
+  - Join devices to Azure AD.
+  - Describe methods of enabling access from external networks.
+
+
+  ### Module  2&#58; Managing Devices and Device Policies
+  In this module, students will be introduced to managing device security with Intune. Students will discover how Intune can use device profiles to manage configuration of devices to protect data on a device. Students will learn how to create and deploy compliance policies and use compliance policies for conditional access. The module concludes with monitoring devices enrolled in Intune.
+  #### Lessons
+  - Microsoft Intune Overview
+  - Managing devices with Intune
+  - Implement device compliance policies
+
+
+  #### Lab &#58; Practice Lab - Managing devices
+  - Configuring Microsoft Intune for device management
+  - Configuring compliance policies and device profiles
+  - Enrolling Windows 10 devices and managing compliance
+
+
+  After completing this module, students will be able to&#58;
+  - Describe mobile device management with Intune.
+  - Create and assign device profiles to protect data on devices.
+  - Deploy compliance and conditional access policies.
+  - Use Intune to monitor device compliance.
+
+
+  ### Module  3&#58; Managing  Security
+  In this module, students will learn about data protection. Topics will include Windows & Azure  Information Protection, and various encryption technologies supported in Windows 10. This module also covers key capabilities of Windows Defender Advanced Threat Protection (Windows Defender ATP) and how to implement these capabilities on devices in your organization. The module concludes using Windows Defender and using functionalities such as antivirus, firewall and Credential Guard.
+  #### Lessons
+  - Implement device data protection
+  - Managing Windows Defender ATP
+  - Managing Windows Defender in Windows 10
+
+
+  #### Lab &#58; Practice Lab - Managing Security in Windows 10
+  - Configuring Encrypting File System (EFS)
+  - Configuring BitLocker
+  - Configuring a WIP policy in Intune
+  - Configuring Windows Defender
+
+
+  After completing this module, students will be able to&#58;
+  - Describe the methods protecting device data.
+  - Describe the capabilities and benefits of Windows Defender ATP
+  - Deploy and manage settings for Windows Defender clients.
+
+
+  ### Module  4&#58; Course Conclusion
+  #### Lessons
+  - Final Exam
+
+
+  #### Lab &#58; Graded Lab

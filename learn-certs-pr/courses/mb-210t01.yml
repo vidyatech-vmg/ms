@@ -1,0 +1,85 @@
+### YamlMime:Course
+title: Microsoft Dynamics 365 Sales
+metadata:
+  title: 'Course MB-210T01: Microsoft Dynamics 365 Sales'
+  description: 'Course MB-210T01: Microsoft Dynamics 365 Sales'
+uid: course.mb-210t01
+courseNumber: 'MB-210T01'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Install and configure the application
+- skill: Identify common sales scenarios
+- skill: Complete a sales cycle
+- skill: Configure product catalog
+- skill: Manage customer records
+- skill: Utilize analytics tools with customer data
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-sales
+exams:
+- uid: exam.mb-210
+summary: |-
+  Microsoft Dynamics 365 Sales is an end-to-end application to manage the handling of customers and potential customers. Using Dynamics 365 Sales, organizations can track data against sales goals, automate best practices, learn from data, and more.
+
+  Join our team of globally recognized experts as they take you step by step from lead to opportunity to closed deal. Using the application’s available automation and customization options you will learn how to enable sales staff to be their most productive selves.
+
+  #### Audience profile
+  A Dynamics 365 Functional Consultant is responsible for performing discovery, capturing requirements, engaging subject matter experts and stakeholders, translating requirements, and configuring the solution and applications. The Functional Consultant implements a solution using out of the box capabilities, codeless extensibility, application and service integrations.
+prerequisitesSection: |-
+  Familiarity of business applications and the desire to customize and implement them for your business.
+outlineSection: |-
+  ### Module  1&#58; Configure Dynamics 365 Sales
+  In this module, we will learn about configuring the sales application to fit an organization's unique requirements.
+  #### Lessons
+  - Configure organization and management settings
+  - Create and configure sales visualizations
+  
+  After completing this module, you will be able to&#58; 
+  - Install and configure the sales application.
+  - Identify common sales scenarios.
+  
+  
+  ### Module  2&#58; Manage customers, leads, and opportunities
+  In this module, you will learn how to manage customer data records, use built-in sales tools, and take a lead through the lead lifecycle.
+  #### Lessons
+  - Manage customers using accounts and contacts
+  - Manage leads
+  - Manage opportunities
+  
+  After completing this module, you will be able to&#58;
+  - Create customer records.
+  - Use sales tooling. 
+  - Create leads and opportunities. 
+  
+  
+  ### Module  3&#58; Process sales orders
+  In this module, we will learn how to use quotes and orders to further use Dynamics 365 Sales to manage your sales opportunities and turn them into closed deals.
+  #### Lessons
+  - Manage quotes, orders, and invoices
+  - Manage and organize the product catalog
+  - Manage forecasting
+  - Configure playbooks
+  
+  After completing this module, you will be able to&#58;
+  - Create and use the product catalog.
+  - Add quotes to opportunities.
+  - Complete a sale with an order.
+  
+  
+  ### Module  4&#58; Integrate components with Dynamics 365 Sales
+  In this module, we will learn how to use sales analytics tools to empower the sales team.
+  #### Lessons
+  - Leverage Embedded Intelligence in Dynamics 365 Sales
+  - Manage relationships with social selling
+  
+  After completing this module, you will be able to&#58; 
+  - Use Embedded Intelligence tools.
+  - Manage relationships using social selling tools. 
