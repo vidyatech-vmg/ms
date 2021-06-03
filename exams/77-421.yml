@@ -1,0 +1,47 @@
+### YamlMime:Examination
+title: Microsoft OneNote 2013
+metadata:
+  title: 'Exam 77-421: Microsoft OneNote 2013'
+  description: 'Exam 77-421: Microsoft OneNote 2013'
+uid: exam.77-421
+displayName: 77-421
+summary: |-
+  Candidates for the Microsoft OneNote 2013 exam should have a fundamental understanding of the OneNote environment and the ability to complete tasks independently. They should know and demonstrate the correct application of the principle features of OneNote 2013.
+
+  Candidates should be able to create, edit, and share notebooks for a variety of purposes and situations. They use OneNote as a digital notebook to facilitate their work and to integrate with other Office 2013 applications. Candidates work with the features of OneNote 2013 to organize and collaborate effectively. Notebook examples include class notes, minutes from meetings, event planning, and to-do lists. Candidate roles might include students, instructors, administrative assistants, company teams, project managers, and others.
+subTitle: Candidates for the Microsoft OneNote 2013 exam should have a fundamental understanding of the OneNote environment and the ability to complete tasks independently. They should know and demonstrate the correct application of the principle features of OneNote 2013.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trkE
+scheduleExamUrl: https://www.certiport.com/locator
+locales:
+- en
+- nb
+levels: 
+- beginner
+skills:
+- Manage the OneNote environment (25-30%)
+- Share and collaborate with other users (15-20%)
+- Organize and find notes (20-25%)
+- Edit and link content in OneNote (25-30%)
+roles:
+- business-user
+products:
+- office-onenote
+relatedCertifications:
+- related:
+    uid: certification.mos-onenote-2013
+- related:
+    uid: certification.microsoft-office-specialist-master-certification-2013
+resources:
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: ../certification-exam-policies.md

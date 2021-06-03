@@ -1,0 +1,44 @@
+### YamlMime:Examination
+title: Microsoft SharePoint 2013
+metadata:
+  title: 'Exam 77-419: Microsoft SharePoint 2013'
+  description: 'Exam 77-419: Microsoft SharePoint 2013'
+uid: exam.77-419
+displayName: 77-419
+summary: |-
+  <div><div><strong>This exam has been retired. For currently available options, please refer to the <a href='/learn/certifications/browse/'>Browse Certifications and Exams page</a>.<br/><br/></strong></div>
+  </div>
+  
+  Candidates for the Microsoft SharePoint 2013 exam should have a sound understanding of the SharePoint environment and the ability to perform all site-level tasks. They should know and demonstrate the correct application of the principle site, library, and list features of SharePoint 2013. Candidates should be able to optimize and customize SharePoint sites to provide structure, solve problems, facilitate collaboration, and enhance productivity. Examples of application include managing list permissions, adding content to Quick Launch, creating team sites, and modifying library views. Candidate roles might include technical support staff, project managers, team leads, department heads, and others.
+subTitle: Candidates for the Microsoft SharePoint 2013 exam should have a sound understanding of the SharePoint environment and the ability to perform all site-level tasks. They should know and demonstrate the correct application of the principle site, library, and list features of SharePoint 2013. Candidates should be able to optimize and customize SharePoint sites to provide structure, solve problems, facilitate collaboration, and enhance productivity. Examples of application include managing list permissions, adding content to Quick Launch, creating team sites, and modifying library views. Candidate roles might include technical support staff, project managers, team leads, department heads, and others.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toX6
+locales:
+- en
+levels:
+- beginner
+skills:
+- Create and format content (25-30%)
+- Manage SharePoint sites (30-35%)
+- Participate in user communities (15-20%)
+- Configure and consume site search results (15-20%)
+roles:
+- business-user
+products:
+- office-sp
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: ../certification-exam-policies.md

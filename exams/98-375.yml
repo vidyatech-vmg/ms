@@ -1,0 +1,61 @@
+### YamlMime:Examination
+title: HTML5 Application Development Fundamentals
+metadata:
+  title: 'Exam 98-375: HTML5 Application Development Fundamentals'
+  description: 'Exam 98-375: HTML5 Application Development Fundamentals'
+uid: exam.98-375
+displayName: 98-375
+summary: |-
+  Candidates for this exam are seeking to prove core HTML5 client application development skills that will run on today's touch-enabled devices (PCs, tablets, and phones). Although HTML is often thought of as a web technology that is rendered in a browser to produce a UI, this exam focuses on using HTML5, CSS3, and JavaScript to develop client applications. Before taking this exam, candidates should have solid foundational knowledge of the topics outlined in the preparation guide, including CSS and JavaScript. It is recommended that candidates be familiar with the concepts of and have some hands-on experience with the related technologies, either by taking relevant training courses or by working with tutorials and samples available on MSDN and in Microsoft Visual Studio.
+subTitle: Candidates for this exam are seeking to prove core HTML5 client application development skills that will run on today's touch-enabled devices (PCs, tablets, and phones). Although HTML is often thought of as a web technology that is rendered in a browser to produce a UI, this exam focuses on using HTML5, CSS3, and JavaScript to develop client applications. Before taking this exam, candidates should have solid foundational knowledge of the topics outlined in the preparation guide, including CSS and JavaScript. It is recommended that candidates be familiar with the concepts of and have some hands-on experience with the related technologies, either by taking relevant training courses or by working with tutorials and samples available on MSDN and in Microsoft Visual Studio.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJs
+practiceTestUrl: https://www.mindhub.com/MTA-98-375-HTML5-Application-Development-Fundame-p/mu-98-375_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?action=1&locale=en-us&examcode=98-375&examname=HTML5%20Application%20Development%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-375
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
+locales:
+- en
+- zh-cn
+- zh-tw
+- fr
+- de
+- it
+- ja
+- ko
+- pt-br
+- ru
+- es
+- es-mx
+levels:
+- beginner
+skills:
+- Manage the application life cycle (20-25%)
+- Build the user interface (UI) by using HTML5 (25-30%)
+- Format the user interface by using Cascading Style Sheets (CSS) (20-25%)
+- Code by using JavaScript (30-35%)
+roles:
+- developer
+products:
+- vs
+courses:
+- uid: course.40375
+- uid: course.40034
+relatedCertifications:
+- related:
+    uid: certification.mta-html5-application-development-fundamentals
+resources:
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: ../certification-exam-policies.md

@@ -1,0 +1,45 @@
+### YamlMime:Examination
+title: Querying Data with Transact-SQL
+metadata:
+  title: 'Exam 70-761: Querying Data with Transact-SQL'
+  description: 'Exam 70-761: Querying Data with Transact-SQL'
+uid: exam.70-761
+displayName: 70-761
+summary: |-
+  <div><strong>This exam retired on January 31, 2021. For currently available options, please refer to the <a href='/learn/certifications/browse/?resource_type=examination'>Browse Certifications and Exams page</a>.<br/><br/></strong></div>
+  
+  This exam is intended for SQL Server database administrators, system engineers, and developers with two or more years of experience who are seeking to validate their skills and knowledge in writing queries.
+subTitle: This exam is intended for SQL Server database administrators, system engineers, and developers with two or more years of experience who are seeking to validate their skills and knowledge in writing queries.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiOm
+practiceTestUrl: https://www.mindhub.com/search?query=70-761&amp;categoryId=11284?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Manage data with Transact-SQL (40-45%)
+- Query data with advanced Transact-SQL components (30-35%)
+- Program databases by using Transact-SQL (25-30%)
+roles:
+- database-administrator
+products:
+- sql-server
+courses:
+- uid: course.20761
+relatedCertifications:
+- related:
+    uid: certification.mcsa-sql2016-database-development-certification
+resources:
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: ../certification-exam-policies.md

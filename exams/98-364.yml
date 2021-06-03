@@ -1,0 +1,60 @@
+### YamlMime:Examination
+title: Database Fundamentals
+metadata:
+  title: 'Exam 98-364: Database Fundamentals'
+  description: 'Exam 98-364: Database Fundamentals'
+uid: exam.98-364
+displayName: 98-364
+summary: |-
+  Candidates for this exam are seeking to prove introductory knowledge of and skills with databases, including relational databases, such as Microsoft SQL Server. It is recommended that candidates be familiar with the concepts of and have hands-on experience with the technologies described here, either by taking relevant training courses or by working with tutorials and samples available on MSDN and in Microsoft Visual Studio. Although minimal hands-on experience with the technologies is recommended, job experience is not assumed for these exams.
+subTitle: Candidates for this exam are seeking to prove introductory knowledge of and skills with databases, including relational databases, such as Microsoft SQL Server. It is recommended that candidates be familiar with the concepts of and have hands-on experience with the technologies described here, either by taking relevant training courses or by working with tutorials and samples available on MSDN and in Microsoft Visual Studio. Although minimal hands-on experience with the technologies is recommended, job experience is not assumed for these exams.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJq
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?action=1&locale=en-us&examcode=98-364&examname=Database%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-364
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
+locales:
+- en
+- zh-cn
+- zh-tw
+- fr
+- de
+- it
+- ja
+- ko
+- pt-br
+- ru
+- es
+- es-mx
+levels: 
+- beginner
+skills:
+- Understanding core database concepts (20–25%)
+- Create database objects (20–25%)
+- Manipulate data (25–30%)
+- Understand data storage (15–20%)
+- Administer a database (10–15%)
+roles:
+- developer
+products:
+- sql-server
+courses:
+- uid: course.40364
+relatedCertifications:
+- related:
+    uid: certification.mta-database-fundamentals
+resources:
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: ../certification-exam-policies.md

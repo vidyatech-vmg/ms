@@ -1,0 +1,44 @@
+### YamlMime:Examination
+title: Access 2010
+metadata:
+  title: 'Exam 77-885: Access 2010'
+  description: 'Exam 77-885: Access 2010'
+uid: exam.77-885
+displayName: 77-885
+summary: |-
+  The typical candidate for the exam works as a user support professional, trainer, teacher, professor, database user, or database creator who needs to create or maintain a basic Access database. Users can create, modify, and extend functionality of basic database objects, including tables, queries, forms, and reports. Users can also construct and modify basic relationships among database entities and can instruct others in basic Access functionality and usage. The Access 2010 user typically is effective in creating, modifying, and personalizing objects. This candidate is capable of working independently on database projects, and can often answer questions from others about databases. Candidates should know and demonstrate how to create or modify a simple Access database and use templates to create basic objects.
+subTitle: The typical candidate for the exam works as a user support professional, trainer, teacher, professor, database user, or database creator who needs to create or maintain a basic Access database. Users can create, modify, and extend functionality of basic database objects, including tables, queries, forms, and reports. Users can also construct and modify basic relationships among database entities and can instruct others in basic Access functionality and usage. The Access 2010 user typically is effective in creating, modifying, and personalizing objects. This candidate is capable of working independently on database projects, and can often answer questions from others about databases. Candidates should know and demonstrate how to create or modify a simple Access database and use templates to create basic objects.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiDl
+scheduleExamUrl: https://www.certiport.com/locator
+locales:
+- zh-tw
+- ja
+levels:
+- beginner
+skills:
+- Manage the Access environment
+- Build tables
+- Build forms
+- Create and manage queries
+- Design reports
+roles:
+- business-user
+products:
+- office-access
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: ../certification-exam-policies.md

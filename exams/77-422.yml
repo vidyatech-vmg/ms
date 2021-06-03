@@ -1,0 +1,60 @@
+### YamlMime:Examination
+title: Microsoft PowerPoint 2013
+metadata:
+  title: 'Exam 77-422: Microsoft PowerPoint 2013'
+  description: 'Exam 77-422: Microsoft PowerPoint 2013'
+uid: exam.77-422
+displayName: 77-422
+summary: |-
+  Candidate for the Microsoft Office Specialist (MOS) PowerPoint 2013 exam should have a fundamental understanding of the PowerPoint environment and the ability to complete tasks independently. Candidates can create and manage presentations, insert and format shapes and slides, create slide content, apply transitions and animations, and manage multiple presentations.
+subTitle: 'Candidate for the Microsoft Office Specialist (MOS) PowerPoint 2013 exam should have a fundamental understanding of the PowerPoint environment and the ability to complete tasks independently.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toXb
+scheduleExamUrl: https://www.certiport.com/locator
+locales:
+- en
+- zh-cn
+- zh-tw
+- de
+- es
+- fr
+- it
+- ja
+- ko
+- nb
+- nl
+- pl
+- pt-br
+- ru
+- ar-sa
+- vi-vn
+levels:
+- beginner
+skills:
+- Create and manage presentations
+- Insert and format shapes and slides
+- Create slide content
+- Apply transitions and animations
+- Manage multiple presentations
+roles:
+- business-user
+products:
+- office-powerpoint
+relatedCertifications:
+- related:
+    uid: certification.mos-powerpoint-2013
+- related:
+    uid: certification.microsoft-office-specialist-master-certification-2013
+resources:
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: ../certification-exam-policies.md

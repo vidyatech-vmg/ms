@@ -1,0 +1,66 @@
+### YamlMime:Examination
+title: 'Excel 2016: Core Data Analysis, Manipulation, and Presentation'
+metadata:
+  title: 'Exam 77-727: Excel 2016: Core Data Analysis, Manipulation, and Presentation'
+  description: 'Exam 77-727: Excel 2016: Core Data Analysis, Manipulation, and Presentation'
+uid: exam.77-727
+displayName: 77-727
+summary: |
+  Successful candidates for the Microsoft Office Specialist Excel 2016 certification exam have a fundamental understanding of the Excel environment and the ability to complete tasks independently. They know and demonstrate the correct application of the principle features of Excel 2016. Candidates create and edit a workbook with multiple sheets, and they use a graphic element to represent data visually. Workbook examples include professional-looking budgets, financial statements, team performance charts, sales invoices, and data-entry logs.
+
+  Microsoft Office Specialist (MOS) 2016 certification exams introduce a new performance-based format for improved testing of a candidate’s knowledge, skills, and abilities using the MOS 2016 programs&#58;
+  - MOS 2016 exam task instructions generally do not include the command name, as in previous versions. For example, function names are avoided and are replaced with descriptors. This means candidates must understand the purpose and common usage of the program functionality in order to successfully complete the tasks in each of the projects.
+  - The MOS 2016 exam format incorporates multiple projects.
+subTitle: Successful candidates for the Microsoft Office Specialist Excel 2016 certification exam have a fundamental understanding of the Excel environment and the ability to complete tasks independently. They know and demonstrate the correct application of the principle features of Excel 2016. Candidates create and edit a workbook with multiple sheets, and they use a graphic element to represent data visually. Workbook examples include professional-looking budgets, financial statements, team performance charts, sales invoices, and data-entry logs.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XVfJ
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
+locales:
+- en
+- ar-sa
+- bg-bg
+- zh-cn
+- zh-tw
+- de
+- es
+- fr
+- it
+- ja
+- ko
+- nl
+- pl
+- pt-br
+- ro
+- ru
+- th
+- tr
+levels: 
+- intermediate
+skills:
+- Create and manage worksheets and workbooks (30-35%)
+- Manage data cells and ranges (15-20%)
+- Create tables (15-20%)
+- Perform operations with formulas and functions (10-15%)
+- Create charts and objects (15-20%)
+roles:
+- business-user
+products:
+- office-excel
+relatedCertifications:
+- related:
+    uid: certification.mos-excel-2016
+resources:
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review the exam policies and frequently asked questions.
+  href: ../certification-exam-policies.md

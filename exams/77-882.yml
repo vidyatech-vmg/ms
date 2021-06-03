@@ -1,0 +1,61 @@
+### YamlMime:Examination
+title: Excel 2010
+metadata:
+  title: 'Exam 77-882: Excel 2010'
+  description: 'Exam 77-882: Excel 2010'
+uid: exam.77-882
+displayName: 77-882
+summary: |-
+  <div>
+  <div><strong>This exam is retired. For currently available options, please refer to the <a href="/learn/certifications/browse/">Browse Certifications and Exams page</a>.</strong><br/><br/></div>
+  </div>
+  
+  The core-level Microsoft Office Excel 2010 user should be able to navigate Microsoft Office Excel 2010 software at the feature and functional level. They should be familiar with and know how to use at least 80 percent of the features and capabilities of Microsoft Office Excel 2010. The core-level user should be able to use Microsoft Office Excel 2010 to create and edit professional-looking spreadsheets for a variety of purposes and situations. Users would include people from a wide variety of job roles from almost all areas of professional, student, and personal life.
+subTitle: The core-level Microsoft Office Excel 2010 user should be able to navigate Microsoft Office Excel 2010 software at the feature and functional level. They should be familiar with and know how to use at least 80 percent of the features and capabilities of Microsoft Office Excel 2010. The core-level user should be able to use Microsoft Office Excel 2010 to create and edit professional-looking spreadsheets for a variety of purposes and situations. Users would include people from a wide variety of job roles from almost all areas of professional, student, and personal life.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toWe
+locales:
+- en
+- ar-sa
+- zh-cn
+- zh-tw
+- de
+- es
+- fr
+- ja
+- ko
+- nl
+- ru
+- vi-vn
+levels:
+- beginner
+skills:
+- Managing the worksheet environment
+- Creating cell data
+- Formatting cells and worksheets
+- Managing worksheets and workbooks
+- Applying formulas and functions
+- Presenting data visually
+- Sharing worksheet data with other users
+- Analyzing and organizing data
+retirementDate: none
+roles:
+- business-user
+products:
+- office-excel
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: ../certification-exam-policies.md

@@ -1,0 +1,42 @@
+### YamlMime:Examination
+title: Excel 2010 Expert
+metadata:
+  title: 'Exam 77-888: Excel 2010 Expert'
+  description: 'Exam 77-888: Excel 2010 Expert'
+uid: exam.77-888
+displayName: 77-888
+summary: |-
+  Expert-level Microsoft Office Excel 2010 users are able to efficiently and confidently use Excel 2010 software at the feature and functionality levels. Expert users are proficient with advanced formulas, functions, and data analysis tools. Expert users can manipulate data for analysis, presentation, and collaboration. In addition, expert users can manipulate Excel options to customize their environment to meet varying needs and enhance their productivity.
+subTitle: Expert-level Microsoft Office Excel 2010 users are able to efficiently and confidently use Excel 2010 software at the feature and functionality levels. Expert users are proficient with advanced formulas, functions, and data analysis tools. Expert users can manipulate data for analysis, presentation, and collaboration. In addition, expert users can manipulate Excel options to customize their environment to meet varying needs and enhance their productivity.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7k0
+scheduleExamUrl: https://www.certiport.com/locator
+locales:
+- zh-tw
+levels:
+- beginner
+skills:
+- Sharing and maintaining workbooks
+- Applying formulas and functions
+- Presenting data visually
+- Working with macros and forms
+roles:
+- business-user
+products:
+- office-excel
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: ../certification-exam-policies.md
