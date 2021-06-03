@@ -1,0 +1,91 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure AI Engineer Associate'
+metadata:
+  title: 'Microsoft Certified: Azure AI Engineer Associate'
+  description: 'Azure AI Engineers build, manage, and deploy AI solutions that leverage Azure Cognitive Services, Azure Cognitive Search, and Microsoft Bot Framework.'
+uid: certification.azure-ai-engineer
+certificationRenewalUid: renewal.azure-ai-engineer
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  <div><font color='red'><strong><a href='/learn/certifications/exams/ai-102'>EXAM AI-102</a> IS REPLACING EXAM AI-100. AI-100 will retire on June 30, 2021.</strong></font><br/><br/></div>
+  
+  Candidates for the Azure AI Engineer Associate certification should have subject matter expertise building, managing, and deploying AI solutions that leverage Azure Cognitive Services, Azure Cognitive Search, and Microsoft Bot Framework.
+  
+  Their responsibilities include participating in all phases of AI solutions development—from requirements definition and design to development, deployment, maintenance, performance tuning, and monitoring.
+  
+  Azure AI Engineers work with solution architects to translate their vision and with data scientists, data engineers, IoT specialists, and AI developers to build complete end-to-end AI solutions.
+  
+  Candidates for this certification should be proficient in C#, Python, or JavaScript and should be able to use REST-based APIs and SDKs to build computer vision, natural language processing, knowledge mining, and conversational AI solutions on Azure. They should also understand the components that make up the Azure AI portfolio and the available data storage options. Plus, candidates need to understand and be able to apply responsible AI principles.
+  
+  <div><br/><strong>You will earn this certification if you pass one of the following exams&#58;</strong><br/>
+  <ul>
+  <li><a href="/learn/certifications/exams/ai-100">AI-100</a> (retiring June 30, 2021) <strong>or</strong></li>
+  <li><a href="/learn/certifications/exams/ai-102">AI-102</a> (beta released February 23, 2021)</li></ul></div>
+subTitle: Azure AI Engineers build, manage, and deploy AI solutions that leverage Azure Cognitive Services, Azure Cognitive Search, and Microsoft Bot Framework.
+levels:
+- intermediate
+skills:
+- Plan and manage an Azure Cognitive Services solution
+- Implement Computer Vision solutions
+- Implement natural language processing solutions 
+- Implement knowledge mining solutions
+- Implement conversational AI solutions
+roles:
+- ai-engineer
+type: role-based
+products:
+- azure-bot-service
+- azure-cognitive-search
+- azure-cognitive-services
+- azure-computer-vision
+- azure-custom-vision
+- azure-face
+- azure-form-recognizer
+- azure-language-understanding
+- azure-qna-maker
+- azure-speech
+- azure-speech-text
+- azure-speech-translation
+- azure-text-analytics
+- azure-text-speech
+- azure-translator
+- azure-translator-speech
+- azure-translator-text
+- azure-video-indexer
+courses:
+- uid: course.ai-102t00
+paths:
+- uid: learn.data-ai.evaluate-text-with-language-services
+- uid: learn.wwl.process-translate-speech-azure-cognitive-speech-services
+- uid: learn.wwl.process-classify-images-with-azure-cognitive-vision-services
+- uid: learn.wwl.process-natural-language-azure-cognitive-language-services
+- uid: learn.wwl.implement-knowledge-mining-azure-cognitive-search
+- uid: learn.wwl.create-conversational-ai-solutions
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHf
+exams:
+- uid: exam.ai-102
+resources:
+- title: Journey to certification
+  description: Explore steps to get certified as an Azure AI Engineer Associate and the resources available to help you prepare.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWy1S2
+- title: Azure certifications poster
+  description: Check out an overview including fundamentals, role-based, and specialty certifications for Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://aka.ms/TrainingCertDeck
+- title: Certification poster
+  description: Check out an overview of fundamentals, role-based and specialty certifications.
+  href: https://aka.ms/traincertposter
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Support for certifications
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: ../help.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Share your certification badges
+  description: Celebrate your accomplishment with your network. Claim your Microsoft Certification badge, and add it to LinkedIn, your résumé, and more.
+  href: ../badges.md

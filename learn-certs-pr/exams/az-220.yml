@@ -1,0 +1,78 @@
+### YamlMime:Examination
+title: Microsoft Azure IoT Developer
+metadata:
+  title: 'Exam AZ-220: Microsoft Azure IoT Developer'
+  description: 'Exam AZ-220: Microsoft Azure IoT Developer'
+uid: exam.az-220
+displayName: AZ-220
+summary: |-
+  <div><strong>The content of this exam was updated on January 27, 2021. Please download the skills measured document below to see what changed.</strong><br/><br/></div>
+  
+  Candidates for this exam should have subject matter expertise developing cloud and edge components of an Azure IoT solution.
+  
+  Responsibilities for an Azure IoT Developer include managing the device lifecycle–set up, configuration, and maintenance–using cloud services and other tools. You implement designs for Azure IoT solutions including device topology, connectivity, debugging, and security, as well as solutions to manage, monitor, and transform IoT-related data pipelines. You also deploy Azure IoT Edge components and configure device networking on the edge.
+
+  An Azure IoT Developer works with data engineers and other stakeholders to ensure successful business integration.
+
+  A candidate for this exam should have experience implementing the Azure services that form an IoT solution, including data storage options, data analysis, data processing, and platform-as-a-service options. This role should also be able to recognize Azure IoT service configuration settings within the code portion of an IoT solution and perform specific IoT coding tasks in at least one Azure-supported language, including C#, Node, C, or Python.
+subTitle: 'This exam measures your ability to implement the IoT solution infrastructure; provision and manage devices; implement solutions on Azure IoT Edge devices; process and manage data; monitor, troubleshoot, and optimize IoT solutions; and implement security.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nBeC
+practiceTestUrl: https://www.mindhub.com/p/MU-AZ-220?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-220&examname=Exam%20AZ-220:%20Microsoft%20Azure%20IoT%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-220
+locales:
+- en
+- ja
+- zh-cn
+- ko
+levels:
+- intermediate
+skills:
+- The content of this exam was updated on January 27, 2021. Please download the exam skills outline below to see what changed.
+- Implement the IoT solution infrastructure (15-20%)
+- Provision and manage devices (20-25%) 
+- Implement Edge (15-20%)
+- Process and manage data (15-20%)
+- Monitor, troubleshoot, and optimize IoT solutions (15-20%)
+- Implement security (15-20%)
+roles:
+- developer
+products:
+- azure
+- azure-iot-central
+- azure-iot-hub
+courses:
+- uid: course.az-220t00
+paths:
+- uid: learn.introduction-to-azure-iot
+- uid: learn.securely-connect-iot-devices-to-cloud
+- uid: learn.build-intelligent-edge-with-azure-iot-edge
+- uid: learn-develop-solutions-with-azure-iot-central
+relatedCertifications:
+- related:
+    uid: certification.azure-iot-developer-specialty
+resources:
+- title: Journey to certification
+  description: Explore steps to get certified in Azure IoT Developer Specialty and the resources available to help you prepare.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqz
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Certification poster
+  description: Check out an overview of fundamentals, role-based and specialty certifications.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Support for certification exams
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: ../help.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review the exam policies and frequently asked questions.
+  href: ../certification-exam-policies.md

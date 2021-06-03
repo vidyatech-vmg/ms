@@ -1,0 +1,187 @@
+### YamlMime:Course
+title: Microsoft Power Platform Functional Consultant
+metadata:
+  title: 'Course PL-200T00-A: Microsoft Power Platform Functional Consultant'
+  description: 'Course PL-200T00-A: Microsoft Power Platform Functional Consultant'
+uid: course.pl-200t00
+courseNumber: 'PL-200T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Work with an organization to gather requirements and implement Power Platform solutions
+- skill: Build model-driven, canvas, and portal apps
+- skill: Create Power Automate flows
+- skill: Design a simple chatbot using Power Virtual Agents
+- skill: Analyze data using Power BI visualizations and dashboards
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- power-platform
+exams:
+- uid: exam.pl-200
+summary: |-
+  The Power Platform empowers organizations to automate business processes, develop their own rich app experiences, and connect with customers better and faster. In this course, students will learn to perform discovery, capture requirements, engage subject matter experts and stakeholders, translate requirements, and configure Power Platform solutions and apps. They will supplement their learnings with hands-on labs to create application enhancements, custom user experiences, system integrations, data conversions, custom process automation, and custom visualizations. Power Platform is comprised of four key products: Power Apps, Power Automate, Power BI, and Power Virtual Agents. In this course, we will cover these four applications in depth, with additional focus on Microsoft Dataverse (formerly Common Data Service), AI Builder, connectors, and portals.
+
+  #### Audience profile
+  A Power Platform Functional Consultant is responsible for performing discovery, capturing requirements, engaging subject matter experts and stakeholders, translating requirements, and configuring Power Platform solutions and apps. The Functional Consultant implements components of a solution that include application enhancements, custom user experiences, system integrations, data conversions, custom process automation, and custom visualizations.
+prerequisitesSection: |-
+  - Experience as an IT professional or student
+  - Working knowledge of the Power Platform and its key components
+  - A knowledge of Microsoft Dataverse (or general data modeling) and security concepts
+outlineSection: |-
+  ### Module 1&#58; Introduction to the Power Platform
+  This module will provide the learner with background about the Power Platform and its 4 key components&#58; Power Apps, Power Automate, Power BI, and Power Virtual Agents.
+  #### Lessons
+  - Power Platform overview
+
+  #### Lab &#58; Validate lab environment
+  
+  After completing this module, students will be able to&#58;
+  - Identify the key components of the Power Platform
+  - Describe the role of a functional consultant
+  
+  
+  ### Module 2&#58; The Functional Consultant role
+  In this module, students will learn more about the functional consultant role and the skills required to successfully implement a Power Platform solution for an organization.
+  #### Lessons
+  - Consultant skills overview
+  - Create and validate documentation
+  - Engage stakeholders
+  - Perform quality assurance
+  - Configure integrations
+  
+  After completing this module, students will be able to&#58;
+  - Engage stakeholders with demos
+  - Create table (entity) relationship diagrams
+  - Design integrations
+  - Interact with consultant and customer organization teams
+  
+  
+  ### Module 3&#58; Work with Dataverse
+  In this module, students will learn about creating a data model in Microsoft Dataverse, including importing data, using tabular reporting options, and configuring security. They will also learn about creating easy AI with AI Builder.
+  #### Lessons
+  - Work with the data model
+  - Create and manage processes
+  - Work with AI Builder
+  - Configure Dataverse settings
+  - Import and export data
+  - Use tabular reporting options
+  - Configure security settings
+  
+  #### Lab &#58; Create an app
+  
+  #### Lab &#58; Create tables and columns
+  
+  #### Lab &#58; Create relationships
+  
+  #### Lab &#58; Additional table options
+  
+  After completing this module, students will be able to&#58;
+  - Understand tables, columns, rows, and relationships
+  - Configure a data model in Dataverse
+  - Work in an environment within the Power Platform admin center
+  
+  
+  ### Module 4&#58; Make Power Apps
+  In this module, students will learn the business value of the three types of Power Apps. They will then learn to how to configure and design them, including user experience considerations for each type of application.
+  #### Lessons
+  - Make model-driven apps
+  - Make canvas apps
+  - Make portal apps
+  
+  #### Lab &#58; App designer
+  
+  #### Lab &#58; Modify forms
+  
+  #### Lab &#58; Modify views
+  
+  #### Lab &#58; Build dashboards
+  
+  #### Lab &#58; Canvas app fundamentals
+  
+  #### Lab &#58; Work with data and services
+  
+  #### Lab &#58; User experience
+  
+  After completing this module, students will be able to&#58;
+  - Connect to data in Power Apps
+  - Build a Power App
+  - Design an application user experience
+  
+  
+  ### Module 5&#58; Build Power Automate flows
+  In this module, students will learn how to automate business processes using Power Automate flows, business process flows, and UI flows.
+  #### Lessons
+  - Build flows
+  - Build business process flows
+  - Build UI flows
+  
+  #### Lab &#58; Create users
+  
+  #### Lab &#58; Create security role
+  
+  #### Lab &#58; Configure a new business rule
+  
+  #### Lab &#58; Advanced business rules
+  
+  #### Lab &#58; Create a flow
+  
+  #### Lab &#58; Build approval flow
+  
+  #### Lab &#58; Build a business process flow
+  
+  #### Lab &#58; Add branching to business process flow
+  
+  After completing this module, students will be able to&#58;
+  - Create flows
+  - Create business process flows
+  - Understand UI flows
+  
+  
+  ### Module 6&#58; Work with Power Virtual Agents
+  In this module, students will learn how to automate customer interactions with a chatbot using Power Virtual Agents.
+  #### Lessons
+  - Create a chatbot
+  - Configure topics
+  - Automate and integrate
+  - Configure entities
+  - Test and publish chatbots
+  
+  #### Lab &#58; Create a chatbot
+  
+  After completing this module, students will be able to&#58;
+  - Create a chatbot
+  - Include a flow in a chatbot
+  - Create topics and entities
+  
+  
+  ### Module 7&#58; Analyze data with Power BI
+  In this module, students will learn how to work with Power BI Desktop and Power BI Service to analyze data and create visualizations.
+  #### Lessons
+  - Get started with Power BI
+  - Model data in Power BI
+  - Create visualizations
+  - Create dashboards
+  - Publish and share in Power BI
+  
+  #### Lab &#58; Build a Word template
+  
+  #### Lab &#58; Build an Excel template
+  
+  #### Lab &#58; Duplicate detection
+  
+  #### Lab &#58; Import data
+  
+  #### Lab &#58; Export data
+  
+  #### Lab &#58; Bulk delete
+  
+  After completing this module, students will be able to&#58;
+  - Create visualizations
+  - Consume data in Power BI
+  - Export data visualizations for stakeholders

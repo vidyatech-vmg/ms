@@ -1,0 +1,129 @@
+### YamlMime:Course
+title: Data migration and preparing for go-live with Dynamics 365 for Finance and Operations
+metadata:
+  title: 'Course MB-300T03-A: Data migration and preparing for go-live with Dynamics 365 for Finance and Operations'
+  description: 'Course MB-300T03-A: Data migration and preparing for go-live with Dynamics 365 for Finance and Operations'
+uid: course.mb-300t03
+courseNumber: 'MB-300T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-finance
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-300
+summary: |-
+  Organizations use Dynamics 365 for Finance and Operations to reduce operational costs and rapidly respond to changing business needs. This solution lets organizations achieve these goals.
+
+  This course discusses data migration and go-live preparation for Microsoft Dynamics 365 for Finance and Operations.
+
+  #### Audience profile
+  A Dynamics 365 for Finance and Operations Functional Consultant is responsible for performing discovery, capturing requirements, engaging subject matter experts and stakeholders, translating requirements, and configuring the solution and applications. The Functional Consultant implements a solution using out of the box capabilities, codeless extensibility, application, and service integrations.
+prerequisitesSection: |-
+  Basic understanding of ERP and CRM concepts.
+outlineSection: |-
+  ### Module  1&#58; Prepare Data for Migration and Migrate Data
+  This unit explores integration patterns, scenarios, and solutions for Finance and Operations. Although this unit does not include technical details about how to use or set up every integration pattern or how to work with sample code, it is always wise to be aware of available integration tools.
+  #### Lessons
+  - Introduction
+  - Understand BYOD feature
+  - Perform a test migration and validate output
+  - Module summary
+  
+
+  When it’s time for data migration, the more one knows, the easier it is to control operational complexity and reduce costs. The customer’s business continuity must be the priority. In this module, students will learn how to prepare data for a successful migration by identifying important factors such as legacy systems, and static and common data.
+  
+  
+  In this module, students learned how to&#58;
+  - Choose a data integration (import/export) strategy
+  - Identify common migration scenarios and tools in Finance and Operations
+  - Understand the bring your own database (BYOD) feature
+  - Identify relevant (legacy) systems
+  - Identify and import static data that is common between industries
+  - Create and review test plans for data migration
+  - Identify and extract source data
+  - Identify relevant data entities and elements
+  - Generate field mapping between source and target data structures
+  - Perform a test migration and validate output
+  - Support the transition between the existing and migrated systems
+
+
+  ### Module  2&#58; Use Data Management
+  In this module, students will get an overview of the basic concepts of the Data management platform. Students will also learn how to import and export data in Dynamics 365 for Finance and Operations by using the Data management workspace.
+
+  Finally, they will learn how to use the asynchronous recurring integration features of the Data management platform. The Data management framework can be used to manage data entities and data entity packages in Finance and Operations.
+  #### Lessons
+  - Introduction
+  - Understand data management and integration
+  - Data management workspace
+  - Templates in data management
+  - Import, export and copy data into a legal entity
+  - Practice Labs
+  - Module summary
+  
+
+  In this module, students learned how to&#58;
+  - Identify the correct pattern for a given scenario to use the Data management platform for integration by using data entities
+  - Work with the Data management workspace
+  - Export data from a legal entity
+  - Import data into a legal entity
+  - Work with data import and export jobs
+  - Clean up the staging tables
+
+
+  ### Module  3&#58; Perform User Acceptance Testing
+  In order to test and evaluate the customer solution prior to the go-live, one needs to have an environment of Dynamics 365 for Finance and Operations that has all the configurations and possible customizations via extensions.
+
+  It is always beneficial to have a methodology to ensure the creation and testing is organized and planned properly for a short, efficient, and role focused test case scenarios.
+  #### Lessons
+  - Introduction
+  - Create and perform test cases for User Acceptance
+  - Practice Lab
+  - Module summary
+  
+
+  In this module, students learned about&#58;
+  - How to understand the correlation between test cases and business requirements
+  - Best practices for recording test cases
+  - Task recorder
+  - How to create a Scenario Acceptance Testing BPM library
+  - How to synchronize and configure your test plan in Azure DevOps
+  - How to execute tests
+
+
+  ### Module  4&#58; Prepare to Go Live
+  All of the hard work becomes a success by moving the implemented solution in Dynamics 365 for Finance and Operations to the production environment. This is a crucial and final stage of this exciting experience of completing an implementation.
+
+  The goal is a happy customer, a quality solution, and peace of mind during this important phase, which is known as go-live. One cannot guarantee success without knowing how to prepare for Finance and Operations go-live and the final stage of implementation.
+
+  #### Lessons
+  - Introduction
+  - Get ready to go live
+  - Module summary
+  
+
+  In this module, students will have learned how to&#58;
+  - Prepare for go-live
+  - Complete the Lifecycle Services (LCS) methodology
+  - Perform User acceptance testing (UAT) for your solution
+  - Understand the FastTrack go-live assessment
+  - Request the production environment
+
+
+  ### Module  5&#58; Course Conclusion
+  Final assessment and course summary, as well as a post-course survey for the course.
+  #### Lessons
+  - Final assessment
+  - Course summary
+  - Post-course survey
+  
+
+  Students will have completed the course.

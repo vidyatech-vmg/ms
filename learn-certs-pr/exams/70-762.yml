@@ -1,0 +1,48 @@
+### YamlMime:Examination
+title: Developing SQL Databases
+metadata:
+  title: 'Exam 70-762: Developing SQL Databases'
+  description: 'Exam 70-762: Developing SQL Databases'
+uid: exam.70-762
+displayName: 70-762
+summary: |-
+  <div><strong>This exam retired on January 31, 2021. For currently available options, please refer to the <a href='/learn/certifications/browse/?resource_type=examination'>Browse Certifications and Exams page</a>.<br/><br/></strong></div>
+  
+  This exam is intended for database professionals who build and implement databases across organizations and who ensure high levels of data availability. Their responsibilities include creating database files, data types, and tables; planning, creating, and optimizing indexes; ensuring data integrity; implementing views, stored procedures, and functions; and managing transactions and locks.
+subTitle: This exam is intended for database professionals who build and implement databases across organizations and who ensure high levels of data availability. Their responsibilities include creating database files, data types, and tables; planning, creating, and optimizing indexes; ensuring data integrity; implementing views, stored procedures, and functions; and managing transactions and locks.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toXU
+practiceTestUrl: https://www.mindhub.com/70-762-Developing-SQL-Databases-p/mu-70-762_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+locales:
+- en
+levels:
+- advanced
+skills:
+- Design and implement database objects (25-30%)
+- Implement programmability objects (20-25%)
+- Manage database concurrency (25-30%)
+- Optimize database objects and SQL infrastructure (20-25%)
+roles:
+- database-administrator
+products:
+- sql-server
+courses:
+- uid: course.20762
+relatedCertifications:
+- related:
+    uid: certification.mcse-data-management-analytics
+- related:
+    uid: certification.mcsa-sql2016-database-development-certification
+resources:
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: ../certification-exam-policies.md

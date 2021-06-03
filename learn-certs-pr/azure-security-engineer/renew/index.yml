@@ -1,0 +1,28 @@
+### YamlMime:CertificationRenewal
+title: 'Renewal for Microsoft Certified: Azure Security Engineer Associate'
+metadata:
+  title: 'Renewal for Microsoft Certified: Azure Security Engineer Associate'
+  description: 'If you have this certification and it will expire within six months, you are eligible to renew.'
+uid: renewal.azure-security-engineer
+certificationUid: certification.azure-security-engineer
+assessmentId: 824be456-aba3-45ba-a4b4-4478c41a7622
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  If you have this certification and it will expire within six months, you are eligible to renew. Show that you have kept current with the latest Azure updates by passing the renewal assessment. You can also prepare to renew with the curated collection of learning modules.
+skills:
+- Strengthen authentication (conditional access) with Azure Active Directory 
+- Secure administrator accounts in Azure Active Directory 
+- Enable identity protection in Azure Active Directory
+- Secure your Azure resources with role-based access control (RBAC)
+- Secure and isolate access to Azure resources by using network security groups and service endpoints
+- Design a holistic monitoring strategy on Azure
+- Secure your Azure Storage account 
+- Manage secrets in your server apps with Azure Key Vault
+examsPassed:
+- az-500
+studyGuideDescription: 'Use this collection of learning modules to help you prepare for the Microsoft Certified: Azure Security Engineer Associate renewal assessment.'
+resources:
+- title: About certification renewal
+  summary: Understand the process and requirements to renew your certifications online
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

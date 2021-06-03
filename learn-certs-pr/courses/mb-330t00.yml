@@ -1,0 +1,228 @@
+### YamlMime:Course
+title: Microsoft Dynamics 365 Supply Chain Management
+metadata:
+  title: 'Course MB-330T00-A: Microsoft Dynamics 365 Supply Chain Management'
+  description: 'Course MB-330T00-A: Microsoft Dynamics 365 Supply Chain Management'
+uid: course.mb-330t00
+courseNumber: 'MB-330T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Configure the most important Dynamics 365 Dynamics 365 Supply Chain Management functionalities.
+- skill: Process most of the Dynamics 365 Supply Chain Management transactions.
+- skill: Explain to others how Dynamics 365 Supply Chain Management features and functionalities works.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-330
+summary: |-
+  This course is designed to build your foundation in Dynamics 365 Supply Chain Management application knowledge. This course will cover the most important features and functionalities needed by Dynamics 365 Supply Chain Management functional consultant including: The product information and how to configure, create, and manage your product and inventory. Supply chain management configuration and processing. The transportation management features, and the warehouse management features. Quality management and quality control functionalities. Master planning configuration and processing. This course includes lectures and several hands-on exercises. The exercises will be introduced to you on a form of a case study presented to a Dynamics 365 Supply Chain Management functional consultant. Each exercise will be bases on a business scenario followed by a question or discussion then a step-by-step guidance to perform the system related steps.
+
+  #### Audience profile
+  This course is designed for The Dynamics 365 Supply Chain Management functional consultant. The Dynamics 365 Supply Chain Management functional consultant is a key resource that designs and configures apps to meet the requirements for a customer. The functional consultant analyzes business requirements and translates those requirements into fully realized business processes and solutions that implement industry-recommended practices. The functional consultant specializes in one or more of the following feature sets of Dynamics&#58; finance, manufacturing, or supply chain management. They partner with architects, developers, administrators, and other stakeholders to deliver solutions that meet or exceed the needs of their customers.
+outlineSection: |-
+  ### Module  1&#58; Implement product information management
+  This module will introduce you to the following topics&#58;
+  
+  Create and release products and product variants  
+  Create and apply product templates  
+  Create bills of materials (BOMs)  
+  Identify the purpose and capabilities of the product configuration models  
+  Configure catch weights  
+  Configure direct-delivery products  
+  Create and manage inventory dimensions  
+  Configure item groups  
+  Create and assign bar codes and Global Trade Identification Number (GTIN) codes  
+  Configure category hierarchies and product attributes  
+  Configure product unit conversions  
+  Configure default order settings  
+  Describe inventory costing methods & model groups  
+  Configure Costing versions for standard and planned costs  
+  Configure and default purchase prices, default sales prices, and trade agreements. 
+  #### Lessons
+  - Create and manage products
+  - Configure products for supply chain management
+  - Manage inventory pricing and costing
+
+  After completing this module, students will be able to&#58;
+  - Implement product information management
+
+
+  ### Module  2&#58; Implement inventory management
+  This module will introduce you to the following areas&#58; 
+  
+  Set up inventory management parameters and journals  
+  Configure inventory breakdown Structure  
+  Configure ABC classifications  
+  Configure inventory valuation reports  
+  Create and process journals including bill of materials, item arrival, transfer, movement, inventory adjustment, counting, and tag counting journals  
+  Create and process transfer orders  
+  Perform inventory closings and adjustments.
+  #### Lessons
+  - Configure Inventory management
+  - Manage and process inventory activities
+
+  #### Lab &#58; Case study 1 Implement inventory management
+  - Exercise #1 Add products to a new warehouse using basic inventory management
+  - Exercise #2 Create a standard cost version that uses a specific model group
+  - Exercise #3 Add and releasing new products to a warehouse
+  - Exercise #4 Use the inventory movement journal to initialize stock levels in a warehouse
+  - Exercise #5 Use the inventory transfer journal to move items to a new location in the warehouse
+  - Exercise #6 Adjust stock levels using the inventory adjustment journal
+  - Exercise #7 Use the inventory counting journal to compare D365 inventory amounts to manually counted
+  - Exercise #8 Create a BOM in the BOM designer
+  
+  After completing this module, students will be able to&#58;
+  - Implement inventory management
+
+
+  ### Module  3&#58; Implement and manage supply chain processes
+  This module will introduce you to the following topics&#58; 
+  
+  Create and manage purchase requisitions, requests for quotes (RFQs), and purchase orders (POs)  
+  Configure change management processes  
+  Configure and apply vendor rebates  
+  Introduction to Vendor collaboration  
+  Manage consignment inventory  
+  Manage over and under deliveries  
+  Configure procurement categories and purchasing policies  
+  Configure charges  
+  Configure quotations, sales orders, and return orders  
+  Configure sales groups and commissions  
+  Configure customer, product, and prospect searches  
+  Configure and process inter-company trade relations documents  
+  Introduction to D365 Guides  
+  Authoring of D365 Guides  
+  Operating of D365 Guides.  
+  #### Lessons
+  - Implement Procurement and sourcing
+  - Implement common sales and marketing features
+  - Using Microsoft Guides
+
+  #### Lab &#58; Case study 2A Procurement and sourcing
+  - Exercise #1 Create, submit, and approve a purchase requisition
+  - Exercise #2 Create, reply and accept a request for quotation
+  - Exercise #3 Create purchase requisition and purchasing policies
+  - Exercise #4 Create a purchase order for delivery to multiple sites
+  - Exercise #5 Create a charges code
+  - Exercise #6 Create a vendor charges group and assign to vendors
+  - Exercise #7 Create an automatic charge
+  - Exercise #8 Approve purchase orders prior to confirmation
+  - Exercise #9 Create trade agreements for vendors
+  - Exercise #10 Create a purchase order based on a trade agreement
+  
+  #### Lab &#58; Case study 2B Sales and marketing
+  - Exercise #1 Enter and confirm sales order
+  - Exercise #2 Create and review a sales order for commission
+  - Exercise #3 Create a customer trade agreement
+
+  After completing this module, students will be able to&#58;
+  - Implement and manage supply chain processes
+
+
+  ### Module  4&#58; Implement warehouse management and transportation management
+  This module will introduce you to the following topics&#58; 
+  
+  Create sites, warehouses, locations, location formats, location profiles, location types, and zones  
+  Implement location directives  
+  Configure Inventory Statuses, unit sequence groups, and reservation hierarchies  
+  Implement wave and work, templates  
+  Implement wave load building template  
+  Configure mobile device menus, menu items, and display settings  
+  manage inventory stock movement processes  
+  Perform cycle counting  
+  Process inbound and outbound orders  
+  Process shipments  
+  Describe the replenishment process cross-docking  
+  Introduction  
+  Configure shipping carriers and carrier groups  
+  Perform planning and executing loads and shipments  
+  Configure and generate freight bills and invoices  
+  Configure route plans and guides  
+  Configure route and rate engines  
+  Configure and use dock appointment scheduling  
+  #### Lessons
+  - Configure warehouse management
+  - Perform warehouse management processes
+  - Implement transportation management
+
+  #### Lab &#58; Case study 3 Warehouse management and transportation management
+  - Exercise #1 Configure warehouse management
+  - Exercise #2 Create a reservation hierarchy
+  - Exercise #3 Create disposition codes and inbound location directives
+  - Exercise #4 Configure mobile devices
+  - Exercise #5 Configure purchase orders
+  - Exercise #6 Configure wave processing
+  - Exercise #7 Configure cycle counting
+  - Exercise #8 Define cycle counting
+  - Exercise #9 Define a partial location cycle counting process
+  - Exercise #10 Transfer orders and replenishments
+  - Exercise #11 Setup replenishment
+  - Exercise #12 Configure outbound processing
+  - Exercise #13 Configure cluster picking
+  - Exercise #14 Setup manual packing
+  - Exercise #15 Configure carriers
+  - Exercise #16 Configure rate masters
+  - Exercise #17 Setup route plans and route guides
+  - Exercise #18 Process inbound shipments
+  - Exercise #19 Process outbound shipments
+  - Exercise #20 Configure freight reconciliation
+
+  After completing this module, students will be able to&#58;
+  - Implement warehouse management and transportation management
+
+
+  ### Module  5&#58; Configure and manage quality control and quality management
+  This module will introduce you to the following topics&#58; 
+  
+  Configure quality control  
+  Configure quality management  
+  Manage quality orders and quarantine Order  
+  Manage inventory blocking.
+  #### Lessons
+  - Configure quality control and quality management
+  - Manage quality control and quality management
+
+  #### Lab &#58; Case study 4 Quality control and quality management
+  - Exercise #1 Enable quality management process
+  - Exercise #2 Create a manual quality order with a specification
+  - Exercise #3 Define conditions to work with non-conformance issues
+  - Exercise #4 Use non-conformance order to repair an item and a faulty machine
+  - Exercise #5 Run non-conformance reports
+  
+  After completing this module, students will be able to&#58;
+  - Configure and manage quality control and quality management
+  
+  
+  ### Module 6&#58; Implement master planning
+  This module will introduce you to the following topics&#58; 
+  
+  Differentiate between planning optimization and master planning  
+  Set up coverage groups and item coverage  
+  Configure master planning parameters, master plan, forecast plans, and continuity plans  
+  Differentiate between action messages, delay messages, time fences, and negative days  
+  Process and view planned orders  
+  Set up and use the Supply Schedule form  
+  Configure and process safety stock journals  
+  Set up and Implement inter-company master planning  
+  Implement demand-base forecasting  
+  Implement planning optimization  
+  #### Lessons
+  - Configure master planning and forecasting
+  - Run master plans and manage planned orders
+  - Implement additional master planning features
+  
+  #### Lab &#58; Case study 5 Master planning
+  - Exercise #1 Process and view planned orders
+  - Exercise #2 Create and run intercompany master plans
+  
+  After completing this module, students will be able to&#58;
+  - Implement master planning

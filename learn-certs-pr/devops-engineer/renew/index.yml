@@ -1,0 +1,27 @@
+### YamlMime:CertificationRenewal
+title: 'Renewal for Microsoft Certified: DevOps Engineer Expert'
+metadata:
+  title: 'Renewal for Microsoft Certified: DevOps Engineer Expert'
+  description: 'If you have this certification and it will expire within six months, you are eligible to renew.'
+uid: renewal.devops-engineer
+certificationUid: certification.devops-engineer
+assessmentId: a2d734be-49cd-42e6-966e-e7278821234c
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  If you have this certification and it will expire within six months, you are eligible to renew. Show that you have kept current with the latest Azure and GitHub updates by passing the renewal assessment. You can also prepare to renew with the curated collection of learning modules.
+skills:
+- Manage site reliability
+- Monitor and report on security events in Azure AD 
+- Build and deploy applications to Azure by using GitHub Actions
+- Automate GitHub by using GitHub Script 
+- Review planning and managing Azure costs 
+- Manage build dependencies with Azure Artifacts 
+- Host your own build agent in Azure Pipelines
+examsPassed:
+- az-400
+studyGuideDescription: 'Use this collection of learning modules to help you prepare for the Microsoft Certified: DevOps Engineer Expert renewal assessment.'
+resources:
+- title: About certification renewal
+  summary: Understand the process and requirements to renew your certifications online
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

@@ -1,0 +1,478 @@
+### YamlMime:Course
+title: 'Microsoft Dynamics 365: Finance and Operations Apps Solution Architect'
+metadata:
+  title: 'Course MB-700T00--A: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect'
+  description: 'Course MB-700T00--A: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect'
+uid: course.mb-700t00
+courseNumber: 'MB-700T00'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Understand the tasks expected to be completed by the solution architect for Dynamics implementation
+- skill: Complete the solution blueprint artifacts
+- skill: Know where to find technical information to address their customer’s questions
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- dynamics-365
+exams:
+- uid: exam.mb-700
+summary: |-
+  This course is developed for those aspired to be solution architect and also those who are new to this role. This course provides the technical information focusing on application architecture and technical skills to start their journey into this role. This course will not cover the industrial skills and delivery skills required for this role.
+
+  #### Audience Profile
+
+  The audience for this course should have previous experience with functional or technical focus in Dynamics 365: Finance and Operations Applications. Primarily for those who are aspired to be solution architect role.
+prerequisitesSection: |-
+  You must complete the following learning paths before attending this instructor led training :
+
+  [Architect solutions for Dynamics 365 and Power Platform - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/become-solution-architect/)&nbsp;3 hr 57 min
+
+  [Use Success by Design for Unified Operations apps solutions - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/use-success-design-unified-operations/)&nbsp;3 hr 30 min
+outlineSection: |-
+  ### Module 1: The architect role
+
+  This module will introduce you to the solution architect role. It will help you understand the major skills needed to perform on this role.
+
+  #### Lessons
+
+  *   The solution architect role
+
+  #### Lab : Classroom exercises
+
+  ####
+
+  *   Exercise | group exercise
+
+  *   Exercise | Individual exercise
+
+  After completing this module, the students should be able to
+
+  *   Refresh the knowledge obtained from the online content for solution architect
+
+  *   List the skills needed for a solution architect
+
+  ### Module 2: Manage interactions with FastTrack
+
+  This module will introduce to FastTrack and how to interact with them during Dynamics implementation.
+
+  #### Lessons
+
+  *   Get to know FastTrack
+
+  *   Make the most of FastTrack templates
+
+  After completing this module, the students should be able to
+
+  *   Identify the value proposition of FastTrack
+
+  *   Identify FastTrack engagement types and personnel roles
+
+  *   Describe FastTrack workshop scoping and inputs for each workshop
+
+  *   Make the most of solution blueprint template
+
+  *   Learn to complete go-live checklist
+
+  *   know how to become FastTrack recognized solution architect
+
+  ### Module 3: Solution blueprint
+
+  This module will help you give you an overview of solution blueprint in general. Also, this module serves as the foundation for the rest of modules as you will be doing several activities to build your very first solution blueprint during this class.
+
+  #### Lessons
+
+  *   Solution blueprint definition and components
+
+  *   Project governance and timeline
+
+  *   Solution architecture and organizational structure
+
+  *   Working with business process catalog
+
+  #### Lab : Classroom exercise
+
+  ####
+
+  #### Lab : Case study - student Activity
+
+  ####
+
+  *   Exercise | what is solution blueprint?
+
+  *   Exercise | solution blueprint components
+
+  *   Case study artifact distribution
+
+  *   Student activity 1 | Program Strategy
+
+  *   Student activity 2 | Program Strategy
+
+  *   Student activity 3 | describe overall solution architecture
+
+  *   Student activity | describe business&nbsp;processes in scope&nbsp;of the solution
+
+  After completing this module, the students should be able to
+
+  *   Understand solution blueprint definition
+
+  *   Describe solution blueprint purpose
+
+  *   Identify main solution blueprint components
+
+  *   Describe solution scope, goals and challenges
+
+  *   List implementation team members and project roles
+
+  *   Describe project timeline for implementation and rollouts
+
+  *   Describe change management, risks, and escalation path
+
+  *   Describe overall solution architecture
+
+  *   Describe organization
+
+  *   Provide details about the organization
+
+  *   Describe business processes in scope of the solution
+
+  *   Understand functional and non-functional requirements
+
+  *   Document product gaps and their solutions
+
+  ### Module 4: Define environments, tools, and deployment strategy
+
+  This module will explain to you the different environment and deployment options. It will allow empower you to define a basic environment strategy for Dynamics implementation.
+
+  #### Lessons
+
+  *   Understand environment planning
+
+  *   Application lifecycle management and deployment strategy
+
+  *   Using LCS and Azure DevOps
+
+  #### Lab : Student activity
+
+  ####
+
+  #### Lab : Exercise
+
+  ####
+
+  *   Exercise | adopt&nbsp;One version – continuous updates
+
+  *   Exercise | utilize Lifecycle services
+
+  *   Student activity | develop environment&nbsp;plan
+
+  After completing this module, the students should be able to
+
+  *   Describe general concepts for cloud deployments
+
+  *   Environment planning main concepts and types
+
+  *   Understand process of provisioning production and sandbox environments
+
+  *   Describe developing an environment plan
+
+  *   Understand development of the deployment strategy
+
+  *   Define application lifecycle management
+
+  *   ALM methodologies
+
+  *   Define a deployment strategy
+
+  *   Understand extensibility options
+
+  *   Learn about upgrade scenarios and tools
+
+  *   Adopt One version – continuous updates
+
+  *   Utilize Azure Devops
+
+  *   Utilize Lifecycle Services
+
+  *   Disaster recovery strategy
+
+  ### Module 5: Determine data management strategy
+
+  This module will empower you to understand the data related topics within Dynamics implementation. It will help you define data migration strategy.
+
+  #### Lessons
+
+  *   Data management overview
+
+  *   Develop data migration strategy
+
+  #### Lab : Classroom exercise
+
+  ####
+
+  #### Lab : Case study - student activity
+
+  ####
+
+  *   Exercise | data management overview
+
+  *   Exercise | develop data migration strategy
+
+  *   Student activity 4 | develop data migration strategy
+
+  After completing this module, the students should be able to
+
+  *   Describe data management overview
+
+  *   Understand data management framework
+
+  *   Utilize data task automation
+
+  *   Describe database movement operations
+
+  *   Utilize data sharing framework
+
+  *   Develop data migration strategy
+
+  *   Develop cutover plan
+
+  *   Develop data retention plan
+
+  ### Module 6: Determine integration and interfaces strategies
+
+  This module will cover the integration and interface topics. It should help you to understand the available options and tools to use. It will help you define your integration and interface strategy for Dynamics implementations.
+
+  #### Lessons
+
+  *   Develop integration strategy
+
+  *   Integration options
+
+  #### Lab : Case study - student activity
+
+  ####
+
+  #### Lab : Classroom exercises
+
+  ####
+
+  *   Exercise | develop integration strategy
+
+  *   Exercise | integration options
+
+  *   Student activity 5 | develop integration strategy
+
+  After completing this module, the students should be able to
+
+  *   Engage a customer in conversation about the benefits of engaging a FastTrack architect or team
+
+  *   Describe the benefits of having the project team compare and evaluate the functional requirements
+
+  *   Discuss and explain the different forms of architecture involved when creating a solution blueprint
+
+  ### Module 7: Define security architecture
+
+  This module will help you understand the important security aspects for Dynamics implementations.
+
+  #### Lessons
+
+  *   Important security aspects
+
+  *   Security framework
+
+  *   Define security strategy
+
+  #### Lab : Classroom exercises
+
+  ####
+
+  #### Lab : Case study - student activity
+
+  ####
+
+  *   Exercise | important security aspects
+
+  *   Exercise | security framework
+
+  *   Student activity 6 | develop security strategy
+
+  After completing this module, the students should be able to
+
+  *   Define cloud security
+
+  *   Describe main aspects of Azure datacenter security
+
+  *   understand authentication and authorization
+
+  *   understand compliance requirements
+
+  *   Understand encryption
+
+  ### Module 8: Define testing strategy
+
+  This module should help you define testing strategy and develop testing plan. It will interduce you to the various testing types and tools.
+
+  #### Lessons
+
+  *   Testing strategy overview
+
+  *   Testing planning and execution
+
+  #### Lab : Case study - student activity
+
+  ####
+
+  #### Lab : Classroom exercises
+
+  ####
+
+  *   Exercise | testing strategy overview
+
+  *   Exercise | testing planning and execution
+
+  *   Student activity 7 | develop testing strategy
+
+  After completing this module, the students should be able to
+
+  *   Understand testing scope
+
+  *   Solution testing lifecycle and defect management
+
+  *   Describe testing tools
+
+  *   Testing roles, responsibilities and test management
+
+  *   Perform test planning
+
+  *   Understand One version and adopt regression testing strategy
+
+  ### Module 9: Define performance testing strategy
+
+  This module will focus more on the performance topics. It will help you to know the importance of performance topic and will empower you to know how to address these topics with your customer.
+
+  #### Lessons
+
+  *   Prepare for performance topics
+
+  *   Utilize performance testing tools
+
+  #### Lab : Classroom exercises
+
+  ####
+
+  *   Exercise | prepare for performance topics&nbsp;
+
+  *   Exercise | utilize performance testing tools&nbsp;
+
+  After completing this module, the students should be able to
+
+  *   Define performance goals and scenarios
+
+  *   Define performance benchmarks and success criteria
+
+  *   Define performance testing strategy
+
+  *   Identify tools for performance testing
+
+  *   Identify tools for performance monitoring
+
+  ### Module 10: Business intelligence and reporting
+
+  This module will address the key topics for reporting and intelligence needed by the solution architect.
+
+  #### Lessons
+
+  *   Implement business intelligence and reporting
+
+  #### Lab : Classroom exercises
+
+  ####
+
+  #### Lab : Case study - student activity
+
+  ####
+
+  *   Exercise | reporting and business intelligence overview
+
+  *   Sudent activity 8 | develop intelligence strategy
+
+  After completing this module, the students should be able to
+
+  *   Outline reporting and analytics overview
+
+  *   Describe native reporting options
+
+  *   Describe business intelligence reporting options
+
+  *   Identify analytics reporting options
+
+  *   Develop reporting and analytics strategies
+
+  ### Module 11: Determine licensing and support
+
+  This module is designed to help you understand the basics of licensing and support. It not meant to make you an expert on this topic. However, it will enable you to know where to find the information when you need it.
+
+  #### Lessons
+
+  *   Understand licensing estimation
+
+  *   Understand support options
+
+  #### Lab : Classroom exercises
+
+  ####
+
+  *   Exercise | understand licensing estimation
+
+  *   Exercise | understand support options
+
+  After completing this module, the students should be able to
+
+  *   Estimate number of licenses
+
+  *   Stay compliant with user licensing requirements
+
+  *   Understand support options during and post implementations
+
+  *   Define support strategy
+
+  ### Module 12: Prepare for go-live
+
+  This module is to put everything together and prepare for go-live. It will help you get familiar with go-live checklist. This module also will recap major learnings from this class and you will be asked to give a class feedback.
+
+  #### Lessons
+
+  *   Complete solution blueprint
+
+  *   Prepare for go-live
+
+  *   Class recap
+
+  #### Lab : Classroom exercises
+
+  ####
+
+  *   Exercise | prepare for go-live
+
+  After completing this module, the students should be able to
+
+  *   Complete solution blueprint
+
+  *   Understand go-live readiness assessment process
+
+  *   Understand completing and submitting go-live checklist
+
+  *   Describe the process of provisioning production environment
+
+  *   Define cutover activities and go-live
+
+  *   Provide class feedback
+
+  #### Additional Reading
+
+  please complete the following learning path before attending this ILT: Architect solutions for Dynamics 365 and Power Platform - Learn | Microsoft Docs

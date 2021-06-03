@@ -1,0 +1,100 @@
+### YamlMime:Course
+title: Use quality management, Intercompany trading and master planning in Dynamics 365 for Finance and Operations
+metadata:
+  title: 'Course MB-330T02-A: Use quality management, Intercompany trading and master planning in Dynamics 365 for Finance and Operations'
+  description: 'Course MB-330T02-A: Use quality management, Intercompany trading and master planning in Dynamics 365 for Finance and Operations'
+uid: course.mb-330t02
+courseNumber: 'MB-330T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-330
+summary: |-
+  Organizations use Dynamics 365 for Finance and Operations to automate and streamline their supply chain by modernizing business logistics, delivering timely customer response, getting ahead with predictive insights, streamlining procurement, and unifying processes from sales to fulfillment. This course discusses how to use quality management, intercompany trading, and master planning in Dynamics 365 for Finance and Operations.
+
+  #### Audience profile
+  A Dynamics 365 for Finance and Operations Functional Consultant is responsible for performing discovery, capturing requirements, engaging subject matter experts and stakeholders, translating requirements, and configuring the solution and applications. The Functional Consultant implements a solution using out-of-the-box capabilities, codeless extensibility, application, and service integrations.
+prerequisitesSection: |-
+  Basic understanding of ERP and CRM concepts.
+outlineSection: |-
+  ### Module  1&#58; Configure and Use Quality Control and Management Processes
+  In this module, we describe how to configure and use quality control in Finance and Operations, how to use quality control functionality, how to define and maintain nonconformances, and how to handle corrections. But let’s first get familiar with the quality management overall processes.
+  #### Lessons
+  - Introduction
+  - Perform quality control and management processes
+  - Apply inventory blocking
+  - Perform quarantine management
+  - Practice labs
+  - Module summary
+
+
+  In this module students learned to&#58;
+  - Perform Quality Control and Quality Management Processes
+  - Apply inventory blocking
+  - Perform quarantine management
+
+
+  ### Module  2&#58; Configure and Use Intercompany Trade Relations
+  The Intercompany functionality in Dynamics 365 for Finance and Operations provides a mechanism for the consolidation of static and dynamic data from multiple companies as separate legal entities in a single database. Intercompany Trade enables globally dispersed manufacturing sites, distribution centers, and sales subsidiaries to act as one unified organization. This topic explains how to configure and use the intercompany trade relations and process intercompany orders in Finance and Operations.
+  #### Lessons
+  - Introduction
+  - Understand intercompany trading
+  - Setup intercompany trade relations
+  - Process intercompany chain orders
+  - Setup intercompany agreements and direct deliveries
+  - Practice labs
+  - Module summary
+
+
+  In this module students learned how to&#58;
+  - Configure products for Intercompany trade relations
+  - Configure intercompany trade relationships
+  - Configure intercompany agreements
+  - Process Intercompany orders
+  - Process Intercompany direct deliveries
+  - Process Intercompany charges
+  - Understand Intercompany Return Order Chain
+
+
+  ### Module  3&#58; Configure and Use Master Planning
+  This topic explains how to configure and use the master planning in Finance and Operations.
+  #### Lessons
+  - Introduction
+  - Master planning considerations and setup
+  - Create master plans
+  - Learn about demand and supply forecasts
+  - Configure item coverage
+  - Brief introduction to intercompany planning
+  - Run plans and firm planned orders
+  - Practice labs
+  - Module summary
+
+
+  In this module students learned how to&#58;
+  - Define master planning Policies
+  - Learn about Demand and Supply Forecasts
+  - Configure calculated delays
+  - Configure Item coverage
+  - Understand brief introduction to intercompany master planning
+  - Run plans and firm planned orders
+
+
+  ### Module  4&#58; Course Conclusion
+  Final assessment and course summary, as well as a post-course survey for the course.
+  #### Lessons
+  - Final assessment
+  - Course summary
+  - Post-course survey
+
+
+  Students will have completed the course.

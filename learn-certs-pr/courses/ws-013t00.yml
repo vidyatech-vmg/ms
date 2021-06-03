@@ -1,0 +1,138 @@
+### YamlMime:Course
+title: Azure Stack HCI
+metadata:
+  title: 'Course WS-013T00-A: Azure Stack HCI'
+  description: 'Course WS-013T00-A: Azure Stack HCI'
+uid: course.ws-013t00
+courseNumber: 'WS-013T00-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Describe the Azure Stack portfolio, including Azure Stack HCI, Azure Stack Hub, and Azure Stack Edge
+- skill: Describe the Azure Stack HCI core technologies and management tools.
+- skill: Describe the process of a typical Azure Stack HCI implementation.
+- skill: Identify Azure Stack HCI hybrid capabilities.
+- skill: Implement, manage, and maintain workloads on Azure Stack HCI.
+- skill: Plan for and implement Azure Stack HCI Storage, including Storage QoS and Storage Replica.
+- skill: Plan for Azure Stack HCI Networking.
+- skill: Implement Software Defined Networks in Azure Stack HCI.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- windows-server
+summary: |-
+  This three-day course is intended primarily for IT Professionals who already have significant experience with managing an on-premises Windows Server environment. Its purpose is to cover advanced topics related to Windows Server software-defined datacenter, Azure Stack HCI, and other Azure Stack products. The course also describes the use of existing Microsoft System Center products to implement and manage software-defined datacenters with Windows Server 2019. This course is advanced and is designed for people that want to run their virtual workloads on Windows Server 2019 at medium-to-large scale using software-defined datacenter and hyper-converged principles.
+
+  #### Audience profile
+  This course is for IT professionals who manage on-premises Windows Server environments and want to use Azure to manage server workloads and run their virtual workloads on Windows Server 2019. They also want to use existing Microsoft System Center products to implement and manage software-defined datacenters with Windows Server 2019.
+prerequisitesSection: |-
+  - Intermediate experience with managing Windows Server operating systems and Windows Server virtualized workloads in on-premises scenarios
+  - Intermediate experience with common Windows Server management tools (implied by the first prerequisite)
+  - Intermediate knowledge of core Microsoft compute, storage, networking, and virtualization technologies
+  - Intermediate knowledge of Windows Server–based compute and storage high-availability technologies
+  - Basic experience with implementing and managing Infrastructure as a service (IaaS) services in Microsoft Azure
+  - Basic knowledge of Azure Active Directory (Azure AD)
+  - Intermediate knowledge of Microsoft virtualization security-related technologies
+  - Intermediate knowledge of PowerShell scripting and PowerShell Desired State Configuration (DSC)
+outlineSection: |-
+  ### Module 1&#58; Introducing Azure Stack HCI
+  This module describes the basic characteristics of Azure Stack HCI, along with its peer offerings that are part of the Azure Stack portfolio, including Azure Stack Hub and Azure Stack Edge. The module also presents an overview of the Azure Stack HCI core technologies and management tools, and a high-level walkthrough of a typical implementation process. Finally, the modules concludes with a summary of Azure Stack HCI hybrid capabilities, most of which are covered in detail in Module 4.
+  #### Lessons
+  - Overview of Azure Stack HCI
+  - Overview of Azure Stack HCI technologies
+  - Overview of Azure Stack HCI management tools
+  - Overview of the Azure Stack HCI hybrid capabilities
+
+  After completing this module, students will be able to&#58;
+  - Describe basic capabilities and use cases of the Microsoft Azure Stack portfolio.
+  - Identify the core components of the Azure Stack HCI architecture.
+  - Identify common management tools used to deploy and manage a hyperconverged infrastructure.
+  - Describe the purpose and capabilities of Azure Arc.
+  - Identify Azure infrastructure services that you can integrate into your on-premises environment.
+  - Configure cloud witness as the quorum witness type.
+  - Describe how to establish a Point-to-Site VPN to an Azure virtual network with Azure Network Adapter
+  - Describe the characteristics and use cases for Azure File Sync and Azure Monitor.
+  - Explain now to maintain business continuity, using Azure Backup and Azure Site Recovery.
+  - Describe Azure Update Management use cases and architecture.
+  - Describe the high level process for provisioning an Azure Stack HCI implementation.
+  
+  
+  ### Module 2&#58; Operating and maintaining Azure Stack HCI
+  This module describes how to implement, manage, and maintain workloads on Azure Stack HCI. As described in the first module, Azure Stack HCI is designed to optimize performance, resiliency, and scalability of specific types of workloads. Implementing these workloads follows the initial configuration, which involves provisioning virtualized storage and networking layers on top of the hardware approved by Microsoft that is running the Windows Server 2019 operating system. This module provides an overview of different Azure services and Windows Server functionality that can be used to manage and maintain those workloads, leveraging integration of Windows Server 2019 with Azure.
+  #### Lessons
+  - Implementing and managing workloads on Azure Stack HCI
+  - Maintaining Azure Stack HCI
+  
+  #### Lab &#58; Lab B&#58; Using Windows Admin Center in hybrid scenarios
+  - Integrating hyperconverged infrastructure with Azure services
+  - Reviewing Azure integration functionality
+  - Managing updates to hyperconverged infrastructure
+  
+  After completing this module, students will be able to&#58;
+  - Implement shared clustering with shared disks.
+  - Describe components required to deploy shielded VMs.
+  - Implement Virtual Desktop Infrastructure (VDI) workloads.
+  - Host container-based deployments in Azure Stack HCI.
+  - Create a Point-to-Site (P2S) VPN connection to an Azure virtual network, with Azure Network Adapter.
+  - Describe Azure File Sync architecture.
+  - Implement Azure File Sync to replicate files between on-premises and an Azure file share.
+  - Manage Azure Stack HCI workloads with Azure Arc.
+  
+  
+  ### Module 3&#58; Planning for and implementing Azure Stack HCI storage
+  This module describes how to plan for and implement Azure Stack HCI Storage. The module covers the core HCI storage technologies in detail and includes specific coverage of Storage QoS and Storage Replica (in the context of Azure Stack HCI). The module describes the process of planning, implementation and management of Azure Stack HCI storage.
+  #### Lessons
+  - Overview of Azure Stack HCI Storage core technologies
+  - Planning for Storage Spaces Direct in Azure Stack HCI
+  - Implementing a Storage Spaces Direct-based hyper-converged infrastructure
+  - Managing Storage Spaces Direct in Azure Stack HCI
+  - Planning for and implementing Storage QoS
+  - Planning for and implementing Storage Replica
+  
+  #### Lab &#58; Implementing a Storage Spaces Direct cluster
+  - Implementing an Storage Spaced Direct cluster by using Windows PowerShell
+  - Managing of a Storage Spaces Direct cluster by using Windows Admin Center and Windows PowerShell
+  - Managing and monitoring resiliency of a Storage Spaces Direct cluster
+  - Managing Storage Spaces Direct cluster tiers
+  - Identifying and analyzing metadata of a Storage Spaces Direct cluster (optional)
+  
+  After completing this module, students will be able to&#58;
+  - Describe Azure Stack HCI storage core technologies.
+  - Plan for Storage Spaces Direct in Azure Stack HCI.
+  - Implement Storage Spaces Direct-based Hyper-Converged Infrastructure.
+  - Manage Storage Spaces Direct in Azure Stack HCI.
+  - Plan for and implement Storage QoS.
+  - Plan for and implement Storage Replica.
+  
+  
+  ### Module 4&#58; Planning for and implementing Azure Stack HCI networking
+  This module describes how to plan for and implement Software Defined Networking in Azure Stack HCI. The module focuses on the technology and its basic functionality, with emphasis on Windows Admin Center as the primary SDN management tool. The module also covers in more detail four specific components of SDN available in Azure Stack HCI; Switch Embedded Teaming (SET), Software Load Balancing (SLB), Datacenter Firewall, and RAS Gateways.
+  #### Lessons
+  - Overview of Azure Stack HCI core networking technologies
+  - Overview of network virtualization and Software-Defined Networking
+  - Planning for and implementing Switch Embedded Teaming
+  - Planning for and implementing Datacenter Firewall
+  - Planning for and implementing Software Load Balancing
+  - Planning for and implementing RAS Gateways
+
+  #### Lab &#58; Lab A&#58; Deploying Software-Defined Networking
+  - Deploying Software-Defined Networking by using PowerShell
+  - Managing virtual networks by using Windows Admin Center and PowerShell
+  - Implementing SDN Access Control List by using Windows Admin Center
+  - Implementing SDN Software Load Balancing by using Windos Admin Center and Windows PowerShell
+  
+  After completing this module, students will be able to&#58;
+  - Describe the core Software-Defined Networking (SDN) components of Azure Stack HCI.
+  - Distinguish between software-only and hardware-only features, in the context of Azure Stack HCI.
+  - Describe the use case for Simplified SMB Multichannel and Multi-NIC Cluster Networks.
+  - Describe network virtualization in the context of Azure Stack HCI.
+  - Describe the process of deploying SDN in Azure Stack HCI.
+  - Plan for and implement SET.
+  - Describe SLB functionality and infrastructure and implement SLB.
+  - Implement and configure Datacenter Firewall.
+  - Implement, configure, and troubleshoot RAS Gateway.

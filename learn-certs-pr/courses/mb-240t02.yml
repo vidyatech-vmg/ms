@@ -1,0 +1,64 @@
+### YamlMime:Course
+title: Work order and delivery execution for Dynamics 365 for Field Service
+metadata:
+  title: 'Course MB-240T02-A: Work order and delivery execution for Dynamics 365 for Field Service'
+  description: 'Course MB-240T02-A: Work order and delivery execution for Dynamics 365 for Field Service'
+uid: course.mb-240t02
+courseNumber: 'MB-240T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Identify the key areas involved in a work order lifecycle.
+- skill: Generate agreements that can be used to automatically create work orders.
+- skill: Leverage the inventory management capabilities of Dynamics 365 for Field Service.
+- skill: Create and work Purchase Orders through their lifecycle.
+- skill: Deploy and Configure the Field Service Mobile Application.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-field-service
+exams:
+- uid: exam.mb-240
+summary: |-
+  Many organizations rely on mobile work forces to deliver their products and services to their customers. Dynamics 365 for Field Service helps organizations better position themselves in the market by providing a variety of tools that assist in efficiently identifying and scheduling resources, as well as assisting in managing workloads for mobile workers. 
+
+  This course will equip students with the skills necessary to execute, identify, and configure the key components that are used to deliver Field Service and mobile solutions. Key topics include identifying what a typical work order lifecycle looks like, as well as the organizational considerations that will drive configuration decisions. Additionally, this course will focus on components that are commonly used in relation to work orders including agreements, inventory components, purchasing, and mobility strategies.     
+
+  This course helps students better understand the bigger picture and end goals focused around work order delivery and execution that aid in designing more efficient solutions that align with customer and organizational goals.
+
+prerequisitesSection: |-
+  Basic understanding of Dynamics 365 features, functionality, and navigation.
+outlineSection: |-
+  ### Module  1&#58; Field Service Work Orders
+  #### Lessons
+  - Configure field service work orders
+  - Creating work orders
+  - Managing work orders
+
+
+  ### Module  2&#58; Field Service Agreements
+  #### Lessons
+  - Using field service agreements
+  - Set up bookings
+  - Set up invoices
+
+
+  ### Module  3&#58; Inventory and Purchasing
+  #### Lessons
+  - Manage customer assets
+  - Manage inventory
+  - Purchasing and returns
+
+
+  ### Module  4&#58; Field Service Mobile
+  #### Lessons
+  - Field Service Mobile Application overview
+  - Install and deploy Field Service Mobile Projects
+  - Manage Mobile Projects
+  - Deploy the Mobile client

@@ -1,0 +1,231 @@
+### YamlMime:Course
+title: Configure and use budgeting, fixed assets, and additional functionality in Finance and Operations
+metadata:
+  title: 'Course MB-310T03-A: Configure and use budgeting, fixed assets, and additional functionality in Finance and Operations'
+  description: 'Course MB-310T03-A: Configure and use budgeting, fixed assets, and additional functionality in Finance and Operations'
+uid: course.mb-310t03
+courseNumber: 'MB-310T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-finance
+exams:
+- uid: exam.mb-310
+summary: |-
+  Organizations use Dynamics 365 for Finance and Operations to elevate their financial performance by increasing profitability, optimizing workforce productivity, reducing operational expenses, adapting quickly to requirement changes, and streamlining asset management. This course discusses how to configure and use budgeting, fixed assets, and additional functionality in Dynamics 365 for Finance and Operations.
+
+  #### Audience profile
+  A Dynamics 365 for Finance and Operations Functional Consultant is responsible for performing discovery, capturing requirements, engaging subject matter experts and stakeholders, translating requirements, and configuring the solution and applications. The Functional Consultant implements a solution using out of the box capabilities, codeless extensibility, application, and service integrations.
+prerequisitesSection: |-
+  Basic understanding of ERP and CRM concepts.
+outlineSection: |-
+  ### Module  1&#58; Configure Post-Dated Checks
+  Post-dated checks are checks that are issued to make and receive payments on a future date. Therefore, the check can't be cashed until the specified date. Microsoft Dynamics 365 for Finance and Operations supports the full management cycle for post-dated checks in both Accounts receivable and Accounts payable. This topic explains how to set up and process post-dated checks.
+
+  #### Lessons
+  - Introduction
+  - Manage post dated checks
+  - Practice Labs
+  - Module Summary
+  
+
+  In this module, students learned how to&#58;
+  - Process post-dated checks
+  - Set up post-dated checks
+  - Register and post a post-dated check for a customer
+  - Settle a post-dated check from a customer
+  - Register and post a post-dated check for a vendor
+  - Settle a post-dated check for a vendor
+
+
+  ### Module  2&#58; Configure and Use Basic Budgeting and Budget Control Processes
+  Every organization, whether it is private or public, sets financial and operational goals by creating budgets. When the budget is established, management monitors the activities within the budget framework. This module provides information about the how to configure and use basic budgeting and budget control.
+  #### Lessons
+  - Introduction
+  - Configure basic budgeting components
+  - Configure budget control components
+  - Create and test budget registry entries
+  - Use inquiries and reports
+  - Practice Labs
+  - Module summary
+  
+
+  In this module, students learned how to&#58;
+  - Configure basic budgeting components
+  - Configure budget control components
+  - Use inquires and reports
+  - Create and use budget registry entries
+
+
+  ### Module  3&#58; Configure and Use Budget Planning Processes
+  With budget planning functionality one can consolidate multiple budget plans from a lower level into a single parent budget plan at a higher level in the organization. This is called bottom up approach budget planning which allows a budget planner to aggregate other plans into a high level or corporate plan for budgeting. One can also take the top down approach, which requires developing a single budget plan at a higher level of the organization and allocating the budget to lower levels of the organization. Use this method when historical financial transactions of the company are relied upon, and create a centralized plan which can be allocated throughout different operating units defined by an organization hierarchy with budget planning purpose. The budget planner, as a final step of the budget planning, generates the budget register entry based on the budget plan. An organization can configure budget planning, and then set up budget planning collaborative processes to meet its policies, procedures, and requirements for budget preparation. This module explains how to configure and test Budget planning processes.
+
+  #### Lessons
+  - Introduction
+  - Configure budget planning components
+  - Practice Lab
+  - Module summary
+  
+
+  In this module, students learned how to&#58;
+  - Configure Budget planning components
+  - Create a budget plan template
+  - Configure budgeting processes
+  - Create a budget plan by using the budget plan wizard
+
+
+  ### Module  4&#58; Configure Fixed Assets Management
+  This module starts with explaining fixed assets concepts and then shows students how to configure and use the Fixed assets module in Dynamics 365 for Finance and Operations.
+
+  #### Lessons
+  - Introduction
+  - Configure fixed asset components
+  - Enable fixed asset integration
+  - Create fixed assets
+  - Practice labs
+  - Module summary
+  
+
+  In this module, students learned how to&#58;
+  - Configure fixed assets components
+  - Configure fixed asset parameters
+  - Enable fixed asset integration with purchasing
+  - Create fixed assets
+
+
+  ### Module  5&#58; Manage Fixed Assets
+  To record fixed asset transactions using journals, one must create at least one journal name using the journal type Post fixed assets in the setup of the General ledger module. If budgets for fixed assets are required, one must also create a journal name that uses the journal type Fixed asset budget. This module explains how to process and manage fixed assets.
+
+  #### Lessons
+  - Introduction
+  - Perform fixed assets tasks
+  - Practice labs
+  - Module summary
+  
+
+  In this module, students learned how to&#58;
+  - Perform fixed asset acquisition
+  - Perform fixed asset depreciation
+  - Perform fixed asset disposal
+
+
+  ### Module  6&#58; Configure and Use Cost Accounting
+  Cost accounting lets you collect data from various sources, such as the general ledger, sub-ledgers, budgets, and statistical information. One can then analyze, summarize, and evaluate cost data, so that management can make the best possible decisions for price updates, budgets, cost control, and so on. The source data that is used for cost analysis is treated independently in Cost accounting. Therefore, updates in Cost accounting don’t affect the source data.
+
+  #### Lessons
+  - Introduction
+  - Cost control workspace
+  - Practice lab
+  - Module summary
+  
+
+  In this module, students learned about&#58;
+  - Cost control workspace
+  - How to create a cost accounting report by using the Cost accounting Get started wizard
+
+
+  ### Module  7&#58; Configure and Use Periodic Processes
+  In General ledger, closing procedures can be completed for a period or a year. Closing processes prepare the system for a new period. There are many tasks such as preparing filings, inventory closing, consolidation, and many more needs to be completed first. To prepare the system for a new year, the year-end close process must be run. Each organization has different processes and steps that it performs for the end of a period.
+  #### Lessons
+  - Introduction
+  - Bank reconciliations
+  - Configure financial period close
+  - Prepare periodic filings
+  - Run foreign currency revaluation processes
+  - Perform financial consolidations
+  - Process end of year close
+  - Practice Labs
+  - Module summary
+  
+
+  In this module, students learned how to&#58;
+  - Configure financial period close
+  - Reconcile banks
+  - Perform periodic closing, and year closing processes
+  - Prepare periodic filings
+  - Configure and test Vendor 1099s process
+  - Run foreign currency revaluation processes
+  - Perform financial consolidation and elimination processes
+  - Use Financial reports to create financial statements
+  - Process end of year tax reporting
+
+
+  ### Module  8&#58; Configure the Electronic Reporting Framework
+  Generic Electronic Reporting (GER) or simply Electronic Reporting (ER) is a configurable tool for regulatory reporting, payments, and electronic invoicing. The ER engine is targeted at business users instead of developers. Because formats are configured instead of code, the processes for creating and adjusting formats for electronic documents are faster and easier. ER currently supports the TEXT, XML, PDF, Microsoft Word document, and OPENXML worksheet formats. However, an extension interface provides support for additional formats.
+
+  #### Lessons
+  - Introduction
+  - Configure electronic reporting
+  - Formula designer in electronic reporting
+  - Practice Lab
+  - Module summary
+  
+
+  In this module, students learned how to&#58;
+  - Configure ER
+  - Create ER configurations
+  - Perform periodic closing, and year closing processes
+  - Formula designer in ER
+
+
+  ### Module  9&#58; Configure Localized Features
+  Dynamics 365 for Finance and Operations includes functionality for the countries and regions documented in the Product localization and translation availability guide. This module explains how to configure some examples of regional features in Finance and Operations. Please read the information on the Localization and regulatory features  page to stay updated with the regional functionality of Finance and Operations for all countries/regions.
+  #### Lessons
+  - Introduction
+  - Localization and regulatory features
+  - Classification of Mexican localization features
+  - Understand the global tax engine
+  - Understand the features of fiscal establishments and documents for Brazilian localization
+  - Bill of Exchange
+  - Electronic Invoices
+  - Practice Labs
+  - Module summary
+  
+
+  In this module, students learned about&#58;
+  - Localization and regulatory features
+  - Classification of localization features
+  - How to apply country and region context
+  - How to configure and demonstrate the features of Fiscal Establishments, and Fiscal Documents for a Brazilian localization
+  - Test Bill of Exchange process
+  - Configure and use Promissory notes
+  - Configure and test Electronic invoices (CFDI) for a Mexican localization
+
+
+  ### Module  10&#58; Configure Financial Management for Public Sector
+  The Public Sector, also referred to as the state and local sector, is predominantly a services industry managing the welfare of its citizens. The Public Sector industry includes organizations in the fields of municipalities, education, healthcare, public safety, public works and infrastructure, national defense, taxation, and various social programs.
+  #### Lessons
+  - Introduction
+  - Setup funds for the public sector
+  - Setup derived financial hierarchies
+  - Configure billing codes for free text invoices
+  - Practice Labs
+  - Module summary
+  
+
+  In this module, students learned&#58;
+  - Set up funds for the Public Sector
+  - Understand bank reconciliation methods
+  - Set up derived dimensions
+  - Set up derived financial hierarchies for the Public Sector
+  - Advanced ledger entries functionality for Public Sector
+  - Configure billing codes for free text invoices
+
+
+  ### Module  11&#58; Course Conclusion
+  Final assessment and course summary, as well as a post-course survey for the course.
+  #### Lessons
+  - Final assessment
+  - Course summary
+  - Post-course survey
+  
+
+  Students will have completed the course.

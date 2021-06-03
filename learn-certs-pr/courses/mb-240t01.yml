@@ -1,0 +1,61 @@
+### YamlMime:Course
+title: Configuring Dynamics 365 Field Service
+metadata:
+  title: 'Course MB-240T01-A: Configuring Dynamics 365 Field Service'
+  description: 'Course MB-240T01-A: Configuring Dynamics 365 Field Service'
+uid: course.mb-240t01
+courseNumber: 'MB-240T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Identify the key components involved in Field Service Implementations.
+- skill: Define the products and services that will be delivered to customers.
+- skill: Determine which pricing options to use in specific scenarios.
+- skill: Determine which resources are required.
+- skill: Configure the system to support resource needs.
+- skill: Define commonly reported issues and template them for easier consumption.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-field-service
+exams:
+- uid: exam.mb-240
+summary: |-
+  Dynamics 365 for Field Service helps organizations better position themselves in the market by providing a variety of tools that assist in identifying and scheduling resources and managing workloads for mobile workers. This course will equip students with the skills necessary to identify and configure the key components that are used to deliver Field Service and mobile solutions. Key topics include identifying the organizational considerations that will drive configuration decisions and common configuration aspects. 
+
+  This course helps students better understand the bigger picture and end goals focused around implementations that aid in designing more efficient solutions that align with customer and organizational goals.
+
+prerequisitesSection: |-
+  Basic understanding of Dynamics 365 features, functionality, and navigation.
+outlineSection: |-
+  ### Module  1&#58; Configure Field Service
+  #### Lessons
+  - Introduction to field service
+  - Defining products and services
+  - Defining tax codes
+
+
+  ### Module  2&#58; Resource scheduling configuration
+  #### Lessons
+  - Mapping and location information
+  - Configuring resource components
+  - Defining account preferences
+
+
+  ### Module  3&#58; Defining and configuring bookable resources
+  #### Lessons
+  - Defining bookable resources
+  - Resource pools, crews, and facilities
+
+
+  ### Module  4&#58; Working with and configuring incidents
+  #### Lessons
+  - Creating incidents
+  - Using service tasks
+  - Defining products, services, and skills

@@ -1,0 +1,92 @@
+### YamlMime:Course
+title: 'Dynamics 365: Power Platform test and deploy'
+metadata:
+  title: 'Course MB-200T04-A: Dynamics 365: Power Platform test and deploy'
+  description: 'Course MB-200T04-A: Dynamics 365: Power Platform test and deploy'
+uid: course.mb-200t04
+courseNumber: 'MB-200T04-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Enable and update first-party applications.
+- skill: Install third-party applications.
+- skill: Configure managed and unmanaged solutions.
+- skill: Update and patch solutions.
+- skill: Distribute solutions.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-sales
+- dynamics-marketing
+- dynamics-field-service
+- dynamics-customer-service
+exams:
+- uid: exam.mb-200
+summary: |-
+  The Microsoft Power Platform helps organizations optimize their operations by automating routine tasks and standardizing best practices. This training provides a high-level overview of the capabilities of Microsoft Dynamics 365 and the Power Platform and provides a foundation for other Microsoft Dynamics 365 and Power Platform training offerings.
+
+  In this course, our globally recognized experts guide students through the managing solutions and their deployment.
+
+  #### Audience profile
+  A Dynamics 365 Customer Engagement Functional Consultant is responsible for performing discovery, capturing requirements, engaging subject matter experts and stakeholders, translating requirements, and configuring the solution and applications. The Functional Consultant implements a solution using out-of-the-box capabilities, codeless extensibility, application, and service integrations.
+prerequisitesSection: |-
+  Familiarity of business applications and the desire to customize and implement them for business.
+outlineSection: |-
+  ### Module  1&#58; Manage Instances and Applications
+  In this module students  will learn how to enable and update first-party applications, install third-party apps, and configure using admin portals.
+  #### Lessons
+  - Overview
+  - Manage applications
+  - Module summary
+
+  After completing this module, students will be able to&#58;
+  - Enable and update first-party apps
+  - Install third-party apps
+
+
+  ### Module  2&#58; Manage Solutions
+  In this module students  will learn how to create, manage, and deploy solutions.
+  #### Lessons
+  - Solution concepts
+  - Planning and creating solutions
+  - Working with solution components
+  - Distributing solutions
+  - Working with managed solutions
+  - Module summary
+
+  After completing this module, students will be able to&#58;
+  - Create, manage, and deploy customizations with solutions
+
+
+  ### Module  3&#58; Additional Deployment Considerations
+  In this module students  will learn how to configure for mobile and deploy components such as Microsoft Flow.
+  #### Lessons
+  - Configure
+  - Mobile configuration settings
+  - Mobile configuration
+  - Module summary
+
+  After completing this module, students will be able to&#58;
+  - Configure for mobile
+  - Deploy components
+
+
+  ### Module  4&#58; Documentation and Testing
+  In this module students will learn how to design test plans and perform performance tuning.
+  #### Lessons
+  - Creating test plans
+  - User interface testing
+  - Performance optimization and tuning
+  - Documentation
+  - Engage with the customer
+  - Module summary
+
+  After completing this module, students will be able to&#58;
+  - Create and use test plans
+  - Locate performance tuning tools

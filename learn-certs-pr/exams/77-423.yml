@@ -1,0 +1,53 @@
+### YamlMime:Examination
+title: Microsoft Outlook 2013
+metadata:
+  title: 'Exam 77-423: Microsoft Outlook 2013'
+  description: 'Exam 77-423: Microsoft Outlook 2013'
+uid: exam.77-423
+displayName: 77-423
+summary: |-
+  Candidates for the Microsoft Office Specialist (MOS) Outlook 2013 exam can format email message content by using character and paragraph formatting, create or insert graphic elements, such as charts, tables, and SmartArt graphics, into messages. They can also send messages to private recipients by using the Bcc field. Candidates are able to create contact records, tasks, and appointments from incoming messages, and they set up contact groups to facilitate communication with other Outlook users.
+subTitle: Candidates for the Microsoft Office Specialist (MOS) Outlook 2013 exam can format email message content by using character and paragraph formatting, create or insert graphic elements, such as charts, tables, and SmartArt graphics, into messages.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiMb
+scheduleExamUrl: https://www.certiport.com/locator
+locales:
+- en
+- zh-tw
+- de
+- es
+- ja
+- ko
+- nb
+- nl
+- ar-sa
+- el-gr
+levels:
+- beginner
+skills:
+- Manage the Outlook environment (25-30%)
+- Manage messages (25-30%)
+- Manage schedules (30-35%)
+- Manage contacts and groups (15-20%)
+roles:
+- business-user
+products:
+- office-outlook
+relatedCertifications:
+- related:
+    uid: certification.mos-outlook-2013
+- related:
+    uid: certification.microsoft-office-specialist-master-certification-2013
+resources:
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: ../certification-exam-policies.md

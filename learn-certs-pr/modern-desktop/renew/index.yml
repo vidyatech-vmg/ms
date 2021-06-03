@@ -1,0 +1,29 @@
+### YamlMime:CertificationRenewal
+title: 'Renewal for Microsoft 365 Certified: Modern Desktop Administrator Associate'
+metadata:
+  title: 'Renewal for Microsoft 365 Certified: Modern Desktop Administrator Associate'
+  description: 'If you have this certification and it will expire within six months, you are eligible to renew.'
+uid: renewal.m365-modern-desktop
+certificationUid: certification.modern-desktop
+assessmentId: 8602eec7-4017-456f-a878-62fe16630114
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  If you have this certification and it will expire within six months, you are eligible to renew. Show that you have kept current with the latest Microsoft 365 updates by passing the renewal assessment. You can also prepare to renew with the curated collection of learning modules.
+skills:
+- Automate Windows deployments by using Windows Autopilot
+- Simplify device management with Microsoft Endpoint Manager 
+- Get more done and stay secure with Windows 10
+- Move to a modern desktop with Microsoft 365
+- Manage devices by using Microsoft Intune
+- Manage Windows 10 through co-management by using System Center Configuration Manager
+- Simplify device management with Microsoft Endpoint Manager 
+- Deploy, upgrade, and migrate to Windows 10
+- Manage applications by using Microsoft Intune
+examsPassed:
+- md-100, md-101
+studyGuideDescription: 'Use this collection of learning modules to help you prepare for the Microsoft 365 Certified: Modern Desktop Administrator Associate renewal assessment.'
+resources:
+- title: About certification renewal
+  summary: Understand the process and requirements to renew your certifications online
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

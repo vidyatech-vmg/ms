@@ -1,0 +1,47 @@
+### YamlMime:Examination
+title: Implementing Microsoft Azure Cosmos DB Solutions
+metadata:
+  title: 'Exam 70-777: Implementing Microsoft Azure Cosmos DB Solutions'
+  description: 'Exam 70-777: Implementing Microsoft Azure Cosmos DB Solutions'
+uid: exam.70-777
+displayName: 70-777
+summary: |-
+  <div><strong>This exam retired on January 31, 2021. For currently available options, please refer to the <a href='/learn/certifications/browse/?resource_type=examination'>Browse Certifications and Exams page</a>.<br/><br/></strong></div>
+  
+  Candidates for this exam are developers and architects who leverage Azure Cosmos DB. Candidates should understand fundamental concepts of partitioning, replication, and resource governance for building and configuring scalable applications that are agnostic of a Cosmos DB API. Candidates should also have basic working knowledge of the Cosmos DB SQL API.
+
+  Candidates for this exam design, build, and troubleshoot Cosmos DB solutions that meet business and technical requirements.
+subTitle: Candidates for this exam are developers and architects who leverage Azure Cosmos DB. Candidates should understand fundamental concepts of partitioning, replication, and resource governance for building and configuring scalable applications that are agnostic of a Cosmos DB API. Candidates should also have basic working knowledge of the Cosmos DB SQL API.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjS
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Partition and Model Data
+- Replicate Data Across the World
+- Tune and Debug Azure Cosmos DB Solutions
+- Perform Integration and Develop Solutions
+roles:
+- data-analyst
+products:
+- sql-server
+courses:
+- uid: course.20777
+relatedCertifications:
+- related:
+    uid: certification.mcse-data-management-analytics
+resources:
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: ../certification-exam-policies.md

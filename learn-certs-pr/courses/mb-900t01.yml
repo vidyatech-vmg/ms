@@ -1,0 +1,65 @@
+### YamlMime:Course
+title: Dynamics 365 fundamentals
+metadata:
+  title: 'Course MB-900T01-A: Dynamics 365 fundamentals'
+  description: 'Course MB-900T01-A: Dynamics 365 fundamentals'
+uid: course.mb-900t01
+courseNumber: 'MB-900T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Identify the key functionalities and modules of Dynamics 365
+- skill: Describe cloud concepts
+- skill: Describe the Dynamics 365 security model
+- skill: Explain licensing and deployment considerations
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- functional-consultant
+products:
+- dynamics-365
+exams:
+- uid: exam.mb-900
+summary: |-
+  Dynamics 365 is a multi-faceted tool for customer engagement, unified operations, marketing, retail and talent management. This course will familiarize the learner with Dynamics 365 functionality and business value. The course will cover Dynamics 365 applications, the Power Platform, cloud concepts, the security model, and licensing considerations.
+
+prerequisitesSection: |-
+  A basic understanding of IT principles and an interest in Dynamics 365.
+outlineSection: |-
+  ### Module  1&#58; Introduction to Business Applications
+  In this module, all Business Application modules and functionalities will be introduced, focusing on Customer Engagement, Unified Operations, the Power Platform, and their corresponding business applications.
+  #### Lessons
+  - Overview of apps
+  - Apps for Customer Engagement
+  - Apps for Unified Operations
+  - The Power Platform
+  - Application basics
+
+
+  ### Module  2&#58; Cloud concepts
+  In this module, we discuss high-level cloud concepts and introduce Microsoft’s cloud offering, Azure, examining its relationship with Dynamics 365.
+  #### Lessons
+  - Overview of cloud architecture
+  - Different types of cloud services available
+  - Comparing cloud offerings with corresponding on-premises offerings
+
+
+  ### Module  3&#58; Managing deployments and releases
+  In this module, we cover important implementation considerations, including types of deployments, release cadences, and security model design.
+  #### Lessons
+  - Types of deployments
+  - Types of releases
+  - Security concepts and roles
+  - Roles and teams
+  - GDPR
+
+
+  ### Module  4&#58; Licensing, onboarding and support
+  This module empowers the learner to get started with Dynamics 365 by exploring licensing options and finding implementation support.
+  #### Lessons
+  - Finding and working with a partner
+  - Licensing options
+  - Getting set up

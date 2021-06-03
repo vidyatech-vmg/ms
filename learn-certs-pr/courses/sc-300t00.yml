@@ -1,0 +1,166 @@
+### YamlMime:Course
+title: Microsoft Identity and Access Administrator
+metadata:
+  title: 'Course SC-300T00-A: Microsoft Identity and Access Administrator'
+  description: 'Course SC-300T00-A: Microsoft Identity and Access Administrator'
+uid: course.sc-300t00
+courseNumber: 'SC-300T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Implement an identity management solution
+- skill: Implement an authentication and access management solutions
+- skill: Implement access management for apps
+- skill: Plan and implement an identity governancy strategy
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+- identity-access-admin
+- security-engineer
+products:
+- azure
+- azure-active-directory
+- azure-log-analytics
+- azure-sentinel
+exams:
+- uid: exam.sc-300
+summary: |-
+  This course provides IT Identity and Access Professional, along with IT Security Professional, with the knowledge and skills needed to implement identity management solutions based on Microsoft Azure AD, and it connected identity technologies. This course includes identity content for Azure AD, enterprise application registration, conditional access, identity governance, and other identity tools.
+
+  #### Audience profile
+  This course is for the Identity and Access Administrators who are planning to take the associated certification exam, or who are performing identity and access administration tasks in their day-to-day job. This course would also be helpful to an administrator or engineer that wants to specialize in providing identity solutions and access management systems for Azure-based solutions; playing an integral role in protecting an organization.
+prerequisitesSection: |-
+  Successful learners will have prior knowledge and understanding of:
+  - Security best practices and industry security requirements such as defense in depth, least privileged access, shared responsibility, and zero trust model.
+  - Be familiar with identity concepts such as authentication, authorization, and active directory.
+  - Have some experience deploying Azure workloads. This course does not cover the basics of Azure administration, instead the course content builds on that knowledge by adding security specific information.
+  - Some experience with Windows and Linux operating systems and scripting languages is helpful but not required. Course labs may use PowerShell and the CLI.
+  
+  <div><strong>Prerequisite courses (or equivalent knowledge and hands-on experience):</strong></div>
+  
+  This free online training will give you the experience you need to be successful in this course.
+  - [SC-900 part 1: Describe the concepts of security, compliance, and identity - Learn | Microsoft Docs](/learn/paths/describe-concepts-of-security-compliance-identity/)
+  - [SC-900 part 2: Describe the capabilities of Microsoft Identity and access management solutions - Learn | Microsoft Docs](/learn/paths/describe-capabilities-of-microsoft-identity-access/)
+  - [SC-900 part 3: Describe the capabilities of Microsoft security solutions - Learn | Microsoft Docs](/learn/paths/describe-capabilities-of-microsoft-security-solutions/)
+  - [SC-900 part 4: Describe the capabilities of Microsoft compliance solutions - Learn | Microsoft Docs](/learn/paths/describe-capabilities-of-microsoft-compliance-solutions/)
+  - [AZ-104: Manage identities and governance in Azure - Learn | Microsoft Docs](/learn/paths/az-104-manage-identities-governance/)
+outlineSection: |-
+  ### Module 1&#58; Implement an identity management solution
+  Learn to create and manage your initial Azure Active Directory (Azure AD) implementation and configure the users, groups, and external identities you will use to run your solution.
+  #### Lessons
+  - Implement Initial configuration of Azure AD
+  - Create, configure, and manage identities
+  - Implement and manage external identities
+  - Implement and manage hybrid identity
+
+  #### Lab &#58; Manage user roles
+  
+  #### Lab &#58; Setting tenant-wide properties
+  
+  #### Lab &#58; Assign licenses to users
+  
+  #### Lab &#58; Restore or remove deleted users
+  
+  #### Lab &#58; Add groups in Azure AD
+  
+  #### Lab &#58; Change group license assignments
+  
+  #### Lab &#58; Change user license assignments
+  
+  #### Lab &#58; Configure external collaboration
+  
+  #### Lab &#58; Add guest users to the directory
+  
+  #### Lab &#58; Explore dynamic groups
+  
+  After completing this module, students will be able to&#58;
+  - Deploy an initail Azure AD with custom settings
+  - Manage both internal and external identities
+  - Implement a hybrid identity solution
+  
+  
+  ### Module 2&#58; Implement an authentication and access management solution
+  Implement and administer your access management using Azure AD. Use MFA, conditional access, and identity protection to manager your identity solution.
+  #### Lessons
+  - Secure Azure AD user with MFA
+  - Manage user authentication
+  - Plan, implement, and administer conditional access
+  - Manage Azure AD identity protection
+  
+  #### Lab &#58; Enable Azure AD MFA
+  
+  #### Lab &#58; Configure and deploy self-service password reset (SSPR)
+  
+  #### Lab &#58; Work with security defaults
+  
+  #### Lab &#58; Implement conditional access policies, roles, and assignments
+  
+  #### Lab &#58; Configure authentication session controls
+  
+  #### Lab &#58; Manage Azure AD smart lockout values
+  
+  #### Lab &#58; Enable sign-in risk policy
+  
+  #### Lab &#58; Configure Azure AD MFA authentication registration policy
+  
+  After completing this module, students will be able to&#58;
+  - Configure and manage user authentication including MFA
+  - Control access to resources using conditional access
+  - Use Azure AD Identity Protection to protect your organization
+  
+  
+  ### Module 3&#58; Implement access management for Apps
+  Explore how applications can and should be added to your identity and access solution with application registration in Azure AD.
+  #### Lessons
+  - Plan and design the integration of enterprise for SSO
+  - Implement and monitor the integration of enterprise apps for SSO
+  - Implement app registration
+  
+  #### Lab &#58; Implement access management for apps
+  
+  #### Lab &#58; Create a custom role to management app registration
+  
+  #### Lab &#58; Register an application
+  
+  #### Lab &#58; Grant tenant-wide admin consent to an application
+  
+  #### Lab &#58; Add app roles to applications and recieve tokens
+  
+  After completing this module, students will be able to&#58;
+  - Register a new application to your Azure AD
+  - Plan and implement SSO for enterprise application
+  - Monitor and maintain enterprise applications
+  
+  
+  ### Module 4&#58; Plan and implement an identity governancy strategy
+  Design and implement identity governance for your identity solution using entitlement, access reviews, privileged access, and monitoring your Azure Active Directory (Azure AD).
+  #### Lessons
+  - Plan and implement entitlement management
+  - Plan, implement, and manage access reviews
+  - Plan and implement privileged access
+  - Monitor and maintain Azure AD
+  
+  #### Lab &#58; Creat and manage a resource catalog with Azure AD entitlement
+  
+  #### Lab &#58; Add terms of use acceptance report
+  
+  #### Lab &#58; Manage the lifecycle of external users with Azure AD identity governance
+  
+  #### Lab &#58; Create access reviews for groups and apps
+  
+  #### Lab &#58; Configure PIM for Azure AD roles
+  
+  #### Lab &#58; Assign Azure AD role in PIM
+  
+  #### Lab &#58; Assign Azure resource roles in PIM
+  
+  #### Lab &#58; Connect data from Azure AD to Azure Sentinel
+  
+  After completing this module, students will be able to&#58;
+  - Mange and maintain Azure AD from creation to solution
+  - Use access reviews to maintain your Azure AD
+  - Grant access to users with entitlement management

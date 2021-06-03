@@ -1,0 +1,28 @@
+### YamlMime:CertificationRenewal
+title: 'Renewal for Microsoft Certified: Azure Solutions Architect Expert'
+metadata:
+  title: 'Renewal for Microsoft Certified: Azure Solutions Architect Expert'
+  description: 'If you have this certification and it will expire within six months, you are eligible to renew.'
+uid: renewal.azure-solutions-architect
+certificationUid: certification.azure-solutions-architect
+assessmentId: 16c15d1b-16a4-4eaa-aac3-d6c42189bc3c
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  If you have this certification and it will expire within six months, you are eligible to renew. Show that you have kept current with the latest Azure updates by passing the renewal assessment. You can also prepare to renew with the curated collection of learning modules.
+skills:
+- Design a holistic monitoring strategy on Azure
+- Microsoft Azure Well-Architected Framework - Performance efficiency
+- Microsoft Azure Well-Architected Framework - Security
+- Protect your Azure infrastructure with Azure Site Recovery
+- Protect your virtual machines by using Azure Backup
+- Back up and restore your Azure SQL database
+- Use monitoring and analytics to gain cost insights
+- Analyze your Azure infrastructure by using Azure Monitor logs
+examsPassed:
+- az-303, az-304
+studyGuideDescription: 'Use this collection of learning modules to help you prepare for the Microsoft Certified: Azure Solutions Architect Expert renewal assessment.'
+resources:
+- title: About certification renewal
+  summary: Understand the process and requirements to renew your certifications online
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

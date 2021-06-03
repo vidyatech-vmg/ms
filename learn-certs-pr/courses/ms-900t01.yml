@@ -1,0 +1,89 @@
+### YamlMime:Course
+title: Microsoft 365 Fundamentals
+metadata:
+  title: 'Course MS-900T01-A: Microsoft 365 Fundamentals'
+  description: 'Course MS-900T01-A: Microsoft 365 Fundamentals'
+  iltScheduling: true
+uid: course.ms-900t01
+courseNumber: 'MS-900T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Differentiate between the various cloud service models.
+- skill: Identify the key differences between Microsoft 365 subscriptions.
+- skill: Plan for migration to Microsoft 365 services.
+- skill: Identify key differences between Microsoft on-premises services and Microsoft 365 cloud services.
+- skill: Identify how Microsoft 365 services support teamwork.
+- skill: Describe identities, including cloud, on-premises, and hybrid identity.
+- skill: Describe cloud device management and protection, including the use of Intune.
+- skill: Describe data protection, including the use of Azure Information Protection.
+- skill: Describe compliance in general and the compliance features in Microsoft 365.
+- skill: Describe Microsoft 365 subscriptions, licenses, billing, and support
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- business-user
+- administrator
+- maker
+products:
+- m365
+- windows
+- office-365
+exams:
+- uid: exam.ms-900
+summary: |-
+  This course provides foundational knowledge on the considerations and benefits of adopting cloud services and the Software as a Service (SaaS) cloud model, with a specific focus on Microsoft 365 cloud service offerings. You will begin by learning about cloud fundamentals, including an overview of cloud computing and specifically Microsoft cloud services. You will be introduced to Microsoft Azure, and you will examine the differences between Microsoft 365 and Office 365. You will then perform an in-depth review of Microsoft 365, including a comparison of Microsoft on-premises services versus Microsoft 365 cloud services, a review of enterprise mobility in Microsoft 365, and an analysis of how Microsoft 365 services provide collaboration. The course then analyzes how security, compliance, privacy, and trust are handled in Microsoft 365, and it concludes with a review of Microsoft 365 subscriptions, licenses, billing, and support.
+
+  #### Audience profile
+  This course is designed for Business Decision Makers and IT Professionals who aspire to deploy cloud services in their organization, or who are simply looking to acquire foundational knowledge on cloud fundamentals. This includes the considerations and benefits of adopting cloud services in general and the Software as a Service (SaaS) cloud model specifically, with a general focus on Microsoft 365 cloud service offerings.
+prerequisitesSection: |-
+  This course is designed for Business Decision Makers and IT Professionals who aspire to deploy cloud services in their organization. Students should have the following background&#58;
+  - General knowledge of networking, computing, and cloud concepts
+outlineSection: |-
+  ### Module 1&#58; Cloud concepts
+  Explore the core concepts of cloud computing and how it can help your business.
+  #### Lessons 
+  - Principles of cloud computing
+  - What is Microsoft 365?
+  - Select a cloud deployment
+
+  
+  ### Module 2&#58; Microsoft 365 productivity and teamwork capabilities
+  Learn about the productivity and teamwork solutions in Microsoft 365 and the capabilities that help people be more productive using Microsoft 365 - The World's Productivity Cloud.
+  #### Lessons 
+  - Microsoft 365 productivity and teamwork solutions
+  - Engage employees with Microsoft Stream, Teams, and Yammer
+  - Get more done with Office across all devices
+  - File storage and sharing with OneDrive and SharePoint
+  
+  
+  ### Module 3&#58; Microsoft 365 business management capabilities
+  Learn about the business management solutions in Microsoft 365 and the capabilities that help organizations be more productive using Microsoft 365 - The World's Productivity Cloud.
+  #### Lessons 
+  - Manage your business with Microsoft 365
+  - Simplify device management with Microsoft Endpoint Manager
+  - Get more done and stay secure with Windows 10
+  - Harness business intelligence with Microsoft 365 analytics and reporting
+  
+  
+  ### Module 4&#58; Microsoft 365 security and compliance
+  Learn about the Microsoft 365 security and compliance solutions areas and the capabilities available to help enterprises secure their enterprise and meet regulatory requirements.
+  #### Lessons 
+  - Security principles and solution areas
+  - Identity and access management
+  - Threat protection
+  - Cloud security
+  - Information protection and governance
+  - Compliance management
+  - Manage risk, discovery, and audit
+  
+  
+  ### Module 5&#58; Microsoft 365 Licensing and support
+  Learn more about Microsoft 365 licensing, service, and support options.
+  #### Lessons 
+  - Identify licensing options available in Microsoft 365
+  - Describe support offerings in Microsoft 365 services
+  - Describe the service life cycle in Microsoft 365

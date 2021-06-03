@@ -1,0 +1,158 @@
+### YamlMime:Course
+title: Microsoft Dynamics 365 Supply Chain Management, Manufacturing - Functional Consultant
+metadata:
+  title: 'Course MB-320T00-A: Microsoft Dynamics 365 Supply Chain Management, Manufacturing - Functional Consultant'
+  description: 'Course MB-320T00-A: Microsoft Dynamics 365 Supply Chain Management, Manufacturing - Functional Consultant'
+uid: course.mb-320t00
+courseNumber: 'MB-320T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Configure the most important and commonly used features and functionalities within Dynamics 365
+- skill: Process most of the Dynamics 365 Manufacturing transactions
+- skill: Explain to others how Dynamics 365 Supply Chain Management, Manufacturing features
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- dynamics-365
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-320
+summary: |-
+  This course has six modules and designed for 4 days learning experience. It can be taught in-person and/or virtually. Your instructor(s) will provide you with the agenda for this course. Module 1 will introduce you to the configure need for Dynamics 365 Supply Chain Management, Manufacturing. Module 2 will get deeper into managing the different types of manufacturing processes. Module 3 will be your address implementing master planning for production. Module 4 will be tackle Implementing several manufacturing features. Module 5 will focus on subcontracting for product manufacturing.
+
+  #### Audience profile
+  A Dynamics 365 for Finance and Operations Functional Consultant is responsible for performing discovery, capturing requirements, engaging subject matter experts and stakeholders, translating requirements, and configuring the solution and applications. The Functional Consultant implements a solution using out of the box capabilities, codeless extensibility, application and service integrations.
+prerequisitesSection: |-
+  - Basic understanding for supply chain management and manufacturing terminology
+  - Basic understanding of Dynamics 365 finance and operation apps
+outlineSection: |-
+  ### Module 1&#58; Configure Dynamics 365 Supply Chain Management, Manufacturing
+  This module will cover the address the different configurations the functional consultants will need implement the manufacturing features.
+  #### Lessons
+  - Configure and manage the production control module
+  - Configure and manage resources for production processes
+  - Configure discrete manufacturing
+  - Configure process manufacturing
+  - Configure lean manufacturing
+
+  After completing this module, students will be able to&#58;
+  - Configure and manage the production control module
+  - Configure and manage resources for production processes
+  - Configure discrete manufacturing
+  - Configure process manufacturing
+  - Configure lean manufacturing
+  
+  
+  ### Module 2&#58; Manage manufacturing processes
+  This module will help you understand and practice most of the transactions needed for the different manufacturing scenarios.
+  #### Lessons
+  - Manage production orders
+  - Manage batch orders
+  - Manage kanban orders
+  
+  #### Lab &#58; Case study 1A discrete manufacturing
+  - Exercise #1&#58; Update the production control parameters
+  - Exercise #2&#58; Create new production pools
+  - Exercise #3&#58; Create and manage resources
+  - Exercise #4&#58; Create an operation, assign relations and create a route
+  - Exercise #5&#58; Create a simple BOM without a version
+  - Exercise #6&#58; Create a BOM in the BOM designer (Bonus)
+  - Exercise #7&#58; Create a BOM with a version
+  - Exercise #8&#58; Create a production order
+  - Exercise #9&#58; Start a discrete production order (Bonus)
+  - Exercise #10&#58; Run a resource schedule
+  - Exercise #12&#58; Configure costing policies
+  - Exercise #13&#58; Configure manufacturing execution (Bonus)
+  - Exercise #14&#58; Configure automatic route consumption on setup jobs (Bonus)
+  - Exercise #15&#58; Use manufacturing execution (Bonus)
+  
+  #### Lab &#58; Case study 1B process manufacturing
+  - Exercise #1&#58; Create an approved vendor list and setting method to Warning Only (Bonus)
+  - Exercise #2&#58; Create items with different production types
+  - Exercise #3&#58; Create and activate a formula using different product types
+  - Exercise #4&#58; Create a new formula with a version from the released products form (Bonus)
+  - Exercise #5&#58; Revise, update and activate a formula (Bonus)
+  - Exercise #6&#58; Use the scalability feature to create a new formula
+  - Exercise #7&#58; Create and activate a percentage-based formula (Bonus)
+  - Exercise #8&#58; Change a linear consumption to a step-wise consumption
+  - Exercise #9&#58; Set up commodity pricing (Bonus)
+  - Exercise #10&#58; Change a price calculation and update trade agreements
+  - Exercise #11&#58; Setting up a commodity price calculation
+  - Exercise #12&#58; Creating PSDS lists, records and file uploads for product compliance
+  - Exercise #13&#58; Add reporting details for an item
+  - Exercise #14&#58; Create a sales order and printing a PSDS
+  - Exercise #15&#58; Create and associate a batch attribute
+  - Exercise #16&#58; Create a new batch number and manually record the batch attribute
+  - Exercise #17&#58; Create quality orders and verify batch attributes
+  - Exercise #18&#58; Complete a batch reservation using an attribute requirement
+  - Exercise #19&#58; Set a partial visibility catch weight item
+  - Exercise #20&#58; Use catch weight items in a purchase trade agreement
+  - Exercise #21&#58; Create a batch attribute for a potency item
+  - Exercise #22&#58; Modify and activate a copy of a potency item formula
+  - Exercise #23&#58; Set up pricing based on an item’s attribute (Bonus)
+  - Exercise #24&#58; Record a potency attribute upon receipt (Bonus)
+  - Exercise #25&#58; Reporting and balancing batch orders (Bonus)
+  
+  #### Lab &#58; Case study 1C Lean manufacturing
+  - Exercise #1&#58; Create value streams
+  - Exercise #2 create a new production flow model
+  - Exercise #3&#58; Create a process activity
+  - Exercise #4 Create a new transfer activity
+  - Exercise #5&#58; Add a successor to the production flow activity and perform validation and activation
+  - Exercise #6&#58; Create Kanban rules and schedule the Kanban job
+  - Exercise #7&#58; Process scheduled Kanban for process and transfer jobs
+  - Exercise #8&#58; Fulfill a sales order by planning a Kanban and produce an item (Bonus)
+  
+  After completing this module, students will be able to&#58;
+  - Manage production orders
+  - Manage batch orders
+  - Manage kanban orders
+  
+  
+  ### Module 3&#58; Implement master planning for production
+  This module will explain the aspects of master planning needed for manufacturing functional consultant
+  #### Lessons
+  - Configure and manage master planning
+  - Plan, schedule, and perform production capacity planning
+  
+  #### Lab &#58; Case study 2 master planning
+  - Exercise #1&#58; Firm a planned order and change the order type
+  - Exercise #2&#58; Create an intercompany planning group and assign an item allocation key
+  - Exercise #3&#58; Plan a production schedule from a master planning run (Bonus)
+  
+  After completing this module, students will be able to&#58;
+  - Configure and manage master planning
+  - Plan, schedule, and perform production capacity planning
+  
+  
+  ### Module 4&#58; Implement other manufacturing features
+  This module will cover different important features commonly used by manufacturing customers.
+  #### Lessons
+  - Configure manufacturing execution
+  - Configure costing policies
+  - Define product configuration models by using Product Configurator
+  
+  After completing this module, students will be able to&#58;
+  - Configure manufacturing execution
+  - Configure costing policies
+  - Define product configuration models by using Product Configurator
+  
+  
+  ### Module 5&#58; Subcontracting for product manufacturing
+  This module will cover the configuration and use of subcontracting features
+  #### Lessons
+  - Configuring subcontracting
+  - Using subcontracting
+  
+  #### Lab &#58; Case study 3 subcontracting
+  - Exercise #1&#58; Set up subcontracting features
+  
+  After completing this module, students will be able to&#58;
+  - Configuring subcontracting
+  - Using subcontracting

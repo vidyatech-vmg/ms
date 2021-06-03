@@ -1,0 +1,117 @@
+### YamlMime:Course
+title: Installing Windows 10
+metadata:
+  title: 'Course MD-100T01-A: Installing Windows 10'
+  description: 'Course MD-100T01-A: Installing Windows 10'
+  iltScheduling: true
+uid: course.md-100t01
+courseNumber: 'MD-100T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Prepare to install Windows 10.
+- skill: Install Windows 10.
+- skill: Configure Updates for Windows.
+- skill: Perform post-installation configuration tasks.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- windows
+exams:
+- uid: exam.md-100
+summary: |-
+  In
+  this course, students will learn how to support the installation tasks
+  associated with Windows 10. Students will develop skills that include learning
+  how to install and customize Windows 10 operating systems. Students will also
+  learn about the new Windows servicing model and methods for keeping Windows up
+  to date. The course will conclude with common post-installation tasks.
+
+  #### Audience profile
+  Candidates
+  for this exam are IT Professionals who perform installation, configuration,
+  general local management, and maintenance of Windows 10 core services.
+  Candidates may also be familiar with enterprise scenarios and cloud-integrated
+  services.
+prerequisitesSection: |-
+  Learners should start this course already having the following skills&#58;
+  - Basic understanding of computer networks and hardware concepts.
+  - Basic understanding of OS and Application concepts.
+  - Experience with using the Windows OS.
+outlineSection: |-
+  ### Module  1&#58; Installing Windows
+  This module covers installing the Windows 10 OS.  Students will learn the different editions of Windows 10, requirements, and new features introduced. This module covers how to install the OS, as well as methods for migrations and upgrading. Students will also learn about common tools used in the deployment process.
+  #### Lessons
+  - Introducing Windows 10
+  - Installation Options
+  - Requirements for Windows Features
+  - Installation Process and Media
+  - Upgrading to Windows 10
+
+
+  #### Lab &#58; Installing Windows 10
+  - Upgrading Windows 7 to Windows 10
+  - Migrating User Settings
+
+
+  After completing this module, students will be able to&#58;
+  - Understanding the different editions and features of Windows 10
+  - Understand the Windows 10 client installation options
+  - Practice installing Windows 10 using an online virtual machine
+
+
+  ### Module  2&#58; Updating Windows
+  In this module, Students will learn about keeping Windows 10 up-to-date. Students will be introduced to the new Windows servicing model and how it applies to various scenarios. Students will learn the various different methods for updating Windows and applications, as well as managing updates using tools like group policy and Windows Update for Business.
+  #### Lessons
+  - Windows Servicing Model
+  - Updating Windows
+  - Applying Applications and Windows Updates
+
+
+  #### Lab &#58; Updating Windows 10
+  - Configuring Updates for a Single Device
+  - Configuring Updates with GPOs
+
+
+  After completing this module, students will be able to&#58;
+  - Describe the Windows servicing model
+  - Configure Windows update settings
+  - Describe updating Windows using WSUS
+  - Describe updating Windows using Windows Update for Business
+  - Configure Windows update using group policy
+
+
+  ### Module  3&#58; Post-installation Configuration and Personalization
+  This module covers common post-installation tasks in Windows 10. Students will learn how to customize the user interface, as well as using the control panel and settings app to configure common OS settings. This course will also introduce students to Windows PowerShell.
+  #### Lessons
+  - Customize the Windows 10 UI
+  - Configure device specific settings such as power plans and mobile device options
+  - Use the Windows control panel and setting app to configure settings
+  - Describe using Windows PowerShell
+
+
+  #### Lab &#58; Configuring Windows 10
+  - Using the Settings App
+  - Using Control Panel Using Control Panel
+  - Using Windows PowerShell
+
+
+  After completing this module, students will be able to&#58;
+  - Customize the Windows 10 UI
+  - Configure device specific settings such as power plans and mobile device options
+  - Use the Windows control panel and setting app to configure settings
+  - Describe using Windows PowerShell
+
+
+  ### Module  4&#58; Course Conclusion
+  #### Lessons
+  - Final Exam
+
+
+  #### Lab &#58; Graded Lab

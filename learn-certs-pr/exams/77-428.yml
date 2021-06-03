@@ -1,0 +1,58 @@
+### YamlMime:Examination
+title: Microsoft Excel 2013 Expert Part Two
+metadata:
+  title: 'Exam 77-428: Microsoft Excel 2013 Expert Part Two'
+  description: 'Exam 77-428: Microsoft Excel 2013 Expert Part Two'
+uid: exam.77-428
+displayName: 77-428
+summary: |-
+  Expert-level candidates for the Excel 2013 exam should have an advanced understanding of the Excel environment and the ability to guide others in the proper use of features in Excel 2013 of Office Professional Plus. They should know and be able to demonstrate the use of advanced and specialized features within the application.
+
+  Candidates should be able to create, manage, and distribute professional spreadsheets for a variety of specialized purposes and situations, and they should know how to customize their Excel environment to meet needs and enhance productivity. Workbook examples include custom business templates, multiple axis financial charts, amortization tables, and inventory schedules. Candidate roles might include accountants, financial analysts, data analysts, commercial bankers, and others.
+subTitle: Expert-level candidates for the Excel 2013 exam should have an advanced understanding of the Excel environment and the ability to guide others in the proper use of features in Excel 2013 of Office Professional Plus.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJE
+scheduleExamUrl: https://www.certiport.com/locator
+locales:
+- en
+- zh-cn
+- zh-tw
+- de
+- es
+- fr
+- it
+- ja
+- ko
+- nl
+- pt-br
+- ru
+- ar-sa
+levels: 
+- beginner
+skills:
+- Manage and share workbooks
+- Apply custom formats and layouts
+- Create advanced formulas
+- Create advanced charts and tables
+roles:
+- business-user
+products:
+- office-excel
+relatedCertifications:
+- related:
+    uid: certification.mos-excel-2013-expert
+- related:
+    uid: certification.microsoft-office-specialist-master-certification-2013
+resources:
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: ../certification-exam-policies.md

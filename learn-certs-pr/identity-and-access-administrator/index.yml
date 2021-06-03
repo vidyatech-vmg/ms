@@ -1,0 +1,58 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Identity and Access Administrator Associate'
+metadata:
+  title: 'Microsoft Certified: Identity and Access Administrator Associate'
+  description: The Microsoft Identity and Access Administrator designs, implements, and operates an organization’s identity and access management systems by using Azure AD. They manage tasks such as providing secure authentication and authorization access to enterprise applications.
+uid: certification.identity-and-access-administrator
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  The Microsoft Identity and Access Administrator designs, implements, and operates an organization’s identity and access management systems by using Azure AD. They manage tasks such as providing secure authentication and authorization access to enterprise applications. The administrator provides seamless experiences and self-service management capabilities for all users. Adaptive access and governance are core elements to the role. This role is also responsible for troubleshooting, monitoring, and reporting for the identity and access environment.
+  
+  The Identity and Access Administrator may be a single individual or a member of a larger team. This role collaborates with many other roles in the organization to drive strategic identity projects to modernize identity solutions, to implement hybrid identity solutions, and to implement identity governance.
+subTitle: The Microsoft Identity and Access Administrator designs, implements, and operates an organization’s identity and access management systems by using Azure AD. They manage tasks such as providing secure authentication and authorization access to enterprise applications.
+levels:
+- advanced
+skills:
+- Implement an identity management solution
+- Implement an authentication and access management solution
+- Implement access management for apps 
+- Plan and implement an identity governance strategy
+roles:
+- administrator
+- identity-access-admin
+- security-engineer
+type: role-based
+products:
+- azure
+- azure-active-directory
+- azure-log-analytics
+- azure-sentinel
+courses:
+- uid: course.sc-300t00
+paths:
+- uid: learn.wwl.implement-identity-management-solution
+- uid: learn.wwl.implement-authentication-access-management-solution
+- uid: learn.wwl.implement-access-management-for-apps
+- uid: learn.wwl.plan-implement-identity-governance-strategy
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Mr7Z
+exams:
+- uid: exam.sc-300
+resources:
+- title: Certification poster
+  description: Check out an overview including fundamentals, role-based and specialty certifications for Dynamics 365 and Power Platform.
+  href: https://aka.ms/traincertposter
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://aka.ms/TrainingCertDeck
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Support for certifications
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: ../help.md
+- title: Share your certification badges
+  description: Celebrate your accomplishment with your network. Claim your Microsoft Certification badge, and add it to LinkedIn, your résumé, and more.
+  href: ../badges.md

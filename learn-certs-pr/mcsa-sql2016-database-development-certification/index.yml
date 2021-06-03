@@ -1,0 +1,46 @@
+### YamlMime:Certification
+title: 'MCSA: SQL 2016 Database Development'
+metadata:
+  title: 'MCSA: SQL 2016 Database Development'
+  description: 'MCSA: SQL 2016 Database Development'
+uid: certification.mcsa-sql2016-database-development-certification
+iconUrl: /media/learn/certification/badges/mcsa-badge.svg
+summary: |-
+  <div><strong>This certification has been retired. For currently available options, please refer to the <a href='/learn/certifications/browse/'>Browse Certifications and Exams page</a>. Any certifications you earn prior to their retirement dates will continue to appear on your transcript in the <a href='https://aka.ms/certdashboard'>Certification Dashboard</a>.</strong><br/><br/></div>
+  
+  This certification demonstrates your skills as a database professional, for both on-premises and cloud-based databases.
+subTitle: This certification demonstrates your skills as a database professional, for both on-premises and cloud-based databases.
+levels:
+- advanced
+skills:
+- none
+roles:
+- developer
+type: mcsa
+products:
+- sql-server
+courses:
+- uid: course.20761
+- uid: course.20762
+exams:
+- uid: exam.70-761
+- uid: exam.70-762
+resources:
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://aka.ms/TrainingCertDeck
+- title: Certification poster
+  description: Check out an overview of fundamentals, role-based and specialty certifications.
+  href: https://aka.ms/traincertposter
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Support for certifications
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: ../help.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Share your certification badges
+  description: Celebrate your accomplishment with your network. Claim your Microsoft Certification badge, and add it to LinkedIn, your résumé, and more.
+  href: ../badges.md

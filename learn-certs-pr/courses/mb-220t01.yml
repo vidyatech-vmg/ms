@@ -1,0 +1,127 @@
+### YamlMime:Course
+title: Configure settings and core functionality in Dynamics 365 for Marketing
+metadata:
+  title: 'Course MB-220T01-A: Configure settings and core functionality in Dynamics 365 for Marketing'
+  description: 'Course MB-220T01-A: Configure settings and core functionality in Dynamics 365 for Marketing'
+uid: course.mb-220t01
+courseNumber: 'MB-220T01-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Configure advanced setting
+- skill: Manage marketing content, templates, and integrations
+- skill: Create and manage leads
+- skill: Assess sales readiness through lead scoring models
+- skill: Design and create marketing forms and pages
+- skill: Create and manage segments, subscription centers, lists, and double opt-in
+- skill: Design and create email messages
+- skill: Set up and launch customer journeys
+- skill: View, understand, and mange customer insights
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-marketing
+exams:
+- uid: exam.mb-220
+summary: |-
+  Marketing transformation, organization, and growth starts here. With Dynamics 365 for Marketing, prospects can turn into business relationships. Find and nurture more sales-ready leads by moving beyond basic email marketing. Connect sales and marketing, automate processes, and make smarter decisions to maximize marketing ROI.
+
+  This course reviews the marketing application configuration needed to get started. It dives into lead creation, management, and scoring. From there, the course covers creating marketing forms and pages. Then, students learn how to break up leads and contacts through segmentation to help focus marketing efforts. Next, students learn how to create email marketing messages using the advanced designer functionality. Then, all the pieces are tied together with the customer journey. Dynamics 365 for Marketing allows for customer journeys to create a model that helps one guide the members of a selected marketing segment through this process by using automated messaging, activity generation, interactive decision points, and more. Finally, students learn how to view, understand, and manage customer insights.
+
+  Learn all the settings and core functionality within Dynamics 365 for Marketing through custom demonstrations, check knowledge questions, and hands-on learning labs.
+
+  #### Audience profile
+  This course is designed for IT or marketing professionals who want to learn how to leverage Dynamics 365 for Marketing for businesses.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - An understanding of the basics of Dynamics 365 and knowledge of marketing principles, strategies, and procedures
+outlineSection: |-
+  ### Module  1&#58; Marketing Application Configuration
+  In this module, students will learn about advanced settings, marketing content, templates, and integrations in Dynamics 365 for Marketing.
+  #### Lessons
+  - Configure advanced settings
+  - Manage marketing content and templates
+  - Manage LinkedIn and Power BI integrations
+
+  After completing this module, students will be able to&#58;
+  - Configure advanced settings, such as&#58; organization, business management, content, marketing, and event settings
+  - Manage marketing content and templates  
+
+
+  ### Module  2&#58; Leads
+  This module will review how to create, manage, and score leads.
+  #### Lessons
+  - Create and manage leads
+  - Assess Sales Readiness
+
+  After completing this module, students will be able to&#58;
+  - Create and manage leads
+  - Synchronize leads from LinkedIn
+  - Assess sales readiness using lead scoring models
+
+
+  ### Module  3&#58; Marketing Forms and Pages
+  This module will cover how to create marketing forms and pages.
+  #### Lessons
+  - Create marketing forms
+  - Create marketing pages
+  - Manage internet marketing
+
+  After completing this module, students will be able to&#58;
+  - Create marketing forms and embed them on marketing pages
+  - Create a marketing page
+  - Preview, validate, and go live with a marketing page
+  - Create marketing form and page templates
+
+
+  ### Module  4&#58; Segments and Lists
+  This module will cover how to manage segments, subscription centers, lists, and double opt-in.
+  After completing this module, students will be able to&#58;
+  - Configure static and dynamic segments
+  - Create a subscription list
+  - Set up a subscription center page
+  - Set up and enable a double opt-in process
+
+
+  ### Module  5&#58; Marketing Emails
+  This module will cover how to create email messages in Dynamics 365 for Marketing.
+  #### Lessons
+  - Create Email Message
+
+  After completing this module, students will be able to&#58;
+  - Create and design email messages
+  - Preview, validate, and go live with email messages
+  - Save an email message as a template
+
+
+  ### Module  6&#58; Customer Journeys
+  This module will review the customer journey creation process.
+  #### Lessons
+  - Create customer journeys
+
+  After completing this module, students will be able to&#58;
+  - Create a customer journey from a template
+  - Identify customer journey tiles and properties
+  - Validate and go live with a customer journey
+  - Create an account-based customer journey
+  - Understand the marketing calendar features
+
+
+  ### Module  7&#58; Insights
+  This module will demonstrate how to view, understand, and manage customer insights.
+  #### Lessons
+  - Marketing insights
+  - Customer insights
+  - Marketing execution insights
+  - Lead management insights
+  - Internet marketing insights
+
+  After completing this module, students will be able to&#58;
+  - Locate insights
+  - Understand marketing insights, such as&#58; contact, segment, customer journey, marketing email, lead, lead scoring, marketing form, marketing page, website, and redirect URLs

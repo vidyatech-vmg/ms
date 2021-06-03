@@ -1,0 +1,129 @@
+### YamlMime:Course
+title: Managing Modern Desktops and Devices
+metadata:
+  title: 'Course MD-101T02-A: Managing Modern Desktops and Devices'
+  description: 'Course MD-101T02-A: Managing Modern Desktops and Devices'
+uid: course.md-101t02
+courseNumber: 'MD-101T02-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Understand the benefits and methods of co-management strategies
+- skill: Configuring Intune
+- skill: Enroll devices in Intune and configure device policies
+- skill: Manage user profiles and folder redirection
+- skill: Plan a mobile application management strategy
+- skill: Manage and deploy apps, including Office 365 ProPlus and Internet Explorer settings
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- windows
+exams:
+- uid: exam.md-101
+summary: |-
+  As
+  demand for organizations to enable workforces to be more mobile, a Desktop
+  Administrator’s role is really is no longer about just “desktop” management.
+  With BYOD becoming commonplace and the need for employees to access line of
+  business apps on personal devices, the scope of desktop administration must
+  include both desktop and mobile devices, regardless of ownership. During this
+  course, students will be introduced to key components of modern management and
+  co-management strategies. They will examine what it takes to incorporate Microsoft
+  Intune into an organization and how to use it to manage modern
+  desktops and devices. Students will also learn about methods for deployment and
+  management of apps and browser-based applications.
+
+  #### Audience profile
+  The Modern Desktop Administrator (MDA) deploys, configures, secures, manages, and monitors devices and client applications in an enterprise environment. Responsibilities include managing identity, access, policies, updates, and apps. The MDA collaborates with the M365 Enterprise Administrator to design and implement a device strategy that meets the business needs of a modern organization. The MDA must be familiar with M365 workloads and must have strong skills and experience of deploying, configuring, and maintaining Windows 10 and non-Windows devices. The MDA role focuses on cloud services rather than on-premises management technologies.
+prerequisitesSection: |-
+  The
+  Modern Desktop Administrator must be familiar with M365 workloads and must have
+  strong skills and experience of deploying, configuring, and maintaining Windows
+  10 and non-Windows devices. The MDA role focuses on cloud services rather than
+  on-premises management technologies.
+outlineSection: |-
+  ### Module  1&#58; Device Enrollment
+  In this module, students will examine the benefits and prerequisites of co-management and learn how to plan for it. This module will also cover Azure AD join, an introduction to Microsoft Intune, as well as how to configure policies for enrolling devices. The module will conclude with an overview of device inventory in Intune and reporting using the Intune console, Power BI, and Microsoft Graph.
+  #### Lessons
+  - Device management options
+  - Manage Intune device enrollment and inventory
+
+
+  #### Lab &#58; Practice Lab - Device Enrollment and Management
+  - Installing the MDM Migration Analysis Tool (MMAT)
+  - Obtain Intune and Azure AD Premium licenses and enable device management
+  - Enrolling devices in Intune
+  - Managing devices in Intune
+  - Creating device inventory reports
+
+
+  After completing this module, students will be able to&#58;
+  - Describe benefits and methods for migrating to co-management
+  - Deploy an MDM with Microsoft Intune
+  - Configure device enrollment
+  - Enroll desktop and mobile devices in Windows Intune
+  - Configure and downloads inventory reports
+
+
+  ### Module  2&#58; Configuring Profiles
+  This module dives deeper into Intune device profiles including the types of device profiles and the difference between built-in and custom profiles. The student will learn about assigning profiles to Azure AD groups and monitoring devices and profiles in Intune. The module will conclude with an overview of using Windows Analytics for health and compliance reporting.
+  #### Lessons
+  - Configuring device profiles
+  - Managing user profiles
+  - Monitoring devices
+
+
+  #### Lab &#58; Practice Lab - Managing profiles
+  - Configuring roaming user profiles and Folder Redirection
+  - Create and deploy device profile based on the scenario
+  - Change deployed policy and monitor user and device activity
+  - Configuring Enterprise State Roaming
+
+
+  After completing this module, students will be able to&#58;
+  - Describe the types of device profiles
+  - Create and assign device profiles
+  - Configure user profile and folder redirection
+  - Monitor and report on devices using Intune and Windows Analytics
+
+
+  ### Module  3&#58; Application Management
+  In this module, students learn about application management on-premise and cloud-based solutions. This module will cover how to manage Office 365 ProPlus deployments in Intune as well as how to manage apps on non-enrolled devices. The module will conclude with an overview of Enterprise Mode with Internet Explorer and Microsoft Edge and tracking your installed applications, licenses, and assigned apps using Intune.
+  #### Lessons
+  - Implement Mobile Application Management (MAM)
+  - Deploying and updating applications
+  - Administering applications
+
+
+  #### Lab &#58; Practice Lab - Managing Applications
+  - Deploying apps by using Intune
+  - Configure and deploy Office 365 ProPlus from Intune
+  - Configure MAM policies in Intune
+
+
+  After completing this module, students will be able to&#58;
+  - Describe the methods for application management
+  - Deploy applications using Intune and Group Policy
+  - Configure Microsoft Store for Business
+  - Deploy Office365 ProPlus using Intune
+  - Manage and report application inventory and licenses
+  - Configure Internet Explorer Enterprise Mode
+
+
+  ### Module  4&#58; Course Conclusion
+  #### Lessons
+  - Final Exam
+
+
+  #### Lab &#58; Graded Lab
+  After completing this module, students will be able to&#58;
+  - Describe the types of device profiles
+  - Create and assign device profiles
+  - Configure user profile and folder redirection
+  - Monitor and report on devices using Intune and Windows Analytics

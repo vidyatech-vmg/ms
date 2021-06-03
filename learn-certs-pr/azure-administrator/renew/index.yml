@@ -1,0 +1,28 @@
+### YamlMime:CertificationRenewal
+title: 'Renewal for Microsoft Certified: Azure Administrator Associate'
+metadata:
+  title: 'Renewal for Microsoft Certified: Azure Administrator Associate'
+  description: 'If you have this certification and it will expire within six months, you are eligible to renew.'
+uid: renewal.azure-administrator
+certificationUid: certification.azure-administrator
+assessmentId: 5a6a0e34-b4e6-4690-af91-962c75421067
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  If you have this certification and it will expire within six months, you are eligible to renew. Show that you have kept current with the latest Azure updates by passing the renewal assessment. You can also prepare to renew with the curated collection of learning modules.
+skills:
+- Host a web application with Azure App service
+- Build a containerized web application with Docker
+- Secure Storage Accounts
+- Host your domain on Azure DNS
+- Secure and isolate access to Azure resources by using network security groups and service endpoints
+- Protect your machines with Azure Backup
+- Introduction to Kubernetes
+- Manage users and groups in Azure Active Directory
+examsPassed:
+- az-104
+studyGuideDescription: 'Use this collection of learning modules to help you prepare for the Microsoft Certified: Azure Administrator Associate renewal assessment.'
+resources:
+- title: About certification renewal
+  summary: Understand the process and requirements to renew your certifications online
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

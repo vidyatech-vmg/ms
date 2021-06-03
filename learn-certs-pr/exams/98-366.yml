@@ -1,0 +1,62 @@
+### YamlMime:Examination
+title: Networking Fundamentals
+metadata:
+  title: 'Exam 98-366: Networking Fundamentals'
+  description: 'Exam 98-366: Networking Fundamentals'
+uid: exam.98-366
+displayName: 98-366
+summary: |-
+  Candidates for this exam are familiar with general networking concepts and the technologies. Candidates should have some hands-on experience with Windows Server, Windows-based networking, network management tools, DNS, TCP/IP, names resolution process, and network protocols and topologies.
+  
+  <div><strong><br/>There are exam updates effective as of January 31, 2018. To learn more about these changes and how they affect the skills measured, please download and review the Exam 98-366 change document.</strong></div>
+subTitle: Candidates for this exam are familiar with general networking concepts and the technologies. Candidates should have some hands-on experience with Windows Server, Windows-based networking, network management tools, DNS, TCP/IP, names resolution process, and network protocols and topologies.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJr
+practiceTestUrl: https://www.mindhub.com/MTA-98-366-Networking-Fundamentals-p/mu-98-366_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?action=1&locale=en-us&examcode=98-366&examname=Networking%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-366
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
+locales:
+- en
+- zh-cn
+- zh-tw
+- fr
+- de
+- it
+- ja
+- ko
+- pt-br
+- ru
+- es
+- es-mx
+levels:
+- beginner
+skills:
+- Understanding network infrastructures (30-35%)
+- Understanding network hardware (20-25%)
+- Understanding protocols and services (45-50%)
+roles:
+- administrator
+products:
+- windows-server
+courses:
+- uid: course.40032
+- uid: course.40366
+relatedCertifications:
+- related:
+    uid: certification.mta-networking-fundamentals
+resources:
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: ../certification-exam-policies.md

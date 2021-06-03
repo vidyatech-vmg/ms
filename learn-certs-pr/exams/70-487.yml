@@ -1,0 +1,58 @@
+### YamlMime:Examination
+title: Developing Microsoft Azure and Web Services
+metadata:
+  title: 'Exam 70-487: Developing Microsoft Azure and Web Services'
+  description: 'Exam 70-487: Developing Microsoft Azure and Web Services'
+uid: exam.70-487
+displayName: 70-487
+summary: |
+  <div><strong>This exam retired on January 31, 2021. For currently available options, please refer to the <a href='/learn/certifications/browse/?resource_type=examination'>Browse Certifications and Exams page</a>.<br/><br/></strong></div>
+  
+  Candidates for this certification are professional developers that use Visual Studio 2017 and the Microsoft® .NET Core Framework to design and develop Web solutions. Candidates should have a minimum of three to five years of experience developing ASP.NET MVC-based solutions. Additionally, candidates should be able to demonstrate the following&#58;
+  - Experience designing and developing Web applications that access various (local and remote) data and services including Windows Azure
+  - Experience with the full software development life cycle of data and service solutions
+  - Experience developing and deploying to multi-tier environments, including Windows Azure
+  - Experience designing and developing asynchronous solutions
+  - Experience creating and consuming HTTP services
+subTitle: 'Candidates for this certification are professional developers that use Visual Studio 2017 and the Microsoft® .NET Core Framework to design and develop Web solutions. Candidates should have a minimum of three to five years of experience developing ASP.NET MVC-based solutions.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiMe
+practiceTestUrl: https://www.mindhub.com/70-487-developing-microsoft-azure-and-web-services/p/MU-70-487?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+locales:
+- en
+- zh-cn
+- fr
+- de
+- ja
+- pt-br
+levels:
+- advanced
+skills:
+- Accessing Data (20-25%)
+- Querying and Manipulating Data by Using the Entity Framework (20-25%)
+- Creating and Consuming Web API-based services (20-25%)
+- Designing and Implementing Web Services (15-20%)
+- Deploying Web Applications and Services (15-20%)
+roles:
+- developer
+products:
+- azure
+courses:
+- uid: course.20487-c
+- uid: course.20487-d
+relatedCertifications:
+- related:
+    uid: certification.mcsd-app-builder-certification
+resources:
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: ../certification-exam-policies.md

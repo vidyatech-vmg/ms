@@ -1,0 +1,68 @@
+### YamlMime:Course
+title: Universal Resource Scheduling for Dynamics 365 for Field Service
+metadata:
+  title: 'Course MB-240T03-A: Universal Resource Scheduling for Dynamics 365 for Field Service'
+  description: 'Course MB-240T03-A: Universal Resource Scheduling for Dynamics 365 for Field Service'
+uid: course.mb-240t03
+courseNumber: 'MB-240T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Identify the core components used to schedule items.
+- skill: Configure the application to best leverage the scheduling features.
+- skill: Leverage scheduling features to locate and schedule resources for work.
+- skill: Tailor the application to best represent organizational needs.
+- skill: Develop solutions that can be used to schedule single or multiple resources.
+- skill: Identify the extension options available as part of Universal Resource Scheduling.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-field-service
+exams:
+- uid: exam.mb-240
+summary: |-
+  Any organization that requires resources to execute services needs to efficiently be able to identify and schedule based on requirements defined by organizational needs. Dynamics 365’s Universal Resource Scheduling solution enables organizations more effectively manage and schedule these resources by providing a configurable toolset.
+
+  This course will equip students with the skills necessary to configure and consume the tools available to more efficiently manage organizational resources. Key topics include identifying where to begin, as well as the organizational considerations that will drive resource scheduling decisions. A primary focus will be on how to best leverage the tools that are available to locate and schedule resources, such as using the schedule board and the schedule assistant. Additionally, we will examine customization scenarios such as enabling items for scheduling, defining schedule board options, working with multiple schedule boards, and extending the core scheduling functionality.     
+
+  This course helps students better understand what is important to organizations when scheduling resources and focuses on implementation considerations that aid in designing more efficient solutions that align with customer and organizational goals. 
+
+prerequisitesSection: |-
+  Basic understanding of Dynamics 365 features, functionality, and navigation.
+outlineSection: |-
+  ### Module  1&#58; Universal Resource Scheduling
+  #### Lessons
+  - Universal Resource Scheduling (URS) overview and configuration
+  - Enabling entities for URS
+  - Entity customization and automation considerations
+
+
+  ### Module  2&#58; Managing scheduling options
+  #### Lessons
+  - Using the Schedule Board
+  - Scheduling items
+  - Rescheduling and substituting resources
+  - Crew and resource pool scheduling
+
+
+  ### Module  3&#58; Customizing the Schedule Board
+  #### Lessons
+  - Configure the schedule board
+  - Create additional schedule boards
+  - Leverage Dynamics 365 views with the schedule board
+  - Configure schedule board queries and filters
+  - Working with requirement groups
+
+
+  ### Module  4&#58; Resource Scheduling Optimization
+  #### Lessons
+  - Resource Scheduling Optimization overview
+  - Defining optimization goals
+  - Defining optimization scopes
+  - Defining optimization profiles

@@ -1,0 +1,131 @@
+### YamlMime:Course
+title: Configure and use warehouse, and transportation management in Dynamics 365 for Finance and Operations
+metadata:
+  title: 'Course MB-330T03-A: Configure and use warehouse, and transportation management in Dynamics 365 for Finance and Operations'
+  description: 'Course MB-330T03-A: Configure and use warehouse, and transportation management in Dynamics 365 for Finance and Operations'
+uid: course.mb-330t03
+courseNumber: 'MB-330T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-330
+summary: |-
+  Organizations use Dynamics 365 for Finance and Operations to automate and streamline their supply chain by modernizing business logistics, delivering timely customer response, getting ahead with predictive insights, streamlining procurement, and unifying processes from sales to fulfillment. This course discusses how to configure and use warehouse and transportation management in Dynamics 365 for Finance and Operations.
+
+  #### Audience profile
+  A Dynamics 365 for Finance and Operations Functional Consultant is responsible for performing discovery, capturing requirements, engaging subject matter experts and stakeholders, translating requirements, and configuring the solution and applications. The Functional Consultant implements a solution using out-of-the-box capabilities, codeless extensibility, application, and service integrations.
+prerequisitesSection: |-
+  Basic understanding of ERP and CRM concepts.
+outlineSection: |-
+  ### Module  1&#58; Configure Warehouse Management
+  The Warehouse management module for Dynamics 365 for Finance and Operations helps manage warehouse processes in manufacturing, distribution, and retail companies.
+
+  It has a wide range of features to support the warehouse facility at an optimal level, at any time. Warehouse management is fully integrated with other business processes in Finance and Operations such as transportation, manufacturing, quality control, purchase, transfer, sales, and returns.
+  #### Lessons
+  - Introduction
+  - Configure warehouse management setup
+  - Understand reservation hierarchies
+  - Location directives and work templates
+  - Practice Labs
+  - Module summary
+
+
+  In this module, students learned how to&#58;
+  - Configure Warehouse management parameters
+  - Create warehouses and locations
+  - Configure work pools, zones, location format, and profiles
+  - Create reservation hierarchies
+  - Configure location directives
+  - Configure Waves
+  - Configure Loads
+  - Configure Inventory statuses
+  - Configure cycle counting
+  - Configure Packing and containerization
+  - Set up and generate labels
+
+
+  ### Module  2&#58; Configure Mobile Devices for Warehouse Management
+  This topic explains how to configure Mobile device setup for Warehouse Management in Finance and Operations.
+  #### Lessons
+  - Introduction
+  - Configure mobile devices
+  - Practice Lab
+  - Module summary
+
+
+  In this module, students learned to&#58;
+  - Create new work classes
+  - Configure mobile devices
+  - Configure menu items for activities and inquiries
+  - Configure menu items to create work for another worker or process
+  - Configure menu items to process existing work
+  - Define the layout of mobile device menus
+  - Configure the basic look and feel of mobile devices
+  - Create mobile device users
+  - Set up label layouts and define settings for printing labels
+
+
+  ### Module  3&#58; Use Warehouse Management
+  Before using the Mobile device for Warehouse management, the application must be installed. This topic explains how to use warehouse management processes in Finance and Operations.
+  #### Lessons
+  - Introduction
+  - Configure mobile device
+  - Inbound operations
+  - Cycle counting
+  - Transfers and replenishment
+  - Outbound operations
+  - Cluster picking
+  - Packing and containerization
+  - Practice Labs
+  - Module summary
+
+
+  In this module, students learned how to perform&#58;
+  - Inbound operations
+  - Outbound operations
+  - Cluster Picking
+  - Packing and containerization
+  - Cycle counting
+  - Transfers and Replenishment
+
+
+  ### Module  4&#58; Configure Transportation Management
+  This module gives an overview of the Transportation management functionality in Microsoft Dynamics 365 for Finance and Operations and teaches how to configure and use Transportation management.
+  #### Lessons
+  - Introduction
+  - Planning and configuring transportation management
+  - Procedures
+  - Routing and transportation flows
+  - Transportation engines and freight management
+  - Practice Labs
+  - Module summary
+
+
+  In this module, students learned how to perform&#58;
+  - Transportation planning
+  - Routing
+  - Rating
+  - Inbound operations
+  - Load processes
+  - Outbound operations
+
+
+  ### Module  5&#58; Course Conclusion
+  Final assessment and course summary, as well as a post-course survey for the course.
+  #### Lessons
+  - Final assessment
+  - Course summary
+  - Post-course survey
+
+
+  Students will have completed the course.

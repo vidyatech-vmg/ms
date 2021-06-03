@@ -1,0 +1,43 @@
+### YamlMime:Examination
+title: Word 2010 Expert
+metadata:
+  title: 'Exam 77-887: Word 2010 Expert'
+  description: 'Exam 77-887: Word 2010 Expert'
+uid: exam.77-887
+displayName: 77-887
+summary: |-
+  Expert-level Microsoft Word 2010 users are able to proficiently and confidently use Word 2010 software at the feature and functionality levels. Expert users work with the advanced features of Word 2010 to enhance professional documents, create documents ready for publication, and collaborate effectively on group editing projects. Expert users manipulate Word options to customize their environment to meet varying needs and to enhance productivity.
+subTitle: Expert-level Microsoft Word 2010 users are able to proficiently and confidently use Word 2010 software at the feature and functionality levels. Expert users work with the advanced features of Word 2010 to enhance professional documents, create documents ready for publication, and collaborate effectively on group editing projects. Expert users manipulate Word options to customize their environment to meet varying needs and to enhance productivity.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiy7
+scheduleExamUrl: https://www.certiport.com/locator
+locales:
+- zh-tw
+levels:
+- beginner
+skills:
+- Share and maintain documents (15–20%)
+- Format content (25–30%)
+- Track and reference documents (20–25%)
+- Perform mail merge operations (15–20%)
+- Manage macros and forms (25–30%)
+roles:
+- business-user
+products:
+- office-word
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: ../certification-exam-policies.md

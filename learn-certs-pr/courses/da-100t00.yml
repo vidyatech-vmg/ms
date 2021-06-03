@@ -1,0 +1,281 @@
+### YamlMime:Course
+title: Analyzing Data with Power BI
+metadata:
+  title: 'Course DA-100T00-A: Analyzing Data with Power BI'
+  description: 'Course DA-100T00-A: Analyzing Data with Power BI'
+uid: course.da-100t00
+courseNumber: 'DA-100T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Ingest, clean, and transform data
+- skill: Model data for performance and scalability
+- skill: Design and create reports for data analysis
+- skill: Apply and perform advanced report analytics
+- skill: Manage and share report assets
+- skill: Create paginated reports in Power BI
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- data-analyst
+products:
+- sql-server
+exams:
+- uid: exam.da-100
+summary: |-
+  This course will discuss the various methods and best practices that are in line with business and technical requirements for modeling, visualizing, and analyzing data with Power BI. The course will also show how to access and process data from a range of data sources including both relational and non-relational data. This course will also explore how to implement proper security standards and policies across the Power BI spectrum including datasets and groups. The course will also discuss how to manage and deploy reports and dashboards for sharing and content distribution. Finally, this course will show how to build paginated reports within the Power BI service and publish them to a workspace for inclusion within Power BI.
+
+  #### Audience profile
+  The audience for this course are data professionals and business intelligence professionals who want to learn how to accurately perform data analysis using Power BI. This course is also targeted toward those individuals who develop reports that visualize data from the data platform technologies that exist on both in the cloud and on-premises.
+prerequisitesSection: |-
+  Successful Data Analysts start this role with experience of working with data in the cloud.
+  
+  Specifically&#58; 
+  - Understanding core data concepts.
+  - Knowledge of working with relational data in the cloud.
+  - Knowledge of working with non-relational data in the cloud.
+  - Knowledge of data analysis and visualization concepts. 
+  
+  You can gain the prerequisites and a better understanding of working with data in Azure by completing [Microsoft Azure Data Fundamentals](/learn/certifications/azure-data-fundamentals) before taking this course.
+outlineSection: |-
+  ### Module 1&#58; Get Started with Microsoft Data Analytics
+  This module explores the different roles in the data space, outlines the important roles and responsibilities of a Data Analysts, and then explores the landscape of the Power BI portfolio.
+  #### Lessons
+  - Data Analytics and Microsoft
+  - Getting Started with Power BI
+
+  #### Lab &#58; Getting Started
+  - Getting Started
+
+  After completing this module, you will be able to&#58;
+  - Explore the different roles in data
+  - Identify the tasks that are performed by a data analyst
+  - Describe the Power BI landscape of products and services
+  - Use the Power BI service
+
+
+  ### Module 2&#58; Prepare Data in Power BI
+  This module explores identifying and retrieving data from various data sources. You will also learn the options for connectivity and data storage, and understand the difference and performance implications of connecting directly to data vs. importing it.
+  #### Lessons
+  - Get data from various data sources
+  - Optimize performance
+  - Resolve data errors
+
+  #### Lab &#58; Preparing Data in Power BI Desktop
+  - Prepare Data
+
+  After completing this module, you will be able to&#58;
+  - Identify and retrieve data from different data sources
+  - Understand the connection methods and their performance implications
+  - Optimize query performance
+  - Resolve data import errors
+
+
+  ### Module 3&#58; Clean, Transform, and Load Data in Power BI
+  This module teaches you the process of profiling and understanding the condition of the data. They will learn how to identify anomalies, look at the size and shape of their data, and perform the proper data cleaning and transforming steps to prepare the data for loading into the model.
+  #### Lessons
+  - Data shaping
+  - Enhance the data structure
+  - Data Profiling
+
+  #### Lab &#58; Transforming and Loading Data
+  - Loading Data
+
+  After completing this module, students will be able to&#58;
+  - Apply data shape transformations
+  - Enhance the structure of the data
+  - Profile and examine the data
+
+
+  ### Module 4&#58; Design a Data Model in Power BI
+  This module teaches the fundamental concepts of designing and developing a data model for proper performance and scalability. This module will also help you understand and tackle many of the common data modeling issues, including relationships, security, and performance.
+  #### Lessons
+  - Introduction to data modeling
+  - Working with tables
+  - Dimensions and Hierarchies
+
+  #### Lab &#58; Data Modeling in Power BI Desktop
+  - Create Model Relationships
+  - Configure Tables
+  - Review the model interface
+  - Create Quick Measures
+
+  #### Lab &#58; Advanced Data Modeling in Power BI Desktop
+  - Configure many-to-many relationships
+  - Enforce row-level security
+
+  After completing this module, you will be able to&#58;
+  - Understand the basics of data modeling
+  - Define relationships and their cardinality
+  - Implement Dimensions and Hierarchies
+  - Create histograms and rankings
+
+
+  ### Module 5&#58; Create Model Calculations using DAX in Power BI
+  This module introduces you to the world of DAX and its true power for enhancing a model. You will learn about aggregations and the concepts of Measures, calculated columns and tables, and Time Intelligence functions to solve calculation and data analysis problems.
+  #### Lessons
+  - Introduction to DAX
+  - DAX context
+  - Advanced DAX
+
+  #### Lab &#58; Introduction to DAX in Power BI Desktop
+  - Create calculated tables
+  - Create calculated columns
+  - Create measures
+
+  #### Lab &#58; Advanced DAX in Power BI Desktop
+  - Use the CALCULATE() function to manipulate filter context
+  - use Time Intelligence functions
+
+  After completing this module, you will be able to&#58;
+  - Understand DAX
+  - Use DAX for simple formulas and expressions
+  - Create calculated tables and measures
+  - Build simple measures
+  - Work with Time Intelligence and Key Performance Indicators
+
+
+  ### Module 6&#58; Optimize Model Performance
+  In this module you are introduced to steps, processes, concepts, and data modeling best practices necessary to optimize a data model for enterprise-level performance.
+  #### Lessons
+  - Optimze the model for performance
+  - Optimize DirectQuery Models
+  - Create and manage Aggregations
+
+  After completing this module, you will be able to&#58;
+  - Understand the importance of variables
+  - Enhance the data model
+  - Optimize the storage model
+  - Implement aggregations
+
+
+  ### Module 7&#58; Create Reports
+  This module introduces you to the fundamental concepts and principles of designing and building a report, including selecting the correct visuals, designing a page layout, and applying basic but critical functionality. The important topic of designing for accessibility is also covered.
+  #### Lessons
+  - Design a report
+  - Enhance the report
+
+  #### Lab &#58; Designing a report in Power BI
+  - Create a live connection in Power BI Desktop
+  - Design a report
+  - Configure visual fields adn format properties
+
+  #### Lab &#58; Enhancing Power BI reports with interaction and formatting
+  - Create and configure Sync Slicers
+  - Create a drillthrough page
+  - Apply conditional formatting
+  - Create and use Bookmarks
+
+  After completing this module, you will be able to&#58;
+  - Design a report page layout
+  - Select and add effective visualizations
+  - Add basic report functionality
+  - Add report navigation and interactions
+  - Improve report performance
+  - Design for accessibility
+
+
+  ### Module 8&#58; Create Dashboards
+  In this module you will learn how to tell a compelling story through the use of dashboards and the different navigation tools available to provide navigation. You will be introduced to features and functionality and how to enhance dashboards for usability and insights.
+  #### Lessons
+  - Create a Dashboard
+  - Real-time Dashboards
+  - Enhance a Dashboard
+
+  #### Lab &#58; Designing a report in Power BI Desktop - Part 1
+  - Create a Dashboard
+  - Pin visuals to a Dashboard
+  - Configure a Dashboard tile alert
+  - Use Q&A to create a dashboard tile
+
+  After completing this module, students will be able to&#58;
+  - Create a Dashboard
+  - Understand real-time Dashboards
+  - Enhance Dashboard usability
+
+
+  ### Module 9&#58; Create Paginated Reports in Power BI
+  This module will teach you about paginated reports, including what they are how they fit into Power BI. You will then learn how to build and publish a report.
+  #### Lessons
+  - Paginated report overview
+  - Create Paginated reports
+
+  #### Lab &#58; Creating a Paginated report
+  - Use Power BI Report Builder
+  - Design a multi-page report layout
+  - Define a data source
+  - Define a dataset
+  - Create a report parameter
+  - Export a report to PDF
+
+  After completing this module, you will be able to&#58;
+  - Explain paginated reports
+  - Create a paginated report
+  - Create and configure a data source and dataset
+  - Work with charts and tables
+  - Publish a report
+
+
+  ### Module 10&#58; Perform Advanced Analytics
+  This module helps you apply additional features to enhance the report for analytical insights in the data, equipping you with the steps to use the report for actual data analysis. You will also perform advanced analytics using AI visuals on the report for even deeper and meaningful data insights.
+  #### Lessons
+  - Advanced Analytics
+  - Data Insights through AI visuals
+
+  #### Lab &#58; Data Analysis in Power BI Desktop
+  - Create animated scatter charts
+  - Use teh visual to forecast values
+  - Work with Decomposition Tree visual
+  - Work with the Key Influencers visual
+
+  After completing this module, you will be able to&#58;
+  - Explore statistical summary
+  - Use the Analyze feature
+  - Identify outliers in data
+  - Conduct time-series analysis
+  - Use the AI visuals
+  - Use the Advanced Analytics custom visual
+
+
+  ### Module 11&#58; Create and Manage Workspaces
+  This module will introduce you to Workspaces, including how to create and manage them. You will also learn how to share content, including reports and dashboards, and then learn how to distribute an App.
+  #### Lessons
+  - Creating Workspaces
+  - Sharing and Managing Assets
+
+  #### Lab &#58; Publishing and Sharing Power BI Content
+  - Map security principals to dataset roles
+  - Share a dashboard
+  - Publish an App
+
+  After completing this module, you will be able to&#58;
+  - Create and manage a workspace
+  - Understand workspace collaboration
+  - Monitor workspace usage and performance
+  - Distribute an App
+
+
+  ### Module 12&#58; Manage Datasets in Power BI
+  In this module you will learn the concepts of managing Power BI assets, including datasets and workspaces. You will also publish datasets to the Power BI service, then refresh and secure them.
+  #### Lessons
+  - Parameters
+  - Datasets
+
+  After completing this module, you will be able to&#58;
+  - Create and work with parameters
+  - Manage datasets
+  - Configure dataset refresh
+  - Troubleshoot gateway connectivity
+
+
+  ### Module 13&#58; Row-level security
+  This module teaches you the steps for implementing and configuring security in Power BI to secure Power BI assets.
+  #### Lessons
+  - Security in Power BI
+
+  After completing this module, you will be able to&#58;
+  - Understand the aspects of Power BI security
+  - Configure row-level security roles and group memberships

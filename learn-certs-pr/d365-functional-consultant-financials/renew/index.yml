@@ -1,0 +1,22 @@
+### YamlMime:CertificationRenewal
+title: 'Renewal for Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate'
+metadata:
+  title: 'Renewal for Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate'
+  description: 'If you have this certification and it will expire within six months, you are eligible to renew.'
+uid: renewal.d365-functional-consultant-financials
+certificationUid: certification.d365-functional-consultant-financials
+assessmentId: 778eff49-9918-4702-b1af-5b6e14dc6c84
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  If you have this certification and it will expire within six months, you are eligible to renew. Show that you have kept current with the latest Dynamics 365 Finance updates by passing the renewal assessment. You can also prepare to renew with the curated collection of learning modules.
+skills:
+- Process credit and collections in Dynamics 365 Finance
+- Configure fixed assets management in Dynamics 365 Finance
+examsPassed:
+- mb-300, mb-310
+studyGuideDescription: 'Use this collection of learning modules to help you prepare for the Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate renewal assessment.'
+resources:
+- title: About certification renewal
+  summary: Understand the process and requirements to renew your certifications online
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

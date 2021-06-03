@@ -1,0 +1,61 @@
+### YamlMime:Examination
+title: Microsoft Excel 2013
+metadata:
+  title: 'Exam 77-420: Microsoft Excel 2013'
+  description: 'Exam 77-420: Microsoft Excel 2013'
+uid: exam.77-420
+displayName: 77-420
+summary: |-
+  A core-level candidate for the Microsoft Excel 2013 exam should have a fundamental understanding of the Excel environment and the ability to complete tasks independently. They should know and demonstrate the correct application of the principal features of Excel 2013. These candidates should be able to create and edit a workbook with multiple sheets for a variety of purposes and situations. Examples include professional-looking budgets, team performance charts, sales invoices, and exercise logs. Candidate roles might include students, clerical workers, bookkeepers, instructors, and others.
+subTitle: A core-level candidate for the Microsoft Excel 2013 exam should have a fundamental understanding of the Excel environment and the ability to complete tasks independently. They should know and demonstrate the correct application of the principal features of Excel 2013. These candidates should be able to create and edit a workbook with multiple sheets for a variety of purposes and situations. Examples include professional-looking budgets, team performance charts, sales invoices, and exercise logs. Candidate roles might include students, clerical workers, bookkeepers, instructors, and others.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toXa
+scheduleExamUrl: https://www.certiport.com/locator
+locales:
+- en
+- zh-cn
+- zh-tw
+- de
+- es
+- fr
+- it
+- ja
+- ko
+- nb
+- nl
+- pl
+- pt-br
+- ru
+- ar-sa
+- el-gr
+- vi-vn
+levels: 
+- beginner
+skills:
+- Create and manage worksheets and workbooks
+- Create cells and ranges
+- Create tables
+- Apply formulas and functions
+- Create charts and objects
+roles:
+- business-user
+products:
+- office
+relatedCertifications:
+- related:
+    uid: certification.mos-excel-2013
+- related:
+    uid: certification.microsoft-office-specialist-master-certification-2013
+resources:
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: ../certification-exam-policies.md

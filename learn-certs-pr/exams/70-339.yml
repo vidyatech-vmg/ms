@@ -1,0 +1,62 @@
+### YamlMime:Examination
+title: Managing Microsoft SharePoint Server 2016
+metadata:
+  title: 'Exam 70-339: Managing Microsoft SharePoint Server 2016'
+  description: 'Exam 70-339: Managing Microsoft SharePoint Server 2016'
+uid: exam.70-339
+displayName: 70-339
+summary: |-
+  <div><strong>This exam retired on January 31, 2021. For currently available options, please refer to the <a href='/learn/certifications/browse/?resource_type=examination'>Browse Certifications and Exams page</a>.<br/><br/></strong></div>
+  
+  The exam is targeted at experienced IT professionals who install, configure, deploy, and manage SharePoint 2016 installations in a datacenter and in the cloud. Candidates typically have more than four years of experience in planning and maintaining SharePoint and other core technologies upon which SharePoint depends, including Windows Server 2008 R2 or later, Internet Information Services (IIS), SQL Server 2008 R2 or later, Active Directory, and networking infrastructure services.
+
+  Candidates should also have experience with business continuity management, including data backup, restoration, and high availability, in addition to experience with authentication and security technologies. PowerShell experience is highly preferred.
+
+  The secondary audience for this exam is Business Application Administrators (BAAs) who are actively engaged in administering line-of-business (LOB) projects in conjunction with internal business customers working with SharePoint 2016.
+subTitle: The exam is targeted at experienced IT professionals who install, configure, deploy, and manage SharePoint 2016 installations in a datacenter and in the cloud. Candidates typically have more than four years of experience in planning and maintaining SharePoint and other core technologies upon which SharePoint depends, including Windows Server 2008 R2 or later, Internet Information Services (IIS), SQL Server 2008 R2 or later, Active Directory, and networking infrastructure services.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XSBh
+practiceTestUrl: https://www.mindhub.com/70-339-Managing-Microsoft-SharePoint-Server-2016-p/mu-70-339_p.htm?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+locales:
+- en
+- es
+- zh-cn
+- zh-tw
+- fr
+- de
+- ja
+- pt-br
+levels: 
+- intermediate
+skills:
+- Design SharePoint infrastructure (15–20%)
+- Plan authentication and security (15–20%)
+- Plan workload optimization (15–20%)
+- Plan productivity solutions (15–20%)
+- Manage search capabilities (10–15%)
+- Plan and configure cloud services (5–10%)
+- Monitor and optimize a SharePoint environment (10–15%)
+retirementDate: 01/31/2021
+roles:
+- administrator
+products:
+- m365
+courses:
+- uid: course.20339-1
+- uid: course.20339-2
+relatedCertifications:
+- related:
+    uid: certification.mcse-productivity-certification
+resources:
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review the exam policies and frequently asked questions.
+  href: ../certification-exam-policies.md

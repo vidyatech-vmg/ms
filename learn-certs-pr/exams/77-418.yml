@@ -1,0 +1,61 @@
+### YamlMime:Examination
+title: Microsoft Word 2013
+metadata:
+  title: 'Exam 77-418: Microsoft Word 2013'
+  description: 'Exam 77-418: Microsoft Word 2013'
+uid: exam.77-418
+displayName: 77-418
+summary: |-
+  A core-level candidate for the Microsoft Word 2013 exam should have a fundamental understanding of the Word environment and the ability to complete tasks independently. They should know and demonstrate the correct application of the principal features of Word 2013. These candidates should be able to create and edit 2-3 page documents for a variety of purposes and situations. Examples include professional-looking reports, multi-column newsletters, résumés, and business correspondence. Candidate roles might include students, clerical workers, instructors, and others.
+subTitle: A core-level candidate for the Microsoft Word 2013 exam should have a fundamental understanding of the Word environment and the ability to complete tasks independently. They should know and demonstrate the correct application of the principal features of Word 2013. These candidates should be able to create and edit 2-3 page documents for a variety of purposes and situations. Examples include professional-looking reports, multi-column newsletters, résumés, and business correspondence. Candidate roles might include students, clerical workers, instructors, and others.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJC
+scheduleExamUrl: https://www.certiport.com/locator
+locales:
+- en
+- zh-cn
+- zh-tw
+- de
+- es
+- fr
+- it
+- ja
+- ko
+- nb
+- nl
+- pl
+- pt-br
+- ru
+- ar-sa
+- el-gr
+- vi-vn
+levels: 
+- beginner
+skills:
+- Create and manage documents
+- Format text, paragraphs, and sections
+- Create tables and lists
+- Apply references
+- Insert and format objects
+roles:
+- business-user
+products:
+- office
+relatedCertifications:
+- related:
+    uid: certification.mos-word-2013
+- related:
+    uid: certification.microsoft-office-specialist-master-certification-2013
+resources:
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: ../certification-exam-policies.md

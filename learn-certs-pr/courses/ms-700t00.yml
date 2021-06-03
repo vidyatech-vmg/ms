@@ -1,0 +1,125 @@
+### YamlMime:Course
+title: Managing Microsoft Teams
+metadata:
+  title: 'Course MS-700T00-A: Managing Microsoft Teams'
+  description: 'Course MS-700T00-A: Managing Microsoft Teams'
+uid: course.ms-700t00
+courseNumber: 'MS-700T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: What is Microsoft Teams and how the components work together
+- skill: How to implement Governance, Security and Compliance for Microsoft Teams
+- skill: How to prepare an organizations environment for a Microsoft Teams deployment
+- skill: How to deploy and manage teams
+- skill: Ways of managing collaboration in Microsoft Teams
+- skill: Techniques to manage and troubleshoot communication in Microsoft Teams
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-700
+summary: |-
+  The Managing Microsoft Teams course is designed for persons who are aspiring to the Microsoft 365 Teams Admin role.
+  Microsoft Teams admins configure, deploy, and manage Office 365 workloads for Microsoft Teams that focus on efficient and effective collaboration and communication in an enterprise environment.
+  This course covers six central elements - Microsoft Teams overview, implementing governance, security and compliance for Microsoft Teams, preparing the environment for a Microsoft Teams deployment, deploying and managing teams, managing collaboration and managing communication in Microsoft Teams.
+  In Microsoft Teams overview, you will get an overview of Microsoft Teams including Teams architecture and related Office 365 workloads. You will be provided an overview of security and compliance in Microsoft Teams and finally get an overview of how to manage Microsoft Teams.
+  In implementing governance, security and compliance for Microsoft Teams, you will plan and configure governance for Office 365 groups including expiration and naming policies. Then you will implement security by configuring conditional access, MFA or Threat Management for Microsoft Teams. Finally, you will implement compliance for Teams by using DLP policies, eDiscovery cases or supervision policies.
+  In preparing the environment for a Microsoft Teams deployment, you plan an upgrade from Skype for Business to Microsoft Teams by evaluating upgrade paths with coexistence and upgrade modes, manage meeting migrations and configuring coexistence and upgrade settings. Then you plan and configure network settings for Microsoft Teams, and finally you will deploy and manage Microsoft Teams endpoints.
+  In deploying and managing teams, you will learn how to create and manage teams, manage membership and access for both, internal and external users.
+  In managing collaboration in Microsoft Teams, you will manage chat and collaboration experiences such as team settings or private channel creation policies. Finally, you will manage settings for Teams apps such as app setup policies, Apps, bots & connectors in Microsoft Teams or publish a custom app in Microsoft Teams.
+  This course concludes with managing communication in Microsoft Teams. You will learn how to manage Live event and meetings experiences, manage phone numbers or Phone System for Microsoft Teams and finally how to troubleshoot audio, video, and client issues.
+
+  #### Audience profile
+  Students in this course are interested in Microsoft Teams or in passing the Microsoft Teams Administrator Associate certification exam.
+prerequisitesSection: |-
+  - A proficient understanding of basic functional experience with Microsoft 365 services.
+  - A proficient understanding of general IT practices, including using PowerShell.
+outlineSection: |-
+  ### Module  1&#58; Microsoft Teams Overview
+  In Microsoft Teams overview, you will get an overview of Microsoft Teams including Teams architecture and related Office 365 workloads. You will be provided an overview of security and compliance in Microsoft Teams and finally get an overview of how to manage Microsoft Teams.
+  #### Lessons
+  - Overview of Microsoft Teams
+  - Overview of security and compliance in Microsoft Teams
+  - Overview of managing Microsoft Teams
+
+
+  #### Lab &#58; Manage roles and create teams
+  - Prepare team roles and licenses
+  - Create new team
+
+
+  ### Module  2&#58; Implement Microsoft Teams Governance, Security and Compliance
+  In implementing governance, security and compliance for Microsoft Teams, you will plan and configure governance for Office 365 groups including expiration and naming policies. Then you will implement security by configuring conditional access, MFA or Threat Management for Microsoft Teams. Finally, you will implement compliance for Teams by using DLP policies, eDiscovery cases or supervision policies.
+  #### Lessons
+  - Implement Governance and Lifecycle Management for Microsoft Teams
+  - Implementing Security for Microsoft Teams
+  - Implementing Compliance for Microsoft Teams
+
+
+  #### Lab &#58; Configure Security and Compliance for teams and content
+  - Implement Governance and Lifecycle Management for Microsoft Teams
+  - Implementing security for Microsoft Teams
+  - Implementing compliance for Microsoft Teams
+
+
+  ### Module  3&#58; Prepare the environment for a Microsoft Teams deployment
+  In preparing the environment for a Microsoft Teams deployment, you plan an upgrade from Skype for Business to Microsoft Teams by evaluating upgrade paths with coexistence and upgrade modes, manage meeting migrations and configuring coexistence and upgrade settings. Then you plan and configure network settings for Microsoft Teams, and finally you will deploy and manage Microsoft Teams endpoints.
+  #### Lessons
+  - Upgrade from Skype for Business to Microsoft Teams
+  - Plan and configure network settings for Microsoft Teams
+  - Deploy and Manage Microsoft Teams endpoints
+
+
+  #### Lab &#58; Environment preparation for Teams
+  - Calculate networking capabilities
+  - Evaluate configuration profiles
+  - Provide team resources
+
+
+  ### Module  4&#58; Deploy and manage teams
+  In deploying and managing teams, you will learn how to create and manage teams, manage membership and access for both, internal and external users.
+  #### Lessons
+  - Create and manage teams
+  - Manage membership
+  - Manage access for external users
+
+
+  #### Lab &#58; Manage teams
+  - Manage team resources
+  - Manage sharing and access
+
+
+  ### Module  5&#58; Manage collaboration in Microsoft Teams
+  In managing collaboration in Microsoft Teams, you will manage chat and collaboration experiences such as team settings or private channel creation policies. Finally, you will manage settings for Teams apps such as app setup policies, Apps, bots & connectors in Microsoft Teams or publish a custom app in Microsoft Teams.
+  #### Lessons
+  - Manage chat and collaboration experiences
+  - Manage settings for Teams apps
+
+
+  #### Lab &#58; Modify collaboration settings for Teams
+  - Configure channel and message policies
+  - Manage app settings for team
+
+
+  ### Module  6&#58; Manage communication in Microsoft Teams
+  This course concludes with managing communication in Microsoft Teams. You will learn how to manage Live event and meetings experiences, manage phone numbers or Phone System for Microsoft Teams and finally how to troubleshoot audio, video, and client issues.
+  #### Lessons
+  - Manage Live event and meetings experiences
+  - Manage phone numbers
+  - Manage Phone System for Microsoft Teams
+  - Troubleshot audio, video, and client issues
+
+
+  #### Lab &#58; Modify communication settings for Teams
+  - Configure meeting policies
+  - Manage Phone System for Microsoft Teams
+  - Troubleshooting audio, video and client issues

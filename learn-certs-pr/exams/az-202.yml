@@ -1,0 +1,63 @@
+### YamlMime:Examination
+title: Microsoft Azure Developer Certification Transition
+metadata:
+  title: 'Exam AZ-202: Microsoft Azure Developer Certification Transition'
+  description: 'Exam AZ-202: Microsoft Azure Developer Certification Transition'
+uid: exam.az-202
+displayName: AZ-202
+summary: |-
+  <div>
+  <div><strong>THIS EXAM WAS RETIRED MARCH 31, 2019. Note&#58; Exams retire at 11:59 PM Central Standard Time</strong><br/><br/></div>
+  </div>
+  
+  This exam is intended only for those candidates who have taken [Exam 70-532](https://www.microsoft.com/learning/exam-70-532.aspx)&#58; Developing Microsoft Azure Solutions. If you have not taken Exam 532, you will not earn a certification by taking this exam.
+  
+  The transition exam is intended for people who have already demonstrated skills in the content domain by passing the existing exam(s) that the new role-based certification exams will be replacing. They cover the delta between the current certification and what we expect people who earn the new certification to be able to do. We don’t want to retest people on the same content where they have already demonstrated competence by passing the existing exam.
+
+  Transition exams cover net new content, content that wasn’t covered in enough depth, and content on aspects of the technology that have likely changed since someone took the exam. As a result, the transition exam is not shorter than a typical exam but more focused on the key tasks and skills that were not assessed in the existing exam or certification that is being replaced.
+
+  Candidates for this exam are Azure Developers who design and build cloud solutions such as applications and services. They participate in all phases of development, from solution design, to development and deployment, to testing and maintenance. They partner with cloud solution architects, cloud DBAs, cloud administrators, and clients to implement the solution.
+
+  Candidates should be proficient in developing apps and services by using Azure tools and technologies, including storage, security, compute, and communications.
+
+  Candidates must have at least one year of experience developing scalable solutions through all phases of software development and be skilled in at least one cloud-supported programming language.
+subTitle: 'This exam is intended only for candidates who have taken Exam 70-532: Developing Microsoft Azure Solutions. If you have not taken Exam 532, you will not earn a certification by taking this exam.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJV3
+scheduleExamUrl: https://examregistration.microsoft.com/
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Develop for cloud storage (15-20%)
+- Create Platform as a Service (PaaS) Solutions (30-35%)
+- Secure cloud solutions (5-10%)
+- Develop for an Azure cloud model (25-30%)
+- Implement cloud integration solutions (15-20%)
+retirementDate: 03/31/2019
+roles:
+- developer
+products:
+- azure
+exams:
+- uid: exam.az-203
+relatedCertifications:
+- related:
+    uid: certification.azure-developer
+resources:
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Certification poster
+  description: Check out an overview of fundamentals, role-based and specialty certifications.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review the exam policies and frequently asked questions.
+  href: ../certification-exam-policies.md

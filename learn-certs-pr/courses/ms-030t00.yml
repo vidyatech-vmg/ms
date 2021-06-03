@@ -1,0 +1,287 @@
+### YamlMime:Course
+title: Office 365 Administrator
+metadata:
+  title: 'Course MS-030T00-A: Office 365 Administrator'
+  description: 'Course MS-030T00-A: Office 365 Administrator'
+uid: course.ms-030t00
+courseNumber: 'MS-030T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Plan an Office 365 deployment, configure the Office 365 tenant, and plan a pilot deployment.
+- skill: Manage Office 365 users, groups, and licenses, and configure delegated administration.
+- skill: Plan and configure client connectivity to Office 365.
+- skill: Plan and configure directory synchronization between Microsoft Azure AD and on-premises AD DS.
+- skill: Plan and implement the Office 365 ProPlus deployment.
+- skill: Plan and manage Microsoft Exchange Online recipients and permissions.
+- skill: Plan and configure Exchange Online services.
+- skill: Plan and configure Microsoft Teams
+- skill: Plan and configure Microsoft SharePoint Online.
+- skill: Plan and configure an Office 365 collaboration solutions.
+- skill: Plan and configure the integration between Office 365 and Microsoft Azure Information Protection.
+- skill: Monitor and review Office 365 services, and troubleshoot Office 365 issues.
+- skill: Plan and implement identity federation between on-premises AD DS and Azure AD.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-365
+summary: |-
+  This is a five-day instructor-led training (ILT) course that targets the needs of IT professionals who take part in evaluating, planning, deploying, and operating Microsoft Office 365 services, including its identities, dependencies, requirements, and supporting technologies. This course focuses on skills required to set up an Office 365 tenant, including federation with existing user identities, and skills required to sustain an Office 365 tenant and its users.
+
+  #### Audience profile
+  This course is intended for IT professionals who are responsible for planning, configuring, and managing an Office 365 environment. Students who attend this course are expected to have a fairly broad understanding of several on-premises technologies such as Domain Name System (DNS) and Active Directory Domain Services (AD DS). In addition, they should have a general understanding of Microsoft Exchange Server, Microsoft Lync Server or Skype for Business Server, and Microsoft SharePoint Server.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - A minimum of two years of experience administering the Windows Server operating system, including Windows Server 2012 or later.
+  - A minimum of one year of experience working with AD DS.
+  - A minimum of one year of experience working with name resolution, including DNS.
+  - Experience working with certificates, including public key infrastructure (PKI) certificates.
+  - Experience working with Windows PowerShell.
+  - Experience working with Exchange Server 2013 or later, Lync Server 2013 or Skype for Business Server 2015, and SharePoint Server 2013 or later is beneficial, but not required.
+outlineSection: |-
+  ### Module 1&#58; Planning and provisioning Office 365
+  This module reviews the features of Office 365 and identifies recent improvements to the service, and describes the process of provisioning an Office 365 tenant. This module also identifies the challenges in deploying Office 365 and the benefits of the Microsoft FastTrack for Office 365 approach, as compared to the traditional plan, prepare, and migrate deployment process.
+  #### Lessons
+  - Overview of Office 365
+  - Provisioning an Office 365 tenant
+  - Planning a pilot deployment
+
+
+  #### Lab &#58; Provisioning Office 365
+  - Configuring an Office 365 tenant
+  - Configuring a custom domain
+  - Exploring the Office 365 administrator interfaces
+
+  After completing this module, students will be able to&#58;
+  - Describe the features and benefits of Office 365.
+  - Provision new tenant accounts.
+  - Plan a pilot deployment of Office 365.
+
+
+  ### Module 2&#58; Managing Office 365 users and groups
+  This module explains how to manage users, groups, and licenses, and configure administrative access by using the Office 365 console and the Windows PowerShell command-line interface. This module also explains how to manage user passwords and configure multi-factor authentication.
+  #### Lessons
+  - Managing user accounts and licenses
+  - Managing passwords and authentication
+  - Managing security groups in Office 365
+  - Managing Office 365 users and groups with Windows PowerShell
+  - Configuring administrative access
+
+
+  #### Lab &#58; Managing Office 365 users and passwords
+  - Managing Office 365 users and licenses by using the Microsoft 365 admin center
+  - Managing Office 365 password policies
+
+
+  #### Lab &#58; Managing Office 365 groups and administration
+  - Managing Office 365 groups
+  - Managing Office 365 users and groups by using Windows PowerShell
+  - Configuring service administrators
+
+  After completing this module, students will be able to&#58;
+  - Manage user accounts and licenses by using the Microsoft 365 admin center.
+  - Manage passwords and authentication.
+  - Manage security and distribution groups by using the Microsoft 365 admin center.
+  - Manage Office 365 users and groups by using Windows PowerShell.
+  - Configure administrative access.
+
+
+  ### Module 3&#58; Configuring client connectivity to Microsoft Office 365
+  This module covers the different types of client software that you can use to connect to Office 365. It also explains the infrastructure requirements that the clients need to connect to Office 365, in addition to how to configure different types of Office 365 clients.
+  #### Lessons
+  - Planning for Office 365 clients
+  - Planning connectivity for Office 365 clients
+  - Configuring connectivity for Office 365 clients
+
+
+  #### Lab &#58; Configuring client connectivity to Office 365
+  - Configuring DNS records for Office 365 clients
+  - Running the Office 365 connectivity analyzer tools
+  - Connecting Office apps
+
+  After completing this module, students will be able to&#58;
+  - Plan for the deployment of Office 365 clients.
+  - Plan for, and troubleshoot, connectivity for Office 365 clients.
+  - Configure connectivity for Office 365 clients.
+
+
+  ### Module 4&#58; Planning and configuring directory synchronization
+  This module explains how to plan, prepare, and implement directory synchronization as a methodology for user and group management in an Office 365 deployment. It explains how to prepare an on-premises environment, and install and configure directory synchronization. It also explains how to manage Office 365 identities after you enable directory synchronization.
+  #### Lessons
+  - Planning and preparing for directory synchronization
+  - Implementing directory synchronization by using Azure AD Connect
+  - Managing Office 365 identities with directory synchronization
+
+
+  #### Lab &#58; Configuring directory synchronization
+  - Preparing for directory synchronization
+  - Configuring directory synchronization
+  - Managing Active Directory users and groups
+
+  After completing this module, students will be able to&#58;
+  - Plan and prepare for directory synchronization.
+  - Implement directory synchronization by using Microsoft Azure Active Directory Connect (AD Connect).
+  - Manage Office 365 identities with directory synchronization.
+
+
+  ### Module 5&#58; Planning and deploying Office 365 ProPlus
+  This module explains how to plan for a client deployment and ensure that users receive the tools that they need to interact with Office 365 effectively. It also explains the planning process, how to make Office 365 ProPlus directly available to end users, and how to deploy it as a managed package. Finally, it describes how to set up Office telemetry so that administrators can track how users are interacting with Microsoft Office.
+  #### Lessons
+  - Overview of Office 365 ProPlus
+  - Planning and managing user-driven Office 365 ProPlus deployments
+  - Planning and managing centralized deployments of Office 365 ProPlus
+  - Office Telemetry and reporting
+
+
+  #### Lab &#58; Managing Office 365 ProPlus installations
+  -  Preparing an Office 365 ProPlus managed installation
+  - Managing user-driven Office 365 ProPlus installations
+  - Managing centralized Office 365 ProPlus installations
+
+  After completing this module, students will be able to&#58;
+  -  Describe Office 365 ProPlus.
+  - Plan and manage user-driven Office 365 ProPlus deployments.
+  - Plan and manage centralized deployments for Office 365 ProPlus.
+  - Describe Office Telemetry and reporting.
+
+
+  ### Module 6&#58; Planning and managing Exchange Online recipients and permissions
+  This module describes Exchange Online, and explains how to create and manage recipient objects, and how to manage and delegate Exchange security.
+  #### Lessons
+  - Overview of Exchange Online
+  - Managing Exchange Online recipients
+  - Planning and configuring Exchange Online permissions
+
+
+  #### Lab &#58; Managing Exchange Online recipients and permissions
+  - Configuring Exchange Online recipients
+  - Configuring role-based access control
+
+  After completing this module, students will be able to&#58;
+  - Describe Exchange Online.
+  - Manage Exchange Online recipients.
+  - Plan and configure delegated administration.
+
+
+  ### Module 7&#58; Planning and configuring Exchange Online services
+  This module explains how to plan for and configure email flow, in addition to anti-malware and anti-spam settings in Office 365. It also explains how to plan and configure policies for Exchange clients. Additionally, it describes how to plan and configure a migration to Exchange Online.
+  #### Lessons
+  - Planning and configuring email flow in Office 365
+  - Planning and configuring email protection in Office 365
+  - Planning and configuring client access policies
+  - Migrating to Exchange Online
+
+
+  #### Lab &#58; Configuring message transport in Exchange Online
+  - Configuring message transport settings
+
+
+  #### Lab &#58; Configuring email protection and client policies
+  - Configuring email protection
+  - Configuring client access policies
+
+  After completing this module, students will be able to&#58;
+  - Plan and configure email flow in Office 365.
+  - Plan and configure anti-malware and anti-spam settings in Office 365.
+  - Plan and configure policies for Exchange clients.
+  - Plan and configure a migration to Exchange Online.
+
+
+  ### Module 8&#58; Planning and deploying Microsoft Teams
+  This module explains how to plan and configure Teams. It explains how to configure Teams  user settings and clients, and plan for voice integration. It also explains how to transition from Skype for Business to Teams and how Teams integrates with other Office 365 services.
+  #### Lessons
+  - Teams Explained
+  -  Deploying Teams
+  - Authentication and Access
+  - Transitioning Skype For Buisness to Microsoft Teams
+  - Management and Reporting
+
+
+  #### Lab &#58; Teams Overview
+  - Manage Meeting Settings
+  - Manage Messaging Policies
+  - Manage Voice Settings
+  - Manage Org-Wide Settings
+
+  After completing this module, students will be able to&#58;
+  - Plan and Configure Teams
+  - Configure teams user settings and channels
+  - manage Voice intergration
+  - Configure Organization wide settings in teams
+
+
+  ### Module 9&#58; Planning and configuring SharePoint Online
+  This module describes how to configure SharePoint Online services. It explains how to plan and configure SharePoint site collections and external user sharing. It also provides a brief overview of additional portals, such as the video portal.
+  #### Lessons
+  -  Configuring SharePoint Online services
+  - Planning and configuring SharePoint Online site collections
+  - Planning and configuring external user sharing
+
+
+  #### Lab &#58; Configuring SharePoint Online
+  - Configuring SharePoint Online settings
+  - Creating and configuring SharePoint Online site collections
+  - Configuring and verifying external user sharing
+
+  After completing this module, students will be able to&#58;
+  - Configure SharePoint Online services.
+  - Plan and configure SharePoint Online site collections.
+  - Plan and configure external user sharing.
+
+
+  ### Module 10&#58; Planning and configuring an Office 365 collaboration solution
+  This module describes how to enable and configure Yammer Enterprise. It also explains how to configure OneDrive for Business and Office 365 groups.
+  #### Lessons
+  - Planning and managing Yammer Enterprise
+  - Planning and configuring OneDrive for Business
+  - Configuring Office 365 groups
+
+
+  #### Lab &#58; Planning and configuring an Office 365 collaboration solution
+  - Configuring Yammer Enterprise
+  - Configuring OneDrive for Business
+  - Configuring Office 365 groups
+
+  After completing this module, students will be able to&#58;
+  - Enable and configure Yammer Enterprise.
+  - Enable and configure Yammer Enterprise.
+  - Configure Office 365 groups.
+
+
+  ### Module 11&#58; Planning and configuring security and compliance in Office 365
+  This module describes the compliance features in Office 365 and how to manage them. It explains how to plan and configure Azure Information Protection. Additionally, it explains the security features in Office 365.
+  #### Lessons
+  - Overview of the compliance features in Office 365
+  - Planning and configuring Azure Information Protection in Office 365
+  - Managing the compliance features in Office 365
+
+
+  #### Lab &#58; Configuring Rights Management and compliance
+  - Configuring Rights Management in Office 365
+  - Configuring compliance features
+
+  After completing this module, students will be able to&#58;
+  - Describe the compliance features in Office 365.
+  - Configure Azure Information Protection in Office 365.
+  - Manage the compliance features in Office 365
+
+
+  ### Module 12&#58; Monitoring and troubleshooting Microsoft Office 365
+  This module explains how to troubleshoot issues with Office 365 connectivity and services, and how to monitor Office 365 service health.
+  #### Lessons
+  - Troubleshooting Office 365
+  - Monitoring Office 365 service health
+
+
+  #### Lab &#58; Monitoring and troubleshooting Office 365
+  - Monitoring Office 365
+  - Monitoring service health and analyzing reports
+
+  After completing this module, students will be able to&#58;
+  - Troubleshoot Office 365 connectivity and service issues.
+  - Monitor Office 365 service health.

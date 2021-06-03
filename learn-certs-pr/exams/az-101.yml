@@ -1,0 +1,62 @@
+### YamlMime:Examination
+title: Microsoft Azure Integration and Security
+metadata:
+  title: 'Exam AZ-101: Microsoft Azure Integration and Security'
+  description: 'Exam AZ-101: Microsoft Azure Integration and Security'
+uid: exam.az-101
+displayName: AZ-101
+summary: |-
+  <div>
+  <div><strong>THIS EXAM WAS RETIRED MAY 1, 2019. Note&#58; Exams retire at 11:59 PM Central Standard Time</strong><br/></div>
+  </div>
+  
+  Candidates for this exam are Azure Administrators who manage cloud services that span storage, security, networking, and compute cloud capabilities. Candidates have a deep understanding of each service across the full IT lifecycle, and take requests for infrastructure services, applications, and environments. They make recommendations on services to use for optimal performance and scale, as well as provision, size, monitor, and adjust resources as appropriate. Candidates for this exam should have proficiency in using PowerShell, the Command Line Interface, Azure Portal, ARM templates, operating systems, virtualization, cloud infrastructure, storage structures, and networking.
+subTitle: 'This exam measures your ability to accomplish the following technical tasks: secure identities, evaluate and perform server migration to Azure, implement and manage application services, and implement advanced virtual networking.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6M
+practiceTestUrl: https://www.mindhub.com/shop/microsoft?facetValueFilter=tenant~publisher:measureup&?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Evaluate and perform server migration to Azure (15-20%)
+- Implement and manage application services (20-25%)
+- Implement advanced virtual networking (30-35%)
+- Secure identities (25-30%)
+retirementDate: 05/01/2019
+roles:
+- administrator
+products:
+- azure
+exams:
+- uid: exam.az-100
+- uid: exam.az-102
+paths:
+- uid: learn.cloud-foundations
+relatedCertifications:
+- related:
+    uid: certification.azure-administrator
+resources:
+- title: Certification Learning Path
+  description: 'Discover training resources to become a Microsoft Certified: Azure Administrator Associate.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtY7Z
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Certification poster
+  description: Check out an overview of fundamentals, role-based and specialty certifications.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Support for certification exams
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: ../help.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review the exam policies and frequently asked questions.
+  href: ../certification-exam-policies.md

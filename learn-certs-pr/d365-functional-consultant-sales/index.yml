@@ -1,0 +1,86 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate'
+  description: 'Microsoft Dynamics 365 Sales Functional Consultants implement solutions that anticipate and plan customer connections, manage deals through processing and closing, and accelerate sales team performance using data analytics.'
+uid: certification.d365-functional-consultant-sales
+certificationRenewalUid: renewal.d365-functional-consultant-sales
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  If you’re a functional consultant, a professional working with Microsoft Dynamics 365 Sales, or a developer looking to hone your consulting skills, this certification could help give your career a boost. It lets you market yourself more effectively for projects and shows your organization that you can use Dynamics 365 Sales to empower the sales force. 
+  
+  As a candidate for this certification, you have experience configuring Microsoft Power Platform and you know Dynamics 365 model-driven applications and data-modeling principles. You work with an organization’s stakeholders to gather requirements and implement Dynamics 365 Sales solutions. You manage leads, opportunities, quotes, and orders, and you configure product catalogs and price lists. Additionally, you configure Dynamics 365 Sales to match your organization's unique business process, and you model Dynamics 365 Sales data. You even extend Dynamics 365 solutions using Power Platform components, such as Power Automate and Power Apps.
+  
+  If you need more experience before you try to earn this certification, here are some suggestions&#58;
+  - Work on a Dynamics 365 model-driven app implementation project.
+  - Shadow a functional consultant or a solution architect who works with Dynamics 365 Sales.
+  - Take available learning paths on Microsoft Learn.
+  - Sign up for an instructor-led training course. 
+
+
+subTitle: Microsoft Dynamics 365 Sales Functional Consultants implement solutions that anticipate and plan customer connections, manage deals through processing and closing, and accelerate sales team performance using data analytics.
+levels:
+- intermediate
+skills:
+- Perform configuration
+- Manage core sales entities
+- Configure additional tools and services
+- Configure Microsoft Dataverse
+- Create apps by using Power Apps
+- Create and manage Power Automate
+- Implement Power Virtual Agents chatbots
+- Integrate Power Apps with other apps and services
+roles:
+- functional-consultant
+type: role-based
+products:
+- dynamics-365
+- dynamics-sales
+courses:
+- uid: course.pl-200t00
+- uid: course.mb-210t01
+paths:
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-bizapps.create-business-process-flow
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.get-started-power-automate-buttons
+- uid: learn-bizapps.best-practices-environments
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.create-relationships-business-rules-calculations-and-rollups-in-common-data-service
+- uid: learn-bizapps.work-power-virtual-agents
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.improve-business-performance-ai-builder
+- uid: learn-dynamics.dynamics-365-for-sales
+- uid: learn-bizapps.applying-goal-management
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6I
+exams:
+- uid: exam.pl-200
+- uid: exam.mb-210
+resources:
+- title: Certification poster
+  description: Check out an overview including fundamentals, role-based and specialty certifications for Dynamics 365 and Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Journey to certification
+  description: Explore steps to get certified and the resources available to help you prepare.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C54X
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://aka.ms/TrainingCertDeck
+- title: Certification learning path
+  description: Recommended training resources to help you prepare for required exams and earn your certification.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ci0T
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Support for certifications
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: ../help.md
+- title: Share your certification badges
+  description: Celebrate your accomplishment with your network. Claim your Microsoft Certification badge, and add it to LinkedIn, your résumé, and more.
+  href: ../badges.md

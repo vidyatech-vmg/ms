@@ -1,0 +1,45 @@
+### YamlMime:Examination
+title: 'MOS: Using Microsoft Office Word 2007'
+metadata:
+  title: 'Exam 77-601: MOS: Using Microsoft Office Word 2007'
+  description: 'Exam 77-601: MOS: Using Microsoft Office Word 2007'
+uid: exam.77-601
+displayName: 77-601
+summary: |-
+  Candidates for this exam should have the equivalent of six months to one year of hands-on experience creating business deliverables with Microsoft Office Word 2007 and might have experience with previous versions of Office Word. These candidates are especially strong in creating, customizing, and organizing documents by using formatting and visual content that is appropriate for the information presented. They are also strong in reviewing, sharing, and securing content.
+subTitle: Candidates for this exam should have the equivalent of six months to one year of hands-on experience creating business deliverables with Microsoft Office Word 2007 and might have experience with previous versions of Office Word. These candidates are especially strong in creating, customizing, and organizing documents by using formatting and visual content that is appropriate for the information presented. They are also strong in reviewing, sharing, and securing content.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t57w
+scheduleExamUrl: https://www.certiport.com/locator
+locales:
+- en
+- ru
+levels: 
+- beginner
+skills:
+- Create and customize documents (25–30%)
+- Formatting content (25–30%)
+- Work with visual content (10–15%)
+- Organize content (15–20%)
+- Review documents (10–15%)
+- Share and secure content (5–10%)
+roles:
+- business-user
+products:
+- office-word
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: ../certification-exam-policies.md

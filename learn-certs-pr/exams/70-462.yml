@@ -1,0 +1,54 @@
+### YamlMime:Examination
+title: Administering Microsoft SQL Server 2012/2014 Databases
+metadata:
+  title: 'Exam 70-462: Administering Microsoft SQL Server 2012/2014 Databases'
+  description: 'Exam 70-462: Administering Microsoft SQL Server 2012/2014 Databases'
+uid: exam.70-462
+displayName: 70-462
+summary: |-
+  <div><strong>This exam retired on January 31, 2021. For currently available options, please refer to the <a href='/learn/certifications/browse/?resource_type=examination'>Browse Certifications and Exams page</a>.<br/><br/></strong></div>
+  
+  This exam is intended for database professionals who perform installation, maintenance, and configuration tasks. Other responsibilities include setting up database systems, making sure those systems operate efficiently, and regularly storing, backing up, and securing data from unauthorized access.
+  
+  <div><strong><br/>As of February 18, 2016, this exam includes content covering both SQL Server 2012 and 2014. Please note that this exam does not include questions on features or capabilities that are present only in the SQL Server 2012 product. For more information, please <a href="https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tCcP">download and review this document</a>.</strong></div>
+subTitle: This exam is intended for database professionals who perform installation, maintenance, and configuration tasks. Other responsibilities include setting up database systems, making sure those systems operate efficiently, and regularly storing, backing up, and securing data from unauthorized access.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tfIN
+locales:
+- en
+- zh-cn
+- fr
+- de
+- ja
+- pt-br
+levels:
+- advanced
+skills:
+- Install and configure (20–25%)
+- Maintain instances and databases (15–20%)
+- Optimize and troubleshoot (15–20%)
+- Manage data (20–25%)
+- Implement security (15–20%)
+- Implement high availability (5–10%)
+roles:
+- database-administrator
+products:
+- sql-server
+courses:
+- uid: course.20462
+relatedCertifications:
+- related:
+    uid: certification.mcsa-sql-certification
+resources:
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: ../certification-exam-policies.md

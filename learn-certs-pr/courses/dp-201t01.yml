@@ -1,0 +1,180 @@
+### YamlMime:Course
+title: Designing an Azure Data Solution
+metadata:
+  title: 'Course DP-201T01-A: Designing an Azure Data Solution'
+  description: 'Course DP-201T01-A: Designing an Azure Data Solution'
+  iltScheduling: true
+uid: course.dp-201t01
+courseNumber: 'DP-201T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- data-engineer
+products:
+- azure
+- azure-cosmos-db
+- azure-data-lake
+- azure-databricks
+- azure-notebooks
+- azure-stream-analytics
+- azure-sql-database
+- azure-storage
+- azure-monitor
+- azure-hdinsight
+exams:
+- uid: exam.dp-201
+summary: |-
+  In this course, the students will design various data platform technologies into solutions that are in line with business and technical requirements. This can include on-premises, cloud, and hybrid data scenarios which incorporate relational, NoSQL, or Data Warehouse data. They will also learn how to design process architectures using a range of technologies for both streaming and batch data. The students will also explore how to design data security, including data access, data policies, and standards. They will also design Azure data solutions, which includes the optimization, availability, and disaster recovery of big data, batch processing, and streaming data solutions.
+
+  #### Audience profile
+  The audience for this course is Data Professionals, Data Architects, and Business Intelligence Professionals who want to learn about the data platform technologies that exist on Microsoft Azure. The secondary audience for this course is individuals who develop applications that deliver content from the data platform technologies that exist on Microsoft Azure.
+prerequisitesSection: |-
+  Successful students start this course with knowledge of cloud computing and core data concepts and professional experience with data solutions. 
+  
+  Specifically completing&#58;
+  - AZ-900 - Azure Fundamentals
+  - DP-900 - Microsoft Azure Data Fundamentals
+  - DP-200 – Implementing an Azure Data Solution
+outlineSection: |-
+  ### Module  1&#58; Data Platform Architecture Considerations
+  In this module, the students will learn how to design and build secure, scalable, and performant solutions in Azure by examining the core principles found in every good architecture. They will learn how using key principles throughout architecture, regardless of technology choice, can help you design, build, and continuously improve the architecture for an organization's benefit.
+  #### Lessons
+  - Core Principles of Creating Architectures
+  - Design with Security in Mind
+  - Performance and Scalability
+  - Design for availability and recoverability
+  - Design for efficiency and operations
+  - Case Study
+
+
+  #### Lab &#58; Case Study
+  - Design with security in mind
+  - Consider performance and scalability
+  - Design for availability and recoverability
+  - Design for efficiency and operations
+
+  After completing this module, students will be able to&#58;
+  - Design with security in mind
+  - Consider performance and scalability
+  - Design for availability and recoverability
+  - Design for efficiency and operations
+
+
+  ### Module  2&#58; Azure Batch Processing Reference Architectures
+  In this module, students will learn the reference design and architecture patterns for dealing with the batch processing of data. The student will be exposed to dealing with the movement of data from on-premises systems into a cloud data warehouse and how it can be automated. The students will also be exposed to an AI architecture and how the data platform can integrate with an AI solution.
+  #### Lessons
+  - Lambda architectures from a Batch Mode Perspective
+  - Design an Enterprise BI solution in Azure
+  - Automate enterprise BI solutions in Azure
+  - Architect an Enterprise-grade Conversational Bot in Azure
+
+
+  #### Lab &#58; Architect an Enterprise-grade Conversational Bot in Azure
+  - Designing an Enterprise BI solution in Azure
+  - Automate an Enterprise BI solution in Azure
+  - Automate an Enterprise BI solution in Azure
+
+  After completing this module, students will be able to&#58;
+  - Understand the core principles of creating architectures
+  - Describe Lambda architectures from a Batch Mode Perspective
+  - Design an Enterprise BI solution in Azure
+  - Automate enterprise BI solutions in Azure
+  - Architect an Enterprise-grade conversational bot in Azure
+
+
+
+  ### Module  3&#58; Azure Real-Time Reference Architectures
+  In this module, the students will learn the reference design and architecture patterns for dealing with streaming data. They will learn how streaming data can be ingested by Event Hubs and Stream Analytics to deliver real-time analysis of data. They will also explore a data science architecture that streams data into Azure Databricks to perform trend analysis. They will finally learn how an Internet of Things (IoT) architecture will require data platform technologies to store data.
+  #### Lessons
+  - Describe Lambda architectures for a Real-Time Perspective
+  - Architect a stream processing pipeline with Azure Stream Analytics
+  - Design a stream processing pipeline with Azure Databricks
+  - Create an Azure IoT reference architecture
+
+
+  #### Lab &#58; Azure Real-Time Reference Architectures
+  - Architect a stream processing pipeline with Azure Stream Analytics
+  - Design a stream processing pipeline with Azure Databricks
+  - Create an Azure IoT reference architecture
+
+  After completing this module, students will be able to&#58;
+  - Describe Lambda architectures for a Real-Time Mode Perspective
+  - Architect a stream processing pipeline with Azure Stream Analytics
+  - Design a stream processing pipeline with Azure Databricks
+  - Create an Azure IoT reference architecture
+
+
+  ### Module  4&#58; Data Platform Security Design Considerations
+  In this module, the students will learn how to incorporate security into an architecture design and learn the key decision points in Azure provided to help create a secure environment through all the layers of architecture.
+  #### Lessons
+  - Defense in Depth Security Approach
+  - Identity Management
+  - Infrastructure Protection
+  - Encryption Usage
+  - Network Level Protection
+  - Application Security
+
+
+  #### Lab &#58; Data Platform Security Design Considerations
+  - Defense in Depth Security Approach
+  - Identity Protection
+
+  After completing this module, students will understand the following&#58;
+  - Defense in Depth Security Approach
+  - Identity Management
+  - Infrastructure Protection
+  - Encryption Usage
+  - Network Level Protection
+  - Application Security
+
+
+  ### Module  5&#58; Designing for Resiliency and Scale
+  In this module, students will learn scaling services to handle load. They will learn how identifying network bottlenecks and optimizing storage performance are important to ensure users have the best experience. They will also learn how to handle infrastructure and service failure, recover from the loss of data, and recover from a disaster by designing availability and recoverability into the architecture.
+  #### Lessons
+  - Adjust Workload Capacity by Scaling
+  - Optimize Network Performance
+  - Design for Optimized Storage and Database Performance
+  - Identify Performance Bottlenecks
+  - Design a Highly Available Solution
+  - Incorporate Disaster Recovery into Architectures
+  - Design Backup and Restore strategies
+
+
+  #### Lab &#58; Designing for Resiliency and Scale
+  - Adjust Workload Capacity by Scaling
+  - Design for Optimized Storage and Database Performance
+  - Design a Highly Available Solution
+  - Incorporate Disaster Recovery into Architectures
+
+  After completing this module, students will be able to&#58;
+  - Adjust Workload Capacity by Scaling
+  - Optimize Network Performance
+  - Design for Optimized Storage and Database Performance
+  - Identify Performance Bottlenecks
+  - Design a Highly Available Solution
+  - Incorporate Disaster Recovery into Architectures
+  - Design Backup and Restore strategies
+
+
+  ### Module  6&#58; Design for Efficiency and Operations
+  In this module, students will learn how to design an Azure architecture that is operationally-efficient and minimizes costs by reducing spend and they will understand how to design architectures that eliminate waste and gives them full visibility into what is being utilized in the organization's Azure environment.
+  #### Lessons
+  - Maximizing the Efficiency of your Cloud Environment
+  - Use Monitoring and Analytics to Gain Operational Insights
+  - Use Automation to Reduce Effort and Error
+
+
+  #### Lab &#58; Design for Efficiency and Operations
+  - Maximize the Efficiency of your Cloud Environment
+  - Use Monitoring and Analytics to Gain Operational Insights
+  - Use Automation to Reduce Effort and Error
+
+  After completing this module, students will be able to&#58;
+  - Maximize the Efficiency of your Cloud Environment
+  - Use Monitoring and Analytics to Gain Operational Insights
+  - Use Automation to Reduce Effort and Error

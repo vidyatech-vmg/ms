@@ -1,0 +1,70 @@
+### YamlMime:Course
+title: Microsoft 365 Security Management
+metadata:
+  title: 'Course MS-101T01-A: Microsoft 365 Security Management'
+  description: 'Course MS-101T01-A: Microsoft 365 Security Management'
+uid: course.ms-101t01
+courseNumber: 'MS-101T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Manage Security Metrics
+- skill: Implement security solutions in Microsoft 365
+- skill: Plan and configure Azure AD identity protection
+- skill: Implement Microsoft Secure Score
+- skill: Implement Exchange Online Protection
+- skill: Implement Advanced Threat Protection
+- skill: Manage Safe Attachments and Safe Links
+- skill: Implement Microsoft 365 Threat Intelligence
+- skill: Use the Microsoft 365 Security Dashboard
+- skill: Configure Advanced Threat Analytics
+- skill: Implement cloud application security
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-101
+summary: |-
+  Learn about Microsoft 365 Security Management, including how to manage your security metrics, how to enable Azure AD Identity Protection, how to configure Microsoft 365 security services, and user Microsoft 365 Threat Intelligence.
+
+  #### Audience profile
+  This course is designed for persons who are aspiring to the Microsoft 365 Enterprise Admin role and have completed one of the Microsoft 365 role-based administrator certification paths.
+prerequisitesSection: |-
+  - Completed a role-based administrator course, such as Messaging, Teamwork, Security and Compliance, or Collaboration.
+  - A proficient understanding of DNS and basic functional experience with Microsoft 365 services.
+  - A proficient understanding of general IT practices.
+outlineSection: |-
+  ### Module  1&#58; Designing your Microsoft 365 Tenant
+  #### Lessons
+  - Planning a Microsoft 365 On-premises infrastructure
+  - Planning Your Identity and Authentication Solution
+
+
+  ### Module  2&#58; Configuring your Microsoft 365 Tenant
+  #### Lessons
+  - Planning your Microsoft 365 Experience
+  - Configuring your Microsoft 365 Experience
+  - Leveraging FastTrack and Partner Services
+  - Implementing Your Domain Services
+
+
+  ### Module  3&#58; Managing your Microsoft 365 Tenant
+  #### Lessons
+  - Configuring Tenant Roles
+  - Managing Tenant Health and Services
+
+
+  ### Module  4&#58; Hands-On Lab
+
+  #### Lab &#58; Managing Microsoft 365 Security
+  - Exercise 1&#58; Setting up your lab environment
+  - Exercise 2&#58; Editing an ATP Safe Links policy and create a Safe Attachment policy
+  - Exercise 3&#58; Enabling and installing the ATA Center

@@ -1,0 +1,47 @@
+### YamlMime:Examination
+title: Deploying Enterprise Voice with Skype for Business 2015
+metadata:
+  title: 'Exam 70-333: Deploying Enterprise Voice with Skype for Business 2015'
+  description: 'Exam 70-333: Deploying Enterprise Voice with Skype for Business 2015'
+uid: exam.70-333
+displayName: 70-333
+summary: |-
+  <div><strong>This exam retired on January 31, 2021. For currently available options, please refer to the <a href='/learn/certifications/browse/?resource_type=examination'>Browse Certifications and Exams page</a>.<br/><br/></strong></div>
+  
+  Candidates for this exam are IT consultants and telecommunications consulting professionals who design, plan, deploy, and maintain solutions for unified communications (UC). Candidates should be able to translate business requirements into technical architecture and design for a UC solution. Candidates should have a minimum of two years of experience with Skype for Business technologies and be familiar with supported migration scenarios. Candidates should be proficient in deploying Skype for Business Server and Skype for Business Online solutions for end users, endpoint devices, telephony, audio/video and web conferences, security, and high availability. Candidates should also know how to monitor and troubleshoot Skype for Business using Microsoft tools. In addition, candidates should be proficient with Active Directory Domain Services, data networks, and telecommunications standards and components that support the configuration of Skype for Business. Candidates should be familiar with the requirements for integrating Skype for Business with Microsoft Exchange Server and Office 365.
+subTitle: Candidates for this exam are IT consultants and telecommunications consulting professionals who design, plan, deploy, and maintain solutions for unified communications (UC). Candidates should be able to translate business requirements into technical architecture and design for a UC solution. Candidates should have a minimum of two years of experience with Skype for Business technologies and be familiar with supported migration scenarios. Candidates should be proficient in deploying Skype for Business Server and Skype for Business Online solutions for end users, endpoint devices, telephony, audio/video and web conferences, security, and high availability. Candidates should also know how to monitor and troubleshoot Skype for Business using Microsoft tools. In addition, candidates should be proficient with Active Directory Domain Services, data networks, and telecommunications standards and components that support the configuration of Skype for Business. Candidates should be familiar with the requirements for integrating Skype for Business with Microsoft Exchange Server and Office 365.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y8dq
+practiceTestUrl: https://www.mindhub.com/70-333-deploying-enterprise-voice-with-skype/p/MU-70-333?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+locales:
+- en
+- ja
+levels: 
+- advanced
+skills:
+- Plan and design Skype for Business with Enterprise Voice (30-35%)
+- Deploy and configure Enterprise Voice (30-35%)
+- Manage and troubleshoot Enterprise Voice (30-35%)
+retirementDate: 01/31/2021
+roles:
+- administrator
+products:
+- m365
+courses:
+- uid: course.40409
+relatedCertifications:
+- related:
+    uid: certification.mcse-productivity-certification
+resources:
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review the exam policies and frequently asked questions.
+  href: ../certification-exam-policies.md

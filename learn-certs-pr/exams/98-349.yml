@@ -1,0 +1,61 @@
+### YamlMime:Examination
+title: Windows Operating System Fundamentals
+metadata:
+  title: 'Exam 98-349: Windows Operating System Fundamentals'
+  description: 'Exam 98-349: Windows Operating System Fundamentals'
+uid: exam.98-349
+displayName: 98-349
+summary: |-
+  Candidates for this exam should have knowledge of fundamental Windows operating system concepts in a Windows 10 environment.
+  
+  <div><strong><br/>As of August 31, 2016, this exam includes updates for Windows 10, including the removal of any tools not supported on Windows 10. To learn more about these changes and how they affect the skills measured, please download and review the exam 98-349 change document.</strong></div>
+subTitle: Candidates for this exam should have knowledge of fundamental Windows operating system concepts in a Windows 10 environment.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiy8
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
+locales:
+- en
+- zh-cn
+- zh-tw
+- fr
+- de
+- it
+- ja
+- ko
+- pt-br
+- ru
+- es
+- es-mx
+levels:
+- beginner
+skills:
+- Understanding operating system configurations (15–20%)
+- Installing and upgrading client systems (15–20%)
+- Managing applications (15–20%)
+- Managing files and folders (15–20%)
+- Managing devices (15–20%)
+- Understanding operating system maintenance (15–20%)
+roles:
+- administrator
+products:
+- windows
+courses:
+- uid: course.40349
+relatedCertifications:
+- related:
+    uid: certification.mta-windows-operating-system-fundamentals
+resources:
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: ../request-accommodations.md
+- title: Exam policies and FAQs
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: ../certification-exam-policies.md

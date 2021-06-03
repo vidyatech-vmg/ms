@@ -1,0 +1,281 @@
+### YamlMime:Course
+title: Microsoft Dynamics 365 Finance
+metadata:
+  title: 'Course MB-310T00-A: Microsoft Dynamics 365 Finance'
+  description: 'Course MB-310T00-A: Microsoft Dynamics 365 Finance'
+uid: course.mb-310t00
+courseNumber: 'MB-310T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Understand and perform financial duties in Dynamics 365 Finance
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-finance
+exams:
+- uid: exam.mb-310
+summary: |-
+  This course covers the financial aspects of Dynamics 365&#58; configure and use essential financial components, accounts payable, accounts receivable, collections, budgeting, fixed assets, and additional functionality
+
+  #### Audience profile
+  A Dynamics 365 for Finance and Operations Functional Consultant is responsible for performing discovery, capturing requirements, engaging subject matter experts and stakeholders, translating requirements, and configuring the solution and applications. The Functional Consultant implements a solution using out of the box capabilities, codeless extensibility, application and service integrations.
+prerequisitesSection: |-
+  Basic accounting skills  
+  Core competencies in Dynamics 365 Core
+outlineSection: |-
+  ### Module 1&#58; Overview of Dynamics 365 Finance
+  This module will discuss the core components of Finance and look at the modules involved.
+  #### Lessons
+  - Introduction
+  - Lesson 1&#58; Overview of Dynamics 365 Finance Features and capabilities
+  - Lesson 2&#58; Core components of Dynamics 365 Finance
+  - Lesson 3&#58; Overview of financial management modules in Dynamics 365 Finance
+  - Lesson 4&#58; Benefits of Dynamics 365 Finance
+  - Module summary
+  - Knowledge Check
+
+  You learned some of benefits of financial management of Dynamics 365 Finance.
+  
+  
+  ### Module 2&#58; Set up and configure financial management
+  In this module, we will discuss how to create a new legal entity (company) and setup and configure financial management for it. This module includes general ledger.
+  #### Lessons
+  - Introduction
+  - Lesson 1&#58; Create and configure new legal entity
+  - Lesson 2&#58; Define and configure the chart of accounts
+  - Lesson 3&#58; Configure ledgers and currencies
+  - Lesson 4&#58; Implement and manage journals
+  - Lesson 5&#58; Implement and manage cash and bank
+  - Lesson 6&#58; Implement cost accounting and cost management
+  - Lesson 7&#58; Perform periodic processes
+  - Lesson 8&#58; Configure, collect, and report taxes
+  - Module summary
+  - Knowledge Check
+  
+  #### Lab &#58; Exercise 1&#58; Configure a new legal entity
+  
+  #### Lab &#58; Exercise 2&#58; Create a chart of accounts and main accounts
+  
+  #### Lab &#58; Exercise 3&#58; Create Advanced Rule Structures
+  
+  #### Lab &#58; Exercise 4&#58; Create a fiscal calendar, years and periods
+  
+  #### Lab &#58; Exercise 5&#58; Import exchange rates by using a provider
+  
+  #### Lab &#58; Exercise 6&#58; Create and use Voucher templates
+  
+  #### Lab &#58; Exercise 7&#58; Configure and test Accrual schemes
+  
+  #### Lab &#58; Exercise 8&#58; Configure and test ledger allocation rules
+  
+  #### Lab &#58; Exercise 9&#58; Set up and use Intercompany accounting
+  
+  #### Lab &#58; Exercise 10&#58; Create bank transaction types and bank transaction groups
+  
+  #### Lab &#58; Exercise 11&#58; Create a bank group and bank account
+  
+  #### Lab &#58; Exercise 12&#58; Make deposits and perform payment reversals
+  
+  #### Lab &#58; Exercise 13&#58; Use Bank management workspaces
+  
+  #### Lab &#58; Exercise 14&#58; Create Cost accounting by using a wizard
+  
+  #### Lab &#58; Exercise 15&#58; Perform year end close
+  
+  #### Lab &#58; Exercise 16&#58; Configure Indirect sales tax
+  you'll be able to set up and configure financial management by preparing the G/L and others.
+  
+  
+  ### Module 3&#58; Implement and manage shared configuration for A/P and A/R
+  Dynamics 365 Finance offers extensive functionality for setting up different payment options which are shared between accounts payable and receivable modules.
+  #### Lessons
+  - Introduction
+  - Lesson 1&#58; Configure Terms of payment
+  - Lesson 2&#58; Configure payment days, and payment schedules
+  - Lesson 3&#58; Configure Cash discounts
+  - Lesson 4&#58; Configure Payment calendar
+  - Lesson 5&#58; Configure Payment fees
+  - Module summary
+  - Knowledge Check
+  
+  #### Lab &#58; Exercise 1&#58; Configure Terms of payment
+  
+  #### Lab &#58; Exercise 2&#58; Configure Payment Schedule
+  
+  #### Lab &#58; Exercise 3&#58; Configure cash discounts
+  
+  #### Lab &#58; Exercise 4&#58; Create a payment calendar
+  
+  #### Lab &#58; Exercise 5&#58; Configure Payment fees
+  you'll be able to configure payment and bank information
+  
+  
+  ### Module 4&#58; Implement and manage accounts payable
+  This topic explains the basic setup of accounts payable and the vendor setup for efficient management of vendors and vendor transactions in Dynamics 365 Finance.
+  #### Lessons
+  - Introduction
+  - Lesson 1&#58; Create and maintain Accounts payable method of payments
+  - Lesson 2&#58; Create and maintain Vendor groups and vendors
+  - Lesson 3&#58; Create and configure vendor posting profile
+  - Lesson 4&#58; Configure invoice validation policies
+  - Lesson 5&#58; Process orders, invoices, and payments
+  - Lesson 6&#58; Enable and test vendor collaboration portal for a vendor
+  - Lesson 7&#58; Configure accounts payable charges
+  - Lesson 8&#58; Configure and use Positive pay
+  - Module summary
+  - Knowledge check
+  
+  #### Lab &#58; Exercise 1&#58; Configure Method of Payment
+  
+  #### Lab &#58; Exercise 2&#58; Create Vendor group and vendor
+  
+  #### Lab &#58; Exercise 3&#58; Create and configure vendor posting profile
+  
+  #### Lab &#58; Exercise 4&#58; Record vendor invoice and match against received quantity
+  
+  #### Lab &#58; Exercise 5&#58; Use the vendor invoice matching policy
+  
+  #### Lab &#58; Exercise 6&#58; Record invoice by using Invoice register, approval and Invoice journals
+  
+  #### Lab &#58; Exercise 7&#58; Process Vendor payment by using a Payment journal
+  
+  #### Lab &#58; Exercise 8&#58; Configure vendor collaboration
+  
+  #### Lab &#58; Exercise 9&#58; Manage charges
+  You've now learned&#58;
+  - that payment options in Dynamics 365 Finance are flexible
+  - to set up and use payment schedules
+  - to manage cash discount
+  - to work with vendor groups
+  - to use features such as prepayments
+  
+  
+  ### Module 5&#58; Implement and manage expense management
+  You can use the Dynamics 365 Finance and Operations apps expense management to create an integrated workflow where you can store payment method information, import credit card transactions, and track the money that employees spend when they incur expenses for your business. You can also define expense policies and automate the reimbursement of travel expenses. Expense report entry has been redesigned to simplify the experience and decrease the time that is required to complete expense reports. You can turn on this functionality in Feature management. You can add a new setup page to configure the visibility of expense fields, and specify what data is required, optional, or not available when expense reports are entered. When this functionality is turned on, a new expense workspace is available. This workspace replaces the previous expense workspace and is the landing page for the improved entry experience. Travel and expense management has a strong value proposition for organizations with discretionary spending. Travel and entertainment expenses are a significant part of a company's controllable expense. To help curb these costs, expense management provides a mechanism to define and apply expense policies, in addition to flagging and reporting on abusers of the policies. Additionally, automating the entry and reimbursement of travel and entertainment expenses reduces processing costs versus manual entry. Expense management has tight integration with other modules such as Accounts payable, General ledger, Procurement, and sourcing and Project management and accounting.
+  #### Lessons
+  - Introduction
+  - Lesson 1&#58; Configure and use expense management
+  - Module summary
+  - Knowledge check
+  
+  #### Lab &#58; Exercise 1&#58; Create an Expense Category
+  
+  #### Lab &#58; Exercise 2&#58; Create an Expense Policy
+  
+  #### Lab &#58; Exercise 3&#58; Create an Audit Policy
+  
+  #### Lab &#58; Exercise 4&#58; Create and Submit an Expense Report
+  you have learned some of benefits and overall features and functionality of Expense management.
+  
+  
+  ### Module 6&#58; Implement and manage accounts receivable and credit and collections
+  You need to configure the Accounts receivable module to be able to perform A/R functionality. You could then create customer invoices, post packing slips, use free text invoices that are not related to sales orders, and receive payments by using several different payment types such as cash, checks, credit cards, and electronic payments from your customers. Managing prospects and customers properly helps businesses to fulfil some of their requirements, such as customers’ satisfaction. At the same time, proper management avoids loss by checking many factors such as the credit limit and blocking the order being processed if it violates the policies of the company. Salespersons are the key for company’s revenue, and their commissions should be taken care of upon completion of the sales cycle.
+  #### Lessons
+  - Introduction
+  - Lesson 1&#58; Configure Method of Payment
+  - Lesson 2&#58; Create and maintain Customer groups and customers
+  - Lesson 3&#58; Create and configure customer posting profile
+  - Lesson 4&#58; Process orders, invoices, and payments
+  - Lesson 5&#58; Configure Accounts receivable charges
+  - Lesson 6&#58; Manage credit and collections
+  - Lesson 7&#58; Configure revenue recognition
+  - Module summary
+  - Knowledge Check
+  
+  #### Lab &#58; Exercise 1&#58; Configure Method of Payment
+  
+  #### Lab &#58; Exercise 2&#58; Create a new customer group and customer
+  
+  #### Lab &#58; Exercise 3&#58; Configure and maintain customers
+  
+  #### Lab &#58; Exercise 4&#58; Create and configure customer posting profile
+  
+  #### Lab &#58; Exercise 5&#58; Create and process free text invoices
+  
+  #### Lab &#58; Exercise 6&#58; Process invoice and settle it against a payment
+  
+  #### Lab &#58; Exercise 7&#58; Set up charge codes for Accounts receivable
+  
+  #### Lab &#58; Exercise 8&#58; Configure Credit and collections
+  
+  #### Lab &#58; Exercise 9&#58; Perform Write-Offs
+  
+  #### Lab &#58; Exercise 10&#58; Process credit and collections
+  you have learned how to&#58;
+  - Configure Method of Payment
+  - Describe and configure electronic payment formats
+  - Create and maintain Customer groups and customers
+  - Create and configure customer posting profile
+  - Process orders, invoices, and payments
+  - Configure Accounts receivable charges
+  - Manage credit and collections
+  - Configure revenue recognition
+  
+  
+  ### Module 7&#58; Configure and manage budgeting
+  Every organization, whether it is private or public, sets financial and operational goals by creating budgets. When the budget is established, management monitors the activities within the budget framework.
+  #### Lessons
+  - Introduction
+  - Lesson 1&#58; Configure and use basic budgeting
+  - Lesson 2&#58; Configure and use budget controls
+  - Lesson 3&#58; Create and configure registry entries
+  - Lesson 4&#58; Configure and use budget planning
+  - Module summary
+  - Knowledge Check
+  
+  #### Lab &#58; Exercise 1&#58; Configure Basic budgeting components
+  
+  #### Lab &#58; Exercise 2&#58; Configure Budget control components
+  
+  #### Lab &#58; Exercise 3&#58; Use Budget register entries
+  
+  #### Lab &#58; Exercise 4&#58; Configure Budget planning, create and use a planning process
+  you have learned how to&#58;
+  - Configure and manage Budgeting processes
+  - Configure budgeting components incl budget models, codes, allocation terms, cycles, transfer rules
+  - Configure budget controls including cycle time spans, budget parameters, budget fund availability...
+  - ... options, budget control rules and groups, and over-budget permissions
+  - Implement budget workflows
+  - Create and configure registry entries
+  - Perform budget checks on documents and journals
+  - Create a budget plan including scenarios, stages, allocation stages, stage allocations, templates
+  - Define a budget planning process and plan a budget
+  
+  
+  ### Module 8&#58; Configure and manage fixed assets
+  The way in which fixed assets are handled must correspond to both international accounting standards and the accounting legislation in each country/region. Requirements might include rules for recording acquisition and disposal transactions, depreciation, lifetimes, and write-ups and write-downs of fixed assets. The Fixed assets functionality incorporates many of these standards and rules.
+  #### Lessons
+  - Introduction
+  - Lesson 1&#58; Configure Fixed assets components
+  - Lesson 2&#58; Manage Fixed assets
+  - Lesson 3&#58; Fixed asset acquisition, depreciation and disposal
+  - Lesson 4&#58; Fixed asset integration
+  - Module summary
+  - Knowledge Check
+  
+  #### Lab &#58; Exercise 1&#58; Configure fixed assets components
+  
+  #### Lab &#58; Exercise 2&#58; Set up and create depreciation profiles
+  
+  #### Lab &#58; Exercise 3&#58; Acquiring an Asset Using the Fixed Assets Journal
+  
+  #### Lab &#58; Exercise 4&#58; Depreciating and disposing an asset
+  you have learned how to&#58;
+  - Implement and manage fixed assets
+  - Create fixed assets and fixed assets groups
+  - Describe and configure fixed asset books and depreciation
+  - Configure Fixed asset parameters
+  - Fixed asset acquisition and depreciation
+  - Fixed asset leasing
+  - Dual currency with Fixed assets
+  - Organization-wide fixed asset identifiers
+  - Fixed asset disposal
+  - Create fixed asset budgets and transfer the budgets to the budgeting module
+  - Estimate and perform an elimination of a project to a fixed asset

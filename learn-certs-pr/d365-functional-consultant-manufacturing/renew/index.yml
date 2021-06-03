@@ -1,0 +1,22 @@
+### YamlMime:CertificationRenewal
+title: 'Renewal for Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate'
+metadata:
+  title: 'Renewal for Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate'
+  description: 'If you have this certification and it will expire within six months, you are eligible to renew.'
+uid: renewal.d365-functional-consultant-manufacturing
+certificationUid: certification.d365-functional-consultant-manufacturing
+assessmentId: 866dad6c-195f-4a36-8672-87ae84681f5e
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  If you have this certification and it will expire within six months, you are eligible to renew. Show that you have kept current with the latest Dynamics 365 Supply Chain Management updates by passing the renewal assessment. You can also prepare to renew with the curated collection of learning modules.
+skills:
+- Configure lean manufacturing in Dynamics 365 Supply Chain Management
+- Use Planning Optimization in Dynamics 365 Supply Chain Management
+examsPassed:
+- mb-300, mb-320
+studyGuideDescription: 'Use this collection of learning modules to help you prepare for the Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate renewal assessment.'
+resources:
+- title: About certification renewal
+  summary: Understand the process and requirements to renew your certifications online
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

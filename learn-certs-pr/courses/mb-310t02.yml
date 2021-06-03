@@ -1,0 +1,155 @@
+### YamlMime:Course
+title: Configure and use accounts payable, receivable, and collections in Finance and Operations
+metadata:
+  title: 'Course MB-310T02-A: Configure and use accounts payable, receivable, and collections in Finance and Operations'
+  description: 'Course MB-310T02-A: Configure and use accounts payable, receivable, and collections in Finance and Operations'
+uid: course.mb-310t02
+courseNumber: 'MB-310T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-finance
+exams:
+- uid: exam.mb-310
+summary: |-
+  Organizations use Dynamics 365 for Finance and Operations to elevate their financial performance by increasing profitability, optimizing workforce productivity, reducing operational expenses, adapting quickly to requirement changes, and streamlining asset management.
+  
+  This course discusses how to configure and use accounts payable, receivable, and collections in Dynamics 365 for Finance and Operations.
+
+  #### Audience profile
+  A Dynamics 365 for Finance and Operations Functional Consultant is responsible for performing discovery, capturing requirements, engaging subject matter experts and stakeholders, translating requirements, and configuring the solution and applications. The Functional Consultant implements a solution using out-of-the-box capabilities, codeless extensibility, application, and service integrations.
+prerequisitesSection: |-
+  Basic understanding of ERP and CRM concepts.
+outlineSection: |-
+  ### Module  1&#58; Configure Accounts Payable
+  Dynamics 365 for Finance and Operations offers extensive functionality for setting up different vendor payment options.
+  #### Lessons
+  - Understand Task recorder functionality
+  - Configure accounts payable parameters
+  - Create and maintain vendors
+  - Configure accounts payable charges
+  - Configure and use positive pay
+  - Practice Lab
+  - Module Summary
+
+  In this module, students learned how to&#58;
+  - Configure accounts payable components
+  - Create and maintain a vendor
+  - Configure vendor payments
+  - Set up vendor posting profiles
+  - Configure accounts payable charges
+
+
+  ### Module  2&#58; Perform Accounts Payable Daily Procedures
+  Purchasing goods for resale, as materials for manufacturing or services is a large responsibility. Tracking those purchases and paying the vendors that supply the goods is just as challenging. Organizations must monitor accounts payable closely and implement procedures so management can easily obtain the financial information that they need to have to stay informed about changes in the costs of goods. To give an accurate view of the financial condition of the business, all expenses that affect net profit are included in accounts payable. This module explains how to manage and apply prepayments, record invoices, and process payments.
+  #### Lessons
+  - Introduction
+  - Process orders, invoices, and payments
+  - Manage and apply prepayments
+  - Practice Labs
+  - Module summary
+
+  In this module, students learned that they can enter vendor invoices manually or receive them electronically through a data entity. After the invoices are entered or received, one can review and approve the invoices by using an Invoice approval journal or the Vendor invoice page. Additionally, they learned how to use invoice matching, vendor invoice policies, and workflow to automate the review process so that invoices that meet certain criteria are automatically approved and the remaining invoices are flagged for review by an authorized user. Students also learned how to handle prepayments to vendors.
+
+  ### Module  3&#58; Use Accounting Distribution and Invoice Validations
+  This module explains how to settle transactions and undo settlement and distribute funds by using accounting distributions. Students will also learn how to perform invoice matching. Accounting distributions are used to define how an amount will be accounted for, such as how the expense, tax, or charges will be accounted for on a vendor invoice. Every amount that must be accounted for when the vendor invoice is journalized will have one or more accounting distributions.
+
+  #### Lessons
+  - Introduction
+  - Settle transaction and undo settlements
+  - Distribute funds
+  - Configure invoice validation policies
+  - Practice labs
+  - Module summary
+
+  In this module, students learned how to&#58;
+  - Settle transactions and undo settlements
+  - Distribute funds by using accounting distributions
+  - Configure invoice validation policies
+
+
+  ### Module  4&#58; Configure Accounts Receivable
+  One needs to configure the Accounts receivable module to be able to create customer invoices, posting packing slips, use free text invoices that are not related to sales orders, and finally, receive payments by using several different payment types, such as cash, checks, credit cards, and electronic payments from customers. This module provides information about the configuration of essential components of the Accounts receivable module and the customer setup for efficient management of customers and customer transactions in Finance and Operations.
+
+  #### Lessons
+  - Configure accounts receivable
+  - Create and maintain customers
+  - Setup customer posting profiles
+  - Configure accounts receivable charges
+  - Practice Lab
+  - Module summary
+
+  In this module, students learned how to&#58;
+  - Configure Accounts receivable components
+  - Create and maintain a customer
+  - Configure customer payments
+  - Set up customer posting profiles
+  - Configure accounts receivable charges
+
+
+  ### Module  5&#58; Perform Accounts Receivable Daily Procedures
+  Learn how to create free text invoices, receive payments from customers, and deposit to the bank. Students will also learn how to refund a customer for the over-payment amount or any other reason, like a customer-returns scenario in which the customer must be refunded not only the payment but also the tax that has been collected, using reversals and use transaction reversals in Accounts receivable. Students will also learn how to distribute funds by using Accounting distributions in a free text invoice.
+
+  #### Lessons
+  - Create free text invoices and record customer payments
+  - Settle transactions and undo settlement
+  - Practice Lab
+  - Module summary
+
+  In this module students learned&#58;
+  - Distribute funds by using Accounting distributions
+  - Create free text invoices and record customer payments
+  - Configure Recurring invoices
+  - Use reversals in Accounts receivable
+  - Process orders, record invoices, and process payments
+
+
+  ### Module  6&#58; Configure Credit and Collections
+  Although most customers pay their invoices on time, one needs to be able to process invoices that are not paid by their due date. This topic explains how to manage delinquent customers by configuring the Credit and collections module in Dynamics 365 for Finance and Operations. To use the Credit and collections module, configuration of accounts receivable should already be completed.
+
+  #### Lessons
+  - Introduction
+  - Configure credit and collections components
+  - Setup and manage interest
+  - Waive, reinstate or reverse
+  - Setup and manage collection letters
+  - Practice Lab
+  - Module Summary
+
+  In this module, students learned how to&#58;
+  - Configure credit and collections components
+  - Configure aging reports, customer pools, collection agents, and aging period definitions
+  - Set up and manage interests
+  - Set up and manage collection letters
+
+
+  ### Module  7&#58; Process Credit and Collections
+  Although most customers pay their invoices on time, one must be able to process invoices that are not paid by their due date. This topic explains how to process Credit and collections.
+  #### Lessons
+  - Introduction
+  - Understand how to process collections
+  - Manage customer credit and collections
+  - Practice Labs
+  - Module Summary
+
+  In this module, students learned about&#58;
+  - Customer Statements
+  - How to process collection
+
+
+  ### Module  8&#58; Course Conclusion
+  Final assessment and course summary, as well as a post-course survey for the course.
+  #### Lessons
+  - Final assessment
+  - Course summary
+  - Post-course survey
+
+  Students will have completed the course.

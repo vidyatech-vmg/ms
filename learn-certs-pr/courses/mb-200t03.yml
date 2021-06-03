@@ -1,0 +1,80 @@
+### YamlMime:Course
+title: 'Dynamics 365: Power Platform integrations'
+metadata:
+  title: 'Course MB-200T03-A: Dynamics 365: Power Platform integrations'
+  description: 'Course MB-200T03-A: Dynamics 365: Power Platform integrations'
+uid: course.mb-200t03
+courseNumber: 'MB-200T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Identify key integration scenarios.
+- skill: Configure and use integrated email.
+- skill: Configure and use Outlook integration.
+- skill: Configure and use additional Office integrations.
+- skill: Import and export data.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-sales
+- dynamics-marketing
+- dynamics-field-service
+- dynamics-customer-service
+exams:
+- uid: exam.mb-200
+summary: |-
+  The Microsoft Power Platform helps organizations optimize their operations by automating routine tasks and standardizing best practices. This training provides a high-level overview of the capabilities of Microsoft Dynamics 365 and the Power Platform and provides a foundation for other Microsoft Dynamics 365 and Power Platform training offerings.
+
+  In this course, our globally recognized experts guide students through the various integration options available and how to use them in real-world scenarios.
+
+  #### Audience profile
+  A Dynamics 365 Customer Engagement Functional Consultant is responsible for performing discovery, capturing requirements, engaging subject matter experts and stakeholders, translating requirements, and configuring the solution and applications. The Functional Consultant implements a solution using out-of-the box capabilities, codeless extensibility, application, and service integrations.
+prerequisitesSection: |-
+  Familiarity of business applications and the desire to customize and implement them for your business.
+outlineSection: |-
+  ### Module  1&#58; Introduction to Integrations
+  In this module students will learn the basics of the Power Platform integration capabilities, as well as how to configure and use email integrations.
+  #### Lessons
+  - Overview of common scenarios
+  - Email integration
+  - Outlook integration
+  - Module summary
+
+  After completing this module, students  will be able to&#58;
+  - Identify common integrations
+  - Configure and use email integration
+
+
+  ### Module  2&#58; Integration with Office
+  In this module students  will learn how to integrate with common Office products to include OneNote, Word, and Excel.
+  #### Lessons
+  - Templates
+  - SharePoint
+  - Microsoft Teams
+  - Additional Integrations
+  - Module summary
+
+  After completing this module, students will be able to&#58;
+  - Configure and use integrations with Office products
+
+
+  ### Module  3&#58; Managing Data
+  In this module students will learn how to import and export data for the Power Platform and create and use data maps.
+  #### Lessons
+  - Managing data overview
+  - Duplicate detection
+  - Importing data
+  - Exporting data
+  - Bulk delete
+  - Module summary
+
+  After completing this module, students  will be able to&#58;
+  - Import and export data
+  - Create and use data maps
+  - Perform bulk delete
