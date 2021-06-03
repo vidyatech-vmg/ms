@@ -6,6 +6,8 @@ metadata:
 uid: exam.98-361
 displayName: 98-361
 summary: |-
+  <div><font color='red'><strong>This MTA exam must be purchased by June 30, 2021. If you are currently studying for this exam, it must be taken within one year, by June 30, 2022, at which point it will be retired. Refer to <a href="/learn/certifications/mta-retirement-faqs">the FAQ</a> for more details.</strong></font></br></br></div>
+  
   Candidates for this exam are seeking to prove core software development skills. It is recommended that candidates be familiar with the concepts of and have hands-on experience with the technologies described here either by taking relevant training courses or by working with tutorials and samples available on MSDN and in Microsoft Visual Studio. Candidates are expected to have some experience with C# or Microsoft Visual Basic .NET.
 subTitle: Candidates for this exam are seeking to prove core software development skills. It is recommended that candidates be familiar with the concepts of and have hands-on experience with the technologies described here either by taking relevant training courses or by working with tutorials and samples available on MSDN and in Microsoft Visual Studio. Candidates are expected to have some experience with C# or Microsoft Visual Basic .NET.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -37,14 +39,11 @@ skills:
 - Understanding web applications (15-20%)
 - Understanding desktop applications (15-20%)
 - Understanding databases (15-20%)
+retirementDate: 06/30/2022
 roles:
 - developer
 products:
 - dotnet
-courses:
-- uid: course.40361
-- uid: course.40035
-- uid: course.40034
 relatedCertifications:
 - related:
     uid: certification.mta-software-development-fundamentals

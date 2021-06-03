@@ -22,6 +22,7 @@ skills:
 - Design a tabular BI semantic model (20-25%)
 - Develop queries using Multidimensional Expressions (MDX) and Data Analysis Expressions (DAX) (15-20%)
 - Configure and maintain SQL Server Analysis Services (SSAS) (30-35%)
+retirementDate: 01/31/2021
 roles:
 - data-analyst
 products:

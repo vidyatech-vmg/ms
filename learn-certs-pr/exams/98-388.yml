@@ -6,6 +6,8 @@ metadata:
 uid: exam.98-388
 displayName: 98-388
 summary: |-
+  <div><font color='red'><strong>This MTA exam must be purchased by June 30, 2021. If you are currently studying for this exam, it must be taken within one year, by June 30, 2022, at which point it will be retired. Refer to <a href="/learn/certifications/mta-retirement-faqs">the FAQ</a> for more details.</strong></font></br></br></div>
+  
   Candidates for this exam are application developers working with Java 6 SE or later, secondary and immediate post-secondary level students of software development, or entry-level software developers.
 
   Candidates should have at least 150 hours or instruction or hands-on experience with Java, are familiar with its features and capabilities, and understand how to write, debug and maintain well-formed, well documented Java code.
@@ -36,6 +38,7 @@ skills:
 - Implement flow control (15-20%)
 - Perform object-oriented programming (10-15%)
 - Compile and debug code (5-10%)
+retirementDate: 06/30/2022
 roles:
 - developer
 products:

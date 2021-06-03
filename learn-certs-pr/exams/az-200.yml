@@ -1,8 +1,8 @@
 ### YamlMime:Examination
-title: Microsoft Azure Developer Core Solutions (beta)
+title: Microsoft Azure Developer Core Solutions
 metadata:
-  title: 'Exam AZ-200: Microsoft Azure Developer Core Solutions (beta)'
-  description: 'Exam AZ-200: Microsoft Azure Developer Core Solutions (beta)'
+  title: 'Exam AZ-200: Microsoft Azure Developer Core Solutions'
+  description: 'Exam AZ-200: Microsoft Azure Developer Core Solutions'
 uid: exam.az-200
 displayName: AZ-200
 summary: |-
@@ -39,10 +39,10 @@ relatedCertifications:
 resources:
 - title: Training and certification guide
   description: Explore all certifications in a concise training and certifications guide.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certification poster
   description: Check out an overview of fundamentals, role-based and specialty certifications.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Certification dashboard
   description: Review and manage your scheduled appointments, certificates, and transcripts.
   href: https://www.microsoft.com/learning/dashboard.aspx

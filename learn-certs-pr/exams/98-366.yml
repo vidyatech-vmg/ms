@@ -6,6 +6,8 @@ metadata:
 uid: exam.98-366
 displayName: 98-366
 summary: |-
+  <div><font color='red'><strong>This MTA exam must be purchased by June 30, 2021. If you are currently studying for this exam, it must be taken within one year, by June 30, 2022, at which point it will be retired. Refer to <a href="/learn/certifications/mta-retirement-faqs">the FAQ</a> for more details.</strong></font></br></br></div>
+  
   Candidates for this exam are familiar with general networking concepts and the technologies. Candidates should have some hands-on experience with Windows Server, Windows-based networking, network management tools, DNS, TCP/IP, names resolution process, and network protocols and topologies.
   
   <div><strong><br/>There are exam updates effective as of January 31, 2018. To learn more about these changes and how they affect the skills measured, please download and review the Exam 98-366 change document.</strong></div>
@@ -37,13 +39,11 @@ skills:
 - Understanding network infrastructures (30-35%)
 - Understanding network hardware (20-25%)
 - Understanding protocols and services (45-50%)
+retirementDate: 06/30/2022
 roles:
 - administrator
 products:
 - windows-server
-courses:
-- uid: course.40032
-- uid: course.40366
 relatedCertifications:
 - related:
     uid: certification.mta-networking-fundamentals

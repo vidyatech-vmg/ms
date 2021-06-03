@@ -52,13 +52,13 @@ relatedCertifications:
 resources:
 - title: Certification Learning Path
   description: 'Discover training resources to become a Microsoft Certified: Azure Administrator Associate.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtY7Z
+  href: https://aka.ms/AzureAdminInfographic
 - title: Training and certification guide
   description: Explore all certifications in a concise training and certifications guide.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certification poster
   description: Check out an overview of fundamentals, role-based and specialty certifications.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Support for certification exams
   description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
   href: ../help.md
