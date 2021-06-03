@@ -1,0 +1,29 @@
+### YamlMime:CertificationRenewal
+title: 'Renewal for Microsoft 365 Certified: Enterprise Administrator Expert'
+metadata:
+  title: 'Renewal for Microsoft 365 Certified: Enterprise Administrator Expert'
+  description: 'If you have this certification and it will expire within six months, you are eligible to renew.'
+uid: renewal.m365-enterprise-administrator
+certificationUid: certification.m365-enterprise-administrator
+assessmentId: f28a7832-30d9-4fe7-afea-e88ec7ab4e5a
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  If you have this certification and it will expire within six months, you are eligible to renew. Show that you have kept current with the latest Microsoft 365 updates by passing the renewal assessment. You can also prepare to renew with the curated collection of learning modules.
+skills:
+- Manage Windows 10 through co-management by using System Center Configuration Manager
+- Simplify device management with Microsoft Endpoint Manager
+- Simplify access and identity provisioning with Azure Active Directory
+- Deliver mail to mailboxes outside Microsoft 365 by using connectors
+- Defend against threats with Microsoft Threat Protection
+- Migrate user files and settings in Microsoft 365
+- Deliver Microsoft 365 Apps and business apps
+- Protect your data with sensitivity labels
+- Manage insider risk in Microsoft 365
+examsPassed:
+- ms-100, ms-101
+studyGuideDescription: 'Use this collection of learning modules to help you prepare for the Microsoft 365 Certified: Enterprise Administrator Expert renewal assessment.'
+resources:
+- title: About certification renewal
+  summary: Understand the process and requirements to renew your certifications online
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

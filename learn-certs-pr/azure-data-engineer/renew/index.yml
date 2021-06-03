@@ -1,0 +1,22 @@
+### YamlMime:CertificationRenewal
+title: 'Renewal for Microsoft Certified: Azure Data Engineer Associate'
+metadata:
+  title: 'Renewal for Microsoft Certified: Azure Data Engineer Associate'
+  description: 'If you have this certification and it will expire within six months, you are eligible to renew.'
+uid: renewal.azure-data-engineer
+certificationUid: certification.azure-data-engineer
+assessmentId: acbdf90d-e45d-42fc-b8f0-d8d5fa2726e3
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  If you have this certification and it will expire within six months, you are eligible to renew. Show that you have kept current with the latest Azure Data Factory updates by passing the renewal assessment. You can also prepare to renew with the curated collection of learning modules.
+skills:
+- Petabyte-scale ingestion with Azure Data Factory
+- Perform code-free transformation at scale with Azure Data Factory
+examsPassed:
+- dp-200, dp-201 or dp-203
+studyGuideDescription: 'Use this collection of learning modules to help you prepare for the Microsoft Certified: Azure Data Engineer Associate renewal assessment.'
+resources:
+- title: About certification renewal
+  summary: Understand the process and requirements to renew your certifications online
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

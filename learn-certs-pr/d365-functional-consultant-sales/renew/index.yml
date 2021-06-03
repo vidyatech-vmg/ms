@@ -1,0 +1,24 @@
+### YamlMime:CertificationRenewal
+title: 'Renewal for Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate'
+metadata:
+  title: 'Renewal for Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate'
+  description: 'If you have this certification and it will expire within six months, you are eligible to renew.'
+uid: renewal.d365-functional-consultant-sales
+certificationUid: certification.d365-functional-consultant-sales
+assessmentId: 77790b05-d9dc-40d9-a754-61322b6ab014
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  If you have this certification and it will expire within six months, you are eligible to renew. Show that you have kept current with the latest Dynamics 365 Customer Insights and Sales Insights updates by passing the renewal assessment. You can also prepare to renew with the curated collection of learning modules.
+skills:
+- Create a unified customer profile in Dynamics 365 Customer Insights
+- Work with Dynamics 365 Customer Insights
+- Configure Sales Insights
+- Working with Dynamics 365 Sales Insights
+examsPassed:
+- pl-200, mb-210
+studyGuideDescription: 'Use this collection of learning modules to help you prepare for the Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate renewal assessment.'
+resources:
+- title: About certification renewal
+  summary: Understand the process and requirements to renew your certifications online
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

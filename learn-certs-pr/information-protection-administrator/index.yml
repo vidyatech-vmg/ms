@@ -1,0 +1,59 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Information Protection Administrator Associate'
+metadata:
+  title: 'Microsoft Certified: Information Protection Administrator Associate'
+  description: The Information Protection Administrator plans and implements controls that meet organizational compliance needs. This person is responsible for translating requirements and compliance controls into technical implementation. They assist organizational control owners to become and stay compliant.
+uid: certification.information-protection-administrator 
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  The Information Protection Administrator plans and implements controls that meet organizational compliance needs. This person is responsible for translating requirements and compliance controls into technical implementation. They assist organizational control owners to become and stay compliant.
+  
+  They work with information technology (IT) personnel, business application owners, human resources, and legal stakeholders to implement technology that supports policies and controls necessary to sufficiently address regulatory requirements for their organization. They also work with the compliance and security leadership such as a Chief Compliance Officer and Security Officer to evaluate the full breadth of associated enterprise risk and partner to develop those policies.
+  
+  This person defines applicable requirements and tests IT processes and operations against those policies and controls. They are responsible for creating policies and rules for content classification, data loss prevention, governance, and protection.
+subTitle: The Information Protection Administrator plans and implements controls that meet organizational compliance needs. This person is responsible for translating requirements and compliance controls into technical implementation. They assist organizational control owners to become and stay compliant.
+levels:
+- intermediate
+skills:
+- Implement information protection
+- Implement data loss prevention
+- Implement information governance
+roles:
+- administrator
+- ip-admin
+- risk-practitioner
+- security-engineer
+type: role-based
+products:
+- office-teams
+- office-sp
+- m365
+- m365-ems-cloud-app-security
+courses:
+- uid: course.sc-400t00
+paths:
+- uid: learn.wwl.implement-information-protection
+- uid: learn.wwl.implement-data-loss-prevention
+- uid: learn.wwl.implement-information-governance
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp6
+exams:
+- uid: exam.sc-400
+resources:
+- title: Certification poster
+  description: Check out an overview including fundamentals, role-based and specialty certifications for Dynamics 365 and Power Platform.
+  href: https://aka.ms/traincertposter
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://aka.ms/TrainingCertDeck
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Support for certifications
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: ../help.md
+- title: Share your certification badges
+  description: Celebrate your accomplishment with your network. Claim your Microsoft Certification badge, and add it to LinkedIn, your résumé, and more.
+  href: ../badges.md

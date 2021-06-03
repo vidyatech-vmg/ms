@@ -1,0 +1,82 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Data Engineer Associate'
+metadata:
+  title: 'Microsoft Certified: Azure Data Engineer Associate'
+  description: 'Azure Data Engineers integrate, transform, and consolidate data from various structured and unstructured data systems into structures that are suitable for building analytics solutions.'
+uid: certification.azure-data-engineer
+certificationRenewalUid: renewal.azure-data-engineer
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  <div><font color='red'><strong><a href='/learn/certifications/exams/dp-203'>EXAM DP-203</a> IS REPLACING EXAMS DP-200 AND DP-201. DP-200 and DP-201 will retire on June 30, 2021.</strong></font><br/><br/></div>
+  
+  A candidate for the Azure Data Engineer Associate certification should have subject matter expertise integrating, transforming, and consolidating data from various structured and unstructured data systems into structures that are suitable for building analytics solutions.
+  
+  Responsibilities for this role include helping stakeholders understand the data through exploration, building and maintaining secure and compliant data processing pipelines by using different tools and techniques. This professional uses various Azure data services and languages to store and produce cleansed and enhanced datasets for analysis.
+  
+  An Azure Data Engineer also helps ensure that data pipelines and data stores are high-performing, efficient, organized, and reliable, given a specific set of business requirements and constraints. This professional deals with unanticipated issues swiftly and minimizes data loss. An Azure Data Engineer also designs, implements, monitors, and optimizes data platforms to meet the data pipeline needs.
+  
+  A candidate for this certification must have solid knowledge of data processing languages, such as SQL, Python, or Scala, and they need to understand parallel processing and data architecture patterns.
+  
+  <div><br/><strong>You will earn this certification if you complete one of the following options&#58;</strong><br/>
+  <ul>
+  <li>Pass <a href="/learn/certifications/exams/dp-200">DP-200</a> and <a href="/learn/certifications/exams/dp-201">DP-201</a> (retiring on June 30, 2021) <strong>or</strong></li>
+  <li>Pass <a href="/learn/certifications/exams/dp-203">DP-203</a> (beta released February 23, 2021)</li></ul></div>
+subTitle: Azure Data Engineers integrate, transform, and consolidate data from various structured and unstructured data systems into structures that are suitable for building analytics solutions.
+levels:
+- intermediate
+skills:
+- Design and implement data storage 
+- Design and develop data processing 
+- Design and implement data security 
+- Monitor and optimize data storage and data processing
+roles:
+- data-engineer
+type: role-based
+products:
+- azure-data-factory
+- azure-synapse-analytics
+- azure-stream-analytics
+- azure-event-hubs
+- azure-data-lake
+- azure-databricks
+courses:
+- uid: course.dp-203t00
+paths:
+- uid: learn.data-ai.azure-for-the-data-engineer
+- uid: learn.store-data-in-azure
+- uid: learn.wwl.data-integration-scale-azure-data-factory
+- uid: learn.wwl.realize-integrated-analytical-solutions-with-azure-synapse-analytics
+- uid: learn.wwl.work-with-data-warehouses-using-azure-synapse-analytics
+- uid: learn.wwl.perform-data-engineering-with-azure-synapse-apache-spark-pools
+- uid: learn.wwl.work-with-hybrid-transactional-analytical-processing-solutions
+- uid: learn.wwl.data-engineer-azure-databricks
+- uid: learn.data-ai.data-processing-with-azure-adls
+- uid: learn.data-ai.implement-data-streaming-with-asa
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUG
+exams:
+- uid: exam.dp-203
+resources:
+- title: Journey to certification
+  description: Explore steps to get certified as an Azure Data Engineer Associate and the resources available to help you prepare.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWxODZ
+- title: Azure certifications poster
+  description: Check out an overview including fundamentals, role-based, and specialty certifications for Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://aka.ms/TrainingCertDeck
+- title: Certification poster
+  description: Check out an overview of fundamentals, role-based and specialty certifications.
+  href: https://aka.ms/traincertposter
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Support for certifications
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: ../help.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Share your certification badges
+  description: Celebrate your accomplishment with your network. Claim your Microsoft Certification badge, and add it to LinkedIn, your résumé, and more.
+  href: ../badges.md

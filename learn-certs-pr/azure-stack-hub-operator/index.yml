@@ -1,0 +1,60 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Stack Hub Operator Associate'
+metadata:
+  title: 'Microsoft Certified: Azure Stack Hub Operator Associate'
+  description: 'Candidates for the Azure Stack Hub Operator Associate certification are Azure administrators or Azure Stack Hub operators who provide cloud services to end users or customers from within their own datacenter using Azure Stack Hub.'
+uid: certification.azure-stack-hub-operator
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Candidates for the Azure Stack Hub Operator Associate certification are Azure administrators or Azure Stack Hub operators who provide cloud services to end users or customers from within their own datacenter using Azure Stack Hub.
+  
+  Their responsibilities are to plan, deploy, package, update, and maintain the Azure Stack Hub infrastructure. They also offer hybrid cloud resources and requested services and manage infrastructure as a service (IaaS) and platform as a service (PaaS).
+  
+  They serve as part of a larger team dedicated to cloud-based management and security or hybrid environments as part of an end-to-end infrastructure.
+  
+  Candidates for this certification should have significant experience managing and operating Azure Stack Hub environments. They should have a strong understanding of Azure, in addition to some knowledge of virtualization, networking, and identity management. They need to understand how Azure Stack Hub enables DevOps processes and the hybrid development model.
+subTitle: Candidates for the Azure Stack Hub Operator Associate certification are Azure administrators or Azure Stack Hub operators who provide cloud services to end users or customers from within their own datacenter using Azure Stack Hub.
+levels:
+- advanced
+skills:
+- Provide services
+- Implement data center integration 
+- Manage identity and access 
+- Manage infrastructure
+roles:
+- administrator
+type: role-based
+products:
+- azure
+- azure-stack
+- azure-stack-edge
+- azure-stack-hci
+- azure-stack-hub
+- azure-app-service
+- azure-event-hubs
+- azure-active-directory
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4LyWu
+exams:
+- uid: exam.az-600
+resources:
+- title: Azure certifications poster
+  description: Check out an overview including fundamentals, role-based, and specialty certifications for Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://aka.ms/TrainingCertDeck
+- title: Certification poster
+  description: Check out an overview of fundamentals, role-based and specialty certifications.
+  href: https://aka.ms/traincertposter
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Support for certifications
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: ../help.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Share your certification badges
+  description: Celebrate your accomplishment with your network. Claim your Microsoft Certification badge, and add it to LinkedIn, your résumé, and more.
+  href: ../badges.md

@@ -1,0 +1,88 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate'
+  description: 'Microsoft Dynamics 365 Customer Service Functional Consultants build CX solutions that are fast, agile, and leverage AI to drive actionable insights that anticipate customer needs.'
+uid: certification.d365-functional-consultant-customer-service
+certificationRenewalUid: renewal.d365-functional-consultant-customer-service
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  If you’re a functional consultant responsible for configuring and implementing Dynamics 365 solutions for customers, you can use this certification to shine a light on your skills and to help advance your career. A Dynamics 365 Customer Service functional consultant implements omnichannel solutions that focus on service, quality, reliability, efficiency, and customer satisfaction. As a functional consultant, you know how to work with project managers, developers, and solution architects. You need a minimum of one to three years of experience as a functional consultant implementing Dynamics 365.
+  
+  If you need more experience before you try to earn this certification, here are some suggestions&#58;
+  - Work as a Dynamics 365 functional consultant on one or more projects.
+  - Work on a Dynamics 365 Customer Service implementation.
+  - Join the community at [community.dynamics.com](https://community.dynamics.com/).
+  - Take available learning paths on [Microsoft Learn](/learn/browse/?expanded=dynamics-365&products=dynamics-customer-service&roles=functional-consultant&resource_type=learning%20path).
+  - Complete more hands-on practice.
+  - Sign up for an instructor-led training course.
+subTitle: Microsoft Dynamics 365 Customer Service Functional Consultants build CX solutions that are fast, agile, and leverage AI to drive actionable insights that anticipate customer needs.
+levels:
+- intermediate
+skills:
+- Manage cases and Knowledge Management
+- Manage queues, entitlements, and service-level agreements (SLAs)
+- Implement scheduling
+- Implement Omnichannel for Customer Service
+- Manage analytics
+- Configure Microsoft Dataverse
+- Create apps by using Power Apps
+- Create and manage Power Automate
+- Implement Power Virtual Agents chatbots
+- Integrate Power Apps with other apps and services
+roles:
+- functional-consultant
+type: role-based
+products:
+- dynamics-365
+- dynamics-customer-service
+courses:
+- uid: course.pl-200t00
+- uid: course.mb-230t01
+paths:
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-bizapps.create-business-process-flow
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.get-started-power-automate-buttons
+- uid: learn-bizapps.best-practices-environments
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.create-relationships-business-rules-calculations-and-rollups-in-common-data-service
+- uid: learn-bizapps.work-power-virtual-agents
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.improve-business-performance-ai-builder
+- uid: learn-bizapps.customer-service-hub-cases-slas
+- uid: learn-bizapps.work-with-entitlements-and-slas-dyn365-customer-service
+- uid: learn-bizapps.work-with-knowledge-management-solutions-dyn365-customer-service
+- uid: learn-dynamics.create-surveys
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6G
+exams:
+- uid: exam.pl-200
+- uid: exam.mb-230
+resources:
+- title: Certification poster
+  description: Check out an overview including fundamentals, role-based and specialty certifications for Dynamics 365 and Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Journey to certification
+  description: Explore steps to get certified and the resources available to help you prepare.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ci0e
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://aka.ms/TrainingCertDeck
+- title: Certification learning path
+  description: Recommended training resources to help you prepare for required exams and earn your certification.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Cd87
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Support for certifications
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: ../help.md
+- title: Share your certification badges
+  description: Celebrate your accomplishment with your network. Claim your Microsoft Certification badge, and add it to LinkedIn, your résumé, and more.
+  href: ../badges.md

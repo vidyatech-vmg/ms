@@ -1,0 +1,66 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure IoT Developer Specialty'
+metadata:
+  title: 'Microsoft Certified: Azure IoT Developer Specialty'
+  description: Azure IoT Developers implement the configuration and perform coding tasks required to create and maintain the cloud and edge portions of an IoT solution.
+uid: certification.azure-iot-developer-specialty
+iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
+summary: |-
+  The Azure IoT Developer implements the configuration and performs coding tasks required to create and maintain the cloud and edge portions of an IoT solution. In addition to configuring and maintaining the devices by using cloud services, the IoT Developer also sets up the physical devices. The IoT Developer is responsible for maintaining and troubleshooting the configuration of the devices throughout the life cycle.
+  
+  The IoT Developer implements design specifications for IoT solutions, including device topology, connectivity, diagnostics and monitoring, and security. The IoT Developer develops and deploys modules and configures device networking for the IoT Edge portion of the solution. The IoT Developer implements designs for solutions to manage data pipelines, including monitoring and data transformation as it relates to IoT. The IoT Developer works with the Azure IoT Architect, data engineers and other stakeholders to ensure successful business integration.
+  
+  IoT Developers should have a general understanding of devices types and Azure services, including data storage options, data analysis, data processing, AI, and other Platform-as-a-Service options. IoT Developers must be able to program in at least one Azure IoT SDK-supported language.
+subTitle: Azure IoT Developers develop cloud and edge components of an Azure IoT solution.
+levels:
+- intermediate
+skills:
+- Set up the IoT solution infrastructure 
+- Provision and manage devices 
+- Implement IoT Edge 
+- Implement business integration 
+- Process and manage data 
+- Monitor, troubleshoot, and optimize IoT solutions
+- Implement security
+roles:
+- developer
+type: specialty
+products:
+- azure
+- azure-iot-central
+- azure-iot-hub
+courses:
+- uid: course.az-220t00
+paths:
+- uid: learn.introduction-to-azure-iot
+- uid: learn.securely-connect-iot-devices-to-cloud
+- uid: learn.build-intelligent-edge-with-azure-iot-edge
+- uid: learn-develop-solutions-with-azure-iot-central
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nw1V
+exams:
+- uid: exam.az-220
+resources:
+- title: Azure certifications poster
+  description: Check out an overview including fundamentals, role-based, and specialty certifications for Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Journey to certification
+  description: Explore steps to get certified in Azure IoT Developer Specialty and the resources available to help you prepare.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqz
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://aka.ms/TrainingCertDeck
+- title: Certification poster
+  description: Check out an overview of fundamentals, role-based and specialty certifications.
+  href: https://aka.ms/traincertposter
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Support for certifications
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: ../help.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Share your certification badges
+  description: Celebrate your accomplishment with your network. Claim your Microsoft Certification badge, and add it to LinkedIn, your résumé, and more.
+  href: ../badges.md

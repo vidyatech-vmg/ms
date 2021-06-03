@@ -1,0 +1,70 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Fundamentals (CRM)'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Fundamentals (CRM)'
+  description: 'If you’re familiar with business operations, customer relationship management (CRM), and are IT savvy—either generally or through work experience—take advantage of this certification to highlight those skills. Validate your broad exposure to the customer engagement capabilities of Dynamics 365 to enhance your career journey.'
+uid: certification.d365-fundamentals-customer-engagement-apps-crm
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  If you’re familiar with business operations, customer relationship management (CRM), and are IT savvy—either generally or through work experience—take advantage of this certification to highlight those skills. Validate your broad exposure to the customer engagement capabilities of Dynamics 365 to enhance your career journey.
+  
+  People in different roles and at various stages in their careers can benefit from this fundamentals certification. Here are some examples&#58;
+  - IT professionals who want to show a general understanding of the applications they work with 
+  - Business stakeholders and others who know Dynamics 365 and who want to validate their skills and experience
+  - Developers who want to highlight their understanding of business operations and CRM
+  - Students, recent graduates, and people changing careers who want to make the most of Dynamics 365 customer engagement capabilities to move to the next level
+subTitle: 'If you’re familiar with business operations, customer relationship management (CRM), and are IT savvy—either generally or through work experience—take advantage of this certification to highlight those skills. Validate your broad exposure to the customer engagement capabilities of Dynamics 365 to enhance your career journey.'
+levels:
+- beginner
+skills:
+- Describe Dynamics 365 Marketing 
+- Describe Dynamics 365 Sales 
+- Describe Dynamics 365 Customer Service
+- Describe Dynamics 365 Field Service 
+- Describe Project Operations 
+- Describe shared features
+roles:
+- business-owner
+- business-user
+- functional-consultant
+- student
+type: fundamentals
+products: 
+- dynamics-365
+- dynamics-customer-engagement
+courses:
+- uid: course.mb-910t00
+paths:
+- uid: learn.wwl.explore-microsoft-dynamics-365-marketing
+- uid: learn.wwl.explore-microsoft-dynamics-365-sales
+- uid: learn.wwl.learn-fundamentals-microsoft-dynamics-365-customer-service
+- uid: learn.wwl.learn-fundamentals-microsoft-dynamics-365-field-service
+- uid: learn.wwl.learn-fundamentals-microsoft-dynamics-365-project-operations-crm
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4JIew
+exams:
+- uid: exam.mb-910
+resources:
+- title: Certification poster
+  description: Check out an overview including fundamentals, role-based and specialty certifications for Dynamics 365 and Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Journey to certification
+  description: Explore steps to get certified and the resources available to help you prepare.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAmVj
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://aka.ms/TrainingCertDeck
+- title: Certification learning path
+  description: Recommended training resources to help you prepare for required exams and earn your certification.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAs3I
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Support for certifications
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: ../help.md
+- title: Share your certification badges
+  description: Celebrate your accomplishment with your network. Claim your Microsoft Certification badge, and add it to LinkedIn, your résumé, and more.
+  href: ../badges.md
