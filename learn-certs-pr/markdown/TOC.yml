@@ -1,0 +1,121 @@
+- name: Certifications overview
+  href: index.yml
+- name: Earn a certification
+  expanded: false
+  items:
+  - name: Certification process overview
+    href: certification-process-overview.md
+  - name: Request accommodations
+    href: request-accommodations.md
+  - name: Register and schedule an exam
+    href: register-schedule-exam.md
+  - name: Prepare for an exam
+    href: prepare-exam.md
+  - name: Exam duration and question types
+    href: exam-duration-question-types.md
+  - name: Exam scoring and score reports
+    href: exam-scoring-reports.md
+  - name: Online proctored exams
+    expanded: false
+    items:
+    - name: Introduction and FAQs
+      href: online-exams-intro.md
+    - name: About online exams with Pearson VUE
+      href: online-exams.md
+    - name: About online exams with PSI
+      href: online-exams-psi.md
+  - name: Renew your certification
+    href: renew-your-microsoft-certification.md  
+- name: Manage your certifications
+  expanded: false
+  items:
+  - name: Access your Certification Dashboard
+    href: access-certification-dashboard.md
+  - name: Manage your certification profile
+    href: manage-certification-profile.md
+  - name: Access your certificates, badges, and transcript
+    href: access-certificates-badges-transcript.md
+  - name: Use and share certification badges
+    href: badges.md
+- name: Training and certification news
+  expanded: false
+  items:
+  - name: Social media and Blog
+    href: social-media-blog.md
+  - name: Training and certification in media
+    href: media.md
+  - name: Retirement information
+    expanded: false
+    items:
+    - name: Certification retirement
+      href: retired-certifications.md
+    - name: Exam retirement
+      href: retired-certification-exams.md 
+    - name: Course retirement
+      href: retired-courses.md
+  - name: Moving from Learning to Microsoft Learn
+    href: learnfaq.yml
+- name: Offers
+  href: deals.md
+- name: Program information
+  expanded: false
+  items:
+  - name: Beta exams
+    href: beta-exams.md
+  - name: Exam development
+    href: exam-development.md
+  - name: Certification for students
+    expanded: false
+    items:
+    - name: Student discounts
+      href: student-discounts.md
+    - name: College credit for certification exams
+      href: college-credit.md
+  - name: Policies and agreements
+    expanded: false
+    items:
+    - name: Exam item challenge process
+      href: exam-item-challenge-process.md
+    - name: Exam security policy
+      href: exam-security-policy.md
+    - name: Exam retake policy
+      href: exam-retake-policy.md
+    - name: Exam reschedule and cancellation policy
+      href: exam-reschedule-and-cancellation-policy.md
+    - name: Microsoft Certification Program Agreement
+      href: microsoft-certification-program-agreement.md
+    - name: Microsoft Certification Renewal Non-disclosure Agreement
+      href: microsoft-certification-renewal-non-disclosure-agreement.md
+    - name: Microsoft Exam Non-disclosure Agreement
+      href: microsoft-exam-non-disclosure-agreement.md
+  - name: Microsoft Learning Partners 
+    expanded: false
+    items:
+    - name: Find a Learning Partner
+      href: partners.md
+    - name: Value of Learning Partners
+      href: partners-value.md      
+  - name: Microsoft Certified Trainer
+    href: mct-certification.md
+  - name: Volume licensing
+    href: volume-licensing-program.md
+- name: Certification help
+  expanded: false
+  items:
+  - name: Certification support
+    href: help.md
+  - name: Frequently asked questions
+    href: frequently-asked-questions.md
+  - name: Microsoft Official Courseware (MOC) support
+    href: certification-and-training-help.md
+  - name: Troubleshooting guides
+    expanded: false
+    items:
+    - name: Find your MCID
+      href: find-mcid.md
+    - name: Merge and transfer certification profiles
+      href: merge-profiles.md
+    - name: Vouchers and redeeming discounts
+      href: redeem-discounts.md
+    - name: Aligning accounts between Certification Profile and Learn Profile
+      href: aligning-accounts-between-certification-profile-and-learn-profile.md

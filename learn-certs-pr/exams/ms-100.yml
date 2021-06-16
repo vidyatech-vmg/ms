@@ -6,7 +6,7 @@ metadata:
 uid: exam.ms-100
 displayName: MS-100
 summary: |-
-  <div><font color='red'><strong>The content of this exam will be updated on February 24, 2021. Please download the skills measured document below to see what will be changing.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>The content of this exam will be updated on June 2, 2021. Please download the skills measured document below to see what will be changing.</strong></font><br/><br/></div>
   
   Candidates for this exam are Microsoft 365 Enterprise Administrators who take part in evaluating, planning, migrating, deploying, and managing Microsoft 365 services. They perform Microsoft 365 tenant management tasks for an enterprise, including its identities, security, compliance, and supporting technologies.
 
@@ -14,7 +14,7 @@ summary: |-
 subTitle: 'This exam measures your ability to accomplish the following technical tasks: design and implement Microsoft 365 services; manage user identity and roles; manage access and authentication; and plan Office 365 workloads and applications.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVE
-practiceTestUrl: https://us.mindhub.com/p/MU-MS-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+practiceTestUrl: https://www.mindhub.com/p/MU-MS-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MS-100&examname=Exam%20MS-100:%20Microsoft%20365%20Identity%20and%20Services&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-100
 locales:
 - en
@@ -22,11 +22,11 @@ locales:
 levels:
 - advanced
 skills:
-- The content of this exam will be updated on February 24, 2021. Please download the exam skills outline below to see what will be changing.
+- The content of this exam will be updated on June 2, 2021. Please download the exam skills outline below to see what will be changing.
 - Design and implement Microsoft 365 services (25-30%)
-- Manage user identity and roles (35-40%)
-- Manage access and authentication (20-25%)
-- Plan Office 365 workloads and applications (10-15%)
+- Manage user identity and roles (25-30%)
+- Manage access and authentication (15-20%)
+- Plan Office 365 workloads and applications (25-30%)
 roles:
 - administrator
 products:
@@ -49,10 +49,10 @@ relatedCertifications:
 resources:
 - title: Training and certification guide
   description: Explore all certifications in a concise training and certifications guide.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certification poster
   description: Check out an overview of fundamentals, role-based and specialty certifications.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: See two great offers to help boost your odds of success.
   href: ../deals.md
